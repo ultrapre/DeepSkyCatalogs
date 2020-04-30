@@ -1,0 +1,112 @@
+VII/163    A Catalogue of Galactic Supernovae Remnants (Green 1994)
+================================================================================
+A Catalogue of Galactic Supernovae Remnants
+   Green, D.A.
+  <in Proc. IAU Colloq. 145, "Supernovae and Supernovae Remnants",
+   held May 22-29 1993, in Xian, China,
+   Eds. McCray, R., and Wang, Z., Camb. Univ. Press (1994)>
+================================================================================
+ADC_Keywords:  Supernova remnants - 970 ; Milky Way - 395,
+               Nonstellar objects - 430
+--------------------------------------------------------------------------------
+
+Abstract:
+    This catalog lists all galactic supernova remnants known and is an
+    updated version of the catalogues of Galactic SNRs presented in detail
+    in Green (1984, MN, 209, 449; 1988, ApSS, 148, 3) and in summary form
+    in Green (1991, PASP, 103, 209). The basic parameters of the 182 SNRs
+    included in this (1993 May) version of the catalogue are, for each
+    SNR, its Galactic coordinates, RA and Dec (B1950.0), angular size (in
+    arcmin), type, flux density at 1 GHz, spectral index, and any other
+    names. Notes on these parameters, on possible remnants not included
+    and questionable SNRs listed in the catalogue are given in the
+    documentation. It should be noted that there are serious selection
+    effects which apply to the identification of Galactic SNRs (see Green
+    1991), so that great care should be taken if these data are used in
+    statistical studies.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl Records  Explanations
+--------------------------------------------------------------------------------
+ReadMe        80        .    This file
+catalog       87      182    *Supernovae remnants catalog
+snrs.doc      79      365    Documentation to the catalog
+--------------------------------------------------------------------------------
+Notes on catalog:
+ The 8 new remnants added to the catalogue since Green (1991) are:
+   G59.5+0.1, G67.7+1.8 and G84.9+0.5:
+        Taylor, Wallace & Goss                          =1992AJ....103..931T
+   G156.2+5.7: Pfeffermann, Aschenbach & Predehl        =1991A&A...246L..28P
+   G318.9+0.4: Whiteoak                                 =1990Natur.347..157W
+   G322.5-0.1: Whiteoak                                 =1992MNRAS.256..121W
+   G343.1-2.3: McAdam, Osborne & Parkinson              =1993Natur.361..516M
+   G348.5-0.0: Kassim, Baum & Weiler                    =1991ApJ...374..212K
+ Also note that G308.7+0.0 has been renamed G308.8-0.1
+        Caswell et al.                                  =1992ApJ...399L.151C
+--------------------------------------------------------------------------------
+
+Byte-per-byte description of file: catalog
+--------------------------------------------------------------------------------
+ Bytes Format Units Label    Explanation
+--------------------------------------------------------------------------------
+  2- 6 F5.1     deg GLON     *Galactic longitude l
+  9-13 F5.1     deg GLAT     *Galactic latitude b
+ 15-16   I2       h RAh      *Right Ascension B1950 hours
+ 18-19   I2     min RAm      *Right Ascension B1950 minutes
+ 21-22   I2       s RAs      *Right Ascension B1950 seconds
+ 25      A1     --- DE-      *Declination sign
+ 26-27   I2     deg DEd      *Declination B1950 degrees
+ 29-30   I2  arcmin DEm      *Declination B1950 arcminutes
+ 33-39   A7 arcmin2 Ang_Size [0-9.x? ] Angular Size of remnant
+ 43-44   A2     --- type     *[CFS? ] Type of remnant
+ 47-51   A5      Jy F(1GHz)  *[0-9.? ] Flux Density at 1 GHx
+ 54-59   A6     --- SpIndx   [0-9.?varies ] Spectral Index of
+                                 integrated radio emission
+ 62-87  A26     --- note     Notes to the source
+--------------------------------------------------------------------------------
+Note on GLON, GLAT:
+  Galactic Coordinates are the source centroid quoted to the nearest
+  tenth of a degree.
+Note on RAh, RAm, RAs, DE-, DEd, DEm:
+  The accuracy of the quoted values depends on the size of the
+  remnant. For small remnants they are to the nearest few seconds of
+  time and the nearest minute of arc for RA and DEC respectively. For
+  the larger remnants they are rounded to coarser values. They are in
+  every case sufficient to specify a point within the boundaries of the
+  remnant. These coordinates are deduced from radio maps rather than
+  from X-ray or optical observations, and are B1950.0.
+Note on F(1GHz):
+  The flux density of the remnant at !GHz in Jansky. This is not a
+  measured value, but that deduced from the observed radio frequency
+  spectrum of the source. The frequency of 1GHz is chosen because flux
+  density measurements at frequencies both above and below this value
+  are usually available.
+Note on type:
+  S  remnant shows a shell
+  F  remnant shows a filled center
+  C  remnant shows a composite or combination radiostructure
+  S?, C?, F? if there is some uncertainty
+  ?  object is conventionally considered a SNR although its nature is
+     poorly known or not well understood.
+--------------------------------------------------------------------------------
+
+Validation, Updates and Modifications:
+  (cosmetic revision at CDS)
+
+Notice:
+  The files are also available by anonymous ftp:
+    ftp.ra.phy.cam.ac.uk or 131.111.48.8
+  or on the World-Wide-Web:
+    http://cast0.ast.cam.ac.uk/MRAO/snrs.intro.html
+
+References:
+ Green, D.A., MNRAS, 209, 449 (1984)                    =1984MNRAS.209..449G
+ Green, D.A., ApSS, 148, 3, (1988)                      =1988Ap&SS.148....3G
+ Green, D.A., PASP, 103, 209 (1991)A                    =1991PASP..103..209G
+
+================================================================================
+ CDS documentation standard modified with notes (referenced by a *)
+ F. Ochsenbein (1993) URL ftp://cdsarc.u-strasbg.fr/pub/cats/docs.tex
+================================================================================
+(End) N. Paul M. Kuin                               [NASA/NSSDC/ADC]  1994-05-31

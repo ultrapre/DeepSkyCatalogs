@@ -1,0 +1,462 @@
+VII/172            First Byurakan Survey (FBS)    (Markarian+, 1989)
+================================================================================
+The First Byurakan Survey. A catalogue of galaxies with UV-continuum
+     Markarian B.E., Lipovetsky V.A., Stepanian J.A., Erastova L.K.,
+     Shapovalova A.I.
+    <Comm. SAO (USSR) 62 (1989)>
+    =1989SoSAO..62....5M
+================================================================================
+ADC_Keywords: Galaxies, Markarian; Galaxies, UV-excess
+
+Abstract:
+   A Catalogue of galaxies with UV-continuum (Markarian galaxies) detected
+   during the First Byurakan Survey (FBS) is presented. The purpose of the
+   Survey was to search for peculiar faint extragalactic objects with
+   UV-excess radiation and to study them. The procedure of observations
+   and processings, the Survey areas, the object selection and
+   classification criteria and also several selection effects are
+   described. The Catalogue contains the following initial data on all
+   the objects: the precise coordinates, visual magnitudes, angular
+   sizes, redshifts and classification types. The observational results
+   of slit spectra, UBV-photometry, IR-photometry (IRAS data), morphology
+   and some other data are also included into the Catalogue. While
+   compiling the Catalogue the authors introduced some necessary
+   corrections in the data of the earlier published lists on galaxies
+   with UV-continuum. In addition we included the objects with
+   numbers 1501-1515. In most cases they are well-known Seyfert galaxies
+   omitted by the authors in the lists, but detected on the plates.
+   41 objects from our lists are not included into the Catalogue, since
+   they are either stars of our Galaxy or star projections on the
+   galaxies. The Catalogue presents the largest homogeneous sample of
+   AGN of different types on the northern sky for bright objects (<16.0).
+   Up to the middle of 1987 the redshifts were measured for 1459 out of
+   1469 objects of the Catalogue.
+
+
+File Summary:
+--------------------------------------------------------------------------------
+  FileName      Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe             80        .   This file
+descrip.doc        76     1177   Description of the FBS
+table7.dat        140     1469   The FBS Catalogue of Markarian galaxies
+notes.dat          88       39  *Comments on table7
+table6.dat         68       48  *Deleted Survey objects
+table8.dat         62      818   Common names
+table9.dat         20     1549   Finding list of common names
+table10.dat        13     1517   FBS objects by number
+refs.dat           80      195   Reference codes
+--------------------------------------------------------------------------------
+Note on table6: Mrk514 added by H.Andernach, Mar 92
+Note on notes.dat: The data on Markarian galaxy components, which are
+   also galaxies with UV-continuum and which are described in original
+   lists as two objects with one and the same number, are presented
+   in this file. As a rule, the second component has a weaker
+   UV-continuum and is weaker itself.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table7.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4  I4     ---     Mrk      [1/1515]+ Markarian designation number
+   7-  8  I2     h       RAh      Right ascension 1950.0
+  10- 11  I2     min     RAm      Right ascension 1950.0
+  13- 16  F4.1   s       RAs      Right ascension 1950.0
+      19  A1     ---     DE-      Declination sign
+  20- 21  I2     deg     DEd      Declination 1950.0
+  23- 24  I2     arcmin  DEm      Declination 1950.0
+  26- 27  I2     arcsec  DEs      Declination 1950.0
+  31- 36  F6.4   ---     z0       []? Redshifht corrected for Galaxy rotation
+                                   (the rotation constant is Q=300km/s)
+  40- 43  F4.1   mag     Mag      Apparent magnitude from the CGCG
+      44  A1     ---   n_Mag      [*] An '*' indicates that there were no value
+                                   in CGCG and that the magnitude given is the
+                                   original estimates of the authors
+  47- 51  F5.1   mag     Mabs     []? Absolute magnitude
+  54- 58  A5     ---     Sp       Spectral type
+  59- 61  I3     arcsec  MajDiam  []? Major axis diameter
+      62  A1     ---   n_MajDiam  Multiplicative symbol for angular size
+  63- 64  I2     arcsec  MinDiam  []? Minor axis diameter
+  67- 69  I3     ---   r_z0       []? Redshift reference (See "refs" file)
+      70  A1     ---   n_Mrk      [*] A '*' indicates the double object having
+                                   the same number in the original list; there
+                                   is more detailed information about the second
+                                   component in the "notes.dat" file
+  72- 79  A8     ---     MType    Morphological type. In some cases, the
+                                   description "dbl" is used for close binaries
+  80- 84  A5     ---     Stype    Spectrum type (1)
+  86- 88  I3     arcsec  Ddia     []? Diaphragm size. When the are several
+                                   diaphragms, the largest one is presented
+  91- 95  F5.2   mag     Vmag     []? Vmagnitude
+  98-101  F4.2   mag     B-V      []? B-V colour index
+ 103-107  F5.2   mag     U-B      []? U-B colour index
+ 109-111  I3     ---   r_Vmag     []? References for UBV photometry
+                                       (See "refs" file)
+     113  A1     ---     Var      [v] A 'v' indicates optical variability
+ 115-118  F4.2   Jy      F12um    []? IRAS flux at 12 {mu}m (2)
+     120  A1     ---   l_F25um    [<] Limit flag on F25um
+ 121-125  F5.2   Jy      F25um    []? IRAS flux at 25 {mu}m (2)
+     126  A1     ---   l_F60um    [<] Limit flag on F60um
+ 127-132  F6.2   Jy      F60um    []? IRAS flux at 60 {mu}m (2)
+     134  A1     ---   l_F100um   [<] Limit flag on F100um
+ 135-140  F6.2   Jy      F100um   []? IRAS flux at 100 {mu}m (2)
+--------------------------------------------------------------------------------
+Note (1): Spectrum type:
+            Sy1-Sy2 - Sy galaxy of the corresponding type
+            Sy3     - LINER
+            QSO     - quasar
+            BL      - lacertides
+            SB      - star-burst galaxies
+            HII     - extragalactic HII region
+            e       - emission spectrum galaxy
+            a       - absorption spectrum galaxy
+     The two last notations have  been   used   when   there   was   no
+      necessary information about their spectra.
+Note (2): IRAS version 1
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: notes.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  4  I4    ---     Mrk       [1/1515]+= Markarian designation number
+   7- 11  A5    ---     Sp2       Spectral type
+  14- 17  F4.1  mag     Mag2      ? Magnitude of secondary
+  21- 26  F6.4  ---     z2        ? Redshift of secondary
+  28- 90  A63   ---     Text      Oext of note
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table6.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4  I4     ---     Name     Mrk galaxy number
+   7-  8  I2     h       RAh      Right ascension 1950.0
+  10- 11  I2     min     RAm      Right ascension 1950.0
+  13- 16  F4.1   s       RAs      Right ascension 1950.0
+      19  A1     ---     DE-      Declination sign
+  20- 21  I2     deg     DEd      Declination 1950.0
+  23- 24  I2     arcmin  DEm      Declination 1950.0
+  26- 27  I2     arcsec  DEs      Declination 1950.0
+  31- 34  F4.1   mag     Mobs     Observed magnitude from the CGCG
+      35  A1     ---   n_Mobs     [*] An '*' indicates that there were no value
+                                     in CGCG and that the magnitude given is the
+                                     original estimates of the authors
+  37- 41  A5     ---     Sp       Spectral type
+  43- 44  I2     ---     Nref     []? Reference number (See "refs" file)
+  48- 69  A22    ---     Spect.   Spectrum
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table8.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4  I4     ---     Mrk      [1/1515]+ Markarian galaxy number
+   7- 62  A56    ---     Name     Other names
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table9.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1- 15  A15    ---     Name     Galaxy name (1)
+  17- 20  I4     ---     Mrk      Markarian galaxy designation
+--------------------------------------------------------------------------------
+Note (1):
+          CG:  Case
+           I:  IC
+         KUG:  Kiso
+           N:  NGC
+           U:  UCG
+        I Zw:  Zw
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table10.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4  I4     ---     Mrk      [1/1515]+= Markarian designation number
+   7- 13  A7     ---     Name     Name composed with HHMM+DD (hours and minutes
+                                   of RA 1950, degrees of DE 1950).
+                                   This name is not unique among FBS galaxies
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: refs.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  3  I3     ---     Nref     [1/108]+= Reference number
+   5- 80  A76    ---     Ref      References
+--------------------------------------------------------------------------------
+
+Historical notes:
+  * 28-Aug-1994: The catalogue was provided by courtesy of V.Lipovetskii
+    to H.Andernach; it was numbered A138 in H. Andernach's "List of
+    Astronomical Catalogues and Documents kindly provided on request by
+    various authors". The documentation was written by Koichi Nakajima
+    (CDS, and Japanese Data Centre)
+  * 23-Jan-1995: documentation standardized by Patricia Bauer [CDS]
+  * 20-Cot-1997: file refs.dat rewritten by Francois Ochsenbein [CDS]
+
+References:
+   Afanasiev V. L., Denisyuk E. K., Lipovetsky V. A.: 1979, Pis'ma Astron.
+      Zh., 5, 271.
+   Afanasiev V. L., Lipovetsky V. A., Markarian B. E., Stepanian J. A.:
+      1980, Astrofizika, 16, 193.
+   Arakelian M. A.: 1975, Soobshch. Byurak. Astrofiz. Obs., 47, 1.
+   Arakelian M. A., Dibaj E. A., Esipov V. F.: 1970a, Astrofizika, 6, 39.
+   Arakelian M. A., Dibaj E. A., Esipov V. F., Markarian B. E.: 1970b,
+      Astrofizika, 6, 357.
+   Arakelian M. A., Dibaj E. A., Esipov V. F., Markarian B. E.: 1971,
+      Astrofizika, 7, 177.
+   Arakelian M. A., Dibaj E. A., Esipov V. F.: 1972a, Astrofizika, 8, 33.
+   Arakelian M. A., Dibaj E. A., Esipov V. F.: 1972b, Astrofizika, 8, 177.
+   Arakelian M. A., Dibaj E. A., Esipov V. F.: 1972c, Astrofizika, 8, 329.
+   Arakelian M. A., Dibaj E. A., Lyutyi V. M.: 1972d, Astrofizika, 8, 473.
+   Arakelian M. A., Dibaj E. A., Esipov V. F.: 1973a, Astrofizika, 9, 319.
+   Arakelian M. A., Dibaj E. A., Esipov V. F.: 1973b, Astrofizika, 9, 325.
+   Arakelian M. A., Dibaj E. A., Esipov V. F.: 1975, Astrofizika, 11, 15.
+   Arakelian M. A., Dibay E. A., Esipov V. F.: 1976a, Astrofizika, 12,683.
+   Arakelian M. A., Dibaj E. A., Esipov V. F.: 1976b, Astrofizika, 12,195.
+   Arp H.: 1966, Astrophys. J. Suppl., 14, 1.
+   Augarde R., Figon P., Kunth D., Sevre F.: 1987, Astron. Astrophys.,
+      185, 4.
+   Barbieri C., Benvenuti P.,: 1974, Astron. Astrophys. Suppl., 13, 269.
+   Beers T. C., Geller M. J., Huchra J. P., Latham D. W., Davis R. J.:
+      1984,  Astrophys. J., 283, 33.
+   Berger J., Fringaut A.-M.: 1977, Astron. Astrophys. Suppl. 28, 123.
+   Berger J., Fringaut A.-M.: 1980, Astron. Astrophys. Suppl., 39, 39.
+   Berger J., Fringaut A.-M.: 1984, Astron. Astrophys. Suppl., 58, 565.
+   Botinelli L., Heidmann J., Gouguenheim L.: 1975a, Astron. Astrophys.,
+      22, No. 2, 281.
+   Botinelli L., Duflot R., Gouguenheim L., Heidmann J.: 1975b,
+      Astron. Astrophys., 41, 61.
+   Bothun G. D., Schommer R. A.: 1979, Astrophys. J., 255, L23.
+   Bothun G. D., Geller M. J., Beers T. C., Huchra J. P.: 1983, Astrophys.
+      J., 268, 47.
+   Braccesi A., Lynds R., Sandage A.: 1968, Astrophys. J., 152, l105.
+   Braccesi A., Formiggini L., Gandolfi E.: 1970, Astron. Astrophys.,
+      5, 264.
+   Carozzi A., Chopinet M.: 1971, Comptes Rendus, 273, No. 3, B151.
+   Chavira E.: 1958, Bol. Obs. Tonantzintla y Tacubaya, 2, No. 17, 15.
+   Chavira E.: 1959, Bol. Obs. Tonantzintla y Tacubaya, No. 18, 3.
+   Chincarini G., Rood H. J.: 1972a, Astron. J., 77, 4.
+   Chincarini G., Rood H. J.: 1972b, Astron. J., 77, 448.
+   Geller M. G., Beers T. C., Bothun G. D., Huchra J. P.: 1984,
+      Astron. J., 89, 319.
+   Grenshow D. M., Peterson B. M., Foltz C. B., Byard P. L.: 1982, Publ.
+      Astron. Soc. Pacif, 94, 16.
+   Demin V. V., Dibay E. A., Tomov A. N.: 1981, Astron. Zh.,58, 925.
+   Denisyuk E. K.: 1971a, Astron. Cirk. No. 615.
+   Denisyuk E. K.: 1971b, Astron. Cirk. No. 621.
+   Denisyuk E. K.: 1971c, Astron. Cirk. No. 624.
+   Denisyuk E. K.: 1973, Astron. Cirk. No. 759.
+   Denisyuk E. K., Lipovetsky V. A. 1973, Astron. Cirk. No. 798.
+   Denisyuk E. K., Lipovetsky V. A. 1974, Astrofizika, 10, 315.
+   Denisyuk E. K. 1974a, Astron. Cirk. No. 809.
+   Denisyuk E. K. 1974b, Astron. Cirk. No. 809.
+   Denisyuk E. K., Babkin I. G., Sinyaeva N. W. 1974, Astron. Cirk.
+      No. 837
+   Denisyuk E. K., Lipovetsky V. A., Afanasiev V. L. 1976, Astrofizika,
+      12, 665.
+   Denisyuk E. K., Lipovetsky V. A.: 1977, Pis'ma Astron. Zh, 3, 7.
+   Denisyuk E. K., Lipovetsky V. A.: 1983, Astrofizika, 19, 229.
+   Denisyuk E. K., Lipovetsky V. A.: 1984, Astrofizika, 20, 525.
+   Denisyuk E. K., Lipovetsky V. A.: 1988, Astrofizika (in press).
+   Dennefeld M., Sevre F.: 1984, Astron. Astrophys. Suppl., 57, 253.
+   Dibay E. A.: 1970, Astrofisika, 6, 350.
+   Dibay E. A., Doroshenko V. T., Postnov K. A.: 1981, Pis'ma Astron.
+      Zh., 7, 527.
+   Dibay E. A., Doroshenko V. T., Postnov K. A.: 1984, Astron. Zh., 61, 1.
+   Doroshenko V. T., Terebizh V. Yu.: 1975, Astrofizika, 11, 631.
+   Doroshenko V. T., Terebizh V. Yu.: 1979, Pis'ma Astron. Zh., 5, 571.
+   Doroshenko V. T., Terebizh V. Yu.: 1981, Astrofizika, 17, 667.
+   Du Puy D. L.: 1968, Publ. Astron. Soc. Pacific, 80, 29.
+   Du Puy D. L.: 1970, Astron. J., 75, 1143.
+   Erastova L. K., Lipovetsky V. A., Stepanian J. A., Shapovalova. A. I.:
+      1988, Astrofizika, (in press).
+   Foltz C. B., Peterson B. M., Boroson T. A.: 1980, Astron. J., 85, 1328.
+   Green R. E., Schmidt M., Liebert J. W.: 1986, Astrophys. J. Suppl.,
+      61, 305.
+   Haro G.: 1956, Bol. Tonantzintla y Tacubaya, 14, 8.
+   Haro G., Luyten W. J.: 1962, Bol. Obs. Tonantzintla y Tacubaya, 3,
+      No. 22, 37.
+   Hiltner W. A., Iriarte B.: 1958, Astrophys. J. 128, 443.
+   Hoag A. A.: 1976, Publ. Astron. Soc. Pasific, 88, 860.
+   Holmberg e.: 1937. Lund. Ann., 6, 1.
+   Huchra J. P.: 1976, Astron. J., 81, 952.
+   Huchra J. P.: 1977, private communication.
+   Huchra J. P.: 1977, Astrophys. J. Suppl. Ser., 35, 171.
+   Huchra J. A., Davis M., Latham D., Tonry J.: 1983, Astrophys. J.
+      Suppl. Ser., 52, 89.
+   Hutter D. J., Mufson S. L.: 1981, Astron. J., 86, 1585.
+   Humason M. L., Zwicky F.: 1947, Astrophys. J., 105, 55.
+   Humason M. L., Mayall N. U., Sandage A. R.: 1956, Astron. J., 61, 97.
+   Iriarte B., Chavira E.: 1957, Bol. Obs. Tonantzintla y Tacubaya, 2,
+      No. 16, 3.
+   Karachentsev I. D.: 1972, Soobshch. Special. Astrofiz. Obs., 7, 1.
+   Karachentsev I. D.: 1981, Pis'ma Astron. Zh., 7, 3.
+   Karachentsev I. D.: Karachentseva W. E.: 1981, Astrofizika, 17, 5.
+   Karachentsev I. D.: Pronik V. I., Chuvaev K. K.: 1975a, Astron.
+      Astrophys., 41, 375.
+   Karachencev I. D., Pronik V. I.: Chuvaev K. K.: 1975b, Astron.
+      Astrophys., 44, 1.
+   Karachentseva V. E.: 1973, Soobshch. Special. Astrofiz. Obs. 8, 1.
+   Karachentseva V. E., Karachentsev I. D., Shcherbanovsky A. L.: 1979,
+      Astrofiz. Issled. (Izv. SAO AS USSR), 11, 3.
+   Keel W. C., Weedman D. W.: 1978, Astron. J., 83, 1.
+   Kinman T. D.: 1983, Mon. Not. Roy. Astron. Soc. 202, 53.
+   Kinman T. D., Hintzen P.: 1981, Publ. Astron. Soc. Pasific,  93, 405.
+   Khachikian E. Ye., Weedman D. W.: 1974, Astrophys. J., 192, 581.
+   Kojoian G., Elliot R., Tovmassian H. M.: 1978, Astron. J., 83, 1545.
+   Kojoian G., Elliot R., Tovmassian H. M.: 1981a, Astron. J., 86, 811.
+   Kojoian G., Elliot R., Bicay M. D.: 1981b, Astron. J., 86, 816.
+   Kojoian G., Chute P. A., Aumann C. E.: 1984, 89, Astron. J., 89, 332.
+   Kollatschny W., Biermann P., Fricke K. J., Huchtmeir W., Witzel A.:
+      1983, Astron. Astrophys., 119, 80.
+   Kopilov I. M., Lipovetsky V. A., Pronik V. I., Chuaev K. K.: 1974,
+      Astrofizika, 10, 483.
+   Kopilov I. M., Lipovetsky V. A., Pronik V. I., Cuvaev K. K.: 1976,
+      Astrofizika, 12, 189.
+   Lipovetsky V. A.: 1986, Thesis, Nizhnij Arkhyz.
+   Lipovetsky V. A.: 1987, Soobshch. Special Astrofiz. Obs., 53, 47.
+   Lipovetsky V. A., Markarian B. E., Stepanian J. A.: 1987, in:
+      Observational evidence of activity in galaxies, IAU Symposium
+      No. 121, 17, Reidel Com. Dordrecht.
+   Luyten W. J.,: 1955-1969. Minneapolis: Univ. of Minnesota Obs.
+   MacAlpine G. M., Smith S. B., Lewis D. W.: 1977a, Astrophys. J.
+      Suppl., 34, 95.
+   MacAlpine G. M., Smith S. B., Lewis D. W.: 1977b, Astrophys. J.
+      Suppl., 35, 197.
+   MacAlpine G. M., Lewis D. W., Smith S. B. 1977c, Astrophys. J.
+      Suppl., 35, 203;
+   MacAlpine G. M.,  Lewis D. W.: 1978, Astrophys. J. Suppl., 36, 587.
+   MacAlpine G.M., Williams G.A.: 1981, Astrophys. J. Suppl., 45, 113.
+   Markarian B. E.: 1963, Soobshch. Byurak. Obs., 34, 3.
+   Markarian B. E.: 1967, Astrofizika, 3, 55.
+   Markarian B. E.: 1968, in: Non-stable phenomena in galaxies,
+      IAU Symposium No. 29, Publishing House of the Academy of Sciences
+      of Armenian SSR, Yerevan.
+   Markarian B. E.: 1969a, Astrofizika, 5, 443.
+   Markarian B. E.: 1969b, Astrofizika, 5, 581.
+   Markarian B. E., Lipovetsky V. A.: 1971, Astrofizika, 7, 511.
+   Markarian B. E., Lipovetsky V. A.: 1972, Astrofizika, 8, 155.
+   Markarian B. E., Lipovetsky V. A.: 1973, Astrofizika, 9, 487.
+   Markarian B. E., Lipovetsky V. A.: 1974, Astrofizika, 10, 307.
+   Markarian B. E., Lipovetsky V. A.: 1976a, Astrofizika, 12, 389.
+   Markarian B. E., Lipovetsky V. A.: 1976b, Astrofizika, 12, 657.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1977a, Astrofizika,
+      13, 225.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1977b, Astrofizika,
+      13, 397.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1979a, Astrofizika,
+      15, 201.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1979b, Astrofizika,
+      15, 363.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1979c, Astrofizika,
+      15, 549.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1980a, Astrofizika,
+      16, 5.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1980b, Astrofizika,
+      16, 609.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1981, Astrofizika,
+      17, 619.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1983a, Astrofizika,
+      19, 29.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1983b, Astrofizika,
+      19, 221.
+   Markarian B. E., Lipovetsky V. A., Stepanian J. A.: 1984a, Astrofizika,
+      21, 419.
+   Markarian B. E., Erastova L. K., Lipovetsky V. A., Stepanian J. A.,
+      Shapovalova A. I.: 1985a, Astrofizika, 22, 215.
+   Markarian B. E., Stepanian J. A., Erastova L. K.: 1985b, Astrofizika,
+      23, 439.
+   Markarian B. E., Stepanian J. A., Erastova L. K.: 1986, Astrofizika,
+      25, 345.
+   Markarian B. E., Erastova L. K., Lipovetsky V. A., Stepanian J. A.,
+      Shapovalova A. I.: 1988a, Astrofizika, 28, 27.
+   Markarian B. E., Erastova L. K., Lipovetsky V. A., Stepanian J. A.,
+      Shapovalova A. I.: 1988b, Astrofizika, 28, 476.
+   Markarian B. E., Stepanian J. A.: 1983, Astrofizika, 19, 639.
+   Markarian B. E., Stepanian J. A.: 1984a, Astrofizika, 20, 21.
+   Markarian B. E., Stepanian J. A.: 1984b, Astrofizika, 20, 513.
+   Mcgimsey B. Q., Miller H. R.: 1978, Astrophys. J., 219, 387.
+   Mazzarella J. M., Balzano V. A.: 1986, Astrophys. J. Suppl. 62,
+      751.
+   Neizvestny S. I.: 1986, Soobshch. Special Astrofiz. Obs., 51, 5.
+   Nilson P.,: 1973. Uppsala Astron. Obs. Ann., 6.
+   Osterbrock D. E.: 1978, Publ. Astron. Soc. Pacific, 90, 493.
+   Osterbrock D. E.: 1981, Astrophys. J., 249, 462.
+   Osterbrock D. E., Dahari: 1983, Astrophys. J., 273, 478.
+   Pesch P., Sanduleak N.: 1983, Astrophys. J. Suppl., 51, 171.
+   Pesch P., Sanduleak N.: 1986, Astrophys. J. Suppl., 60, 543.
+   Peterson S. D.: 1973, Astron. J., 78, 811.
+   Peterson B. M., Fricke K., Biermann P.: 1981, Publ. Astron. Soc.
+      Pacific, 93, 281.
+   Petrosian A. R.: 1983, Astron. Cirk. No. 1266.
+   Petrosian A. R., Sahakian K. A., Khachikian E. E.: 1979, Astrofizika,
+      15, 373.
+   Rudnick L., Owen F. N.: 1976, Astrophys. J., 203, L107.
+   Sanduleak N., Pesch P.: 1984, Astrophys. J. Suppl., 55, 517.
+   Sanduleak N., Pesch P.: 1987, Astrophys. J. Suppl., 63, 709.
+   Sargent W. L. W.: 1970a, Astrophys. J., 159, 765.
+   Sargent W. L. W.: 1970b, Astrophys. J., 160, 405.
+   Sargent W. L. W.: 1972, Astrophys. J., 173, 7.
+   Sargent W. L. W., Huchra J. P.: 1973, Astrophys. J., 186, 433.
+   Seyfert K. G.: 1943, Astrophys. J., 97, 28.
+   Shuder J. M., Osterbrock D. E.: 1981, Astrophys. J., 250, 55.
+   Smith M. G.: 1975, Astrophys. J., 202, 591.
+   Smith M. G., Aguirre C., Zemelman M.: 1976, Astrophys. J. Suppl.,
+      32, 217.
+   Stein W. A., Weedman D. W.,: 1976, Astrophys. J., 205, 44.
+   Stepanian J. A., Lipovetsky V. A., Erastova L. K.: 1987, Astrofizika,
+      (in press).
+   Takase B., Miyauchi-Isobe N.: 1984, Ann. Tokyo Astron. Obs., Second
+      Ser.,: 19, 595.
+   Takase B., Miyauchi-Isobe N.: 1985a, Ann. Tokyo Astron. Obs., Second
+      Ser., 20, 237.
+   Takase B., Miyauchi-Isobe N.: 1985b, Ann. Tokyo Astron. Obs., Second
+      Ser., 20, 335.
+   Takase B., Miyauchi-Isobe N.: 1986a, Ann. Tokyo Astron. Obs., Second
+      Ser., 21, 127.
+   Takase B., Miyauchi-Isobe N.: 1986b, Ann. Tokyo Astron. Obs., Second
+      Ser., 21, 181.
+   Takase B., Miyauchi-Isobe N.: 1987a, Ann. Tokyo Astron. Obs., Second
+      Ser., 21, 251.
+   Takase B., Miyauchi-Isobe N.: 1987b, Ann. Tokyo Astron. Obs., Second
+      Ser., 21, 363.
+   Ulrich M.-H., Kinman T. D., Lynds C. R., Ricke G. H., Ekers R. D.:
+      1974, Astrophys. J., 198, 261.
+   Ulrich M.-H.: 1971, Astrophys. J., 163, 441.
+   Ulrich M.-H.: 1978, Astrophys. J. Lettr., 222, L3.
+   Vaucouleurs G. de: 1961, Astrophys. J. Suppl., 5, 233.
+   Vaucouleurs G. de, Vaucouleurs A. de: 1972, Mem.Roy.Astron.Soc., 77, 1.
+   Vaucouleurs G. de, Vaucouleurs A. de, Corwin H. J. Jr.: 1976, Second
+      Reference Catalogue of bright galaxies, Univ. of Texas Press,
+      Austin and London.
+   Vaucouleurs A. de, Vaucouleurs G. de: 1967, Astron. J., 72, 730.
+   Veron-Cetty M. P.,: 1984a, ESO Sci. Prep., No. 330, 1.
+   Veron-Cetty M. P.: 1984b, Astron. Astrophys. Suppl., 58, 665.
+   Veron-Cetty M. P., Veron P.,: 1985 ESO Sci. Report, No. 4, A Catalogue
+      of quasars and active nuclei.
+   Veron-Cetti M. P., Veron P.: 1987, ESO Sci. Report, No. 5, A Catalogue
+      of quasars and active nuclei.
+   Vorontsov-Velyaminov V. A.: 1959, Atlas and Catalogue of interacting
+      galaxies, Moskow, Sternberg Institute.
+   Wasilewski A. J.: 1983. Astrophys. J., 272, 89.
+   Weedman D. W.: 1973, Astrophys. J., 183, 29.
+   Weedman D. W.: 1977, Ann. Rev. Astron. Astrophys., 15, 69.
+   Weedman D. W., Khachikhian E. Ye.: 1968, Astrofizika, 4, 587.
+   Weedman D., Khachikhian E. Je.: 1969, Astrofizika, 5, 113.
+   Weedman D., Khachikhian E. Je.: 1971, Astrofizika, 7, 389.
+   Wills D., Wills B. J.: 1974, Mon. Not. Roy. Astron. Soc, 167, 79p.
+   Zwicky F., Humason M. L.,: 1964, Astrophys. J., 139, 269.
+   Zwicky F.: 1971, Catalogue of selected compact galaxies and
+      post-eruptive galaxies. Zuerich, Switzerland.
+   Zwicky F., Herzog E., Wild P., Karpovicz M., Kowal C. T.: 1961-1968.
+      Catalogue of galaxies and cluster of galaxies, vv. 1-6.
+      Calif. Inst. of Technology, Pasadena.
+
+================================================================================
+(End)                    Patricia Bauer, Francois Ochsenbein [CDS]   20-Oct-1997

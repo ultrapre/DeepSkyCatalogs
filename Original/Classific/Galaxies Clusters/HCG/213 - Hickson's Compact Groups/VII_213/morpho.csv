@@ -1,0 +1,211 @@
+﻿HCG,m_HCG,RVhel,MType,Comments
+1,a,10237,Sc,Tidal arm (I)
+1,b,10266,Im,Tidal arm (I)
+2,a,4326,SBd,Disturbed morpho tail-like possibly IR (I)
+2,b,4366,cI,Disturbed morpho-IR (I)
+2,c,4235,SBc,Disturbed morpho (I)
+4,a,8097,Sc,IR
+4,c,8863,E2,Disturbed morpho (M?)
+4,d,8215,E4,Disturbed morpho-emission-too blue (M)
+5,a,12147,Sab,Distorted spiral arm-interacting with b (I)
+5,b,12221,E0,Interacting with a (I)
+6,b,11377,Sab,Boxy dust lane-weak radio
+7,a,4210,Sb,Dust lane-tidal spiral arms-radio-IR (I)
+7,c,4366,SBc,IR
+8,a,16014,E5,"Double nuclei strongly n.c.i. (M,I)"
+8,b,15966,S0,Extension toward 08a (I)
+10,a,5148,SBb,H I anomalous profile (I)
+10,b,4862,E1,Sharp extension (M)
+10,c,4660,Sc,Warped disk or tidally distorted spiral arms (I)
+12,a,14407,S0,Double nuclei (M)
+12,b,14956,SB0,Large P.A. twist
+13,b,12100,E0,n.c.i.-interacting with c emission-radio (I)
+13,c,12240,S0,Asym-interacting with b (I)
+14,a,5929,Sb,IR
+14,b,5305,E5,"Diffuse, extended galaxy-emission (I)"
+14,c,5145,Sbc,Asym. morpho (I)
+15,a,6967,Sa,Weak radio
+15,b,7117,E0,Strong dust lane in the center
+15,d,6244,E2,n.c.i.-weak radio (I)
+15,f,6242,Sbc,Disturbed morpho (I)
+16,a,4152,SBab,Disturbed morpho-lopsided r.c.-radio-IR (I)
+16,b,3977,Sab,Tidal tails-peculiar r.c. (I)
+16,c,3851,Im,Sinusoidal r.c.-radio-IR (M)
+16,d,3847,Im,Sinusoidal r.c.-radio-IR (M)
+21,a,7614,Sc,IR
+22,a,2705,E2,Dust lane
+23,a,4798,Sab,Weak nuclear and disk emission
+23,b,4921,SBc,Luminous cusps at end or bar-radio IR (I)
+23,c,5016,S0,"Spindle counterrotating gas-[N II], H_alpha emission (I)"
+23,d,4562,Sd,Peculiar morpho-IR (I)
+24,b,9137,SBa,Peculiar morpho (I)
+25,a,6285,SBc,Weak radio IR
+25,b,6408,SBa,Extension to the south towards 25f (I)
+25,d,6401,S0,Peculiar morpho may have warped disk (I)
+25,f,6279,S0,Extension toward 25b (I)
+26,a,9678,Scd,Asym. morpho weak radio-IR (I)
+26,b,9332,E0,Tail-like features-weak radio (I)
+26,d,9133,cI,Extension to the south-possibly IR (I)
+26,e,9623,Im,Disturbed morpho (I)
+27,f,26100,S0,Radio
+28,a,11441,Sb,Extension toward 28e dust lane (I)
+28,c,11290,S0,Probably interacting with 28a (I)
+30,b,4625,Sa,Dust lane
+30,c,4508,SBbc,Peculiar morpho (I)
+30,d,4666,S0,Boxy isophotes
+31,a,4042,Sdm,"Sinusoidal r.c.-disturbed morpho-WR-possibly IR (I,M)"
+31,b,4171,Sm,Peculiar morpho and r.c.-WR-possibly IR (I)
+31,c,4068,Im,"Peculiar morpho and r.c.-IR (I,M)"
+33,a,7570,E1,Distorted outer isophote emission-radio (I)
+33,b,8006,E4,Distorted outer isophote emission (I)
+33,c,7283,Sd,In common envelope with a and b-radio-IR (I)
+34,a,8997,E2,"[N II], H_alpha emission-two emission peaks-radio (I)"
+34,b,9620,Sd,Tail-like feature-radio-IR (I)
+34,c,9392,SBd,Weak radio-irregular vel. pattern-possibly IR (n
+35,a,15919,S0,Weak emission which extends beyond the nucleus
+37,a,6745,E7,Rapidly rotating disk of ionized gas-blue-radio (I)
+37,b,6741,Sbc,Asym. vel. pattern-dust lane-radio IR (I)
+37,c,7357,S0a,Contains ionized gas-in the envelope of 37a
+37,d,6207,SBdm,Weak radio
+37,e,6363,E0,Blue (I)
+38,a,8760,Sbc,Peculiar morpho (I)
+38,b,8739,SBd,"Tidal tail-strongly disturbed morpho (I,M) IR"
+38,c,8770,Im,"Strongly disturbed morpho-possibly IR (I,M)"
+40,a,6628,E3,Disky elliptical-radio
+40,b,6842,S0,Boxy-P.A. twist-emission - extension (I)
+40,c,6890,Sbc,Asym. H_alpha distribution-peculiar morpho-dust-radio-possibly IR (I)
+40,d,6492,SBa,Extension southeast-peculiar radio-possibly IR (I)
+40,e,6625,Sc,IR
+42,a,3625,E3,Radio-inner boxy isophotes
+43,b,10087,SBcd,Asym. morpho tidal spiral arm-weak radio (I)
+43,c,9636,S0,Weak radio
+44,a,1293,Sa,Peculiar vel. pattern and morpho dust-boxy-radio IR (I)
+44,b,1378,E2,"[N 1l], H_alpha emission-rotating core (I)"
+44,c,1218,SBc,Seyfert-knotty ring in H_alpha (I) weak radio IR
+44,d,1579,Sd,Peculiar r.c.-tidal tail-weak radio IR (I)
+45,a,21811,Sa,Dust lane across galaxy
+46,a,8201,E3,Radio
+47,a,9581,SBb,Tidal spiral arm-radio-IR (I)
+47,b,9487,E3,Spiral features-weak radio - interacting with a (I)
+48,a,3014,E2,Small disk in the oenter
+48,b,2385,Sc,Peculiar morpho IR (I)
+49,a,9939,Scd,Disturbed morpho (I)
+49,b,9930,Sd,Disturbed morpho (I)
+49,c,9926,Im,Disturbed morpho (I)
+49,d,10010,E5,"Too blue for its lumimosity - disturbed morpho (I,M)"
+51,e,7700,E2,Faint disk in the center
+53,b,6166,S0,Extension toward 53c (?)
+53,c,6060,SBd,Peculiar morpho-tail-like feature toward 53b (I)
+54,a,1397,Sdm,Strongly disturbed morpho (I)
+54,b,1412,Im,54abc may be a single galaxy
+54,c,1420,Im,54abc may be a single galaxy
+55,c,15690,S0,Disturbed-dust lane (?)
+56,a,8245,Sc,Radio-Seyfert-type spectrum (I)
+56,b,7919,SB0,Warped disk extending toward c - radio (I)
+56,c,8110,S0,Extension to the northeast and south-IR (I)
+56,d,8346,S0,Disturbed morpho-weak radio (I)
+56,e,7924,S0,"Boxy, too blue for its luminosity (I,M)"
+57,a,8727,Sb,Peculiar morpho and r.c.-tidal tail dust-possibly IR (I)
+57,b,9022,SBb,Asym. morpho-outer ring bright in H_alpha (I)
+57,c,9081,E3,Faint disk
+57,d,8977,SBc,Peculiar morpho radio IR (I)
+57,e,8992,S0a,Peculiar r.c. dust-warped disk extended toward 57h (I)
+57,f,9594,E4,Faint disk-extended galaxy (I)
+57,g,9416,SB0,Emission
+58,a,6138,Sb,Two ansac 10 kpc from nucleus-radio-IR (I)
+58,c,6103,SB0a,Weak radio
+58,d,6270,E1,Long straight jet south of the galaxy (I)
+58,e,6052,Sbc,Asym. morpho (I)
+59,a,4109,Sa,Radio-possibly IR
+59,b,3908,E0,Extended galaxy (I)
+59,d,3866,Im,Peculiar morpho-IR (I)
+60,b,18318,E4,Strongly disturbed morpho-dust (M)
+61,a,3784,S0a,Disturbed morpho in the center (dust?) outer n.c.i. (I)
+61,c,3956,Sbc,Dust-intense extended H_alpha emission-IR (I)
+61,d,3980,S0,Polar ring (I)
+62,a,4355,E3,n.c.i.-radio-large X-ray halo around group (I)
+62,c,4359,S0,May be interacting with a (I)
+63,b,9346,SBc,Tidal spiral arm-possibly IR (I)
+63,d,9141,Sc,IR
+64,a,10596,SBc,Disturbed morpho-tidal tail (I)
+64,b,10723,Scd,Disturbed morpho (I)
+65,a,14105,E3,n.c.i. (I)
+65,c,14243,E2,n.c.i. (I)
+65,d,13733,E3,n.c.i. (I)
+65,e,14405,E0,Small-bright star nearby
+67,a,7262,E1,Two nuclei disturbed morpho (M)
+67,b,7644,Sc,Dust lane across galaxy-radio-IR
+67,c,7430,Scd,Asym. morpho-close companion-radio (I)
+67,d,7071,S0,Galaxy 67a is too close by-may have n.c.i. (I)
+68,a,2162,S0,Radio
+68,b,2635,E2,Strong dust lane radio
+68,c,2313,SBbc,Peculiar morpho radio-lR (I)
+68,d,2408,E3,Boxyisophote-shells (?)
+69,a,8856,Sc,Asym. morpho dust or two nuclei-weak radio (I?)
+69,b,8707,SBb,Radio-IR
+71,b,9335,Sb,IR
+72,b,12356,S0,Asym. envelope interacting with d (I)
+72,c,13062,E2,Boxy outer isophote
+72,d,12558,SB0,Asym. envelope interacting with b (I)
+73,b,13600,Im,Peculiar morpho (I)
+74,a,12255,E1,Double nudeus-n c.i. toward east-radio (M)
+75,a,12538,E4,Boxy at outer isophotes-tail-like features (I)
+75,b,12228,Sb,Asym. morpho-extension-weak radio (I)
+75,d,12334,Sd,Possibly IR
+75,e,12300,Sa,IR
+75,f,13080,S0,Isophotes become boxy at outer isophotes
+76,b,10002,E2,Extension toward 76f (?) (I)
+76,f,10216,S0,Disk is tilted toward 76b (I)
+79,a,4292,E0,"Strong dust-[N II], H_alpha emission-radio-IR (I)"
+79,b,4446,S0,"Strong bar[N II], H_alpha emission-tidal tail (I)"
+79,c,4146,S0,Extended envelope toward 79b (I)
+79,d,4503,Sdm,Asym. disk-tidal tail toward 79a (I)
+80,a,8963,Sd,Radio IR
+80,c,9550,Im,Peculiar morpho (I)
+81,c,15050,S0,Dust-lane-n.c.i. (I)
+81,d,14954,S0a,Tail-like features to the north of the galaxy (I)
+82,a,11177,E3,Faint disk
+82,b,10447,SBa,Large P.A. twist
+82,c,10095,Im,Tail-like-dust or double nucleus-radio-IR (M?)
+84,a,16654,E2,Radio
+85,a,11155,E1,Radio
+86,a,6174,E2,Contains faint disk
+86,b,6196,E2,Dust?
+87,a,8694,Sbc,Three dust lanes (I)
+87,b,8972,S0,Boxy isophotes
+88,a,6033,Sb,Lopsided r.c.-weak radio-IR (I)
+88,b,6010,SBb,Low-luminosity extension-ring in H_alpha (I)
+88,d,6032,Sc,Weak radio
+89,b,8985,SBc,r.c. is linear
+90,a,2575,Sa,Strong dust lane across galaxy-IR
+90,c,2696,E0,n.c.i. toward b and d (I)
+90,d,2778,Im,Tail-like features to the north of the galaxy-IR (I)
+91,a,6832,SBc,Asym. morpho-IR (I)
+91,b,7196,Sc,IR
+91,d,7195,SB0,Tidal tail-like feature (I)
+92,b,5774,Sbc,Tidal arm (I)
+92,c,6764,SBc,"Tidal arm-Seyfert galaxy-radio-IR (I,M)"
+92,d,6630,Sc,"Tidal arm-weak radio (I,M)"
+93,a,5140,E1,"Strongly n.c.i. (dust?) emission-radio (I,M?)"
+93,b,4672,SBd,Open tidal arm to the north-radio IR (I)
+93,c,5132,SBa,Dust lane-extension toward a (I)
+94,a,12040,E1,"Common envelope with b-peculiar radio (I,M)"
+94,b,11974,E3,Common envelope with a-n.c.i.-weak radio (I)
+94,c,12120,S0,Ring (?) (I)
+94,d,13009,S0,In common envelope with a and b
+94,e,12250,Sd,Weak radio
+95,a,11888,E3,Disturbed morpho (I)
+95,b,11637,Scd,Tail-like features-weak radio possibly IR (I)
+95,c,11562,Sm,"Two nuclei-tidal arms and tails (I,M)"
+95,d,12350,Sc,Radio-IR
+96,a,8698,Sc,Tail-like-Seyfert strong radio-IR (I)
+96,b,8616,E2,Contains faint disk
+96,c,8753,Sa,Extension along semimajor axis-radio-possibly IR (I)
+96,d,8975,Im,Peculiar morpho (I)
+97,a,6910,E5,Extended galaxy (I)
+98,a,7855,SB0,Asym. morpho-extension toward 98b (I)
+98,b,7959,S0,n.c.i. (I)
+100,a,5300,Sb,Lopsided r.c.-boy isophotes-radio-IR (I)
+100,b,5253,Sm,Peculiar morpho extended to southeast-weak radio (I)
+100,c,5461,SBc,Peculiar r.c.-strong nuclear emission (I)
+100,d,--,Scd,Asym. morpho-low-luminosity extension (I)

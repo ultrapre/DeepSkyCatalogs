@@ -1,0 +1,167 @@
+VII/284                A Catalogue of Galactic Supernova Remnants  (Green, 2019)
+================================================================================
+A Catalogue of Galactic Supernova Remnants, 2019 June version
+     Green D.A.
+    <Cavendish Laboratory, Cambridge, United Kingdom (2019)>
+    =2019JApA...40...36G
+    =2019yCat.7284....0G
+================================================================================
+ADC_Keywords: Supernova remnants ; Milky Way ; Nonstellar objects
+
+Description:
+    This catalogue of known Galactic supernova remnants (SNRs) is an
+    updated version of the catalogues of Galactic SNRs presented in detail
+    in Green (1984, 1988), in summary form in Green (1991, 1996, 2004,
+    2009, 2014), and on the Web (versions of 1995 July, 1996 August, 1998
+    September, 2000 August, 2001 December, 2004 January, 2006 April and
+    2017 June). (Note that version published in Green (1996) was produced
+    in 1993.)
+
+    This the 2019 June version of the catalogue contains 294 SNRs, and is
+    based on results published in the literature up to the end of 2018.
+    The basic summary data included in this catalogue for each SNR are its
+    Galactic coordinates, RA and Dec (J2000.0), angular size, type, flux
+    density at 1 GHz, spectral index, and any other names. Notes on these
+    parameters, on possible remnants not included, and questionable SNRs
+    listed in the catalogue are given in the full version of the catalogue
+    on the Web. It should be noted that there are selection effects which
+    apply to the identification of Galactic SNRs (e.g., Green 1991, 2004,
+    2005, 2009, 2015), so that care should be taken if these data are used
+    in any statistical studies.
+
+    Published in Green, D.A., 2019, JApA, 40, 36 (2019JApA...40...36G).
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName      Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe            80        .   This file
+snrs.dat          88      294   Supernova Remnant catalogue
+--------------------------------------------------------------------------------
+
+See also:
+  VII/187 : the 1995 July version which was superseded by this catalogue
+  VII/210 : the 1996 August version which was superseded by this catalogue
+  VII/211 : the 1998 September version which was superseded by this catalogue
+  VII/227 : the 2001 December version which was superseded by this catalogue
+  VII/253 : the 2009 March version which was superseded by this catalogue
+  VII/272 : the 2014 May version which was superseded by this catalogue
+  VII/278 : the 2017 June version which was superseded by this catalogue
+
+  http://www.mrao.cam.ac.uk/surveys/snrs/ : the detailed on-line version
+
+
+Byte-by-byte Description of file: snrs.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1- 11  A11   ---     SNR      *Supernova Remnant designation
+  14- 15  I2    h       RAh      *Right Ascension J2000 hours
+  17- 18  I2    min     RAm      *Right Ascension J2000 minutes
+  20- 21  I2    s       RAs      *Right Ascension J2000 seconds
+      24  A1    ---     DE-      *Declination sign
+  25- 26  I2    deg     DEd      *Declination J2000 degrees
+  28- 29  I2    arcmin  DEm      *Declination J2000 arcminutes
+  31- 35  F5.1  arcmin  MajDiam  *Major Angular Size of remnant
+      36  A1    ---     ---       [x]
+  37- 41  F5.1  arcmin  MinDiam  *? Minor Angular Size of remnant
+      42  A1    ---   u_MinDiam  [?] Uncertainty flag on Angular Size
+  44- 45  A2    ---     type     *[CFS? ] Type of remnant
+      47  A1    ---   l_S(1GHz)  [>] Limit flag on S(1GHz)
+  48- 53  F6.1  Jy      S(1GHz)  *? Flux Density at 1 GHz
+      54  A1    ---   u_S(1GHz)  [?] Uncertainty flag on S(1GHz)
+  56- 59  F4.2  ---     Sp-Index *? Spectral Index of integrated radio emission
+  60- 61  A2    ---   u_Sp-Index *[?v ] Uncertainty and variability flag on SI
+  63- 88  A26   ---     Names    *Other names commonly used
+--------------------------------------------------------------------------------
+Note on SNR:
+  This designation is based on the galactic longitude and latitude of
+  the source centroid quoted to the nearest tenth of a degree. These
+  are generally taken from the name used for the remnant in the
+  literature.
+Note on RAh, RAm, RAs, DE-, DEd, DEm:
+  The accuracy of the quoted values depends on the size of the
+  remnant. For small remnants they are to the nearest few seconds of
+  time and the nearest minute of arc for RA and DEC respectively. For
+  the larger remnants they are rounded to coarser values. They are in
+  every case sufficient to specify a point within the boundary of the
+  remnant. These coordinates are generally deduced from radio maps
+  rather than from X-ray or optical observations, and are J2000.0.
+Note on MajDiam, MinDiam:
+  Usually taken from the highest resolution radio map available. The
+  boundary of most remnants approximates reasonably well to a circle or
+  an ellipse; a single value is quoted for the angular size of the more
+  nearly circular remnants, which is the diameter of a circle with an area
+  equal to that of the remnant, but for elongated remnants the product of
+  two values is quoted, and these are the major and minor axes of the
+  remnant boundary modeled as an ellipse. In a few cases an ellipse is not
+  a satisfactory description of the boundary of the object (refer to the
+  description of the individual object given the detailed catalogue entry
+  on the Web), although an angular size is still quoted for information.
+  For "filled-centre" remnants the size quoted is for the largest extent
+  of the observed radio emission, not, as at times has been used, the
+  half-width of the centrally brightened peak.
+Note on S(1GHz):
+  The flux density of the remnant at 1 GHz in jansky. This is not a
+  measured value, but that deduced from the observed radio frequency
+  spectrum of the source. The frequency of 1 GHz is chosen because flux
+  density measurements at frequencies both above and below this value
+  are usually available. Note that some young remnants -- notably
+  G111.7-2.1 (=Cassiopeia A) and G184.6-5.8 (=Crab Nebula) -- show
+  secular variations in their radio flux.
+Note on Sp-Index, u_Sp-Index:
+  The spectral index is of the integrated radio emission from the
+  remnant, &#945; where S(&#957;) &#8733; &#957;<SUP>-&#945;</SUP>. This
+  is either a value quoted from the literature, or one deduced from the
+  available integrated flux densities of the remnant. For several SNRs a
+  simple spectral model is not adequate to describe their radio emission
+  because the spectral index varies across the face of the remnant or
+  that the integrated spectrum is curved, and in these cases the spectral
+  index includes the 'v' in u_SI. In some cases, for example where the
+  remnant is highly confused with thermal emission, the spectral index
+  is given as '?' since no value can be deduced with any confidence.
+Note on type:
+  S  remnant shows a shell radio structure
+  F  remnant shows a filled center ('plerion') radio structure
+  C  remnant shows a composite (or combination) radio structure
+  S?, C?, F? if there is some uncertainty
+  ?  object is conventionally considered a SNR although its nature is
+     poorly known or not well understood.
+Note on Names:
+  Other names commonly used for the object. These are given in
+  parentheses if the remnant is only part of the source. For some
+  objects, notably the Crab Nebula, not all other names are given.
+--------------------------------------------------------------------------------
+
+Remarks:
+  The on-line version on the World-Wide-Web at
+
+     http://www.mrao.cam.ac.uk/surveys/snrs/
+
+  contains much more information on the individual objects,
+  including many references, plus discussion of possible and
+  probable remnants that have been reported in the literature
+  but which are not included in the catalogue.
+
+Acknowledgements:
+     Dave Green, dag(at)mrao.cam.ac.uk
+
+History:
+  * 02-Sep-2019: Prepared by Dave Green
+
+References:
+   Green, D.A., 1984, MNRAS, 209, 449        =1984MNRAS.209..449G
+   Green, D.A., 1988, Ap&SS, 148, 3          =1988Ap&SS.148....3G
+   Green, D.A., 1991, PASP, 103, 209         =1991PASP..103..209G
+   Green, D.A., 1996, in Supernovae and Supernova Remnants, (the
+     proceedings IAU Colloquium 145), eds McCray R. & Wang Z.,
+     (Cambridge University Press), p419. =1996ssr..conf..419G
+   Green, D.A., 2004, BASI, 32, 335          =2004BASI...32..335G
+   Green, D.A., 2005, MmSAI, 76, 534         =2005MmSAI..76..534G
+   Green, D.A., 2009, BASI, 37, 45           =2009BASI...37...45G
+   Green, D.A., 2014, BASI, 42, 47           =2014BASI...42...47G
+   Green, D.A., 2015, MNRAS, 454, 1517       =2015MNRAS.454.1517G
+   Green, D.A., 2019, JApA, 40, 36           =2019JApA...40...36G
+
+================================================================================
+(End)   Dave Green [Cavendish Laboratory], Patricia Vannier [CDS]    03-Sep-2019

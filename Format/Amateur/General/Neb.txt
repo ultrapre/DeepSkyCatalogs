@@ -1,0 +1,60 @@
+#Common Name	Mag.	Size	Area	NGC	Type	Const.	VQ	R.A. (E2000)	Dec. (E2000)
+NGC281 in Cassiopeia	7.0	35	962	0281	Nebula with dust low brightness	Cas	B	00h 52m 48s	56d 37' N
+NGC346 in Tucana SMC	10.3	14	154	0346	Open cluster with nebulosity SMC	Tuc	C	00h 59m 06s	72° 11' S
+IC1805 in Cassiopeia	6.0	60	2,827		Cluster with nebulosity	Cas		02h 32m 42s	61° 27' N
+IC1848 in Cassiopeia	6.0	60	2,827		Cluster with nebulosity	Cas		02h 51m 12s	60° 26' N
+IC348 in Perseus	7.0	10	78.5		Bright nebula	Per		03h 44m 30s	32° 17' N
+NGC1432 Maia Nebula in Taurus (Pleiades)	3.9	30	707	1432	Reflection nebula faint	Tau	c	03h 45m 48s	24° 22' N
+NGC1435 Merope Nebula in Taurus (Pleiades)	4.2	30	707	1435	Reflection nebula faint	Tau		03h 46m 06s	23° 47' N
+NGC1499 California Nebula in Perseus	10.0	145	16,513	1499	Nebula low brightness	Per		04h 00m 42s	36° 37' N
+NGC1579 in Perseus	?	12	113	1579	Reflection nebula bright	Per		04h 30m 12s	35° 16' N
+NGC1624 in Perseus	10.4	5	19.6	1624	Nebula surrounds group of stars	Per	C	04h 40m 24s	50° 27' N
+#Common Name	Mag.	Size	Area	NGC	Type	Const.	VQ	R.A. (E2000)	Dec. (E2000)
+NGC1770 in Doradus LMC	9.0			1770	Open cluster with nebulosity LMC	Dor		04h 57m 00s	68° 25' S
+NGC1829 in Doradus LMC	8.0			1829	Open cluster with nebulosity LMC	Dor		05h 04m 42s	68° 03' S
+NGC1955 in Doradus LMC	9.0			1955	Open cluster with nebulosity LMC	Dor		05h 26m 06s	67° 29' S
+NGC1962 in Doradus LMC	8.0			1962	Open cluster with nebulosity LMC	Dor		05h 26m 30s	68° 47' S
+NGC1966 in Doradus LMC	?	13	133	1966	Nebula bright LMC	Dor		05h 26m 48s	68° 49' S
+NGC1968 in Doradus LMC	9.0			1968	Open cluster with nebulosity LMC	Dor		05h 27m 12s	67° 26' S
+NGC1983 in Doradus LMC	8.0			1983	Open cluster with nebulosity LMC	Dor		05h 27m 30s	68° 57' S
+NGC1974 in Doradus LMC	9.0			1974	Open cluster with nebulosity LMC	Dor		05h 27m 54s	67° 24' S
+NGC2011 in Doradus LMC	9.0			2011	Open cluster with nebulosity LMC	Dor		05h 32m 06s	67° 31' S
+NGC2014 in Doradus LMC	8.0			2014	Open cluster with nebulosity LMC	Dor		05h 32m 12s	67° 40' S
+#Common Name	Mag.	Size	Area	NGC	Type	Const.	VQ	R.A. (E2000)	Dec. (E2000)
+M1 Crab Nebula in Taurus	8.4	6	28.3	1952	Nebula	Tau	B	05h 34m 30s	22° 01' N
+M42 Great Nebula in Orion	4.0	66	3,421	1976	Nebula	Ori	A	05h 35m 24s	05° 27' S
+NGC1980 in Orion	2.8	14	153.9	1980	Nebula low brightness around Iota Orionis	Ori	c	05h 35m 24s	05° 54' S
+M43 in Orion	9.0	20	314	1982	Nebula bright with dust	Ori	C	05h 35m 36s	05° 16' S
+NGC2070 Tarantula Nebula in Doradus	8.2	40	1,257	2070	Nebula with dust	Dor	B	05h 38m 36s	69° 05' S
+IC434 Horsehead Nebula in Orion	?	60	2,827		Nebula	Ori		05h 41m 00s	02° 24' S
+M78 in Orion	8.0	8	50.3	2068	Reflection nebula bright	Ori	C	05h 46m 42s	00° 03' N
+NGC2175 in Orion	6.8	18	254.5	2175	Nebula with dust	Ori	C	06h 09m 48s	20° 18' N
+NGC2264 Christmas Tree + Cone Neb. in Monoceros	3.9	60	2,827	2264	Open cluster with nebulosity	Mon	B	06h 41m 06s	09° 53' N
+#Common Name	Mag.	Size	Area	NGC	Type	Const.	VQ	R.A. (E2000)	Dec. (E2000)
+NGC2362 in Canis Major	4.1	8	50.3	2362	Open cluster dense	CMa	A	07h 18m 48s	24° 57' S
+NGC2467 in Puppis	7.0	16	201	2467	Nebula + Open Cluster	Pup	B	07h 52m 36s	26° 23' S
+NGC2579 in Puppis	7.5	10	78.5	2579	Emission nebula	Pup	C	08h 21m 06s	36° 11' S
+NGC3199 in Carina	11.1	22	380	3199	Nebula bright	Car		10h 17m 06s	57° 55' S
+NGC3247 in Carina	7.6	7	38.5	3247	Open cluster with nebulosity	Car	C	10h 25m 54s	57° 56' S
+NGC3293 in Carina	4.7	40	1,257	3293	Open cluster rich	Car	A	10h 35m 48s	58° 14' S
+NGC3324 in Carina	6.7	16	201	3324	Nebula + Open Cluster	Car	B	10h 37m 18s	58° 38' S
+NGC3372 Keyhole Nebula in Carina	6.2	120	11,310	3372	Nebula bright with dust + O.C. (Eta Carina)	Car		10h 43m 48s	59° 52' S
+NGC3503 in Carina	10.5	3	7	3503	Emission nebula	Car		11h 01m 18s	59° 51' S
+NGC3572 in Carina	6.6	20	314	3572	Open cluster with nebulosity	Car	B	11h 10m 24s	60° 14' S
+NGC3603 in Carina	9.1	12	113	3603	Open cluster with nebulosity	Car	D	11h 15m 06s	61° 15' S
+#Common Name	Mag.	Size	Area	NGC	Type	Const.	VQ	R.A. (E2000)	Dec. (E2000)
+IC2944 in Centaurus	4.0	75	4,418		Cluster with Nebulosity	Cen		11h 36m 36s	63° 02' S
+NGC6231 in Scorpius	2.6	15	177	6231	Nebula + Bright scattered O. Cluster	Sco	A	16h 54m 00s	41° 48' S
+NGC6281 in Scorpius	5.4	60	2,827	6281	Nebula + Open cluster dense	Sco	B	17h 04m 48s	37° 54' S
+NGC6883 in Scorpius	5.5	80	5,027	6883	Nebula + Open cluster rich	Sco	c	17h 34m 48s	32° 34' S
+M20 Trifid Nebula in Sagittarius	6.3	29	661	6514	Nebula with dust	Sgr	B	18h 02m 18s	23° 02' S
+M8 Lagoon Nebula in Sagittarius	5.8	90	6,362	6523	Nebula with dust and cluster	Sgr	B	18h 03m 48s	24° 23' S
+M16 Eagle Nebula in Serpens	6.0	35	962	6611	Nebula with dust and cluster	Ser	B	18h 18m 48s	13° 47' S
+M17 Omega Nebula in Sagittarius	6.0	46	1,662	6618	Nebula + Open Cluster	Sgr	B	18h 20m 48s	16° 11' S
+#Common Name	Mag.	Size	Area	NGC	Type	Const.	VQ	R.A. (E2000)	Dec. (E2000)
+NGC6960 Veil Nebula in Cygnus	5.0	70	3,848	6960	Filamentary Nebula	Cyg		20h 45m 42s	30° 43' N
+NGC6992 Network Nebula in Cygnus	5.0	60	2,827	6992	Filamentary Nebula	Cyg		20h 56m 24s	31° 43' N
+NGC7000 North America Nebula in Cygnus	6.0	120	11,310	7000	Nebula with dust	Cyg	b	20h 58m 48s	44° 20' N
+NGC7023 in Cepheus	7.0	18	254	7023	Nebula with dust	Cep	B	21h 00m 30s	68° 10' N
+IC1396 in Cepheus	3.0	170	22,698		Nebula + Open Cluster	Cep	b	21h 39m 06s	57° 30' N
+IC5146 in Cygnus	7.0	12	113		Nebula + Open Cluster	Cyg	c	21h 53m 24s	47° 16' N

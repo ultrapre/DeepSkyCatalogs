@@ -1,0 +1,247 @@
+Dun   2    N  231  in SMC
+Dun   3    N  261  Dun 4 , Dun 21 , in SMC
+Dun   4    N  261  Dun 3 , Dun 21 , in SMC
+Dun   5    N  294  Dun 6 , in SMC
+Dun   6    N  294  Dun 5 , in SMC
+Dun   7    N  456  Dun 10 , in SMC
+Dun   8    N  460  Dun 10 , in SMC
+Dun   9    N  465  in SMC         
+Dun  10    N  456  Dun 7, in SMC
+Dun  10    N  460  Dun 8, in SMC
+Dun  17    N  602  
+Dun  18    N  104  47 Tuc
+Dun  19    N  249  Dun 21  , in SMC
+Dun  21    N  249  Dun 19  , in SMC
+Dun  21    N  261  Dun 3 , Dun 4 , in SMC
+Dun  23    N  330  in SMC
+Dun  25    N  346  in SMC
+Dun  26    I 1612  in SMC
+Dun  31    N  371  in SMC
+Dun  36    N  376  in SMC
+Dun  36    N  419  Dun 44, in SMC
+Dun  44    N  419  Dun 36 , in SMC
+Dun  55    N  361  in SMC
+Dun  60    N  458  in SMC
+Dun  62    N  362  
+Dun  67    N 4372  
+Dun  68    N 6101  
+Dun  73    N 1702  in LMC
+Dun  76    N 1711  in LMC
+Dun  81    N 1795  in LMC
+Dun  89    N 1938  in LMC
+Dun  89    N 1939  in LMC
+Dun  90    N 1943  in LMC
+Dun  98    N 2019  in LMC
+Dun 100    N 2028  in LMC
+Dun 102    N 2058  in LMC
+Dun 106    N 2122  in LMC
+Dun 114    N 1743  in LMC
+Dun 129    N 1910  in LMC 
+Dun 131    N 1928  in LMC
+Dun 136    N 1966  in LMC
+Dun 136    N 1962  in LMC
+Dun 136    N 1965  in LMC
+Dun 142    N 2070  30 Dor, Tarantula Nebula, in LMC
+Dun 143    N 2069  in LMC
+Dun 147    N 2100  = Dun 151  = Dun 154 , in LMC
+Dun 151    N 2100  = Dun 147  = Dun 154 , in LMC
+Dun 152    N 2079  in LMC
+Dun 153    N 2108  in LMC
+Dun 154    N 2100  = Dun 147  = Dun 151 , in LMC
+Dun 160    N 2136  in LMC
+Dun 161    N 2157  in LMC
+Dun 164    N 4833  12 Mus
+Dun 167    N 1755  in LMC
+Dun 169    N 1770  in LMC
+Dun 170    N 1839  in LMC
+Dun 170    N 1850  in LMC
+Dun 172    N 1860  in LMC
+Dun 173    N 1863  in LMC
+Dun 173    N 1865  in LMC
+Dun 175    N 1936  in LMC
+Dun 178    N 2001  in LMC
+Dun 184    N 2093  in LMC
+Dun 185    N 2098  in LMC
+Dun 193    N 2159  in LMC
+Dun 194    N 2164  in LMC
+Dun 196    N 2156  in LMC
+Dun 201    N 2214  
+Dun 205    N 1244  
+Dun 206    N 1313  
+Dun 210    N 1869  in LMC
+Dun 211    N 1955  in LMC
+Dun 213    N 1974  in LMC
+Dun 214    N 2002  in LMC
+Dun 215    N 2004  in LMC
+Dun 218    N 2020  in LMC
+Dun 219    N 2032  in LMC
+Dun 220    N 2035  in LMC
+Dun 222            H 63
+Dun 223    N 2166  in LMC
+Dun 225    N 6362  
+Dun 230    N 1763  in LMC
+Dun 233    N 1805  in LMC
+Dun 235    N 1810  in LMC
+Dun 236    N 1818  in LMC
+Dun 238    N 1978  in LMC
+Dun 240    N 2029  in LMC
+Dun 241    N 2027  in LMC
+Dun 246    N 1831  in LMC
+Dun 247    N 1866  Dun 248 , in LMC
+Dun 248    N 1866  Dun 247 , in LMC
+Dun 252    N 5189  
+Dun 255    I 5250  
+Dun 255    N 7358  
+Dun 262    N 6744  
+Dun 263    N 7083  
+Dun 265    N 2808  
+Dun 272    N 4609  
+Dun 273    N 5281  201 Cen, Mel 120, Cr 276
+Dun 282    N 5316  
+Dun 289    N 3766  Mel 107, Cr 248
+Dun 291    N 4103  
+Dun 292    N 4349  
+Dun 295    N 6752  
+Dun 296    N 1672  
+Dun 297    N 3114  
+Dun 300    N 4439  
+Dun 301    N 4755  Kappa Cru, Mel 114, Cr 264, Kappa Cru, Jewel Box
+Dun 302    N 5617  
+Dun 304    N 6025  Lambda Cir, Mel 139, Cr 296
+Dun 306    N 1543  
+Dun 309    N 3372  Eta Car Nebula, Carina Nebula, Eta Argus Neb
+Dun 311    N 4852  
+Dun 312    N 5138  
+Dun 313    N 5606  
+Dun 314    
+Dun 321    N 3293  Mel 100, Cr 224
+Dun 322    N 3324  
+Dun 323    N 3532  5 Cen, Mel 103, Cr 238
+Dun 324    
+Dun 326    N 6087  Dun 335 
+Dun 329    
+Dun 330    I 2488  485 and 492 Argus; Mel 97, Cr 208
+Dun 331    N 1553  
+Dun 332    N 3199  
+Dun 333    N 5715  
+Dun 334    N 6005  
+Dun 335    N 6087  Dun 326  (NGC)
+Dun 337    N 1261  
+Dun 338    N 1566  
+Dun 339    N 1617  
+Dun 342    N 5662  Mel 127, Cr 284
+Dun 343    N 5999  
+Dun 347    N 7689  
+Dun 348    N 1515  
+Dun 349    N 3960  
+Dun 356    N 5749  
+Dun 357    N 5593  
+Dun 357    N 5925  
+Dun 359    N 6031  
+Dun 360    N 6067  
+Dun 364    N 6208  
+Dun 366    N 6397  
+Dun 369    N 1500  
+Dun 374    N 6253  
+Dun 376    N 6584  
+Dun 386    N 3228  11 Robur Caroli, Cr 218
+Dun 388    N 5286  
+Dun 389    N 5927  
+Dun 397    N 2972  
+Dun 397    N 2999  
+Dun 400    N 6167  
+Dun 406    N 7049  
+Dun 410    N 2547  Mel 84, Cr 177
+Dun 411    N 4945  
+Dun 412    N 6134  
+Dun 413    N 6193  
+Dun 417    N 6352  Barnard  
+Dun 425    N 6861  
+Dun 426    N 1433  
+Dun 427    N 1483  Dun 428 
+Dun 428    N 1483  Dun 427 
+Dun 431    N 5460  
+Dun 437    I 1633  
+Dun 438    N 1493  
+Dun 440    N 5139  Omega Cen, Halley 180
+Dun 442    N 6204  
+Dun 445    N 3201  
+Dun 447    N 5882  
+Dun 454    N 6216  
+Dun 456    N 6259  
+Dun 456    N 6222  
+Dun 457    N 6388  
+Dun 460    N 6496  
+Dun 466    N 1512  
+Dun 469    N 5643  
+Dun 472    N 6322  
+Dun 473    N 6541  Cacciatore
+Dun 475    N 7552  
+Dun 476    N 7582  
+Dun 477-1  N 7590  
+Dun 477-2  N 7599  
+Dun 479    N  625  
+Dun 480    N 1487  
+Dun 481    N 3680  
+Dun 482    N 5128  Cen A
+Dun 483    N 6192  
+Dun 487    N 1291  
+Dun 489    N 2671  Dun 490 
+Dun 490    N 2671  Dun 489 
+Dun 499    N 6231  150 Sco, Ha 1.7, Halley 20, Mel 153, Cr 315
+Dun 507    N   55  
+Dun 508    N 1851  
+Dun 510    N 4696  
+Dun 511    N 4709  
+Dun 514    N 6124  44 Nor, Mel 145, Cr 301
+Dun 518    N 7410  
+Dun 519    N  986  
+Dun 520    N 6242  155 Sco, Mel 155, Cr 317
+Dun 521    N 6268  
+Dun 522    N 6318  
+Dun 530    N  300  
+Dun 531    N 1792  
+Dun 535    N 2477  Mel 78, Cr 165
+Dun 536    N 6139  
+Dun 538    N 6380  h 3688, Ton 1
+Dun 546    I 5332  
+Dun 547    N 1317  
+Dun 548    N 1316  
+Dun 549    N 1808  
+Dun 552    N 5986  
+Dun 556    N 6281  
+Dun 557    N 6441  
+Dun 559            Bernes 157
+Dun 562    N 1365  
+Dun 562    N 1436  
+Dun 563    N 2546  Cr 178
+Dun 564    N 2818  
+Dun 568    N 6400  
+Dun 569    N 6529  
+Dun 573    N 6723  
+Dun 574    N 1380  J Schmidt
+Dun 578    N 2298  
+Dun 591    N 1350  
+Dun 594    N 2090  
+Dun 597    N 6444  
+Dun 599    N  134  
+Dun 600    N 1532  
+Dun 606    N 6563  
+Dun 607    N 6652  
+Dun 608    N 7793  GP Bond
+Dun 609    N 2658  hon
+Dun 611    N 5824  Barnard
+Dun 612    N 6405  
+Dun 613    N 6637  probably not Lac 1.11
+Dun 614    N 6681  
+Dun 616    N 2243  
+Dun 617    N 3621  H 1.241
+Dun 619    N 6569  H 2.201
+Dun 620    N 6809  Bode 63
+Dun 622    N 2997  H 5. 50
+Dun 623    N 5253  H 2.638
+Dun 624    N 6715         
+Dun 626    N 2489  H 7. 23
+Dun 627    N 6266  
+Dun 628    N 5236  Southern Pinwheel; Bode 27, 155 Cen; UGCA 366
+Dun 629    N 6316  H 1. 45

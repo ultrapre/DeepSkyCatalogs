@@ -1,0 +1,1187 @@
+                                                         NSSDC/WDC-A-R&S 82-29
+
+
+
+
+
+
+
+
+
+                DOCUMENTATION FOR THE MACHINE-READABLE VERSION
+
+                                      OF
+
+               THE REVISED NEW GENERAL CATALOGUE OF NONSTELLAR
+
+                             ASTRONOMICAL OBJECTS
+
+
+
+
+
+
+
+
+
+
+
+                             Wayne H. Warren Jr.
+
+
+
+
+
+
+
+
+
+
+
+                                November 1982
+
+
+
+
+
+
+
+
+
+                 National Space Science Data Center (NSSDC)/
+          World Data Center A for Rockets and Satellites (WDC-A-R&S)
+                National Aeronautics and Space Administration
+                         Goddard Space Flight Center
+                          Greenbelt, Maryland  20771
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              DOCUMENTATION FOR THE MACHINE-READABLE VERSION OF
+               THE REVISED NEW GENERAL CATALOGUE OF NONSTELLAR
+                             ASTRONOMICAL OBJECTS
+
+                             Wayne H. Warren Jr.
+
+
+                                   ABSTRACT
+
+
+This document provides detailed descriptions of the contents and format of the
+machine-readable version of the catalogue being distributed by the Astronomical
+Data Center.  Coding for the various scales and abbreviations used in the
+catalogue are tabulated and certain revisions to the machine version made to
+improve storage efficiency and notation are described.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      ii
+                             TABLE OF CONTENTS
+
+
+Section 1 - INTRODUCTION ...........................................  1-1
+Section 2 - FILE CONTENTS ..........................................  2-1
+Section 3 - FILE CHARACTERISTICS ...................................  3-1
+Section 4 - REMARKS, MODIFICATIONS AND REFERENCES ..................  4-1
+
+
+
+                                LIST OF TABLES
+
+Table
+
+  1 - File Contents, Data File .....................................  2-1
+  2 - File Contents, Old Description Supplement ....................  2-4
+  3 - File Contents, New Description Supplement ....................  2-4
+  4 - File Contents, Cross Reference Supplement ....................  2-5
+  5 - Dreyer Scales and Old Description Codes ......................  2-5
+  6 - New Description Codes and Type 7 Comments ....................  2-8
+  7 - Cross Reference for RNGC Objects .............................  2-12
+  8 - File Characteristics .........................................  3-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      iii
+                          SECTION 1 - INTRODUCTION
+
+
+The Revised New General Catalogue of Nonstellar Astronomical Objects (RNGC)
+(Sulentic and Tifft 1973) is a modern, revised and expanded version of the New
+General Catalogue of Nebulae and Clusters of Stars (Dreyer 1888).  While
+incorporating the many corrections to the original edition found over the
+years, the RNGC objects were verified on Palomar Observatory Sky Survey (POSS)
+prints and plates for southern objects especially taken for the purpose (about
+90 southern objects could not be verified) and are tied to the POSS where
+possible by the inclusion of rectangular coordinates on the prints.  New
+object descriptions are provided for objects which were examined during the
+course of the work, Galactic coordinates are given, and new magnitudes are
+reported along with their sources.
+
+This document describes the magnetic tape version of the RNGC, as distributed
+by the Astronomical Data Center.  It is intended to enable users to read and
+process the data without problems or guesswork.  For more extensive
+descriptions of the data in the RNGC and an explanation of the procedures used
+to develop or derive them, the published catalogue reference below should be
+consulted since it contains an extensive introduction with a wealth of
+valuable information.  A copy of this document should be supplied with any
+machine-readable copy of the catalogue.
+
+
+SOURCE REFERENCE
+
+Sulentic, J. W. and Tifft, W. G. 1973, The Revised New General Catalogue of
+  Nonstellar Astronomical Objects (Tucson:  The University of Arizona Press).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     1-1
+                         SECTION 2 - FILE CONTENTS
+
+
+Byte-by-byte descriptions of the contents of the tape files of the RNGC are
+given in Tables 1-4.  The suggested format specifications are for FORTRAN
+formatted read statements and can be modified depending upon individual
+programming and processing requirements.  Since data fields contain blanks
+where data are absent, care must be exercised when processing the data for
+certain purposes.  Alternate format specifications are given in parentheses.
+
+
+Table 1.  File Contents.  RNGC, Data File
+
+
+                      Suggested
+Byte(s)    Units       Format       Description
+
+  1-  5     ---         I5          The RNGC number (same as the original NGC
+                                    number).
+
+      6     ---         A1          Letter designations for anonymous sources
+                                    near NGC objects or for double or multiple
+                                    systems having the same assigned number.
+
+      7     ---        1X           Blank
+
+  8-  9     ---         I2          Type of object, coded as follows:
+
+                                    1  Open cluster
+                                    2  Globular cluster
+                                    3  Diffuse nebula
+                                    4  Planetary nebula
+                                    5  Galaxy
+                                    6  Cluster associated with nebulosity
+                                    7  Nonexistent
+                                    8  Object in Large Magellanic Cloud
+                                    9  Object in Small Magellanic Cloud
+                                    0  Unverified southern object
+
+                                    The codes can be combined to form double
+                                    digit numbers such as 19 (open cluster in
+                                    SMC), 38 (diffuse nebula in LMC), or 25
+                                    (globular cluster in external galaxy).
+
+     10     ---        1X           Blank
+
+ 11- 12    hours        I2          Right ascension for equinox 1975.
+
+     13     ---        1X           Blank
+
+ 14- 17     min         F3.1        R.A.
+
+
+                                     2-1
+Table 1.  (continued)
+
+                      Suggested
+Byte(s)    Units       Format       Description
+
+     18     ---        1X           Blank
+
+ 19- 21     deg         I3          Declination for equinox 1975.  Sign
+                                    always in byte 19.
+
+     22     ---        1X           Blank
+
+ 23- 24    arcmin       I2          Dec.
+
+     25     ---        1X           Blank
+
+ 26- 31     deg         F6.2        Galactic longitude, System II.  Not present
+                                    for nonexistent objects, in which case the
+                                    field is blank.
+
+     32     ---        1X           Blank
+
+ 33- 38     deg         F6.2        Galactic latitude, System II.  Not present
+                                    for nonexistent objects, in which case the
+                                    field is blank.  A sign is present in byte
+                                    33 only for negative values.
+
+     39     ---        1X           Blank
+
+ 40- 42      mm         I3          X coordinate on Palomar Observatory Sky
+                                    Survey (POSS) print.  The origin is the
+                                    lower left corner of the blue print.  A
+                                    position was always determined from the
+                                    southernmost and westernmost POSS print
+                                    upon which the object is clearly visible.
+
+     43     ---        1X           Blank
+
+ 44- 46      mm         I3          Y coordinate on POSS print.
+
+     47     ---        1X           Blank
+
+ 48- 51     mag         F4.1        Magnitude (rounded to the nearest half
+                                    magnitude), generally taken from sources
+                                    having the largest number of objects, in
+                                    order to have data as homogeneous as
+                                    possible.  Blank if no data present.
+
+     52     ---        1X           Blank
+
+
+
+
+                                     2-2
+Table 1.  (continued)
+
+                      Suggested
+Byte(s)    Units       Format       Description
+
+     53     ---         A1          Source of magnitude, coded as follows:
+
+                                    1.  de Vaucouleurs and de Vaucouleurs
+                                        1964.
+                                    2.  Zwicky et al. 1961-1968.
+                                    3.  Vorontsov-Velyaminov, Krasnogorskaya,
+                                        Arhipova 1962-1968.
+                                    4.  Lindsay 1958.
+                                    5.  Collinder 1931.
+                                    6.  Arp 1965.
+                                    7.  Vorontsov-Velyaminov 1931.
+                                    8.  Bok and Bok 1962; van den Bergh and
+                                        Hagen 1968.
+
+     54     ---        1X           Blank
+
+ 55- 74     ---       20A1 (5A4)    The original visual appearance of the
+                                    object, as transcribed from Dreyer (1888).
+                                    Table 5 gives the code translations for
+                                    the original Dreyer and RNGC codes.
+                                    Certain codes have been modified from the
+                                    original computerized version and the
+                                    published version in order to change them
+                                    back to what they should be in
+                                    astronomical notation.  If a description is
+                                    is too long for the data field, a "9" will
+                                    be found in the cross references field
+                                    (bytes 97-116) and the remainder of the
+                                    description will be found in the "Old
+                                    Description Supplement" in file 2 of the
+                                    catalogue (see Table 2).
+
+     75     ---        1X           Blank
+
+ 76- 95     ---       20A1 (5A4)    Palomar Sky Survey (new) description of
+                                    each object.  Table 6 gives the RNGC
+                                    description codes (the code changes
+                                    described under the old description also
+                                    apply to the new description).  If a
+                                    description is too long, an "8" will be
+                                    found in the cross reference field and
+                                    additional information given in the "New
+                                    Description Supplement" in file 3 of the
+                                    catalogue (see Table 3).
+
+     96     ---        1X           Blank
+
+
+                                     2-3
+Table 1.  (concluded)
+
+                      Suggested
+Byte(s)    Units       Format       Description
+
+ 97-116     ---       20A1 (5A4)    Cross references to major specialized
+                                    catalogues.  The code key is given in
+                                    Table 7.  If the field is too short to
+                                    accommodate all of the necessary
+                                    information, then an "X" will be found in
+                                    byte 116 and additional information given
+                                    in file 4 of the catalogue (see Table 4).
+
+
+
+Table 2 gives the format description for the "Old Description Supplement"
+found in file 2 of the catalogue.  This file contains an entry if a "9"
+appears in the cross reference field of the data file.
+
+Table 2.  File Contents.  RNGC Old Description Supplement.
+
+           Suggested
+Byte(s)     Format       Description
+
+ 1- 5        I5          RNGC number.
+
+ 6- 7       2X           Blank
+
+ 8-30      23A1          Additional information from Dreyer description.
+
+
+
+
+Table 3 gives the format description for the "New Description Supplement"
+found in file 3 of the catalogue.  This file contains an entry if an "8"
+appears in the cross reference field of the data file.
+
+Table 3.  File Contents.  RNGC New Description Supplement.
+
+           Suggested
+Byte(s)     Format       Description
+
+ 1- 5        I5          RNGC number.
+
+    6        A1          Letter designation for RNGC object.
+
+ 7- 8       2X           Blank
+
+ 9-44      38A1          Additional information from RNGC description.
+
+
+
+
+                                     2-4
+Table 4 gives the format description for the "Cross Reference Supplement"
+found in file 4 of the catalogue.  This file contains an entry if an "X" is
+present in byte 116 of the cross reference field.
+
+Table 4.  File Contents.  RNGC Cross Reference Supplement.
+
+           Suggested
+Byte(s)     Format       Description
+
+ 1- 5        I5          RNGC number.
+
+    6        A1          Letter designation for RNGC object.
+
+    7       1X           Blank
+
+ 8-30      23A1          Additional cross reference information.
+
+
+
+Table 5 contains definitions of the brightness, size and shape scales that
+Dreyer adopted from Sir John Herschel.  It also gives the original codes, RNGC
+codes and code translations used in the Dreyer descriptions.
+
+Table 5.  Dreyer Scales and Old Description Codes
+
+Brightness                   Size
+
+ 1.  Excessively faint        1.  Excessively small      3" - 4"  diameter
+ 2.  Very faint               2.  Very small            10" - 20"    "
+ 3.  Faint                    3.  Small                 20" - 30"    "
+ 4.  Considerably faint       4.  Considerably small    20" - 30"    "
+ 5.  Pretty faint             5.  Pretty small          50" - 60"    "
+ 6.  Pretty bright            6.  Pretty large          50" - 60"    "
+ 7.  Considerably bright      7.  Considerably large     3' - 4'     "
+ 8.  Bright                   8.  Large                  3' - 4'     "
+ 9.  Very bright              9.  Very Large             8' - 10'    "
+10.  Extremely bright        10.  Excessively large     20' and larger
+
+
+Shape
+
+ 1.  Round
+ 2.  Very little extended
+ 3.  Elliptic or oval
+ 4.  Considerably extended
+ 5.  Pretty much extended
+ 6.  Much extended
+ 7.  Very much extended
+ 8.  Extremely extended
+
+
+
+
+                                     2-5
+Table 5.  (continued)
+
+Dreyer       RNGC
+ Code        Code      Code Translation
+
+ab           AB        about
+alm          ALM       almost
+am           AM        among
+app          APP       appended
+att          ATT       attached
+B            B         bright
+b            B         brighter (always coupled with another letter)
+bet          BET       between
+bf           BF        brighter toward following side
+biN          BIN       binuclear
+bn           BN        bright toward north side
+bp           BP        brighter toward preceding side
+bs           BS        brighter toward south side
+C            C         compressed
+c            C         considerably
+ch           CH        chevelure
+Cl           CL        cluster
+co           CO        coarse, coarsely
+com          COM       cometic
+cont         CONT      in contact
+D            D         double
+d            D         diameter
+def          DEF       defined
+dif          DIF       diffused
+diffic       DIFFIC    difficult
+dist         DIST      distance
+E            E         extended
+e            E         extremely, excessively
+ee           EE        most extremely
+er           ER        easily resolvable
+exc          EXC       excentric
+F            F         faint
+f            F         following
+g            G         gradually
+gr           GR        group
+i            I         irregular
+iF           IF        irregular figure
+inv          INV       involved, involving
+L            L         large
+l            L         little (adv), long (adj)
+M            M         middle or in the middle
+m            M         much
+mm           MM        mixed magnitudes
+mn           MN        milky nebulosity
+N            N         nucleus or to a nucleus
+n            N         north
+neb          NEB       nebula
+
+                                     2-6
+Table 5.  (concluded)
+
+Dreyer       RNGC
+ Code        Code      Code Translation
+
+nf           NF        north following
+np           NP        north preceding
+nr           NR        near
+p            P         poor
+p            P         preceding
+p            P         pretty (before F, B, L, S) (size and brightness blocks)
+pg           PG        pretty
+pm           PM        pretty much
+ps           PS        pretty suddenly
+quad         QUAD      quadrilateral
+quar         QUAR      quartile
+R            R         round
+r            R         resolvable
+Ri           RI        rich
+RR           RR        exactly round
+rr           RR        partially resolved, some stars seen
+rrr          RRR       well, resolved, clearly consisting of stars
+S            S         small
+s            S         suddenly
+s            S         south
+sc           SC        scattered
+sev          SEV       several
+sf           SF        south following
+sh           SH        shaped
+sm           SM        smaller
+sp           SP        south preceding
+st           ST        stars
+stell        STELL     stellar
+susp         SUSP      suspected
+trap         TRAP      trapezium
+triN         TRIN      trinuclear
+v            V         very
+var          VAR       variable
+vv           VV        an intensive of V
+*            *         a star (or stars)
+*10          *10       a star of 10th magnitude
+**           **        double star
+***          ***       triple star
+(triangle)   TRI       triangle, forms a triangle with
+(gunsight)   GCL       globular cluster of stars
+0            PLN       planetary nebula
+st9          ST9       stars from the 9th magnitude downward
+st9...13     ST9...13  stars from 9th to 13th magnitude
+?            ()        items questioned by Dreyer enclosed in parentheses
+"            "         arcseconds (two "not-equals" in published catalogue)
+'            '         arcminutes (one "not-equals" in published catalogue)
+
+
+                                     2-7
+Table 6 gives the RNGC codes and their translations, followed by the codes for
+type 7 (nonexistent code in bytes 8-9 of the data records) comments.
+
+Table 6.  RNGC (New) Description Codes and Type 7 Comments
+
+RNGC Code            Translation
+
+
+ALM                  almost
+APP-AP               appendage
+APPEARANCE           appearance
+ARC                  arc
+AREA                 area
+ARMS-AMS             arms
+AROUND               around
+ATT-AT               attached
+
+B-BRT                bright, brighter
+BAR                  bar
+BD                   broad
+BET                  between
+BIN                  binuclear
+BISECTS              bisects
+BM                   brighter toward center
+BRIDG(E)             bridge
+BRIGHTEST            brightest
+BRUSHES              brushes
+BULG(E)              bulge
+
+CHAIN                chain
+CL(USTER)            cluster (object appears in or near a prominent cluster of
+                       galaxies)
+CLOS(E)              close
+COM                  companion(s)
+COMMON               common
+COMP                 compact
+COMPL                complete
+COMPLEX              complex
+CONNECTS             connects
+CONT(ACT)            contact, in contact
+CT                   center, middle, central
+CURVED               curved
+
+D                    defined
+DB                   double
+DIF                  diffuse (ness)
+DISK-DSK             disk
+DIST                 distribution
+DK                   dark
+DST                  distortion
+DUMBELL              dumbell
+DWF                  dwarf
+
+                                     2-8
+Table 6.  (continued)
+
+RNGC Code            Translation
+
+
+E                    elliptical like (possessing normal elliptical galaxy
+                      characteristics)
+EDGE                 edge
+EFFECT               effect
+EL                   elongated
+END                  end
+EON                  edge on system
+EO                   equatorial
+EXT-EXTEN            extended, extensive, extension
+
+F                    faint
+F-FO                 following
+FEATURELESS          featureless
+FEW                  few
+FIELD-FLD            field
+FIL                  filament, filamentary
+FL(AT)               flat
+FORM(ING)            form(ing)
+FRM                  form
+
+GALAXY               galaxy
+GALAXIES             galaxies
+GRP                  group
+
+H                    high
+HALO                 halo
+HSB-HISB             high surface brightness
+
+IMAG(E)              image
+IN                   in
+INC-INCL             inclined
+INT                  internal
+INTEN                intensity
+INTERACT             interact
+INVIS(IBLE)          invisible
+INVOLVED             involved
+IRR(EG)              irregular
+IRRR                 irregularly round
+
+JET                  jet
+
+KN(OT)(S)            knot(s)
+KNOTTY-KNY           knotty
+
+
+
+
+
+                                     2-9
+Table 6.  (continued)
+
+RNGC Code            Translation
+
+
+LBM                  little brighter toward center
+LG-LGE               large
+LIKE                 like
+LN(S)                lanes
+LOOP                 loop
+LSB-LOSB             low surface brightness
+
+M                    much
+MANY                 many
+MATCH                match
+MOTTLED              mottled
+MW                   Milky Way
+
+N                    narrow, thin
+N-NO(RTH)            north
+NEB                  nebula
+NO                   no
+NR                   near, nearly
+NUC(LEUS)            nucleus
+
+O                    open
+OBJ(ECT)             object
+OBSC                 obscure(ing)
+OFF                  off
+ON                   on
+OUT(ER)              outer
+OV-OVAL              oval
+
+P                    poor(ly)
+P-PR                 preceding
+PAIR                 pair
+PART                 part
+PCH(Y,S)             patch, patchy, patches
+PD                   poorly defined
+PEC                  peculiar
+PER-PERIP(H)         peripheral, periphery
+PLUME                plume
+POOR                 poor
+POSSIBLE             possible
+PRINT                print
+
+R                    round
+RECT                 rectangular
+REGION               region
+RESOLVED             resolved
+RG-RNG-RING          ring
+RI(CH)               rich
+
+                                     2-10
+Table 6.  (continued)
+
+RNGC Code            Translation
+
+
+S-SOUTH-SPIRAL       south, spiral (clear in context)
+SB                   barred spiral
+SBC                  SBc type galaxy
+SBM                  suddenly brighter toward center
+SC                   Sc type galaxy
+SEV-SV               several
+SHAPE                shape
+SHORT                short
+SIDE                 side
+SL                   slight, slightly
+SM                   small
+SO)                  SO galaxy
+SPN                  spindle
+STE-STEL-STELLAR     stellar
+STR-STRUCTURE(LESS)  structure (less)
+SUP                  superimposed
+SUS(SUSP)            suspected
+
+TIDAL                tidal
+TIW                  tightly wound
+TO                   to
+TRIPLE               triple
+
+U-UNIF               uniform
+USB                  uniform surface brightness
+
+V                    very
+VIS(IBLE)            visible
+
+WD                   well defined
+WI-W/                with
+WINGS                wings
+WIO-WO-W/O           without
+WK                   weak
+WPD                  warped
+
+&                    and ($ in printed edition)
+)                    ?
+-                    to, of
+'                    arcminutes (one "not-equals" in printed edition)
+"                    arcseconds (two "not-equals" in printed edition)
+*                    star
+24-                  24-inch Curtis Schmidt plate description
+
+
+
+
+
+                                     2-11
+Table 6.  (concluded)
+
+Code for Type 7 Comments:
+
+BAKER                         Baker 1933, 1937
+DC                            Carlsen 1940
+DEV                           de Vaucouleurs and de Vaucouleurs 1964
+LINDSAY                       Lindsay 1963, 1964
+NF                            not found
+NOCL                          no cluster
+S-SULENTIC                    J. W. Sulentic (visual interpretation from POSS)
+V-VV-VORONTSOV-VELYAMINOV     Vorontsov-Velyaminov et al. 1962-1968
+Z-ZWICKY                      Zwicky et al. 1961-1968
+
+
+
+
+Table 7 gives references to the major specialized catalogues coded in the
+final data field of each record in the main file and in the cross reference
+supplement file.
+
+
+Table 7.  Cross References for RNGC Objects
+
+
+RNGC Code     Translation
+
+
+Axxx          Arp, 1966, Atlas of Peculiar Galaxies
+AG            Arp, 1965, Catalogue of Globular Clusters
+BMC           Hodge 1961, Blue LMC Clusters
+D             de Vaucouleurs and de Vaucouleurs 1964, Reference Catalogue of
+               Bright Galaxies
+D*            de Vaucouleurs and de Vaucouleurs 1964, Reference Catalogue of
+               Bright Galaxies (with supplemental data)
+G             Gum 1955, Catalogue of Southern H II Regions
+H             Henize 1956, Catalogue of Nebulae in the Magellanic Clouds
+HO            Hogg 1959, Catalogue of Open and Globular Clusters
+HOxxxA        Holmberg 1931, Catalogues of Double and Multiple Galaxies
+ICxxxx        Dreyer 1895, 1908, Index Catalogues
+K             Kron 1956, Catalogue of SMC Clusters
+L             Linsay 1956, Catalogue of SMC Clusters
+LH            Hodge and Lucke 1970, Catalogue of LMC Associations
+LY            Lynds 1965, Catalogue of Bright Nebulae
+M             Genkin and Genkina 1969, Catalogue of Galaxies with Determined
+               Masses
+Mxxx          Becvar 1959, Messier Catalogue
+P             Perek and Kohoutek 1967, Catalogue of Galactic Planetary Nebulae
+PKS           Bolton et al. 1964, Price and Milne 1965, Day et al. 1966,
+               Shimmins et al. 1966, Shimmins and Day 1968, Parkes Catalogues
+               of Southern Radio Sources
+
+
+                                     2-12
+Table 7.  (concluded)
+
+RNGC Code     Translation
+
+
+R             Alter et al. 1970, Catalogue of Star Clusters and Associations
+S             Minkowski 1968, Catalogue of Seyfert Galaxies
+S(#)          Karpowicz and Rudnicki 1968, Catalogue of Supernovae
+SH            Sharpless 1956, Catalogue of H II Regions
+SL            Shapley and Lindsay 1963, Catalogue of Clusters in the LMC
+V             Vorontsov-Velyaminov, Krasnogorskaya and Arhipova 1962-1968,
+               Morphological Catalogue of Galaxies
+V*            Vorontsov-Velyaminov, Krasnogorskaya and Arhipova 1962-1968,
+               Morphological Catalogue of Galaxies (with additional comments)
+(V)           Vorontsov-Velyaminov, Krasnogorskaya and Arhipova 1962-1968,
+               Morphological Catalogue of Galaxies (ID questioned by authors)
+Z             Zwicky et al. 1961-1968, Catalogue of Galaxies and of Clusters
+               of Galaxies
+Z*            Zwicky et al. 1961-1968, Catalogue of Galaxies and of Clusters
+               of Galaxies (with additional comments)
+3Cxxx         Edge et al. 1959, Third Cambridge Catalogue of Radio Sources
+4Cxx.xx       Pilkington and Scott 1965; Gower et al. 1967, Fourth Cambridge
+               Catalogue of Radio Sources
+8             Object has supplementary data for RNGC (new) description
+               (file 3 of catalogue)
+9             Object has supplementary data for Dreyer (old) description
+               (file 2 of catalogue)
+X             Object has supplmentary data for cross references (file 4 of
+               catalogue)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     2-13
+                      SECTION 3 - FILE CHARACTERISTICS
+
+
+The information contained in Table 8 is sufficient to describe the indigeneous
+characteristics of the machine-readable RNGC files to a computer.  Information
+easily varied from installation to installation, such as block size (physical
+record length), blocking factor (number of logical records per physical
+record), total number of blocks, file density, number of tracks, and internal
+coding (EBCDIC, ASCII, etc.) is not included.  This information should always
+be supplied if secondary copies are transmitted to other users or
+installations.  Data for the four catalogue files are separated by commas.
+
+
+Table 8.  File Characteristics.  RNGC
+
+
+NUMBER OF FILES ......................................                    4
+
+LOGICAL RECORD LENGTH (BYTES) ........................      116, 30, 44, 30
+
+RECORD FORMAT ........................................                Fixed
+
+TOTAL NUMBER OF LOGICAL RECORDS ......................  8163, 176, 1037, 61
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     3-1
+             SECTION 4 - REMARKS, MODIFICATIONS AND REFERENCES
+
+
+The Revised New General Catalogue of Nonstellar Astronomical Objects was
+received a number of years ago on a BCD coded tape containing seven files.
+The formats of the files corresponded very closely to the printed formats of
+the seven sections of the published edition.  Although the format of the data
+file was satisfactory for computer processing, the multicolumn structure of
+the supplement files and the presence of titling information and blank records
+made those files unsuitable for computer searching, sorting, etc.  The final
+three files of precession tables are not necessary for modern computer
+processing of the catalogue to other equinoxes; hence, they have been removed
+from the machine-readable version.  The following modifications were made to
+the first four files:
+
+1.  All files were converted from O26 to O29 coding: the character coded files
+    are thus available in EBCDIC or ASCII internal coding.  Due to the
+    unavailability of certain other standard characters of astronomical
+    notation to the authors of the catalogue, substitutions were made in the
+    tape and printed editions.  Thus, the following conversions were made to
+    the files in order to restore the correct astronomical notation:
+
+    Tape          Published Version      Converted to
+
+
+    @@            two not-equals signs   "
+    @             one not-equals sign    '
+    $             $                      &
+
+
+The presence of parentheses to denote ? in the old (Dreyer) descriptions and a
+right parenthesis to denote ? in the new (RNGC) descriptions remain unchanged.
+
+2.  Plus (+) signs were added to all positive declinations in the data file
+    (byte 19).
+
+3.  The logical record length of the data file was changed from 120 bytes to
+    116 bytes, since bytes 117-120 were never used.
+
+4.  The two- and three-column formats of files 2-4 were changed to the
+    standard structure of one object per record after titles and blank records
+    were deleted.  The 120-byte logical record length files were then changed
+    to their present 30-, 44-, and 30-byte lengths.
+
+
+REFERENCES
+
+Alter, G., Balazs, B. and Ruprecht, J. 1970, Catalogue of Star Clusters and
+  Associations, 2nd ed. (Budapest:  Akademiai Kiado).
+
+Arp, H. C. 1965, in Galactic Structure, ed. A. Blaauw (Chicago:  University of
+  Chicago Press), p. 401.
+
+                                     4-1
+REFERENCES (continued)
+
+Arp, H. C. 1966, Atlas of Peculiar Galaxies, Astrophys. J. Suppl. 14, 1.
+
+Baker, R. 1933, A Catalogue of 985 Extragalactic Nebulae in a Region in Fornax
+  and Eridanus, Ann. Harv. Coll. Obs. 88, No. 3, 77.
+
+Baker R. 1937, A Catalogue of 1,113 Galaxies in a Region in Fornax and
+  Eridanus, Ann Harv. Coll. Obs. 88, No. 6, 165.
+
+Becvar, A. 1959, Atlas Coeli II Katalog 1950.0 (Prague:  Ceskoslovenska
+  Akademie Ued), p. 333.
+
+Bok, B. J. and Bok, P. F. 1962, Mon. Not. Royal Astron. Soc. 124, 435.
+
+Bolton, J. G., Gardner, F. F. and Mackey, M. B. 1964, The Parkes Catalogue of
+  Radio Sources, Declination Zone -20 to -60, Australian J. Phys. 17, 340.
+
+Carlsen, D. 1940, Astrophys. J. 91, 350.
+
+Collinder, P. 1931, Lund. Obs. Ann. 2.
+
+Day, G. A., Shimmins, A. J., Ekers, R. D. and Cole D. J. 1966, The Parkes
+  Catalogue of Radio Sources, Declination Zone 0 to +20 degrees, Australian J.
+  Phys. 19, 35.
+
+de Vaucouleurs, G. and de Vaucouleurs, A. 1964, Reference Catalogue of Bright
+  Galaxies (Austin:  University of Texas Press).
+
+Dreyer, J. L. E. 1888, New General Catalogue of Nebulae and Clusters of Stars,
+  Mem. Royal Astron. Soc. 49, Part I (reprinted 1962, London:  Royal
+  Astronomical Society).
+
+Dreyer, J. L. E. 1895, Index Catalogue of Nebulae Found in the Years 1888 to
+  1894, With Notes and Corrections to the New General Catalogue, Mem. Royal
+  Astron. Soc. 51, 185.
+
+Dreyer, J. L. E. 1908, Second Index Catalogue of Nebulae and Clusters of Stars
+  Found in the Years 1895 to 1907; With Notes and Corrections to the New
+  General Catalogue and to the Index Catalogue for 1888 to 1894, Mem. Royal
+  Astron. Soc. 59, Part 2, 105.
+
+Edge, D. L., Shakeshaft, J., McAdam, W., Baldwin, J. and Archer, S. 1959, Mem.
+  Royal Astron. Soc. 68, 37.
+
+Genkin, I. L. and Genkina, A. 1969, The Masses and Densities of Galaxies,
+  Trudy Inst. Teor. Astron. Alma Ata 12, Part 2, 82.
+
+Gower, J. F. R., Scott, P. F. and Wills, D. 1967 Mem. Royal Astron. Soc. 71,
+  49.
+
+Gum, C. S. 1955, Mem. Royal Astron. Soc. 67, 155.
+
+                                     4-2
+REFERENCES (continued)
+
+Henize, K. 1956, Catalogues of Ha-Emission Stars and Nebulae in the Magellanic
+  Clouds, Astrophys. J. Suppl. 2, 315.
+
+Hodge, P. W. 1961, Astrophys. J. 133, 413.
+
+Hodge, P. W. and Lucke, P. B. 1970, Astron J. 75, 933.
+
+Hogg, H. S. 1959, Star Clusters.  In Handbuck der Physik, Vol. 53, ed. S.
+  Flugge (Berlin:  Springer-Verlag), p. 129.
+
+Holmberg, E. 1931, Lund Obs. Ann. 6.
+
+Karpowicz, M. and Rudnicki, K. 1968, Preliminary Catalogue of Supernovae,
+  Publ. Astron. Obs. of the Warsaw Univ. 15.
+
+Kron, G.E. 1956, Publ. Astron. Soc. Pacific 68, 125.
+
+Lindsay, E. M. 1956, Irish Astron. J. 4, 65.
+
+Lindsay, E. M. 1958, Mon. Not. Royal Astron. Soc. 118, 172.
+
+Lindsay, E. M. 1963, Irish Astron. J. 6, 2.
+
+Lindsay, E. M. 1964, Irish Astron. J. 6, 286.
+
+Lynds, B. T. 1965, Catalogue of Bright Nebulae, Astrophys. J. Suppl. 12, 163.
+
+Minkowski, R. 1968, Astron. J. 73, 842.
+
+Perek, L. and Kohutek, L. 1967, Catalogue of Galactic Planetary Nebulae
+  (Prague:  Academia Publishing House).
+
+Pilkington, J. D. H. and Scott, P. F. 1965, Mem. Royal Astron. Soc. 69, 183.
+
+Price, R. M. amd Milne, D. K. 1965, The Parkes Catalogue of Radio Sources,
+  Declination Zone -60 to -90 degrees, Australian J. Phys. 18, 329.
+
+Shapley, H. and Lindsay, E. M. 1963, A Catalogue of Clusters in the Large
+  Magellanic Cloud, Irish Astron. J. 6, 74.
+
+Sharpless, S. 1959, A Catalogue of H II Regions, Astrophys. J. Suppl. 4, 257.
+
+Shimmins, A. J. and Day, G. A. 1968, The Parkes Catalogue of Radio Sources,
+  Declination Zone +20 to +27 degrees, Australian J. Phys. 21, 377.
+
+Shimmins, A. J., Day, G. A., Ekers, R. D. and Cole, D. J. 1966, The Parkes
+  Catalogue of Radio Sources, Declination Zone 0 to -20 degrees, Australian J.
+  Phys. 19, 837.
+
+
+
+                                      4-3
+REFERENCES (concluded)
+
+Sulentic, J. W. and Tifft, W. G. 1973, The Revised New General Catalogue of
+  Nonstellar Astronomical Objects (Tucson:  The University of Arizona Press).
+
+van den Bergh, S. and Hagen, G. L. 1968, Astron. J. 73, 569.
+
+Vorontsov-Velyaminov, B. A. 1931, Catalogue of Integrated Photographic
+  Magnitudes of Planetary Nebulae, Astron. Zh. 8, 206.
+
+Vorontsov-Velyaminov, B. A., Krasnogorskaya, A. Arhipova, V. P. 1962-1968,
+  Morphological Catalogue of Galaxies, 4 volumes (Moscow:  Sternberg Institute
+  32, 33, 34, 38).
+
+Zwicky, F. et al. 1961, 1963, 1965, 1966, 1968a, 1968b, Catalogue of Galaxies
+  and of Clusters of Galaxies, I-VI (Pasadena:  California Institute of
+  Technology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      4-4

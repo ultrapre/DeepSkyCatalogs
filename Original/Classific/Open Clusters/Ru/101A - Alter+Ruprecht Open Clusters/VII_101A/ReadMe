@@ -1,0 +1,99 @@
+VII/101A    Star Clusters/Associations. III. Open Clusters (Ruprecht+ 1983)
+================================================================================
+Catalogue of Star Clusters and Associations. III. Open Clusters
+    Ruprecht J., Balazs B., White R.E.
+   <Akademiai Kiado, Publ. House Hungarian Acad. Sciences, Budapest (1981)>
+   <Soviet Astronomy 27, 358 (1983)>
+   =1983SvA....27..358R
+   =1981CSCAS.C......0R
+================================================================================
+ADC_Keywords: Clusters, open ; Bibliography
+
+Description:
+    This catalogue includes the Open Clusters of the supplement up to 1973
+    of the "Catalogue of Star Clusters and Associations" by Alter G.,
+    Ruprecht J., Vanysek V., Budapest 1970.
+
+    The file "main.dat" contains the original data. For each cluster, the
+    first line contains the running number (OCL) followed by various
+    designations. The first five figures represent the galactic longitude
+    (in 0.01degree), 'N' or 'S' for North or South galactic hemisphere,
+    and galactic latitude (in 0.01degree).
+
+    The second line contains the 1950 coordinates, the 50-yr precession,
+    the galactic direction cosines and the position on the POSS charts.
+
+    For each cluster a number of bibliographic records follow containing:
+               YEAR: Year of the literature reference
+               NAME: Author
+        PUBLICATION: Reference
+                 AD: Angular diameter of the cluster in arc minutes
+               DIST: Distance of the cluster (pc)
+                 LD: Linear diameter of the cluster (pc)
+                  N: Number of stars studied
+                 CI: Color index
+                 SP: Spectra
+                  P: Positions
+                 RV: Radial velocity (km/s)
+                 MT: Integrated magnitude
+               NOTE: Notes
+
+  The file "clusters" has been created from first and second lines;
+  missing equatorial coordinates were derived from the galactic
+  ones.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName       Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe             80        .   This file
+clusters.dat       90     1112   List of the open clusters
+main.dat          124    25367   Main catalog and bibliography
+--------------------------------------------------------------------------------
+
+See also:
+   VII/5 : Excerpt of the Catalogue
+   VII/31 : Part I (Associations)
+   VII/44 : Part II (Globular Clusters)
+   VII/92 : Open Cluster Data 5th Edition (Lynga 1987)
+
+Byte-by-byte Description of file: clusters.dat
+--------------------------------------------------------------------------------
+  Bytes  Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+  1- 10   A10    ---     OCL      Cluster name starting with OCL
+ 12- 17   A6     ---     Page     Card (or page) number of the second edition
+ 19- 33   A15    ---     Name     Other name of the association
+ 35- 40   F6.2   deg     GLON    *[0/360[?+=  Galactic longitude
+ 42- 47   F6.2   deg     GLAT    *[-90/+90]? Galactic latitude
+ 49- 50   I2     h       RAh     *[0/24[? Right Ascension 1950 (hours)
+ 52- 55   F4.1   min     RAm     *[0/60[? Right Ascension 1950 (minutes)
+     57   A1     ---     DE-     *Declination 1950 (sign) (1)
+ 58- 59   I2     deg     DEd     *[0/90]? Declination 1950 (degrees)
+ 61- 62   I2     arcmin  DEm     *[0/60[? Declination 1950 (minutes)
+ 65- 81   A17    ---     POSS     Palomar Sky Survey chart with its RA and Dec
+ 84- 86   I3     mm      X        []? Position on the chart
+                                      from lower left corner
+ 88- 90   I3     mm      Y        []? Position on the chart
+                                       from lower left corner
+--------------------------------------------------------------------------------
+Note on GLON, GLAT, RAh, RAm, DE-, DEd, DEm:
+  The position is missing for the last 5 moving clusters.
+  The equatorial coordinates have been computed from galactic
+  ones for additional clusters, i.e. OCL names with decimal figures.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: main.dat
+--------------------------------------------------------------------------------
+   Bytes  Format   Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-130   A130    ---     ref      The bibliography
+--------------------------------------------------------------------------------
+
+Remarks:
+  The file "clusters" was generated at CDS as explained above;
+  the longitude of OCL-105 was corrected, and also the right
+  ascension of OCL-279. At the ADC the Declination of OCL-843.1
+  and of OCL-852.1 were corrected (Jul 1996).
+================================================================================
+(End) Francois Ochsenbein [CDS]; C.-H. Joseph Lyu; P.Kuin [NASA/ADC] 12-Jul-1996

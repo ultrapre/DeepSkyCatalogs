@@ -1,0 +1,195 @@
+http://www.messier.seds.org/xtra/supp/cats.html
+
+
+AM = Catalogue of Southern Peculiar Galaxies and Associations (Arp, Madore [2]): 6,445 peculiar and interacting galaxies found on IIIa-J southern sky survey plates, types, positions and characteristic sizes, cross-identifications and selected photographs; samples are given in [60].
+
+CGCG = Catalogue of Galaxies and Clusters of Galaxies(Zwicky et al. [52]:positions; magnitudes; available redshifts; m(lim) ~ 15.5 mag.; identification charts for some 31,000 northern-hemisphere galaxies.
+
+CGPG = Catalogue of Selected Compact Galaxies and Post-Eruptive Galaxies (Zwicky [51]): positions and descriptions of over 3,700 compact and related galaxies.
+
+CIG = KIG = Catalogue of Isolated Galaxies (Karachentseva [23]): cataloged 1,051 isolated northern-hemisphere galaxies with apparent magnitudes m < 15.7 mag; radial velocity study in [167].
+
+CPG = KDG = Catalogue of Isolated Pairs of Galaxies (Karachentsev [21]): cataloged 603 isolated pairs of northern-hemisphere galaxies with apparent magnitudes of the components m < 15.7 mag; 332 of them show signs of interaction; follow-up radial velocity study [163].
+
+CTG = KTG = Catalogue of Galaxies Triples (Karachentsev [22]): cataloged 84 isolated triples of northern-hemisphere galaxies with apparent magnitudes of the components m < 15.7 mag; finding charts are provided; radial velocity study in [168].
+
+MCG = Morphological Catalogue of Galaxies (Vorontsov-Velyaminov et al. [49]): positions; rough magnitudes; diameters; inclination classes; coded descriptions; about 29,000 galaxies; m(lim) ~ 15.0 mag.
+
+SA = Shapley-Ames Catalogue [42]: one of the earliest and most useful lists containing exclusively galaxies; rough magnitudes; sizes; positions; descriptions; 1249 galaxies; m(lim) ~ 13.0 mag.
+
+SGC = Southern Galaxy Catalogue (Corwin, H.G., de Vaucouleurs, A, and de Vaucouleurs, G. [6]): provides precise positions, morphological types, luminosity classifications, diameters and axial ratios for 5,471 galaxies, larger than 1.5-2.0 arcmin, south of  = -17° found on the UK Schmidt IIIa-J plates.
+
+UGC = Uppsala General Catalogue of Galaxies (Nilson [35]): 12,939 galaxies  > -2 degrees, and with diameters > 1 arcmin or m(pg)  14.5 mag.; diameters; position angles; magnitudes; Hubble types; luminosity classes; cross-references to MCG, NGC, IC, CGCG and other lists.
+
+UGCA = Selected Non-UGC Galaxies (Nilson [36]): 400 late-type spirals, irregulars and dwarf systems; incremental to the UGC.
+
+VCC = Virgo Cluster Catalog (Binggeli et al. [3]): contains listings of 2,096 galaxies in the Virgo cluster.
+
+http://www.danilopivato.com/catalogue/catalogues_list/catalogues_list.html
+Name o number	Name catalogue and of the author	Type of objects, date, collocations and references	
+2dFGRS	2dFGRS Team,	surveys, 245.591 galaxies - (1998-2003) - VII/250	
+2MASS	Hurt, et al.,	Two possible Galactic clusters discovered in the Infrared Two Micron All Sky Survey (2MASS)	
+2SLAQ		2df - SDSS Luminous Red Galaxies and QSO survey - MNRAS 372, 425 - 2006 -	
+8ZW		Eight Zwicky List Of Compact Galaxies - AJ 80, 545 - 1975 -	
+A	A. Antalovà, - Astronomical Institute, Slovak - Skalnaté Pleso	2 open clusters (1970) - X	
+AAVSO	The International Variable Star Index Search VSX	179.221 Variable Star Index - VSX	
+Abell or ACO	Abell, Geogre O. (1958) - Revised by Abell; Corwin & Olowin	rich clusters of Galaxies (Abell+ 1989) - Revised northern & southern "Abell Catalog" - VII/110A	
+Abell or ACO	Abell, Geogre O. and Zwicky	Abell and Zwicky Clusters of Galaxies (Abell+ 1974) -  VII/4A	
+Abell	Abell, George O.	Abell's planetary nebulae - (1966) - X -	
+Abt	Abt, et al., 1980	A single Galactic open cluster - Numbered 1. Mrk 6 = Abt 1	
+ACH	Aurière, et al., 1992	15 globular clusters in M31 the Great Galaxy in Andromeda	
+ADS	Aitken, Robert Grant - Aitken Double Stars	17.180 double star - (1932) - original Catalogue from University of Michigan	
+AGB	Acronym for "asymptotic giant branch"	a feature of globular clusters color-magnitude diagrams	
+AH03		10 possible clusters or asterisms that were other-wise unnamed before now	
+Alessi	Alessi, Bruno - Brazilian amateur astronomer	41 asterisms or open clusters (Dias,+ 2002)	
+AM	Arp - Madore - Barry F. Madore and Halton C. Arp.	119 globular clusters catalog (Arp 1965) - VII/13	
+AM	Arp-Madore - Halton C. Arp, Barry F. Madore - Cambridge Univ.	a catalogue of Southern Peculiar Galaxies and Associations: Positions and Descriptions	
+Ap	Apriamasvili	planetary nebulae	
+ARO	Algonquin Radio Observatory	planetary nebulae	
+Arp	Halton A. Arp - Univ. of Chicago Press	globular clusters in the Galaxy - (1965) -	
+Arp	Halton A. Arp - Arp's Peculiar Galaxies	peculiar Galaxies (Webb 1996) - VII/192	
+ASK	Sanchez Almeida, J.; Aguerri, J. A. L.; Munoz-Tunon, C.; Huertas	Automatic Spectroscopic K means based classification in Local Galaxies	
+Av-Hunter	Av-Hunter - Aveni-Hunter	one open clusters	
+B	Barnard E. E.	349 dark object in the sky (1927) - VII/220A - Data collected Lamperti	
+Bar	Barkhatova K. E.	open clusters in the region of the North America Nebula Sov. Astron., 2, 410.	
+Bas	Basel - Astronomical Institute	galactic star clusters observed in three colours - A&A Suppl. 4, 241-252. Originally 12 open clusters.	
+BD	Bonner Durchmusterung	stars	
+Be	Bernes, C.	bright nebulosities in opaque dust clouds - A&A Supplem. Series, 29 65 1977	
+Ber	Berkeley - Lynga 1979	open clusters gives 90 clusters numbered between 1 and 104	
+Beta, BDS	Burnham, S. W. - Washington, DC,	double Stars within 121 deg of the North Pole - (1906) -	
+Bi	Biurakan - Biurakan Observatory	13 open clusters	
+Blanco	Blanco	open clusters	
+Bo	Bochum	open clusters	
+Bok	Bok, Bart. J., & C. S. Cordwell	globule Bok - A Study of Dark Nebulae (1971) - Steward Observatory. University of Arizona	
+CAIRNS	Rines K. , Geller M.J., Kurtz M.J., Diaferio A.	the cluster and infall region nearby survey (2003) - J/AJ/126/2152	
+Cdn	Dutra C.M., Bica E.	dust clouds in the Galaxy - (2002) - J/A+A/383/631	
+Ced	Cederblad S - Lunds Observatorium	bright diffuse galactic nebulae - (1946) - VII/231	
+CEDAG	A., Mathez G., Nottale L. - Observatoire de Strasbourg	clusters of Galaxies - (Fernandez+ 1984) - VII/88	
+CGCG		galaxies and clusters of galaxies	
+CGMW1 & 2	Saito M., Ohtani H., Asonuma A., Kashikawa	7.000 galaxies behind the Milky Way (Saito+ 1990-91; Roman+ 1996-98) - VII/209A	
+Chandar	Chandar R., Bianchi L., Ford H. C.	60 star clusters in M33 - (Chandar+, 1999) J/ApJS/122/431	
+CPirss	IRAS catalogue of Point Sources	MSX Infrared Astrometric Catalog (Egan+ 1996)	
+Cr	Collinder, Per	471 open clusters, identified on the Franklin-Adams charts	
+Chupina	Chupina	open clusters	
+Cz	Czernik	open clusters	
+Dcld	Hartley M., Manchester R.N., Smith R.M., Tritton S.B., Goss W.	southern dark clouds (Hartley+ 1986) - 1101 dark clouds	
+DDO	David Dunlap Observatory - Sidney van den Bergh	catalogue of low surface brightness galaxies (1966) - Dwarf Galaxies	
+de Mello (?)	de Mello D.F., Infante L., Menanteau F.	faint Interacting Galaxies (de Mello+ 1997) - VII/205	
+Djorg	S. Djorgovski	discovery of three obscured globular clusters - (1987)	
+Do	Dolidze	open clusters	
+Dobashi	Dobashi K., Uehara H., Kandori R., Sakurai T., Kaiden M.,	atlas and Catalog of 5046 Dark Clouds - (2005) - VII/244A	
+DoDz	Dolidze-Dzimselejsvili	open clusters	
+Dun	Dunlop	globular clusters	
+DWB	H. R. Dickel, H. Wendker and J. H. Bieritz	catalog of optically visible H II regions in the Cygnus X Region - (1969) -	
+E	A. Lauberts	three distant stellar clusters found on ESO blue survey plates	
+ESO	European Southern Observatory	southern objects	
+Fein	Feinstein	open clusters	
+Feitzinger	Feitzinger J.V., Stuewe J.A	489 dark nebulae and globules for l=240-360deg (Feitzinger+ 1984) - VII/68A	
+Fr	Frolov	open clusters	
+G	Galactic Supernova Remnant	galactic supernova remnant - (2000) -	
+Gcm31	Galleti S., Federici L., Bellazzini M., Fusi Pecci F., Macrina S.	revised Bologna catalog of M31 globular clusters - (Galleti+, 2004)	
+Glise	Glise W., Jahreiss H.	preliminary version of the third catalogue of nearby stars - Rechen-Institut, Heidelberg - (1991)	
+GMP	Godwin J.G., Metcalfe N., Peach J.V	6724 galaxies in the Coma cluster (Godwin+ 1983) - VII/42A	
+GN	T. Neckel and H. Vehrenberg	galactic Nebula - Anonymous Galactic Nebula from the "Atlas of Galactic Nebulae"	
+Graff	Graff	open clusters - Graff 1 = IC 4756 (Graff's Cluster)	
+Grasdalen	Grasdalen	open clusters	
+Gum	Gum, C. S.	bright nebulae - A Survey of Southern H II Regions - (1955) -	
+H	William Herschel	2500 deep sky objects collected scientific works of William Herschel (1912)	
+H	Harvard	open clusters	
+Haf	Hafner	open clusters	
+Hav-Moffat	Havermeyer and Moffat	open clusters	
+Hbc	Herbig G.H., Bell K.R.	emission-Line Stars of the Orion Population - (Herbig+ 1988) - lists 735 pre-main sequence stars	
+Hcg	Hickson P.	Hickson's compact groups of galaxies (Hickson+ 1982-1994) - Astrophys. J. 380, 30 (1991) - VII/213	
+He2	Henize, Karl G	observations of Southern Planetary Nebulae - (1967) -	
+HH	Reipurth, B.	general Catalogue of Herbig-Haro Objects (Reipurth+, 1999) - V/104	
+Hk83	Hodge P.W., Kennicutt R.C.	atlas of H II Regions in 125 galaxies - A. J.1983 vol. 88 p. 296-328 1983A.J	
+Hogg	Hogg	open clusters	
+Holm	Holmberg	9 galaxies	
+HP	Haute Provence Observatory	5 globular clusters found at the Haute Provence Observatory	
+Hu	Humason	planetary nebulae	
+HyperLeda I	Paturel, G., Petit, C., Prugniel, Ph., Theureau, G., Rousseau,	Identification and designation of galaxies - VII/237	
+HyperLeda II	Paturel, G., Theureau, G., Bottinelli, L., Gouguenheim	the homogenized HI data - VII/238	
+IC	1st and 2nd Index Catalogs to the NGC	all types of objects except dark nebulae (Dreyer J.L.E. 1895 - 1908)	
+Isk	Iskudarian	open clusters	
+Ivanov	Ivanov	2 open clusters	
+J	Jonckheere	planetary nebulae	
+K	Kohoutek	planetary nebulae	
+Khavtassi	Atlas of Galactic Dark Nebulae - J. Khavtassi Tiblisi, Abastumani	galatctic dark nebulae - 1960	
+King	King, Ivan R.	27 open clusters - PASP, Vol. 78, No. 460, p. 81-82 (February 1966).	
+Kr	Krasnogorskaja	planetary nebulae	
+Lac	Lacaille	globular clusters	
+Latysev	Latysev I. N.	2 open clusters	
+LBN	Lynds B.T.	bright diffuse galactic nebulae - Contains both emission and reflection nebulae - VII/9	
+Leda	Extension of PGC catalogue in the Lyon-Meudon Extragalactic	the richest catalogue of homogeneous parameters of galaxies for the largest available sample	
+Loden		open clusters	
+LDN	Lynds B.T.	Catalogue of Dark Nebulae - (Lynds 1962) - Astrophys. J. Suppl. Ser. 7, 1 (updated version) - VII/7A	
+Lund	Lynga, G. - Lund Observatory - Sweden	open clusters - (1987) -	
+Lynga	Lynga, G.	14 open clusters - (1964) -	
+Lynga	Lynga, G., Westerlund B. E.,	483 open clusters in the outer parts of the Large Magellanic Cloud - Catalogue	
+M	Messier - Messier Charles	110 all types of objects except dark nebulae	
+MaxBCG	Koester B.P., McKay T.A., Annis J., Wechsler R.H., +	13.823 galaxy clusters from SDSS (Koester+, 2007) - J/ApJ/660/239	
+Mayer		open clusters	
+MBM	Magnani L., Blitz L., Mundy L.	molecular gas at high Galactic latitudes (1985) - Cat	
+MCG	Vorontsov-Velyaminov+, - Moscow State University	morphological Catalog of 29.000 Galaxies (1962 - 1974) - VII/62A	
+Mcm	Magakian T.Yu	merged catalogue of reflection nebulae - J/A+A/399/141 (2003)	
+Me	Merrill	plantary nebulae	
+MGC	Millennium Galaxy Catalogue - Liske+	69594 galaxies - (2003) - VII/240	
+Mrk	Markarian, B. E.,	open clusters (1951) and galaxies	
+Mrk	B.E. Markarian, V.A Lipovetskii, J.A. Stepanian, L.K. Erastova +	1515 Galaxies (Markarian+, 1989) - VII/172	
+Mel	Melotte - Philibert Jacques Melotte	open clusters shown on the Franklin-Adams chart plates	
+Mi, M1	Minkowski, Rudolph,	new Emission Nebulae - (1946) -	
+M1 to M4	Minkowski	planetary nebulae	
+NBG	Tully R.B - Cambridge University Press	nearby galaxies catalogue - (Tully 1988) - VII/145	
+New	Shapley - Ames	"new" galaxies in the Revised Shapley-Ames Catalog	
+NGC	New General Catalogue of Nebulae & Clusters of Stars	all types of objects except dark nebulae (Dreyer J.L.E. 1888)	
+NGC 2000.0	Sinnott, R.W. - Sky Publishing, ed. Sinnott	the complete New General Catalogue & Index Catalogue by J.L.E. Dreyer - (1988) - VII/118	
+NPM1G		northern proper motion, 1st part, Galaxies	
+Pal	Palomar	15 very faint globular clusters discovered within the POSS (Palomar Observatory Sky Survey).	
+PB	Peimbert and Batiz	planetary nebulae	
+PC	Peimbert and Costero	planetary nebulae	
+PGC	Principal Galaxies Catalogue - G. Paturel, P. Fouque +	an extragalactic database of 983.261 galaxies - (Paturel+, 2003) - VII/237	
+Pi	Pismis - Paris	24 open clusters	
+PK	Perek-Kohoutek - Czechoslovak Academy of Sciences, Prague	Galactic Planetary Nebulae (Kohoutek, 2001) - IV/24	
+Png	Acker A., Ochsenbein F., Stenholm B., Tylenda R., Marcout J.	strasbourg-ESO Catalogue of Galactic Planetary Nebulae (Acker+, 1992) - V/84	
+Prugniel	Prugniel P., Heraudeau P.	general Photometry of Galaxies - (Prugniel+ 1998) - VII/206	
+PTB93	Pasztor, et al.,	possible Galactic open clusters (1994)	
+Qso	Veron-Cetty M.P., Veron P.	quasars and Active Galactic Nuclei BL Lac Objects (11th Ed.) (Veron+, 2003) - VII/235	
+Raab	Raab, S. - Lund Medd. Astron. Obs	open clusters - (1922) -	
+RC3	G. de Vaucoulears, A. de Vaucouleurs, Corwin, Buta and Paturel	third Reference Catalogue of Bright Galaxies - VII/155	
+RCG	Abell, Corwin, Olowin - Strasbourg, France	catalogue of Rich Clusters of Galaxies - (1989) -	
+RCW	Rodgers A.W., Campbell C.T., Whiteoak J.B.	H-alpha emission regions in Southern Milky Way (Rodgers+ 1960) - VII/216	
+RFCG	Revised Flat Galaxy Catalogue - Karachentsev+	the revised flat galaxy catalogue (FGC) - (1999) - - VII/219	
+RNGC	Sulentic J.W., Tifft W.G. - Univ. of Arizona Press	revised New General Catalogue of NonStellar Astronomical Objects (1973) - VII/1B	
+Ro	Roslund, Curt - Astronomical Society of the Pacific	open clusters	
+Ru	Ruprecht, J. 1966 - Astronomical Institute of Czechoslovakia	open clusters - supplement up to 1973 with 1112 open clusters - VII/101A	
+Sa	Sandqvist	dark nebulae	
+Sher		open clusters	
+Sh-2	Sharpless S. - 1959 - (Revised 1991)	HII Regions (Sharpless 1959) - Astrophys. J. Suppl. Ser. 4, 257 (1959) = 1959ApJS....4..257S - VII/20	
+Sigma	F.G.W. Struve	double & multiple stars	
+O Sigma	Otto Struve	double & multiple stars	
+SL	Sandqvist & Lindroos	dark nebulae	
+SL	Shapley & Lindsay	clusters in LMC	
+SN	IAU Central Bureau for Astronomical Telegrams - CBAT	List of recent Supernove	
+Snrs	Green D. A. - Cavendish Laboratory, Cambridge, UK	galactic supernova remnants - (2009) - - VII/253	
+Ste	Stephenson	open clusters	
+St	Stock - Jürgen Stock	open clusters	
+Ter	Terzan - Agop Terzan (France)	11 globulars discovered by Agop Terzan (France) in the infrared	
+TGU	K. Dobashi; H. Uehara; R. Kandori; T. Sakurai; M. Kaiden	atlas & catalog of 2448 dark clouds & 2841 clumps based on DSS I (Dobashi+ 2005) - Atlas+Catalog	
+Tom	Tombaugh, Clyde	open clusters - Small List of Open Clusters	
+Ton	Tonantzintla	2 globulars found at the Tonantzintla observatory	
+Tr	Trumpler R. J. - Lick Obs	open clusters - (1930) -	
+UA		catalog of selected Non-UGC galaxies	
+UGC	Uppsala General Catalog - (Nilson 1973)	12.921 galaxies - (1973) - - VII/26D	
+UGCA	Uppsala General Catalog, Addendum	galaxies	
+UKS	United Kingdom Schmidt	3 globular clusters were cataloged under UKS designations	
+Up	Upgren	open clusters	
+VV	Vorontsov-Velyaminov	interacting galaxies = MCG	
+vdB	van den Bergh -	reflection nebulae (Van den Bergh, 1966) - VII/21 - Photo T. V. Davis	
+vdBH	Van den Bergh S. & Herbst W.	southern stars embedded in nebulosity (1975) - VII/218	
+VdB-Ha	van den Bergh-Hagen - Van den Bergh, S. and Hagen, G. L.,	open clusters - Uniform survey of clusters in the Southern Milky Way	
+Vy	Vyssotsky	planetary nebulae	
+Waterloo	van den Bergh - Waterloo	open clusters	
+WDS	U. S. Naval Observatory	the Washington Double Star Catalog - X	
+Westr	Westerlund	2 open clusters	
+Winnecke	Astronomische Nachrichten No. 1738, vol 73, Feb 8, 1869	seven double Star, Important only as it contains M40	
+Zwicky	Fritz Zwicky - (Zwicky+ 1968) - Bulgarian Academy of Sciences	27.837 galaxies and 29418 entries in CGCG - VII/190	

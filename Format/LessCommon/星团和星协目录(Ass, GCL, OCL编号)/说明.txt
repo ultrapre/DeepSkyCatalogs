@@ -1,0 +1,92 @@
+Catalogue of Star Clusters and Associations
+
+星团和星协目录
+
+这是由Alter，Balazs和Ruprecht所编辑的书籍《Catalogue of Star Clusters and Associations (CSCA)》的第二版所附的书目清单。
+
+包括四个部分：
+第1部分：1039个疏散星团，五个移动星团以及11个恒星群；
+第2部分：70个OB associations；
+第3部分：125个球状星团；
+第4部分：28个河外天体。
+
+
+译者注：按照类型划分本表经常分为三个子目录，分别是
+Ass——星协，
+GCL——球状星团，
+OCL——疏散星团。
+
+
+目录包括银河和赤道坐标，名称，分类，角直径，距离，最亮恒星的光谱类型和星等，总星等，以及色余。
+
+
+
+
+
+
+
+单位说明：
+
+
+Units   Label    Explanations
+--------------------------------------------------------------
+deg     GLON     Galactic longitude
+deg     GLAT     Galactic latitude
+h       RAh      Hours RA, equinox 1950.0
+min     RAm      Minutes RA, equinox 1950.0
+---     DE-      Sign Dec, equinox 1950.0
+deg     DEd      Degrees Dec, equinox 1950.0
+arcmin  DEm      Minutes Dec, equinox 1950.0
+---     Name     Cluster name
+---     Class    Trumbler class. codes, see below.
+                   The following coding is used:
+                       32p  = III 2 p
+                       43pn =  IV 3 p n, etc.
+arcmin  Diam     []? Angular diameter
+pc      Dist     []? Cluster distance
+mag     Mag1     []? Magnitude of brightest stars in cluster
+---     SpType   Spectral type
+---     Code1    Unidentified code
+mag     IntMag   []? Total or integrated magnitude
+                     of the cluster
+---     Code2    Unidentified code
+mag     ColorEx  []? Color excess of the cluster in UBV system
+---     Code3    Unidentified code
+
+
+
+
+
+
+Note: Trumpler classification system (see Trumpler, R. J. 1930,
+      Lick Obs. Bull. 14, 154)
+   First figure:  Appearance (projected distribution of stars)
+      I    Detached cluster with strong central concentration.
+      II   Detached cluster with little central concentration.
+      III  Detached cluster with no noticeable concentration, i.e., a
+           uniform distribution of stars within the cluster boundaries.
+      IV   Cluster that appears more like a star field concentration.
+   Second figure:  Stellar brightnesses
+      1  Most cluster stars are nearly of the same apparent brightness.
+      2  A medium range in the brightnesses of stars.
+      3  Bright and faint stars are both present.  Generally a few very
+         bright stars and some moderately bright stars embedded in a body
+         of fainter stars can be seen.
+   Third figure:  Number of stars
+      p  a poor cluster, n < 50 stars.
+      m  a moderately rich cluster, 50 < n < 100 stars.
+      r  a rich cluster, n > 100 stars.
+   Fourth figure:  Other characteristics
+      e  elongated
+      u  asymmetrical
+      n  associated nebulosity
+
+
+
+
+
+
+References:
+   Alter, G., Balazs, B., and Ruprecht, J.  1970, Catalogue of Star Clusters
+      and Associations, 2nd Edition, Akademiai Kiada Budapest, printed in
+      Hungary (card form)

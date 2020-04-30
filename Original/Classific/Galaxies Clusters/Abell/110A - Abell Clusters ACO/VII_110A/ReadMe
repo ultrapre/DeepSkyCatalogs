@@ -1,0 +1,374 @@
+VII/110A           Rich Clusters of Galaxies (Abell+ 1989)
+================================================================================
+A Catalogue of Rich Clusters of Galaxies
+     Abell G.O., Corwin Jr. H.G., Olowin R.P.
+    <Astrophys. J. Suppl. Ser. 70, 1 (1989)>
+    =1989ApJS...70....1A
+================================================================================
+ADC_Keywords: Clusters, galaxy ; Galaxy catalogs ; Nonstellar objects ;
+              Surveys ; Positional data ; Magnitudes ; Fundamental catalog
+Keywords: galaxies: clusters: general - galaxies: distances and redshifts -
+          galaxies: structure
+
+Description:
+    This is an all-sky catalog of 4073 rich clusters of galaxies, each
+    having at least 30 members within the magnitude range m_3_ to m_3_ + 2
+    (m_3_ is the magnitude of the third brightest cluster member) and each
+    with a nominal redshift less than 0.2. The southern data have been
+    collected from a survey of UK 1.2 m Schmidt telescope IIIa-J plates
+    and films and have been reduced to the systems defined by the northern
+    data previously published by G.O. Abell. A revised northern catalog,
+    including Bautz-Morgan types and redshifts where known, is also
+    included.
+
+Nomenclature Notes:
+    The recommended acronym used to designate the clusters from
+    this list (the "Abell" clusters) is:
+    ACO      (numbers 1 through 4076, 1-2712 being Northern,
+              2713-4076 Southern)
+    ACO S    (numbers 1 through 1174), supplementary Southern clusters.
+    In the literature, the following acronyms have also been found:
+    A , Abell, ABCG, AC, S (the last for supplementary Southern clusters)
+
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl   Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe          80         .    This file
+docu.txt        80       165    Explanation of tables 3-6
+table3.dat     148      2712    Revised northern "Abell Catalog"
+table4.dat     158      1364    Southern "Abell Catalog"
+table5.dat     155      1174    Supplementary southern clusters
+table6.dat     155       274    Overlap zone clusters
+notes.dat       79      3316    Notes to tables 4, 5 and 6.
+--------------------------------------------------------------------------------
+
+See also:
+    VII/4 : Abell and Zwicky Clusters of Galaxies (Abell+ 1974)
+
+Byte-by-byte Description of file: table3.dat
+--------------------------------------------------------------------------------
+   Bytes  Format   Units    Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4   I4      ---      ACO      [1,2712]+ "Abell" number
+   7-  8   I2      h        RAh      right ascension (hours)   (B1950)
+  10- 13   F4.1    min      RAm      [0,60.0] right ascension (minutes)
+      15   A1      ---      DE-      declination sign
+  16- 17   I2      deg      DEd      declination (degrees)     (B1950)
+  19- 20   I2      arcmin   DEm      [0,60.0] declination (minutes)
+  43- 49   A7      ---      BMtype   [- I:] cluster classification in the Bautz-
+                                       Morgan system
+  53- 55   I3      ct       Count    [0,] number of cluster members between m3
+                                       and m3+2, corrected for background
+  87- 88   I2      h        RA2000h  right ascension (hours)   (J2000)
+  90- 93   F4.1    min      RA2000m  [0,60.0] right ascension (minutes)
+      95   A1      ---      DE2000-  declination sign
+  96- 97   I2      deg      DE2000d  declination (degrees)     (J2000)
+  99-100   I2      arcmin   DE2000m  [0,60.0] declination (minutes)
+ 109-111   I3      mm       Xpos     rectangular coordinates of the
+                                       apparent cluster center, referred to the
+                                       south-east (lower left) edge of the
+                                       Palomar Sky Survey prints (x coordinate)
+ 114-116   I3      mm       Ypos     same with above (y coordinate)
+ 119-124   F6.2    deg      GLON     galactic longitude l2
+ 126-131   F6.2    deg      GLAT     galactic latitude b2
+ 134-138   F5.4    ---      z        ? cluster redshift from Struble and Rood
+                                       (1987ApJS...63..555S)
+     141   I1      ---      Rich     richness, from Abell (1958ApJS....3..211A)
+     143   I1      ---      Dclass   distance class, from Abell (1958)
+ 145-148   F4.1    mag      m10      red magnitude of the tenth brightest
+                                       cluster member, from Abell (1958)
+--------------------------------------------------------------------------------
+Note: See file "docu.txt" file in detail.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Byte-by-byte Description of file: table4.dat
+--------------------------------------------------------------------------------
+   Bytes  Format  Units    Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4   I4     ---      ACO      [2713,4076]+ "Abell" number for the
+                                      southern rich cluster
+   7-  8   I2     h        RAh      += right ascension (hours)   (B1950)
+  10- 13   F4.1   min      RAm      [0,60.0] right ascension (minutes)
+      15   A1     ---      DE-      [-]! declination sign
+  16- 17   I2     deg      DEd      declination (degrees)     (B1950)
+  19- 20   I2     arcmin   DEm      [0,60.0] declination (minutes)
+  23- 26   A4     ---      Field    [0-9F]! the Southern Sky Survey Field
+                                      number in which the cluster is located
+  28- 31   I4     mm       Xcen     rectangular coordinates if the apparent
+                                      cluster center, referred to the CENTER of
+                                      the Southern Sky Survey Field (+ = east)
+  33- 36   I4     mm       Ycen     same with above (+ = north)
+  39- 41   A3     ---      Atype    [ IR?:]! cluster classification in Abell's
+                                      system: I = irregu lar, R = regular,
+                                      IR and RI = intermediate, ":" and "?"
+                                      see file "docu.txt"
+  43- 49   A7     ---      BMtype   [- I:?]! cluster classification in the
+                                      Bautz-Morgan system
+      52   A1     ---      ---      [(] open parenthesis for u_Count
+  53- 55   I3     ct       Count    [0,] number of cluster members between m3
+                                      and m3+2, corrected for background
+      56   A1     ---    u_Count    [:*?)] uncertainty of the Count
+  59- 62   F4.1   mag      m1       ? weighted mean total V mag. estimated
+                                      for the first-ranked cluster member (no
+                                      galactic extinction correction has been
+                                      applied)
+      63   A1     ---    u_m1       [:?*] ":" = s.d. of more than +-0.5mag
+                                          "?" = s.d. of more than +-1.0mag
+                                      "*: = known or probable foreground object
+  65- 68   F4.1   mag      m3       weighted mean total V magnitude estimated
+                                      for the third-ranked cluster member
+                                      (again uncorrected)
+      69   A1     ---    u_m3       [:?*] same with u_m1
+  71- 74   F4.1   mag      m10      weighted mean total V magnitude estimated
+                                      for the tenth-ranked cluster member
+                                      (again uncorrected)
+      75   A1     ---    u_m10      [:?*] same with u_m1
+  87- 88   I2     h        RA2000h  [0,23] right ascension (hours)   (J2000)
+  90- 93   F4.1   min      RA2000m  [0,60.0] right ascension (minutes)
+      95   A1     ---      DE2000-  [+-]! declination sign
+  96- 97   I2     deg      DE2000d  [0,90] declination (degrees)     (J2000)
+  99-100   I2     arcmin   DE2000m  [0,60.0] declination (minutes)
+ 103-107   A5     ---      Prev     [ BDdKOQRSs] sources of previous listings
+                                      B = Braid and MacGillivray
+                                      (1978MNRAS.182..241B), etc.
+                                      see file "docu.txt"
+ 109-111   I3     mm       Xpos     rectangular coordinates of the
+                                      apparent cluster center, referred to the
+                                      south-east (lower left) edge of the
+                                      Southern Sky Survey Field (x coordinate)
+ 114-116   I3     mm       Ypos     same with above (y coordinate)
+ 119-124   F6.2   deg      GLON     galactic longitude l2
+ 126-131   F6.2   deg      GLAT     galactic latitude b2
+     133   A1     ---      ---      [(] uncertainty parenthesis, open
+ 134-138   F5.4   ---      z        ? cluster redshift from Struble and Rood
+                                      (1987ApJS...63..555S)
+     139   A1     ---    u_z        [)] uncertainty parenthesis, close
+     141   I1     ---      Rich     richness, from Abell (1958ApJS....3..211A)
+     143   I1     ---      Dclass   distance class, from Abell (1958)
+ 145-148   F4.1   mag      m10A     magnitude of the tenth brightest cluster
+                                      member, corrected for galactic extinction
+                                      following Abell's formula
+     151   I1     ---      NF_1     [1,4] number of fields in which the cluster
+                                      was found
+     152   A1     ---      Obs_1    [ACO]! observer's initial (A = Abell, C =
+                                      Corwin, O = Olowin)
+     153   A1     ---      ---      [,] comma
+     154   I1     ---      NF_2     [1,4]? same with NF_1
+     155   A1     ---      Obs_2    [ACO] same with Obs_1
+     156   A1     ---      ---      [,] comma
+     157   I1     ---      NF_3     [1,4]? same with NF_1
+     158   A1     ---      Obs_3    [ACO] same with Obs_1
+--------------------------------------------------------------------------------
+Note: See file "docu.txt" file in detail.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Byte-by-byte Description of file: table5.dat
+--------------------------------------------------------------------------------
+   Bytes  Format  Units    Label    Explanations
+--------------------------------------------------------------------------------
+       1   A1     ---      S        [S]! prefix to the supplementary southern
+                                      cluster number
+   2-  5   I4     ---      ACOS     [1,1174]+ "Abell" number for supplementary
+                                      southern cluster
+   7-  8   I2     h        RAh      += right ascension (hours)   (B1950)
+  10- 13   F4.1   min      RAm      [0,60.0] right ascension (minutes)
+      15   A1     ---      DE-      [-]! declination sign
+  16- 17   I2     deg      DEd      declination (degrees)     (B1950)
+  19- 20   I2     arcmin   DEm      [0,60.0] declination (minutes)
+  23- 26   A4     ---      Field    [0-9F]! the Southern Sky Survey Field
+                                      number in which the cluster is located
+  28- 31   I4     mm       Xcen     rectangular coordinates if the apparent
+                                      cluster center, referred to the CENTER of
+                                      the Southern Sky Survey Field (+ = east)
+  33- 36   I4     mm       Ycen     same with above (+ = north)
+  39- 41   A3     ---      Atype    [ IR?:] cluster classification in Abell's
+                                      system: I = irregular, R = regular, IR and
+                                      RI = intermediate, ":" and "?"
+                                      see file "docu.txt"
+  43- 49   A7     ---      BMtype   [- I:?]! cluster classification in the
+                                      Bautz-Morgan system
+      52   A1     ---      ---      [(] open parenthesis for u_Count
+  53- 55   I3     ct       Count    number of cluster members between m3
+                                      and m3+2, corrected for background (as a
+                                      result of "universal" correction, it can
+                                      be negative, see paper p11)
+      56   A1     ---    u_Count    [:*?)] uncertainty of the Count
+  59- 62   F4.1   mag      m1       weighted mean total V mag. estimated
+                                      for the first-ranked cluster member (no
+                                      galactic extinction correction has been
+                                      applied)
+      63   A1     ---    u_m1       [:?*] ":" = s.d. of more than +-0.5mag
+                                          "?" = s.d. of more than +-1.0mag
+                                      "*: = known or probable foreground object
+  65- 68   F4.1   mag      m3       weighted mean total V magnitude estimated
+                                      for the third-ranked cluster member
+                                      (again uncorrected)
+      69   A1     ---    u_m3       [:?*] same with u_m1
+  71- 74   F4.1   mag      m10      weighted mean total V magnitude estimated
+                                      for the tenth-ranked cluster member
+                                      (again uncorrected)
+      75   A1     ---    u_m10      [:?*] same with u_m1
+  87- 88   I2     h        RA2000h  [0,23] right ascension (hours)   (J2000)
+  90- 93   F4.1   min      RA2000m  [0,60.0] right ascension (minutes)
+      95   A1     ---      DE2000-  [+-]! declination sign
+  96- 97   I2     deg      DE2000d  [0,90] declination (degrees)     (J2000)
+  99-100   I2     arcmin   DE2000m  [0,60.0] declination (minutes)
+ 103-107   A5     ---      Prev     [ BDdKOQRSs] sources of previous listings
+                                      B = Braid and MacGillivray
+                                      (1978MNRAS.182..241B), etc.
+                                      see file "docu.txt"
+ 109-111   I3     mm       Xpos     rectangular coordinates of the
+                                      apparent cluster center, referred to the
+                                      south-east (lower left) edge of the
+                                     Southern Sky Survey Field (x coordinate)
+ 114-116   I3     mm       Ypos     same with above (y coordinate)
+ 119-124   F6.2   deg      GLON     galactic longitude l2
+ 126-131   F6.2   deg      GLAT     galactic latitude b2
+     133   A1     ---      ---      [(] uncertainty parenthesis, open
+ 134-138   F5.4   ---      z        ? cluster redshift from Struble and Rood
+                                      (1987ApJS...63..555S)
+     139   A1     ---    u_z        [)] uncertainty parenthesis, close
+     141   I1     ---      Rich     richness, from Abell (1958ApJS....3..211A)
+     143   I1     ---      Dclass   distance class, from Abell (1958)
+ 145-148   F4.1   mag      m10A     magnitude of the tenth brightest cluster
+                                      member, corrected for galactic extinction
+                                      following Abell's formula
+     151   I1     ---      NF_1     [1,4] number of fields in which the cluster
+                                      was found
+     152   A1     ---      Obs_1    [ACO]! observer's initial (A = Abell, C =
+                                      Corwin, O = Olowin)
+     153   A1     ---      ---      [,] comma
+     154   I1     ---      NF_2     [1,4]? same with NF_1
+     155   A1     ---      Obs_2    [ACO] same with Obs_1
+--------------------------------------------------------------------------------
+Note: See file "docu.txt" file in detail.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Byte-by-byte Description of file: table6.dat
+--------------------------------------------------------------------------------
+   Bytes  Format  Units    Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4   I4     ---      ABELL    [1,2712] "Abell" number for the clusters in
+                                       the 10 deg overlap zone (-17 to -27 deg)
+   7-  8   I2     h        RAh      += right ascension (hours)   (B1950)
+  10- 13   F4.1   min      RAm      [0,60.0] right ascension (minutes)
+      15   A1     ---      DE-      [-]! declination sign
+  16- 17   I2     deg      DEd      declination (degrees)     (B1950)
+  19- 20   I2     arcmin   DEm      [0,60.0] declination (minutes)
+  23- 26   A4     ---      Field    [0-9F]! the Southern Sky Survey Field
+                                       number in which the cluster is located
+  28- 31   I4     mm       Xcen     rectangular coordinates if the apparent
+                                      cluster center, referred to the CENTER of
+                                      the Southern Sky Survey Field (+ = east)
+  33- 36   I4     mm       Ycen     same with above (+ = north)
+  39- 41   A3     ---      Atype    [ IR?:]! cluster classification in Abell's
+                                      system: I = irregular, R = regular, IR and
+                                      RI = intermediate, ":" and "?"
+                                      see file "docu.txt"
+  43- 49   A7     ---      BMtype   [- I:?] cluster classification in the
+                                      Bautz-Morgan system
+      52   A1     ---      ---      [(] open parenthesis for u_Count
+  53- 55   I3     ct       Count    number of cluster members between m3
+                                      and m3+2, corrected for background
+      56   A1     ---    u_Count    [:*?)] uncertainty of the Count
+  59- 62   F4.1   mag      m1       weighted mean total V mag. estimated
+                                      for the first-ranked cluster member (no
+                                      galactic extinction correction has been
+                                      applied)
+      63   A1     ---    u_m1       [:?*] ":" = s.d. of more than +-0.5mag
+                                          "?" = s.d. of more than +-1.0mag
+                                      "*: = known or probable foreground object
+  65- 68   F4.1   mag      m3       weighted mean total V magnitude estimated
+                                      for the third-ranked cluster member
+                                      (again uncorrected)
+      69   A1     ---    u_m3       [:?*] same with u_m1
+  71- 74   F4.1   mag      m10      weighted mean total V magnitude estimated
+                                      for the tenth-ranked cluster member
+                                      (again uncorrected)
+      75   A1     ---    u_m10      [:?*] same with u_m1
+  87- 88   I2     h        RA2000h  [0,23] right ascension (hours)   (J2000)
+  90- 93   F4.1   min      RA2000m  [0,60.0] right ascension (minutes)
+      95   A1     ---      DE2000-  [+-]! declination sign
+  96- 97   I2     deg      DE2000d  [0,90] declination (degrees)     (J2000)
+  99-100   I2     arcmin   DE2000m  [0,60.0] declination (minutes)
+ 103-107   A5     ---      Prev     [ BDdKOQRSs] sources of previous listings
+                                      B = Braid and MacGillivray
+                                      (1978MNRAS.182..241B), etc.
+                                      see file "docu.txt"
+ 109-111   I3     mm       Xpos     rectangular coordinates of the
+                                      apparent cluster center, referred to the
+                                      south-east (lower left) edge of the
+                                      Southern Sky Survey Field (x coordinate)
+ 114-116   I3     mm       Ypos     same with above (y coordinate)
+ 119-124   F6.2   deg      GLON     galactic longitude l2
+ 126-131   F6.2   deg      GLAT     galactic latitude b2
+     133   A1     ---      ---      [(] uncertainty parenthesis, open
+ 134-138   F5.4   ---      z        ? cluster redshift from Struble and Rood
+                                      (1987ApJS...63..555S)
+     139   A1     ---    u_z        [)] uncertainty parenthesis, close
+     141   I1     ---      Rich     richness, from Abell (1958ApJS....3..211A)
+     143   I1     ---      Dclass   distance class, from Abell (1958)
+ 145-148   F4.1   mag      m10A     magnitude of the tenth brightest cluster
+                                      member, corrected for galactic extinction
+                                      following Abell's formula
+     151   I1     ---      NF_1     [1,4] number of fields in which the cluster
+                                      was found
+     152   A1     ---      Obs_1    [ACO]! observer's initial (A = Abell, C =
+                                      Corwin, O = Olowin)
+     153   A1     ---      ---      [,] comma
+     154   I1     ---      NF_2     [1,4]? same with NF_1
+     155   A1     ---      Obs_2    [ACO] same with Obs_1
+--------------------------------------------------------------------------------
+Note: See file "docu.txt" file in detail.
+--------------------------------------------------------------------------------
+
+
+Byte-by-byte Description of file: notes.dat
+--------------------------------------------------------------------------------
+   Bytes  Format    Units   Label    Explanations
+--------------------------------------------------------------------------------
+       1   A1       ---     Prefix   [AS] prefix to the "Abell" cluster number
+                                      blank for Abell number from table4.dat
+                                      'A'   for Abell number from table6.dat
+                                      'S'   for Abell number from table5.dat
+   2-  5   I4       ---     ACO      [1,4076]? "Abell" number
+   7- 10   A4       ---     Field    [ 0-9F] the Southern Sky Survey Field
+                                       number in which the cluster is located
+  12- 79   A68      ---     Notes    Notes for tables 4-6
+--------------------------------------------------------------------------------
+Note: These files are slightly amended from the published tables. See
+      Notes (2) in the Description above.
+
+================================================================================
+
+Historical Notes:
+  * The files of notes were provided by courtesy of H.G.Corwin to H.
+    Andernach; it was numbered A145 in H. Andernach's "List of Astronomical
+    Catalogues and Documents kindly provided on request by various authors"
+
+  * In this revised version (VII/110A), the tables 7A, 7B and 7C
+    of the paper are appended. The document file, tables 3, 4, 5 and 6 of
+    the previous version (VII/110) have not been changed, except
+    removing spaces between '+/-' signs and data, other than the
+    rectangular coordinates in tables 4, 5, and 6.
+  * In the tables 7A-7C archived here, following changes were made:
+    A letter 'A' was added in front of the northern cluster number.
+    The string 'ASnnnn' for a cluster name was changed to 'Snnnn'.
+    All Abell cluster names are strictly mentioned in the format (A1,I4),
+    e.g. 'A  12' also in the text.
+  * 14-Mar-1994: First archived, Koichi Nakajima <nakajima@higashi.hit-u.ac.jp>
+    (The date of the latest archiving, see the date of each file)
+  * 28-Oct-1995: Inserted zeroes between sign and values of Xcen/Ycen
+    values in tables 4 and 5.
+  * 11-Dec-1999: Merged the notes into a single file
+  * 26-Feb-2004: the missing values of m1 in table4 (3163) and table5 (S286)
+    have been added, thanks to H. Andernach and Harold Corwin.
+  * 28-Mar-2007: in table3, BM type corrected fril "I-III" into "I-II:"
+    for cluster 2503 (private comm. by H. Corwin Jr. to H. Andernach)
+================================================================================
+(End)                                        Koichi Nakajima [CDS]   14-Mar-1994

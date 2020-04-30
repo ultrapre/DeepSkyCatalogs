@@ -1,0 +1,245 @@
+VII/231      Catalog of bright diffuse Galactic nebulae     (Cederblad, 1946)
+================================================================================
+Studies of bright diffuse galactic nebulae with special regard to
+their spatial distribution
+    Cederblad S.
+   <Lund Medd. Astron. Obs. Ser. II, 119, 1 (1946)>
+   =1946MeLu2.119....1C
+================================================================================
+ADC_Keywords: Nebulae ; Diffuse clouds ; Magnitudes
+
+Description:
+    The Catalog of bright diffuse Galactic nebulae was compiled in the
+    frame of a thesis investigating the spatial distribution and the
+    geometrical properties of bright diffuse Galactic nebulae, together
+    with some inquiries into the interstellar absorption problem. It is a
+    mostly complete compilation of the knowledge about bright galactic
+    nebulae around 1945.
+
+    Global parameters derived for each nebula include a classification,
+    the apparent dimensions, and distance estimations; the Catalog
+    includes also extensive notes, and its bibliography covers the period
+    1877 to 1941.
+
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+catalog.dat   148      330   Catalog of bright diffuse Galactic nebulae
+notes.dat      80      889   Bibliographical notes and remarks to the catalog
+refs.dat       80     1507  *Bibliography of books and papers relating to
+                             bright diffuse galactic nebulae, 1877-1941
+--------------------------------------------------------------------------------
+Note on refs.dat:
+    As far as possible the author has consulted the books and papers
+    listed in the Bibliography. When direct checks have not been possible
+    it has been deemed necessary to ensure completion by means of
+    available second hand sources. In some few cases an exact title has
+    not been accessible; a brief reference to the topic in question has
+    then been given within brackets. The abbreviations used have mainly
+    been chosen in accordance with those employed in the Astronomischer
+    Jahresbericht. The periodical publication "Knowledge" is not
+    accessible within Sweden, with the exception of some few Separate
+    numbers. It is thus to be feared that articles relevant in the present
+    connection (e.g. by Barnard, Ranyard, and Roberts) have
+    unintentionally been omitted by the author. As a rule, comprehending
+    reviews of a purely popular kind have been excluded. The references
+    concerning adjoining branches of Astronomy (dark nebulae, novae, open
+    clusters, planetaries) have been restricted to a necessary minimum.
+--------------------------------------------------------------------------------
+
+See also:
+   VII/9 : Lynds' Catalogue of Bright Nebulae (Lynds 1965)
+
+Byte-by-byte Description of file: catalog.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+   1-  3  I3    ---     Ced     [1/215] Sequential number (Ced NNNa in Simbad)
+       4  A1    ---   m_Ced     [a-z] Subdivision letter
+   6- 16  A11   ---     Name    Other name of the nebula
+  17- 18  I2    h       RAh     Right ascension (1900)
+  20- 23  F4.1  min     RAm     Right ascension (1900)
+      24  A1    ---   u_RAm     Uncertainty flag on right ascension
+      25  A1    ---     DE-     Declination sign (1900)
+  26- 27  I2    deg     DEd     Declination (1900)
+  29- 30  I2    arcmin  DEm     ? Declination (1900)
+      31  A1    ---   u_DEd     Uncertainty flag on Declination
+  33- 37  F5.1  deg     G1Lon   Galactic longitude (5)
+  39- 43  F5.1  deg     G1Lat   Galactic latitude(5)
+      44  A1    ---   u_G1Lat   Uncertainty flag on G1Lat
+  45- 56  A12   ---     Star    Star name
+  57- 61  F5.2  mag     pmag    ? Photographic magnitude of the star
+      62  A1    ---   u_pmag    [v:] Uncertainty flag on pmag (v: variable)
+  64- 68  F5.2  mag     vmag    ? Visual magnitude of the star
+      69  A1    ---   u_vmag    [v:] Uncertainty flag on vmag (v: variable)
+  71- 78  A8    ---     SpType  Spectrum of the star associated with the nebula
+  79- 84  F6.3 [arcmin] loga1   ? Value of log(a1) in Hubble's law (1)
+      85  A1    ---   n_loga1   [:] ":"  when no reduction to Hubble's system
+                                     has been possible
+  87- 89  A3    ---     SpNeb   Spectrum of the nebula (2)
+  91- 93  A3    ---     Class   Nebular class (3)
+  96-100  F5.1  arcmin  Dim1    ? Apparent dimension of the nebula
+ 102-106  F5.1  arcmin  Dim2    ? Apparent dimension of the nebula
+     107  A1    ---   n_Dim2    [?:v] Notes on dimensions (v: variable)
+ 109-114  F6.4  arcsec  plx     ? Adopted parallax
+     115  A1    ---   u_plx     Uncertainty flag on plx
+ 117-124  A8    ---     Method  Parallax method used (4)
+ 125-128  I4    pc      Dist    ? Adopted Distance
+     129  A1    ---   u_Dist    Uncertainty flag on Dist
+ 131-135  I5    pc      x       ? Linear heliocentric galactic coordinate
+                                   (x=r*cosl*cosb) (5)
+ 138-142  I5    pc      y       ? Linear heliocentric galactic coordinate
+                                   (y=r*sinl*cosb) (5)
+ 144-147  I4    pc      z       ? Linear heliocentric galactic coordinate
+                                   (z=r*sinb) (5)
+--------------------------------------------------------------------------------
+Note (1): Hubble's law expresses the relation between
+    the brightness (m) of a star illuminating the nebula and its
+    maximal distance (a1) to the nebular boundary, as:
+        m + 5 log(a1) = B
+    where B is a constant equal to 11.61 if a1 is expressed in arcmin,
+    assuming isotropic light reflection and zero absorption.
+
+Note (2): Spectrum of the nebula:
+    E = emission established by observation
+    e = emission inferred from the spectral type of the exciting star
+    C = continuous spectrum established by observations
+    c = continuous spectrum inferred from the spectral type of the
+        illuminating star
+
+Note (3): Classification of Bright Diffuse Nebulae:
+    A: Nebulous clusters.
+       1: Milky nebulosity covering the clusters. (Ex. NGC 1976)
+       2: Patches of nebulosity adhering to individual stars
+          of the cluster. (Ex. The Pleiades)
+       3: Cluster with nebulous envelop of intricate structure.
+          (Ex. NGC 2175)
+    B: Nebulae associated with mainly one star (which may be multiple)
+       1: Star surrounded by a nebulous envelope without conspicuous
+          structure. (Ex. {lambda} Scorpii)
+       2: Star surrounded by a nebulous envelope with conspicuous
+          structure. (Ex. IC 5146)
+       3: Fan-shaped object. (Ex. IC 59)
+       4: Nebula with bright rim. (Ex. IC 434)
+       5: Large nebulous region illuminated by a star outside its border.
+          (Ex. NGC 7000)
+       6: Quasi-planetary, representing a transitional type between
+          real planetaries and bright diffuse nebulae. (Ex. NGC 1514)
+    C: Nebulae without definite relation to certain stars.
+       1: Detached nebula with discernible structure. (Ex. NGC 6992)
+       2: Background veil of a nebulous region. (Ex. The Taurus veil)
+
+Note (4): Methods are marked as follows:
+    a = spectral parallaxes of associated stars
+  b,c = parallaxes from proper motions of associated stars
+    d = differential secular parallaxes according to the method devised
+        by J.C. Kapteyn
+  e,f = parallaxes based on star counts
+    g = dynamical parallaxes of associated stars
+    h = trigonometric parallaxes of associated stars
+    i = minimum parallaxes from foreground stars
+    j = parallaxes from reflection of starlight against dark matter in the
+        case of nebulae associated with novae and variable stars
+    k = parallaxes from internal motions of the nebulae
+    l = parallaxes from the effect of differential galactic rotation on
+        stellar velocities and interstellar line displacements
+    m = parallaxes from intensities of interstellar lines
+    n = parallaxes of open clusters involved in nebulae
+
+Note (5): the galactic coordinates refer to the old system, several
+    degrees away from the modern galactic frame.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: notes.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  3  I3    ---     Ced       [1/215] Sequential number
+   5- 80  A76   ---     Note      Text of the note (1)
+--------------------------------------------------------------------------------
+Note (1): The remarks to the catalogue are self-explanatory.
+     The catalogue acronyms used are:
+    GC = John Herschel's and Dreyer's General Catalogue of nebulae and
+         clusters (Compare ante p 24)., 1888MmRAS..49....1D
+         (NGC Catalog, see <VII/1>)
+     H = William Herschel.
+     h = John Herschel.
+         The designations H, or h, followed by a number, refer to William and
+         John Herschel's successive catalogues of nebulae and clusters.
+         (Compare Chapter I:2).
+     M = Messier, 1850CDT..1784..227M
+    HD = the Henry Draper catalogue, Cat. <III/135>
+  Boss = General Catalogue of 33342 stars for the epoch 1950 by
+         Benjamin Boss, Cat. <I/113>
+
+    In this file have been collected some data and additional references
+    extracted from the card catalogue of bright diffuse galactic nebulae
+    which has been brought together by the author. The current numbers
+    refer to the catalogue entries of the present paper.
+
+    The content of the bibliographical notes may be summarized as follows:
+
+ 1. Synonyms of the objects.
+
+ 2. When known, the name of the discoverer and the year of discovery have
+    been given together with a reference to the source of this data. If
+    the discoverer is not known for certain, the word "source" has been
+    used in combination with a reference to the earliest known paper where
+    the object in question is mentioned. If a series of synonyms is
+    followed by a year of discovery, the discoverer is the last one in the
+    series. Thus, "NGC 3199 = GC 2067 = h3239. Disc.1835", means that the
+    nebula was discovered by John Herschel in 1835.
+
+ 3. Each nebula has been supplied with references to those papers in the
+    bibliography where it has been treated. Here, some restrictions have
+    been introduced with regard to completeness. Thus, a selection has
+    been deemed necessary with regard to published photographical
+    reproductions of galactic nebulae. Further, the author has not aimed
+    at completeness concerning all papers were a certain nebula has only
+    been mentioned without further information of interest.
+
+    References to papers in Holden's bibliography have not been included,
+    as Holden has given no current enumeration. An explicit quotation of
+    these papers - which afford for the most part a historical interest
+    only - would have unduly augmented the present section.
+    Besides, references to earlier publications are to be found in the NGC
+    and in some of the papers of the bibliography, e.g. in (114) and
+    (119). No (481) in the bibliography (Lundmark's manuscript) contains
+    (mostly stellar) data for the following nebulae in the catalogue: No:
+    3, 4, 7, 12, 13, 16, 18, 19, 20 , 22, 25, 28, 30, 31, 32, 34, 35, 37,
+    38, 40, 41, 42, 43, 46, 49, 52, 54, 55, 62, 63, 65, 66, 67, 68, 69,
+    74, 76, 77, 78, 80, 81, 83, 84, 89, 90, 94, 96, 109, 123, 125, 129,
+    130, 131, 132, 133, 139, 151, 152, 154, 157, 161, 163, 165, 176, 179,
+    183, 186, 187, 194, 195, 196, 198, 209, 210, 211.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: refs.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  3  I3    ---     Ref      *Reference number
+   5- 80  A76   ---     Text      Complete reference
+--------------------------------------------------------------------------------
+Note on Ref:
+  * Herassimovitch (343) is identical with Gerasimovic (272).
+    William Huggins' papers are also to be found in "The scientific
+    papers" of Sir William Huggins, London 1909.
+
+  * For (119) the year of publication is not known to the author. The
+    paper is reviewed in the AJB of 1919. It has, however, very likely
+    been printed several years earlier as the name of Peiresc is not
+    mentioned in connection with the discovery of the Orion nebula.
+
+  * (574) refers to articles on galactic nebulae by Ranyard. The exact
+    titles are not known to the author.
+--------------------------------------------------------------------------------
+
+History:
+  * 29-Jan-2001: Prepared via OCR at CDS.
+  * 04-Feb-2009: Declination sign corrected for Ced 71 (thanks to 
+                 Brian Skiff, Lowell Obs.)
+================================================================================
+(End)    James Marcout, Patricia Bauer, Francois Ochsenbein [CDS]    29-Jan-2001

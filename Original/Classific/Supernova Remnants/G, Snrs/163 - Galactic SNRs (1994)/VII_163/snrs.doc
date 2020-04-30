@@ -1,0 +1,365 @@
+
+                  A Catalogue of Galactic Supernova Remnants
+                  ==========================================
+                                  D.A. Green
+
+                      Mullard Radio Astronomy Observatory
+                             Cavendish Laboratory
+                                Madingley Road
+                               Cambridge CB3 0HE
+                                UNITED KINGDOM
+
+                     E-mail (UK): D.A.Green@UK.AC.CAM.MRAO
+                        (non-UK): D.A.Green@MRAO.CAM.AC.UK
+
+
+                            1. The Catalogue Format
+                            -----------------------
+
+This catalogue of Galactic supernova remnants (SNRs) is an updated version of
+those presented in detail in Green (1984, 1988) and in summary form in Green
+(1991) (hereafter Papers I, II, and III respectively). This version contains
+182 SNRs (which is 8 more than in the summary catalogue of Paper III and 26
+more than in the detailed catalogue of Paper II).
+
+A summary of this catalogue will be included in the proceedings of the IAU
+Colloquium 145 on `Supernovae and Supernova Remnants', held in Xian, China,
+1993 May 22 to 29, to be published by Cambridge University Press, editors
+McCray, R. & Wang, Z. This paper should be referenced for this version of the
+catalogue.
+
+For each remnant in the catalogue the following parameters are given:
+
+        * `Galactic Coordinates' of the source centroid quoted to
+          the nearest tenth of a degree as is conventional.
+
+        * `Other Names' that are commonly used for the object. These
+          are given in parentheses if the remnant is only a part of
+          the source.
+
+        * `Right Ascension' and `Declination' of the source
+          centroid. The accuracy of the quoted values depends on the
+          size of the remnant; for small remnants they are to the
+          nearest few seconds of time and the nearest minute of arc
+          respectively, whereas for larger remnants they are rounded
+          to coarser values, but are in every case sufficient to
+          specify a point within the boundary of the remnant. These
+          coordinates are deduced from radio maps rather than from
+          X-ray or optical observations, and are for B1950.0.
+
+        * `Angular Size' of the remnant, in arcminutes, usually
+          taken from the highest resolution radio map available,
+          although for some barely resolved sources that are thought
+          to be SNRs the only available size is that from Gaussian
+          models after deconvolution with the observed beam size. The
+          boundary of most remnants approximates reasonably well to a
+          circle or an ellipse; a single value is quoted for the
+          angular size of the more nearly circular remnants, which is
+          the diameter of a circle with an area equal to that of the
+          remnant, but for elongated remnants the product of two
+          values is quoted, and these are the major and minor axes of
+          the remnant boundary modelled as an ellipse. In a few cases
+          an ellipse is not a satisfactory description of the boundary
+          of the object (refer to the description of the individual
+          object given in its catalogue entry), although an angular
+          size is still quoted for information. For `filled-centre'
+          remnants the size quoted is for the largest extent of the
+          observed radio emission, not, as at times has been used, the
+          half-width of the centrally brightened peak.
+
+        * `Flux Density' of the remnant at 1 GHz in jansky. This is
+          not a measured value, but that deduced from the observed
+          radio frequency spectrum of the source. The frequency of
+          1 GHz is chosen because flux density measurements at
+          frequencies both above and below this value are usually
+          available.
+
+        * `Spectral Index' of the integrated radio emission from the
+          remnant, either a value that is quoted in the literature, or
+          one deduced from the available integrated flux densities of
+          the remnant. For several SNRs a simple spectral model is not
+          adequate to describe their radio emission because there is
+          evidence that the spectral index varies across the face of
+          the remnant or that the integrated spectrum is curved, and
+          in these cases the spectral index is given as `varies'
+          (refer to the description of the remnant and recent
+          references in the catalogue entry for more information). In
+          a few cases, where the remnant is highly confused with
+          thermal emission, the spectral index is given as `?' since
+          no value can be deduced with any confidence.
+
+        * `Type' of the SNR, either `S', `F' or `C' if the remnant
+          shows a `shell', `filled-centre' or `composite' (or
+          `combination') radio structure (or `S?', `F?' or `C?',
+          respectively, if there is some uncertainty), or `?' in
+          several cases where an object is conventionally regarded as
+          an SNR even though its nature is poorly known or not well
+          understood.
+
+                            2. Revisions and Notes
+                            ----------------------
+
+                   2.1 Objects no longer thought to be SNRs
+
+The following objects, which were listed in the catalogue in Paper I, have been
+removed from the catalogue because they are no longer thought to be remnants,
+or are poorly observed (see Paper II for references and further details):
+G2.4+1.4, G41.9-4.1 (=CTB 73, PKS 1920+06), G47.6+6.1 (=CTB 63), G53.9+0.3
+(part of HC40), G93.4+1.8 (=NRAO 655), G123.2+2.9, G194.7+0.4 (the Origem
+Loop), G287.8-0.5, G322.3-1.2 (=Kes 24) and G343.0-6.0.
+
+G350.1-0.3, which was listed in the catalogue in Paper II, was removed as it is
+no longer thought to be a SNR (see Paper III for details). No objects listed in
+the catalogue in Paper III have since been removed.
+
+The following objects, which have been reported as SNRs, but have not been
+included in any of SNR catalogues, have subsequently been shown not to be SNRs:
+
+        * G70.7+1.2 which was reported as a SNR by Reich et al.
+          (1985), but this has not been confirmed by subsequent
+          observations (see Green 1986; de Muizon et al. 1988; Becker
+          & Fesen 1988; Caswell 1988; Bally et al. 1989).
+
+        * G81.6+1.0 a possible SNR in W75 reported by Ward-Thompson
+          & Robson (1991) is instead a thermal source, because of its
+          thermal radio spectrum, and high infrared-to-radio emission
+          (see the observations in Wendker, Higgs & Landecker 1991).
+
+        * Green & Gull (1984) suggested that G227.1+1.0 as a very
+          young SNR, but subsequent observations (Channan et al. 1986;
+          Green & Gull 1986) have shown that this is most likely an
+          extragalactic source, not an SNR.
+
+        * A candidate SNR, G274.7-2.8, identified by Helfand &
+          Channan (1989), has been shown not to be a SNR by Caswell &
+          Stewart (1991).
+
+        * G25.5+0.2, which was reported as a very young SNR by Cowan
+          et al. (1990), although this identification was not certain
+          (see White & Becker 1990; Green 1990; Zijlstra 1991). Sramek
+          et al. (1992) report the detection of recombination lines
+          from this source.
+
+        * Most of the possible SNRs listed by Gorham (1990) have
+          been shown not to be SNRs by Gorham, Kulkarni & Prince
+          (1993).
+
+Some entries in the catalogue have been renamed, due to improved observations
+revealing a larger true extent for the object (G5.3-1.0 is now G5.4-1.2;
+G193.3-1.5 is now G192.8-1.1; G308.7+0.0 is now G308.8-0.1).
+
+
+                                 2.2 New SNRs
+
+The following new remnants were added to the catalogue of Paper II: G0.9+0.1,
+G1.9+0.3, G5.9+3.1, G6.4+4.0, G8.7-0.1, G16.8-1.1, G18.9-1.1, G20.0-0.2,
+G27.8+0.6, G30.7+1.0, G31.5-0.6, G36.6-0.7, G42.8+0.6, G45.7-0.4, G54.1+0.3,
+G73.9+0.9, G179.0+2.6, G312.4-0.4, G357.7+0.3 and G359.1-0.9.
+
+The following new remnants were added to the catalogue of Paper III: G4.2-3.5,
+G5.2-2.6, G6.1+1.2, G8.7-5.0, G13.5+0.2, G15.1-1.6, G16.7+0.1, G17.4-2.3,
+G17.8-2.6, G30.7-2.0, G36.6+2.6, G43.9+1.6, G59.8+1.2, G65.1+0.6, G68.6-1.2,
+G69.7+1.0, G279.0+1.1, G284.3-1.8 (=MSH 10-5(3)), G358.4-1.9 and G359.0-0.9.
+
+Since Paper III, the following SNRs have been added to the catalogue:
+
+       * Three new remnants (G59.5+0.1, G67.7+1.8 and G84.9+0.5) of
+         the the eleven possible SNRs reported by Taylor, Wallace &
+         Goss (1992).
+
+       * G156.2+5.7, which was first identified from X-ray
+         observations by ROSAT (Pfeffermann, Aschenbach & Predehl
+         1991).
+
+       * G318.9+0.4, a complex of radio arcs reported by Whiteoak
+         (1990).
+
+       * G322.5-0.1, reported by Whiteoak (1992).
+
+       * G343.1-2.3, an incomplete radio shell, with an associated
+         pulsar (McAdam, Osborne & Parkinson 1993).
+
+       * G348.5-0.0, a radio arc near G348.5+0.1 (=CTB 37A),
+         revealed by Kassim, Baum & Weiler (1991).
+
+
+                 2.3 Possible SNRs not listed in the catalogue
+
+The following are possible SNRs for which further observations are required to
+confirm their nature.
+
+       * Eight possible remnants (G45.9-0.1, G55.2+0.5, G63.7+1.1,
+         G71.6-0.5, G72.2-0.3, G76.9+0.9, G83.0-0.2 and G85.2-1.2) of
+         the the eleven reported by Taylor, Wallace & Goss (1992).
+
+       * G287.6-0.6 and G343.0-6.0 --- both of which were listed in
+         Paper I as SNRs but have been removed from the catalogue
+         because only limited observations are available --- should
+         be considered as possible SNRs (see Tateyama, Strauss &
+         Kaufmann 1991 for G287.6-0.6).
+
+       * G284.2-1.8 (=MSH 10-5(3)), which was listed in early SNR
+         catalogues, but subsequently rejected because of its
+         apparent thermal spectrum (see Paper II for details). Ruiz &
+         May (1986) report optical and CO radio observations that
+         indicate the presence of shock-excited material, supporting
+         the SNR identification, although the parameters of any SNR
+         are not well defined.
+
+       * A possible SNR within the Puppis A remnant (Winkler et al.
+         1989).
+
+       * G300.1+9.4, a possible SNR reported by Dubner, Colomb &
+         Giacani (1986).
+
+       * G203.2-12.3, a filamentary optical ring identified as a
+         SNR by Winkler & Reipurth (1992).
+
+       * G315.8-0.0, a possible `shell' SNR with a remarkable
+         collimated `jet' of radio emission, reported by Kesteven et
+         al. (1987), although this source has an unusually steep
+         spectrum.
+
+       * A possible SNR near l=32d reported by Thompson, Djorgovski
+         & Decarvalho (1991).
+
+       * A faint, poorly defined possible remnant G41.1+1.2
+         reported by Gorham, Kulkarni & Prince et al. (1993).
+
+       * A possible large SNR in Lupus near l=347d, b=22d (Reigler,
+         Agrawal & Gull 1980; Colomb, Dubner & Giacani 1984).
+
+       * G1.0-0.1, a possible SNR near the Galactic centre reported
+         by Downes et al. (1978).
+
+       * G75.5+2.4, a possible old SNR in Cygnus (Nichols-Bohlin &
+         Fesen 1993).
+
+Other possible SNRs are reported by Ho et al. (1985), Gosachinskii (1985),
+Odegard (1986), Fuerst, Reich & Sofue (1987), Routledge & Vaneldik (1988),
+Kassim (1988), Helfand et al. (1989), Meaburn et al. (1991), Leahy, Nousek &
+Garmire (1992), and Dubner et al. (1992).
+
+Finally, it should be noted that some radio loops in the Galactic plane (see
+Berkhuijsen 1973) may be parts of very large, old SNRs, but they have not been
+included in the catalogue.
+
+
+                 2.4 Questionable SNRs listed in the catalogue
+
+As noted in Paper II, the following sources are listed in the catalogue as
+SNRs, although, as discussed in each case, the identifications are not certain:
+G5.4-1.2, G39.7-2.0 (=W50), G65.7+1.2 (=DA 495), G69.0+2.7 (=CTB 80),
+G357.7-0.1. The nature of G318.9+0.4 is also uncertain (see Whiteoak 1990).
+
+There are also many objects that have been identified as SNRs and are listed in
+the catalogue, although they have been barely resolved in the available
+observations, or are faint, and have not been well separated from confusing
+background or nearby thermal emission, and their identification as SNRs, or at
+least their parameters remain uncertain (see Paper II).
+
+
+                            3. A Detailed Catalogue
+                            -----------------------
+
+A detailed (paper) version of this catalogue is available from the author on
+request. This includes, for each remnant, notes on a variety of topics. First,
+it is noted if other Galactic coordinates have at times been used to label it
+(usually before good observations have revealed the full extent of the object),
+if the SNR is thought to be the remnant of a historical SN, or if the nature of
+the source as an SNR has been questioned (in which case an appropriate
+reference is usually given later in the entry). Brief descriptions of the
+remnant from the available radio, optical and X-ray observations as applicable
+are then given, together with notes on available distance determinations, and
+any point sources or pulsars in the field of the object (although they may not
+necessarily be related to the remnant). Finally, appropriate references are
+given for each remnant, complete with journal, volume, page, and a short
+description of what information each paper contains (for radio observations
+these include the telescopes used, the observing frequencies and resolutions,
+together with any flux density determinations). These references are not
+complete, but cover representative and recent observations of the remnant, and
+they should themselves include references to earlier work. This version of the
+catalogue contains nearly two hundred more references in the detailed listings
+than in Paper II. The references do not generally include large observational
+surveys --- of particular interest in this respect are: the Effelsberg 100-m
+survey at 2.7 GHz of the Galactic plane 358d < l < 240d, |b| < 5d by Reich et
+al. (1990) and Fuerst et al. (1990); the review of Einstein X-ray imaging and
+FPCS observations of Galactic SNRs by Seward (1990) and Lum et al. (1992)
+respectively; the survey of IRAS observations of SNRs and their immediate
+surroundings by Arendt (1989) and by Saken, Fesen & Shull (1992); and the
+survey of HI emission towards SNRs by Koo & Heiles (1991).
+
+
+                                  References
+                                  ----------
+
+Arendt, R.G., 1989. ApJS, 70, 181.
+Bally, J., Pound, M.W., Stark, A.A., Israel, F., Hirano, N., Kameya, O.,
+   Sunada, K., Hayashi, M., Thronson, H. Jr & Hereld, M., 1989. ApJ, 338, L65.
+Becker, R.H. & Fesen, R.A., 1988. ApJ, 334, L40.
+Berkhuijsen, E.M., 1973. AA, 24, 143.
+Caswell, J.L., 1988. In SNRISM, p269.
+Caswell, J.L. & Stewart, R.T., 1991. PASA, 9, 103.
+Caswell, J.L. Kesteven, M.J., Stewart, R.T., Milne, D.K. & Haynes, R.F., 1992.
+   ApJ, 399, L151.
+Channan, G.A., Helfand, D.J., Spinrad, H. & Ebneter, K., 1986. Nature, 320, 41.
+Colomb, F.R., Dubner, G.M. & Giacani, E.B., 1984. AA, 130, 294.
+Cowan, J.J., Ekers, R.D., Goss, W.M., Sramek, R.A., Roberts, D.A. & Branch, D.,
+   1989. MN, 241, 613.
+de Muizon, M., Strom, R.G., Oort, M.J.A., Claas, J.J. & Braun, R., 1988. AA,
+   193, 248.
+Downes, D., Goss, W.M., Schwarz, U.J. & Wouterloot, J.G.A., 1978. AAS, 35, 1.
+Dubner, G.M., Colomb, F.R. & Giacani, E.B., 1986. ApJ, 91, 343.
+Dubner, G., Giacani, E., Cappa de Nicolau, C., & Regnoso, E., 1992. AAS, 96,
+   505.
+Fuerst, E., Reich, W. & Sofue, Y., 1987. AAS, 71, 63.
+Fuerst, E., Reich, W., Reich, P. & Reif, K., 1990, AAS, 85, 691.
+Gorham, P.W., 1990. ApJ, 364, 187.
+Gorham, P.W., Kulkarni, S.K. & Prince, T.A., 1993. AJ, 105, 314.
+Gosachinskii, I.V., 1985. SA, 29, 128.
+Green, D.A., 1984. MN, 209, 449 (Paper I).
+Green, D.A., 1986. MN, 219, 39P.
+Green, D.A., 1988. ASS, 148, 3 (Paper II).
+Green, D.A., 1990. AJ, 100, 1241.
+Green, D.A., 1991. PASP, 103, 209 (Paper III).
+Green, D.A. & Gull, S.F., 1984. Nature, 312, 527.
+Green, D.A. & Gull, S.F., 1986. Nature, 320, 42.
+Helfand, D.J. & Channan, G.A., 1989. AJ, 98, 1652.
+Helfand, D., Velusamy, T., Becker, R.H. & Lockman, F.J., 1989. ApJ, 341, 151.
+Ho, P.T., Jackson, J.M., Barrett, A.H. & Armstrong, J.T., 1985. ApJ, 288, 575.
+Kassim, N.E., 1988. ApJ, 328, L55.
+Kassim, N., Baum, S.A. & Weiler, K.W., 1991. ApJ, 374, 212.
+Kesteven, M.J., Caswell, J.L, Roger, R.S., Milne, D.K., Haynes, R.F. &
+   Wellington, K.J., 1987. AJP, 40, 855.
+Koo, B.-C. & Heiles, C., 1991. ApJ, 382, 204.
+Leahy, D.A., Nousek, J. & Garmire, G., 1992, ApJ, 385, 561.
+Lum, K.S.K., Canizares, C.R., Clark, S.W., Coyne, J.M., Markert, T.H., Saez,
+   P.J., Schattenburg, M.L. & Winkler, P.F., 1992, ApJS, 78, 423.
+McAdam, W.B., Osborne, J.L. & Parkinson, M.L., 1993. Nature, 361, 516.
+Meaburn, J., Goudis, C., Solomos, N. & Laspias, I., 1991. AA, 252, 291.
+Nichols-Bohlin, J. & Fesen, R.A., 1993. AJ, 105, 672.
+Odegard, N., 1986. AJ, 92, 1372.
+Pfeffermann, E., Aschenbach, B. & Predehl, P., 1991. AA, 246, L28.
+Reich, W., Fuerst, E., Altenhoff, W.J., Reich, P. & Junkes, N., 1985. AA, 151,
+   L10.
+Reich, W., Fuerst, E., Reich, P. & Reif, K., 1990, AAS, 85, 633.
+Reigler, G.R., Agrawal, P.C. & Gull, S.F., 1988. ApJ, 235, L71.
+Routledge, D. & Vaneldik, J.F., 1988. ApJ, 326, 751.
+Ruiz, M.T. & May, J., 1987. ApJ, 309, 667.
+Saken, J.M., Fesen, R.A. & Shull, J.M., 1992. ApJS, 81, 715.
+Seward, F.D., 1990. ApJS, 73, 781.
+Sramek, R.A., Cowan, J.J., Roberts, D.A., Goss, W.M. & Ekers, R.D., 1992. AJ,
+   104, 705.
+Tateyama, C.E., Strauss, F.M. & Kaufmann, P., 1991. MN, 249, 716.
+Taylor, A.R., Wallace, B.J. & Goss, W.M., 1992. AJ, 103, 931.
+Thompson, D.J., Djorgovski, S. & Decarvalho, R.R., 1991. PASP, 102, 487.
+Ward-Thompson, D. & Robson, 1991. MN, 248, 670.
+Wendker, H.I., Higgs, L.A. & Landecker, T.L., 1991. AA, 241, 551.
+White, R.L. & Becker, R.H., 1990. MN, 244, 12P.
+Whiteoak, J.B.Z., 1990. Nature, 347, 157.
+Whiteoak, J.B.Z., 1992. MN, 256, 121.
+Winkler, P.F. & Reipurth, B., 1992. ApJ, 389, L25.
+Winkler, P.F., Kirshner, R.P., Hughes, J.P. & Heathcote, S.R. 1989. Nature,
+   337, 48.
+Zijlstra, A.A., 1991. MN, 248, 11P.
+

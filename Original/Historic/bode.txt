@@ -1,0 +1,60 @@
+  1   IC 1434 ! (?)         Bode's probable discovery
+  2   M32 
+  3   M31 
+  5   M33 [!] Aug 18, 1775
+  7   M34 [!] Sep  2, 1774
+  8   M45          
+  9   M38     Nov  2, 1774
+ 10   M42     late 1775     M43 [!] mentioned in description
+ 11   M1      Nov  8, 1774
+ 12   M36     Nov  2, 1774
+ 13   M37 [!] Nov  2, 1774
+ 14   M35     
+ 15   M41 
+ 16   M50 (!) Dec  2, 1774
+ 17   M81  !  Dec 31, 1774
+ 18   M82  !  Dec 31, 1774
+ 19   Cr140               Lac II.2
+ 20   M44
+ 21   NGC2477              Lac I.3
+ 22   NGC2546              Lac II.4
+ 23   M40 (-)               Messier's position of M40, Winnecke 4
+ 25   M51 (!) Jan 5 (or 15), 1774
+ 26   M53  !  Feb  3, 1775
+ 27   M83                   Lac I.6
+ 29   M5          
+ 30   M13     Sep  9, 1774
+ 31   M4      
+ 32   M12 [!] Aug 14, 1774
+ 33   M10 [!] Aug 14, 1774
+ 35   M19 
+ 36   M9          
+ 37   M14 
+ 39   M6          
+ 41   M7                    = Lac II.14 
+ 42   M23 
+ 44   M8                    (pt of M8 ?)
+ 45   M8                    Le Gentil's position of M8
+ 46   NGC6634              Lac I.11; probably not M69
+ 47   M20 
+ 48   NGC6530              7 Sgr, near M8 - Fla 2446
+ 49   M8                    Messier's position of M8, near 9 Sgr
+ 50   M21 
+ 51   M24     
+ 52   M16          
+ 53   M18          
+ 54   M17          
+ 56   M25    
+ 57   M22         
+ 58   M28  ?                (pos error; later corrected)
+ 59   M26         
+ 62   M11     Oct  8, 1774
+ 63   M55                   Lac I.14
+ 67   M27            
+ 68   M30            
+ 69   M29 [!] Dec  5, 1774  
+ 70   M2  [!] Sep (or Oct) 22, 1775  
+ 71   M15 [!] Sep 23, 1774
+ 75   M39 [!] Oct 27, 1774
+76  M92  !  Dec 27, 1777
+77  M64 (!) Apr  4, 1779

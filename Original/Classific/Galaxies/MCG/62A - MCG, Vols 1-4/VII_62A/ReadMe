@@ -1,0 +1,108 @@
+VII/62A   Morphological Cat. of Gal. (MCG)   (Vorontsov-Velyaminov+, 1962-1974)
+================================================================================
+Morphological Catalog of Galaxies (MCG)
+    Vorontsov-Velyaminov B.A., Krasnogorskaya A.A.
+     <Part I (+90 to +45deg) Trudy Gosud. Astron. Inst. Sternberg 32 (1962)>
+    Vorontsov-Velyaminov B.A., Arkhipova V.P.
+     <Part II (+45 to +15 deg) Trudy Gosud. Astron. Inst. Sternberg 34 (1964)>
+    Vorontsov-Velyaminov B.A., Arkhipova V.P.
+     <Part III (+15 to -09 deg) Trudy Gosud. Astron. Inst. Sternberg 33 (1963)>
+    Vorontsov-Velyaminov B.A., Arkhipova V.P.
+     <Part IV (-09 to -33 deg) Trudy Gosud. Astron. Inst. Sternberg 38 (1968)>
+    =1962TrSht..32....1V        (SIMBAD/NED References)
+    =1963TrSht..33....1V
+    =1964TrSht..34....1V
+    =1968TrSht..38....1V
+================================================================================
+ADC_Keywords: Galaxy catalogs ; Morphology
+
+Description:
+    The catalog is a compilation of information for approximately 34000
+    galaxies found and examined on the Palomar Observatory Sky Survey
+    (POSS). Individual identifiers are assigned for about 29000 galaxies
+    and information on the remaining 5000 is present in the extensive
+    notes of the published catalogs (Vorontsov-Velyaminov et al.
+    1962-1968). The catalog is structured according to the POSS zones,
+    counting from the equator, and is numbered from +15 (corresponding to
+    +90 deg) to +01 (+06 zone) and +00 (equatorial zone) to -05 (-30
+    zone); the fields are numbered with increasing right ascension. The
+    catalog includes cross-identifications to the NGC (Dreyer 1888) and IC
+    (Dreyer 1895, 1908) catalogs, equatorial coordinates for B1950.0,
+    magnitudes, estimated sizes and intensities of the brighter inner
+    region and the entire object, and estimated inclinations.
+
+See also:
+    VII/100 : Part V (declination -33 to -45deg,
+             published as Trudy Gosud. Astron. Inst. Sternberg 46, 1974)
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl    Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe          80          .    This file
+adc.doc         80        779    Documentation by Wayne H. Warren Jr.
+mcg.dat         67      29003    The MCG Catalogue, Vols 1-4
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: mcg.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1- 14  A14    ---     MCG      Morphological Catalog of Galaxies (MCG) number
+      15  A1     ---     n_MCG    '*' if there is a note in the
+                                    published version
+  16- 24  A9     ---    OtherName Catalog number in the NGC or IC
+  25- 26  I2     h       RAh      Hours RA, equinox 1950.0
+  27- 31  F5.2   min     RAm      Minutes RA, equinox 1950.0
+      32  A1     ---     DE-      Sign Dec, equinox 1950.0
+  33- 34  I2     deg     DEd      Degrees Dec, equinox 1950.0
+  36- 37  I2     arcmin  DEm      Minutes Dec, equinox 1950.0
+  39- 43  F5.2   mag     Mag      [6/21]? Photographic Magnitude
+  44- 48  F5.1 0.1arcmin MajAxisIn ]0/500]? Diameter of the major axis,
+                                    bright inner part
+  49- 53  F5.1 0.1arcmin MinAxisIn ]0/500]? Diameter of the minor axis,
+                                    bright inner part
+  54- 59  F6.1 0.1arcmin MajAxis  ]0/1600]? Diameter of major axis,
+                                    entire galaxy
+  60- 64  F5.1 0.1arcmin MinAxis  ]0/500]? Diameter of minor axis,
+                                    entire galaxy
+      65  I1     ---     IntIn    []? [1/6] Intensity of inner region
+                                    of the galaxy from 1 (completely black
+                                    image) to 6 (image barely visible).
+      66  I1     ---     IntOut   [1/6]? Intensity of outer region of the galaxy
+      67  A1     ---     Incl     [1-5?] Inclination of the principle Plane
+                                         from 1 (face on) to 5 (edge on).
+                                         '?'= uncertainty.
+--------------------------------------------------------------------------------
+
+Historical Notes:
+  * 18-Nov-1994:
+    Compared to the "Selected Astronomical Catalogs" Vol. 1 CD-ROM (1992),
+    directory "nonstell/galaxies/mcg", the following errors have been
+    corrected:
+    - Misalignements in records 6734 10857 13382 25010
+    - Errors in the "Incl" parameter for records
+        3601(MCG+09-11-008) 4053(MCG+09-16-022) 6928(MCG+08-30-002)
+        13323(MCG+04-06-049)
+    - Error in "MajorAxis" parameter for record 19653(MCG+01-37-012)
+  * 22-Oct-1996: Gail L. Schneider (SSDOO/ADC)
+    - Error in "MCG" for record 4341 corrected
+      For: MCI+09-19-067  Read: MCG+09-19-067
+  * 09-Jan-2001: Units of Major/Minor Axises were reported as arcmin --
+    but are tenths of arcminutes.
+
+References:
+   Dreyer, J.L.E. 1888, "New General Catalogue of Nebulae and Clusters of
+      Stars", MmRAS Soc. 49, Part I (London: Royal Astronomical Society 1962,
+      reprinted)
+   Dreyer, J.L.E. 1895, "Index Catalogue of Nebulae found in the Years 1888-
+      1894, with Notes and Corrections to the New General Catalogue", MmRAS
+      Soc. 51, 185 (London: Royal Astronomical Society 1962, reprinted)
+   Dreyer, J.L.E. 1908,"Second Index Catalogue of Nebulae and Clusters of
+      Stars, containing Objects found in the years 1895-1907, with Notes and
+      Corrections to the New General Catalogue and to the Index Catalogue for
+      1888-1894", MmRAS Soc. 59, Part 2, 105 (London: Royal Astronomical
+      Society 1962, reprinted)
+
+================================================================================
+(End)                                    Francois Ochsenbein [CDS]   18-Nov-1994

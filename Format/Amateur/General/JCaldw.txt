@@ -1,0 +1,122 @@
+NGC104        
+HR126/27/36   
+NGC253        
+HR545/6       
+NGC1068       
+HR897/8       
+NGC1535       
+NGC1976       
+HR1899        
+NGC2070       
+HR2356/7/8    
+NGC3132 Vel   
+HR4057/8      
+NGC3242 Hya   
+NGC3372       
+NGC3627       
+HR4730/31     
+NGC4472       
+NGC4486       
+NGC4594 Vir   
+NGC4649       
+NGC4725       
+NGC4755 Cru   
+NGC4826 Com   
+NGC5128       
+NGC5139       
+NGC5236       
+HR5459/60     
+NGC5904       
+HR5788/9      
+HR5984/5      
+HR6406/7      
+NGC6514 Sgr   
+NGC6572       
+HR7141/2      
+NGC6744       
+NGC6752       
+NGC6853 Vul   
+HR7947/8      
+NGC7009 Aqr   
+NGC7078       
+NGC7089       
+NGC7793       
+NGC224        
+NGC292        
+NGC598 Tri    
+Tau           
+NGC1499 Per   
+HR1387/8      
+Mel25 Tau     
+HR1411/2      
+LMC           
+HR1851/2      
+Cr69          
+HR1983        
+NGC2168       
+NGC2232       
+NGC2237/9 Mon 
+NGC2264 Mon   
+NGC2287       
+Cr135         
+NGC2422       
+NGC2451       
+NGC2516       
+HR3206/7      
+NGC2547       
+NGC2632 Cnc   
+IC2391        
+NGC3114       
+IC2602        
+HR4231/4      
+Mel 111       
+HR4763/4      
+HR4898/9      
+HR5395/6      
+HR5530/1      
+NGC6025       
+HR6020/1      
+NGC6121       
+NGC6205       
+NGC6231       
+NGC6405       
+NGC6397       
+IC4665        
+NGC6475       
+NGC6523 Sgr   
+M24           
+NGC6611 Ser   
+NGC6618 Sgr   
+NGC6633       
+IC4725        
+HR6934/8      
+NGC6656       
+HR7051/2/3/4  
+HR7056/7      
+NGC6705       
+HR7131/9      
+HR7417/8      
+HR7747/54     
+NGC6992/5     
+NGC7000 Cyg   
+HR8097        
+NGC7293 Aqr   
+HR596         
+HR804         
+HR1713        
+HR1788        
+HR1948/9      
+HR2491        
+HR3485        
+HR4819        
+HR4825/6      
+HR4844        
+HR5267        
+HR5477/8      
+HR5605/6      
+HR5977/8      
+HR6026/7      
+HR6134        
+HR6752        
+HR7226/7      
+HR8558/9      

@@ -1,0 +1,110 @@
+NGC55            Dunlop        0 15.1  -  39 13   Gal    Scl    7.9   32
+NGC104 47 Tuc    Lacaille      0 24.1  -  72  4   GC     Tuc    4.0   44    NGC 121
+NGC224 M 31      Al-Sufi       0 42.7  +  41 16   Gal    And    3.4  191    M 32, M 110
+NGC253            C Herschel    0 47.6  -  25 17   Gal    Scl    7.2   28    NGC 288
+SMC (Small cloud)   prehistoric   0 52.6  -  72 48   Gal    Tuc    2.3  316    NGC 346
+NGC300            Dunlop        0 54.9  -  37 40   Gal    Scl    8.1   22
+NGC362            Dunlop        1  3.2  -  70 51   GC     Tuc    6.4   18    NGC 371
+NGC457            W Herschel    1 19.7  +  58 17   OC     Cas    6.4   12    NGC 281
+NGC598 M 33      Hodierna?     1 33.8  +  30 39   Gal    Tri    5.7   71
+NGC869            prehistoric   2 19.0  +  57  8   OC     Per    5.3   30
+NGC884            prehistoric   2 22.5  +  57 10   OC     Per    6.1   30
+NGC1068 M 77      Méchain       2 42.7  -   0  0   Gal    Cet    8.9    7    NGC 1055
+NGC1291            Dunlop        3 17.3  -  41  6   Gal    Eri    8.5   10
+NGC1313            Dunlop        3 18.3  -  66 29   Gal    Ret    8.7    9
+NGC1316            Dunlop        3 22.7  -  37 12   Gal    For    8.5   12    NGC 1399
+NGC1435 Merope    Tempel        3 46.1  +  23 47   DN     Tau          20    M 45
+NGC1535            W Herschel    4 14.3  -  12 44   PN     Eri    9.7  0.4
+NGC1851            Dunlop        5 14.1  -  40  3   GC     Col    7.1   13    NGC 1792
+LMC (Large cloud)   prehistoric   5 23.6  -  69 45   Gal    Dor    0.4  646    NGC 1850
+NGC1952 M  1      Bevis         5 35.0  +  22  2   DN     Tau           5
+NGC1977 42 Ori    W Herschel    5 35.3  -   4 49   DN     Ori          15    NGC 1975
+NGC1976 M 42      Pieresc       5 35.5  -   5 28   DN     Ori          30    M 43
+NGC2024 Zeta Ori  W Herschel    5 41.9  -   1 51   DN     Ori          15    NGC 2023
+NGC2068 M 78      Méchain       5 46.7  +   0  3   DN     Ori           5
+NGC2099 M 37      Hodierna      5 52.4  +  32 33   OC     Aur    5.6   25    NGC 1931
+NGC2070 Tarantula Lacaille      5 38.6  -  69  5   DN     Dor          20    NGC 2035
+NGC2168 M 35      De Chéseaux   6  9.1  +  24 20   OC     Gem    5.1   40    NGC 2158
+NGC2287 M 41      Hodierna      6 45.9  -  20 46   OC     Cma    4.5   31
+NGC2392            W Herschel    7 29.2  +  20 55   PN     Gem    9.5  0.3
+NGC2403            W Herschel    7 36.9  +  65 35   Gal    Cam    8.5   22
+NGC2437 M 46      Messier       7 41.6  -  14 50   OC     Pup    6.1   25    NGC 2438
+NGC2440            W Herschel    7 41.9  -  18 13   PN     Pup    9.5  0.3
+NGC2447 M 93      Messier       7 44.7  -  23 50   OC     Pup    6.2   22    NGC 2467
+NGC2477            Lacaille      7 52.2  -  38 32   OC     Pup    5.8   27    NGC 2451
+NGC2516            Lacaille      7 58.0  -  60 45   OC     Car    3.8   50
+NGC2547            Lacaille      8 10.2  -  49 12   OC     Vel    4.7   20    also DN
+NGC2682 M 67      Koehler       8 51.5  +  11 50   OC     Cnc    6.9   16
+NGC2808            Dunlop        9 12.1  -  64 51   GC     Car    6.2   19
+NGC2903            W Herschel    9 32.2  +  21 30   Gal    Leo    9.0   13
+NGC3031 M 81      Bode          9 55.6  +  69  4   Gal    UMa    6.9   27    NGC 3077
+NGC3034 M 82      Bode          9 55.9  +  69 40   Gal    UMa    8.4   11
+NGC3114            Dunlop       10  2.2  -  60  6   OC     Car    4.2   40
+NGC3115            W Herschel   10  5.2  -   7 43   Gal    Sex    8.9    7
+NGC3201            Dunlop       10 17.6  -  46 24   GC     Vel    6.8   29    NGC 3132
+NGC3242            W Herschel   10 24.8  -  18 39   PN     Hya    8.7  0.4
+NGC3293            Lacaille     10 35.9  -  58 13   OC     Car    4.7    8    NGC 3199
+NGC3372 Eta Car   Lacaille     10 43.8  -  59 52   DN     Car          85    NGC 3324
+NGC3532            Lacaille     11  5.5  -  58 44   OC     Car    3.0   60    NGC 3582
+NGC3521            W Herschel   11  5.8  -   0  2   Gal    Leo    9.0   11
+NGC3627 M 66      Méchain      11 20.3  +  12 59   Gal    Leo    8.9    9    M 65
+NGC3766            Lacaille     11 36.2  -  61 36   OC     Cen    5.3   12    IC 2948
+NGC3918            J Herschel   11 50.3  -  57 11   PN     Cen    8.5  0.3
+NGC4258 M 106     Méchain      12 19.0  +  47 18   Gal    CVn    8.4   19    NGC 4217
+NGC4406 M 86      Messier      12 26.2  +  12 56   Gal    Vir    8.9    9    M 84
+NGC4472 M 49      Messier      12 29.8  +   7 59   Gal    Vir    8.4   10    NGC 4526
+NGC4486 M 87      Messier      12 30.8  +  12 23   Gal    Vir    8.6    8    M 89
+NGC4594 M 104     Messier      12 40.0  -  11 37   Gal    Vir    8.0    9    NGC 4699
+NGC4649 M 60      Koehler      12 43.7  +  11 32   Gal    Vir    8.8    7    M 59
+NGC4736 M 94      Méchain      12 50.9  +  41  7   Gal    CVn    8.2   11    NGC 4490
+NGC4755            Lacaille     12 53.6  -  60 22   OC     Cru    4.2   11    NGC 5189
+NGC4826 M 64      Bode         12 56.7  +  21 41   Gal    Com    8.5   10    M 53
+NGC4833            Lacaille     12 59.5  -  70 52   GC     Mus    6.9   13    NGC 4372
+NGC4945            Dunlop       13  5.4  -  49 28   Gal    Cen    8.6   20    NGC 4976
+NGC5055 M 63      Méchain      13 15.8  +  42  2   Gal    CVn    8.6   13
+NGC5128            Dunlop       13 25.5  -  43  1   Gal    Cen    6.8   26
+NGC5139 Omeg Cen  Halley       13 26.7  -  47 29   GC     Cen    3.7   65    NGC 5286
+NGC5194 M 51      Messier      13 29.9  +  47 11   Gal    CVn    8.4   11    M 51B (NGC 5195)
+NGC5236 M 83      Lacaille     13 37.0  -  29 52   Gal    Hya    7.5   13    NGC 5253
+NGC5272 M  3      Messier      13 42.2  +  28 22   GC     CVn    6.2   19    NGC 5466
+NGC5457 M 101     Méchain      14  3.2  +  54 20   Gal    UMa    7.9   29    NGC 5474
+NGC5904 M  5      Kirch        15 18.5  +   2  4   GC     Ser    5.7   20    NGC 5846
+NGC6067            Dunlop       16 13.1  -  54 14   OC     Nor    5.6   16    NGC 6188
+NGC6121 M  4      De Chéseaux  16 23.6  -  26 31   GC     Sco    5.6   23    M 80
+NGC6205 M 13      Halley       16 41.7  +  36 27   GC     Her    5.8   23    NGC 6207
+NGC6218 M 12      Messier      16 47.2  -   1 56   GC     Oph    6.7   12
+NGC6231            Hodierna     16 54.1  -  41 49   OC     Sco    2.6   15    IC 4628
+NGC6254 M 10      Messier      16 57.2  -   4  6   GC     Oph    6.6   12
+NGC6266 M 62      Messier      17  1.2  -  30  6   GC     Oph    6.5    6    NGC 6304
+NGC6273 M 19      Messier      17  2.6  -  26 15   GC     Oph    6.8    5    NGC 6293
+NGC6341 M 92      Bode         17 17.1  +  43  8   GC     Her    6.4   12
+NGC6388            Dunlop       17 36.3  -  44 44   GC     Sco    6.7    7    NGC 6352
+NGC6405 M  6      Hodierna     17 40.3  -  32 14   OC     Sco    4.2   25
+NGC6397            Lacaille     17 40.7  -  53 40   GC     Ara    5.7   19
+NGC6475 M  7      Ptolemy      17 53.0  -  34 48   OC     Sco    3.3   60    NGC 6441
+NGC6494 M 23      Messier      17 56.8  -  18 59   OC     Sgr    5.5   27
+NGC6514 M 20      Messier      18  2.0  -  23  0   DN     Sgr          15
+NGC6530 M  8      Le Gentil    18  4.1  -  24 20   DN     Sgr          45    NGC 6544
+NGC6541            Dunlop       18  8.0  -  43 42   GC     CrA    6.3   23    NGC 6496
+NGC6611 M 16      Messier      18 18.8  -  13 45   DN     Ser          30
+NGC6618 M 17      De Chéseaux  18 20.9  -  15 59   DN     Sgr          25    M 24
+NGC6626 M 28      Messier      18 24.5  -  24 51   GC     Sgr    6.8   15
+NGC6656 M 22      Ihle         18 36.4  -  23 53   GC     Sgr    5.1   17
+NGC6705 M 11      Kirch        18 51.1  -   6 16   OC     Sct    5.8   12    NGC 6712
+NGC6720 M 57      Darquier     18 53.6  +  33  2   PN     Lyr    9.0  1.3    M 56
+NGC6744            Dunlop       19  9.8  -  63 51   Gal    Pav    8.3   20    NGC 6684
+NGC6752            Dunlop       19 10.9  -  59 58   GC     Pav    5.4   42
+NGC6809 M 55      Lacaille     19 40.0  -  30 57   GC     Sgr    6.3   15
+NGC6818            W Herschel   19 44.0  -  14  9   PN     Sgr    9.7  0.3
+NGC6822            Barnard      19 45.0  -  14 48   Gal    Sgr    8.7   15
+NGC6853 M 27      Messier      19 59.6  +  22 43   PN     Vul    7.4  6.7    M 71
+NGC6946            W Herschel   20 34.9  +  60  9   Gal    Cyg    8.8   11
+NGC6992 Veil      W Herschel   20 56.4  +  31 43   DN     Cyg          60    NGC 6960
+NGC7009            W Herschel   21  4.2  -  11 22   PN     Aqr    9.1  0.5    M 72
+NGC7027            Stephan      21  7.0  +  42 14   PN     Cyg    9.2  0.2    NGC 7000
+NGC7078 M 15      Maraldi      21 30.0  +  12  9   GC     Peg    6.2   12
+NGC7089 M  2      Maraldi      21 33.5  -   0 49   GC     Aqr    6.5   12
+NGC7293 Helix     Harding      22 29.6  -  20 50   PN     Aqr    7.8 16.3
+NGC7654 M 52      Messier      23 24.6  +  61 36   OC     Cas    6.9   13    NGC 7635
+NGC7662            W Herschel   23 25.9  +  42 32   PN     And    9.6  0.3    NGC 7640
+NGC7789            C Herschel   23 57.4  +  56 45   OC     Cas    6.7   20

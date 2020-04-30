@@ -1,0 +1,172 @@
+VII/192    Arp's Peculiar Galaxies        (Webb 1996)
+================================================================================
+Contemporary Index Into Halton Arp's Peculiar Galaxies
+    Webb D.
+   <Sky & Telescope, 92-1, 92 (1996)>
+   =1996S&T....92...92W
+================================================================================
+ADC_Keywords: Galaxy catalogs; Historical catalog
+
+Description:
+   Halton C. Arp photographed 338 views of notable peculiar galaxies
+   and published them as his 1966 "Atlas of Peculiar Galaxies."  Since
+   then, galaxy catalogs have named 585 of the involved galaxies.
+   This contemporary index collects names and characteristics of the
+   involved objects for use by contemporary observers of the historical
+   views.
+
+Introduction:
+   The galaxies identified in Arp's Atlas of Peculiar Galaxies
+   represent a remarkable cross-section of observing opportunities.
+   With the wide availability of inexpensive CCD cameras and increasing
+   aperture of inexpensive commercial telescopes, more of the Arp list is
+   accessible to more observers. Many of the objects so catalogued were
+   anonymous galaxies in 1966 and have subsequently been characterized
+   and named.  The NASA-IPAC Extragalactic Database (NED) provided most
+   correlations and other sources identified others.  Please refer to
+   http://users.aol.com/arpgalaxy for further information.
+
+
+File Summary:
+------------------------------------------------------------------------
+  FileName    Lrecl    Records   Explanations
+------------------------------------------------------------------------
+ReadMe          80          .    This file
+arpord.dat      57        338    list of Arp views with imaging data
+arplist.dat     77        592    list and info for involved galaxies
+------------------------------------------------------------------------
+
+See also:
+    VII/74 : Atlas of Peculiar Galaxies (Arp, 1966): redshifts
+
+Text describing arpord.dat:
+   This file summarizes the 338 Arp "objects" in Arp sequence.  It
+   includes the name either of the group or the brightest galaxy
+   in the view.  Image size and orientation were derived from Arp's
+   original paper.  Maximum focal lengths of optical system required
+   to duplicate Arp's image using contemporary commercial CCD cameras
+   are also provided to aid the imaging observer.  To find details on
+   the involved galaxies, use this table to locate RA and Dec and look
+   up the participating galaxies in arplist.dat.
+
+Byte-by-byte Description of: arpord.dat
+------------------------------------------------------------------------
+ bytes   format   units  label    explanations
+------------------------------------------------------------------------
+ 01-003  I3       ---    Arp      Arp number from original catalog
+ 05-021  A17      ---    Name    *Common name (group or brightest)
+ 22-023  I2       h      RAh      Right Ascension J2000 (hours)
+ 25-029  F5.2     min    RAm      ? Right Ascension J2000 (minutes)
+    031  A1       ---    DE-      Declination J2000 (sign)
+ 32-033  I2       deg    DEd      Declination J2000 (degrees)
+ 35-038  F4.1     arcmin DEm      Declination J2000 (minutes)
+ 40-043  F4.1     arcmin Size    *Long dimension of Arp's original photo
+    045  A1       ---    Orient  *[N,S,E,W,?] Orientation of Arp photo
+ 47-049  I3       2.54cm fl_245  *?Focal length for CB245 CCD Camera (1)
+ 51-053  I3       2.54cm fl_ST6  *?Focal length for SBIG ST6 CCD Camera (1)
+ 55-057  I3       2.54cm fl_ST5  *?Focal length for SBIG ST5 CCD Camera (1)
+------------------------------------------------------------------------
+Note on Name:
+   The Name is the most common name of the brightest galaxy in the
+   view or the common name of the group of interacting galaxies.
+   Where the view is a main galaxy with companion, both names are
+   indicated with the companion in abbreviated form.  The Right
+   Ascension and Declination is of the brightest galaxy and not the
+   center of Arp's original photo.
+Note on Size:
+   Size is the longest dimension of the rectangular field of view of the
+   image published in Arp's 1966 Atlas.  This information is provided
+   to assist the observer in framing the view for imaging.
+Note on Orient:
+   Orientation is the alignment of the top (narrow side) of Arp's
+   original photo. For example, "E" means the published photo is a
+   rectangle with the long side running east to west with east at the
+   top.
+Note (1):
+   These three columns are the focal lengths in inches of the optical
+   system necessary to duplicate Arp's original image using the named
+   CCD camera.
+------------------------------------------------------------------------
+
+Text describing arplist.dat:
+   This table identifies all named galaxies involved in Arp's
+   Atlas of Peculiar Galaxies.  It is provided in Right Ascension
+   sequence with all of the galaxies in a given Arp view together.
+   Occasionally a galaxy from one Arp view will intervene between
+   galaxies of another Arp view, due to both Arp's location at the
+   same Right Ascension.  Observational attributes for each such
+   galaxy are provided as well.
+
+Byte-by-byte Description of file: arplist.dat
+------------------------------------------------------------------------
+ bytes   format   units  label    explanations
+------------------------------------------------------------------------
+ 01-003  I3       ---    Arp      Arp number from original catalog
+ 05-020  A16      ---    Name     Common name of galaxy
+ 21-024  F4.1     mag    VT      *?Total V-magnitude
+    025  A1       ---    u_VT     [?] Uncertain magnitude = ?
+ 27-030  F4.1   arcmin   dim1     ?Larger dimension of galaxy
+    031  A1       ---    ---      [X]
+ 32-035  F4.1   arcmin   dim2     ?Smaller dimension (if differs from dim1)
+    037  A1       ---    u_dim2   [?] Uncertain size = ?
+ 39-052  A14      ---    MType   *Morphological Type
+ 53-055  I3       ---    Uchart  *?Uranometria chart number
+ 58-059  I2       h      RAh      Right Ascension J2000 (hours)
+ 61-062  I2       min    RAm      Right Ascension J2000 (minutes)
+ 64-067  F4.1     s      RAs      Right Ascension J2000 (seconds)
+    069  A1       ---    DE-      Declination J2000 (sign)
+ 70-071  I2       deg    DEd      Declination J2000 (degrees)
+ 73-074  I2       arcmin DEm      Declination J2000 (minutes)
+ 76-077  I2       arcsec DEs      Declination J2000 (seconds)
+--------------------------------------------------------------------------------
+
+Note on VT:
+   Magnitude sources and types vary.  In general, where the galaxy
+   appears in Uranometria, the Deep Sky Field Guide's algorithm for
+   computing VT is assumed.  Where the galaxy is not so listed, a variety
+   of magnitudes are used but not distinguished or recorded.  Sources
+   include predominantly RC3 and PGC.
+
+Note on MType:
+   Where available, the long form mixed case Hubble morphological type
+   (SB(rs)bc) is provided.  In some cases the simplified all caps form
+   (IBS9P) is used.  Where no such designation was available, some sources
+   provide a phrase like "disturbed", "DBL SYS" or "Multiple Sys".
+
+Note on Uchart:
+   Galaxies listed in the Uranometria 2000.0 Deep Sky Field Guide are
+   indicated by reference to the chart number.  Those galaxies so listed
+   which do not appear on the chart are field galaxies listed in the
+   Field Guide's notes column.
+------------------------------------------------------------------------
+
+
+Acknowledgments:
+
+   THIS RESEARCH MADE USE OF THE NASA/IPAC EXTRAGALACTIC DATABASE (NED)
+   WHICH IS OPERATED BY THE JET PROPULSION LABORATORY, CALTECH,
+   UNDER CONTRACT WITH THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+   Al Kelly computed image sizes and required focal lengths for
+   contemporary CCD cameras.  He also photographed a few to verify that
+   amateur CCD cameras can see faint peculiarity.
+
+   Mike Brown loaded galaxy size information and audited the list against
+   the MegaStar Deep Sky Atlas database (RC3 and PGC)
+
+   Emil Bonanno precessed coordinates from epochs 1950 to 2000.
+
+   Barbara Wilson provided desire, consultation and encouragement.
+
+   Lara Lenoir audited the list against the Deep Sky Field Guide,
+   and MegaStar (RC3 and PGC).
+
+   Halton C. Arp for not being offended at the interest in his early work.
+
+References:
+   Atlas of Peculiar Galaxies, 1966, Arp, ApJ Supp 123, Volume XIV, 1
+     =1966ApJS..123n...1A
+   The Deep Sky Field Guide to Uranometria 2000.0, 1993, Cragin et. al.,
+     Willman-Bell, Inc.
+================================================================================
+(End) Dennis Webb [Johnson Space Center Astronomical Society]        19-Jul-1996

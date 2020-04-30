@@ -1,0 +1,224 @@
+VII/100       COMPILATION OF THE FIFTH VOLUME OF MORPHOLOGICAL
+
+                  CATALOGUE OF GALAXIES ON THE MAGNETIC TAPE
+
+                              N.G.KOGOSHVILI
+
+                    ABASTUMANI ASTROPHYSICAL OBSERVATORY
+
+
+            In the Abastumani Astrophysical Observatory the work has
+       been completed on the transfer of the fifth volume of the Morpho-
+       logical Catalogue of Galaxies (MCG) (Vorontsov-Velyaminov et al.,
+       1974) on the magnetic tape. 1637 galaxies, probably no fainter
+       than the 14-th magnitude, were included in this volume.
+            The fifth volume, as the previous four volumes of MCG cata-
+       logue, was compiled on the basis of the Palomar sky atlas prints
+       and comprises areas from -30 deg to -45 deg in declination. However, as
+       distinguished from the first four volumes, the fifth one was
+       based on the prints, taken only in red light. So visual estima-
+       tions of magnitudes of galaxies are presented here in red colour.
+       it should be noted that in all cases, when in MCG or other sour-
+       ces the magnitudes of galaxies are encountered in photographic or
+       photoelectric b system, we gave preference to these values com-
+       pared to Vorontsov-Velyaminov's estimates.
+            As in the case of previous volumes we've put also on the mag-
+       netic tape all the notes to galaxies in the system, described
+       earlier (Kogoshvili, 1983). Besides, we've used following data
+       from the ESO/Uppsala survey (Lauberts, 1982): magnitudes, colours,
+       radial velocities, hubble types and galaxy diameters, measured on
+       the ESO(b) atlas plates up to the surface brightness slightly
+       fainter than 25 magnitude per square arc sec. These maximum major
+       and minor galaxy diameters in the fifth volume are given on the
+       magnetic tape in columns 86-90 and 92-96 for each galaxy. In these
+       columns, in case of the first four volumes, diameters of galaxies
+       from UGC catalogue were put. Besides, we used various data from
+       both reference catalogues of bright galaxies (De Vaucouleurs et
+       al., 1964, 1976) and b-v and u-b colours from the general cata-
+       logue of photoelectric magnitudes and colours (longo et al., 1983).
+            Some slight additions, connected with the transfer of the
+       data from the fifth volume on the magnetic tape, were included in
+       the detailed description of the merged catalogue, put in the first
+       file. The second file of this catalogue consists of 1675 re-
+       cords for 1675 galaxies. The record length for each galaxy is
+       the same as in the previous merged catalogue or 376 bytes.
+            The reference list is also supplemented by new literature
+       entries, contained in the fourth file.
+
+
+        REFERENCES
+       LAUBERTS, A.: 1982, THE ESO/UPPSALA SURVEY OF THE ESO(B) ATLAS,
+                     EUROPEAN SOUTHERN OBSERVATORY
+       LONGO, G., VAUCOULEURS,A.(DE), CORWIN,H.G., VAUCOULEURS,G.(DE):
+                     1983, A GENERAL CATALOGUE OF PHOTOELECTRIC MAGNI-
+                     TUDES AND COLOURS IN THE U, B, V SYSTEM, UNIV.
+                     TEXAS
+       KOGOSHVILI, N.G.: 1983, BULL.INFORM. CDS 25, 63-78
+       VAUCOULEURS, G.(DE), VAUCOULEURS, A.(DE): 1964, REFERENCE CATALOGUE
+                     OF BRIGHT GALAXIES, UNIV.TEXAS,
+       VAUCOULEURS, G.(DE), VAUCOULEURS, A.(DE), CORWIN, H.: 1976,
+                     SECOND REFERENCE CATALOGUE OF BRIGHT GALAXIES,
+                     UNIV.TEXAS
+       VORONTSOV-VELYAMINOV, B.A., ARKHIPOVA, V.P.: 1974, MORPHOLOGICAL
+                     CATALOGUE OF GALAXIES, V.5, MOSCOW UNIV.
+
+
+       AUTHOR'S ADDRESS:
+
+       N.G.KOGOSHVILI
+       ABASTUMANI ASTROPHYSICAL OBSERVATORY
+       383762 ABASTUMANI, GEORGIA
+       U.S.S.R.
+
+
+The following is a description of a revised version of the catalog. The catalog
+had contained many blank data fields. These were removed, reducing the record
+length to 280 bytes.
+
+  BYTES        UNITS    FORMAT               FIELD
+  1- 14                                    MCG IDENTIFICATION NUMBER:
+         1- 3              A3                 'MCG'
+            4              A1                 Zone Sign
+         5- 6              I2                 Zone Number
+         8- 9              I2                 Field Number
+        11-13              I3                 Galaxy Number in the field
+           14              A1                 Component Symbolic Designation
+     15                    A1               If '*',then additional
+                                              information is given, otherwise
+                                              blank.
+ 16- 24                                     NGC OR IC IDENTIFICATION NUMBER:
+                                              If NGC: 'NGC ' 16-19, Galaxy
+                                              number 20-23, component 24.
+                                              If IC: 'IC ' 16-18, Galaxy Number
+                                              19-22, component 23.
+                                              If 16= 'A' this is a designation
+                                              for an anonymous galaxy. In RCBG
+                                              Catalogue, otherwise blank.
+ 26- 33                                     RIGHT ASCENSION AT EPOCH 1950.0:
+        26-27   Hours      I2
+        29-30   Minutes    I2
+        32-33   Seconds    I2
+ 35- 40                                     DECLINATION AT EPOCH 1950.0:
+           35              A1                  Sign
+        36-37   Degrees    I2
+        39-40   Minutes    I2
+ 42- 46                    F5.2            INTEGRAL MAGNITUDE
+     48                                    ACCURACY OF MAGNITUDE:
+                                               Coded as 1, if magnitude was
+                                               reported in source catalog with
+                                               accuracy to 0.01 mag as 3, if to
+                                               1 mag.
+ 50- 52                    I3              REFERENCE FOR MAGNITUDE
+ 54- 57         Arcmin     F4.2            ANGULAR DIAMETERS OF THE GALAXIES:
+ 60- 63         Arcmin     F4.2                Major and Minor axes of the
+                                               galaxy bright inner part in MCG.
+     65                    I1              SURFACE BRIGHTNESS of galaxy inner
+                                               part in the scale of MCG (REF.1)
+ 67- 71         Arcmin     F5.2            ANGULAR DIAMETERS Major and Minor
+ 73- 77         Arcmin     F5.2                axes of the whole galaxy in MCG.
+                                               D1, D2.
+     79                    A1              :, if D1,D2 are the lower limits of
+                                               diameter (for uncertain dimen-
+                                               sions), otherwise blank.
+ 81- 82                    I2              SURFACE BRIGHTNESS of the galaxy
+                                               outward regions in the scale of
+                                               MCG (REF.1).
+     84                                    THE INCLINATION to the line of sight
+                                               in the scale of the MCG (REF.1).
+ 86- 90  (D.1)  Arcmin     F5.2            MAXIMUM DIAMETERS (major and minor
+ 92- 96  (D.2)  Arcmin     F5.2                axes measured on the blue Palomar
+                                               Sky Survey prints from UGC
+                                               (REF.10) or D.1 and D.2 from
+                                               ESO(b) Atlas (REF. 256) for
+                                               v.5 MCG
+     97                    A1              PARAMETER, estimating the uncertainty
+                                               in diameters:
+                                               0  for certain values
+                                               1  for uncertain values on the
+                                                  blue pa prints only
+                                               2  for uncertain values on the
+                                                  red pa prints only
+                                               3  for uncertain values on the
+                                                  blue and red pa prints
+ 99-101                    I3              POSITION ANGLE from UGC (REF.10)
+                                               or from (REF.256) for v.5 MCG
+    103                    A1              PARAMETER, estimating the
+                                               uncertainty in position angle:
+                                               0  for certain values
+                                               1  for uncertain values (denoted
+                                                  in UGC by a colon)
+                                               2  for face-on spirals (values
+                                                  in brackets in UGC)
+                                               3  for asymmetric systems
+                                                  (values in square brackets in
+                                                  UGC)
+105-109                    A5              SYMBOLIC DESCRIPTION of the general
+                                               appearance of a galaxy according
+                                               to MCG (REF.1). See remark 1
+                                               (file 4).
+111-114                    A4              SYMBOLIC DESCRIPTION of the galaxy
+                                               inner part according to NCG
+                                               (REF.1). See remark 2 (file 4).
+116-154                                    SYMBOLIC DESCRIPTION of the galaxy
+                                               outward part in MCG (REF.1)
+                                               divided into five areas:
+       116-122             A7                  First area
+       124-130             A7                  Second area
+       132-138             A7                  Third area
+       140-146             A7                  Fourth area
+       148-154             A7                  Fifth area
+                                           See remark 3 (file 4).
+    156                    A1              SOURCE OF CLASSIFICATION:(cc158-164)
+                                               if U, then REF.10
+                                               if R, then REF.21,158
+158-164                    A7              GALAXY MORPHOLOGICAL TYPE by de
+                                               Vaucouleurs classification
+                                               (REF.21,158). See remark 4.
+166-171                    A6              GALAXY TYPE by Morgan Classification
+                                               (REF.21,158). See remark 5.
+173-180                    A8              GALAXY TYPE by Hubble Classification
+                                               according to UGC (REF.10) or by
+                                               Vanden Bergh Classification
+                                               according to RCBG (REF.21,158).
+                                               See remark 6.
+    182                    A1              SOURCE OF CLASSIFICATION:(cc173-180)
+                                               if  U,then REF.10
+                                               if  R,then REF.21,158
+                                               if  L,then REF.256
+184-189         km/sec/mpc I6              RADIAL VELOCITY referred to the sun
+191-193                    I3              REFERENCE for v
+195-200         km/sec/mpc I6              RADIAL VELOCITY corrected for solar
+                                               motion, v0.
+202-204                    I3              REFERENCE for v0
+206-207                    I2              DATE of an explosion of the first
+                                               supernova (two last figures of
+                                               the year).
+209-210                    I2              DATE of an explosion of the second
+                                               supernova (two last figures of
+                                               the year).
+    212                    I1              NUMBER of supernovae observed in
+                                               the galaxy (REF.49)
+214-218         magn       F5.2            INTEGRATED u-b colour.
+220-222                    I3              REFERENCE for u-b.
+224-227         magn       F4.2            INTEGRATED b-v colour
+229-231                    I3              REFERENCE for b-v
+233-237         magn       F5.2            INTEGRATED 'face-on' (u-b)(0) colour
+                                               from RCBG (REF.158).
+239-242         magn       F4.2            INTEGRATED 'face-on' (b-v)(0) colour
+                                               from RCBG (REF.158)
+244-245                    I2              INTEGRAL SPECTRUM
+    247                    I1              TYPE of the nuclear region by
+                                               Byurakan Classification of
+                                               Nuclei (REF.50).
+    249                    I1              If  1, then emission lines are seen
+                                               in the spectrum according to
+                                               REF.54, otherwise blank.
+251-259                    A9              THE CODED INFORMATION on membership
+                                               of the galaxy to double or
+                                               multiple systems (for details
+                                               see remark 7).
+261-271                    A11             EXISTANCE of the interaction
+                                               features (for details see
+                                               remark 8).
+272-280                    A10             EXISTANCE of faint components (for
+                                               details see remark 9).

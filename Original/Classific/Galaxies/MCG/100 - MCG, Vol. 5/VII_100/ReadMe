@@ -1,0 +1,319 @@
+VII/100             MCG Vol.5         (Vorontsov-Velyaminov+, 1974)
+================================================================================
+Compilation of the Fifth Volume of Morphological Catalogue of Galaxies
+(-33 to -45deg)
+     Vorontsov-Velyaminov B.A., Arkhipova V.P.
+    <Trudy Gosud. Astron. Inst. Sternberg 46 (1974)>
+    =1974TrSht..46....1V       (SIMBAD/NED Reference)
+================================================================================
+ADC_Keywords: Galaxy catalogs ; Morphology ;
+
+Description:
+    The Morphological Catalogue of Galaxies, Volume 5
+    (Vorontsov-Velyaminov et al. 1974) includes 1637 galaxies, probably no
+    fainter than the fourteenth magnitude. The catalog was based on
+    Palomar Sky Atlas prints and comprises areas from -30 to -45 degrees
+    in declination. In contrast to the earlier four volumes of the
+    catalog, the fifth was based on the red prints of the Sky Survey only.
+    Visual magnitude estimates are thus in the red. Note that in all cases
+    when in other sources the photoelectric B or photographic magnitude of
+    galaxies are encountered, preference to those values has been given
+    over those of Vorontsov-Velyaminov's estimates. All notes to galaxies
+    published in the earlier volume are included here as well (Kogoshvili
+    1983). In addition, the following data were used from the ESO/Uppsala
+    survey (Lauberts 1982): magnitudes, colors, radial velocities, Hubble
+    types, and galaxy diameters as measured on the ESO(B) atlas plates up
+    to the surface brightness slightly fainter than 25 magnitudes per
+    square arcsec. These maximum major and minor galaxy diameters are
+    provided in the fifth volume in place of the values taken from the UGC
+    catalog in the earlier four volumes. Various data from both the
+    reference Catalog of Bright Galaxies (de Vaucouleurs et al. 1964) and
+    B-V and U-B colors from the General Catalogue of Photoelectric
+    Magnitudes and Colours (Longo et al. 1983) were included. Fields
+    included in the catalog are identification number; zone sign, number,
+    and field number; galaxy number in the field; component or symbolic
+    designation; NGC or IC identification; B1950.0 position, magnitude,
+    magnitude accuracy, and magnitude reference; angular diameters,
+    surface brightness, symbolic description galaxy, morphological type,
+    galaxy type, heliocentric radial velocity; radial velocity corrected
+    for solar motion; rotational velocity, dates of first two supernovae,
+    number of supernovae, number of H II regions, U-B and B-V colors and
+    references, radio flux densities at 178, 780, 1400, 2700, and 5000
+    MHz; number of nearby cluster; and coded information on membership of
+    the galaxy to double or multiple systems, interaction features, and
+    faint components.
+
+See also:
+    VII/62 : MCG parts I to IV (zones +90 to -33deg)
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl    Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe          80          .    This file
+catalog.dat    282       1639    The catalogue
+refs.dat        66       1739    References
+descr.doc       80        224    Original Description by N.G.Kogoshvili
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: catalog.dat
+--------------------------------------------------------------------------------
+  Bytes Format Units   Label       Explanations
+--------------------------------------------------------------------------------
+   1- 14  A14   ---    MCG         Morphological Catalog of Galaxies number
+      15  A1    ---    NoteFlag    '*' if additional information is given
+  16- 24  A9    ---    Name        Galaxy ID: NGC, IC, or A (anonymous)
+  26- 27  I2    h      RAh         Hours RA, epoch 1950.0
+  29- 30  I2    min    RAm         Minutes RA, epoch 1950.0
+  32- 33  I2    s      RAs         Seconds RA, epoch 1950.0
+      35  A1    ---    DE-         Sign Dec, epoch 1950.0
+  36- 37  I2    deg    DEd         Degrees Dec, epoch 1950.0
+  39- 40  I2    arcmin DEm         Minutes Dec, epoch 1950.0
+  42- 46  F5.2  mag    mag         ? Integral magnitude
+                                     (not known for MCG-07-04-003)
+      48  A1    ---  q_mag         [123] Accuracy of mag:
+                                     '1' if magnitude reported to 0.01,
+                                     '2' id reported to 0.1,
+                                     '3' if magnitude reported to 1mag
+  50- 52  I3    ---  r_mag         ? Magnitude reference code, see refs.dat
+  54- 57  F4.2  arcmin MajAxisIn   ? Major axis of galaxy bright inner part
+  60- 63  F4.2  arcmin MinAxisIn   ? Minor axis of galaxy bright inner part
+      65  I1    ---    SurfBrIn    ? Surface brightness of galaxy inner part
+                                   (Ref 1)
+  67- 71  F5.2  arcmin MajAxis     ? Major axis of galaxy
+  73- 77  F5.2  arcmin MinAxis     ? Minor axis of the galaxy
+      79  A1    ---  u_MajAxis     ':' for uncertain MinAxis or Majaxis
+  81- 82  A2    ---    SurfBrOut   [0-9 ] Surface brightness of galaxy
+                                   outer regions (Ref 1)
+      84  I1    ---    Incl        [1/7]? Inclination to the line of sight
+                                   (Ref 1)
+  86- 90  F5.2  arcmin MajAxisMax  ? Maximum major axis (Ref 10 or 256)
+  92- 96  F5.2  arcmin MinAxisMax  ? Maximum minor axis (Ref 10 or 256)
+      97  A1    ---    DiamCode    [0123] Code for uncertainty in diameters (1)
+  99-101  I3    deg    PosAng      [0/180[? Position angle (Ref 10 or Ref 256)
+     103  A1    ---  q_PosAng      [01] Code for uncertainty in PosAng (2)
+ 105-109  A5    ---    GalCode     Appearance of galaxy (11)
+ 111-114  A4    ---    GalCodeIn   Description of gal. inner part, (12)
+ 116-122  A7    ---    GalCodeOut1 Description of gal. outer part 1 (13)
+ 124-130  A7    ---    GalCodeOut2 Description of gal. outer part 2 (13)
+ 132-138  A7    ---    GalCodeOut3 Description of gal. outer part 3 (13)
+ 140-146  A7    ---    GalCodeOut4 Description of gal. outer part 4 (13)
+ 148-154  A7    ---    GalCodeOut5 Description of gal. outer part 5 (13)
+     156  A1    ---  r_MType1      Ref for MType1: 'U' if from Ref 10;
+                                                   'R' if from Ref 21, 158
+ 158-164  A7    ---    MType1      Gal morph. type, de Vaucouleurs class. (14)
+ 166-171  A6    ---    MType2      Gal morph. type, Morgan class. (15)
+ 173-180  A8    ---    MType3      Gal morph. type, from UGC or RCBG (16)
+     182  A1    ---  r_MType3      Ref for MType3: 'U' if from Ref 10;
+                                     'R' if from Ref 21, 158;
+                                     'L' if from Ref 256.
+ 184-189  I6   km/s    RV          ? Radial velocity referred to the sun
+ 191-193  I3    ---  r_RV          ? Radial velocity reference code
+ 195-200  I6   km/s    RVcorr      ? Radial velocity corrected for solar motion
+ 202-204  I3    ---  r_RVcorr      ? Corrected radial velocity reference code
+ 206-207  I2    a   SN_Date1-1900  ? Date of 1st supernova explosion
+ 209-210  I2    a   SN_Date2-1900  ? Date of 2nd supernova explosion
+     212  I1    ---    SN_Cnt      ? Number of supernovae observed in galaxy
+ 214-218  F5.2  mag    U-B         ? Integrated U-B color
+ 220-222  I3    ---  r_U-B         ? U-B reference code
+ 224-227  F4.2  mag    B-V         ? Integrated B-V color
+ 229-231  I3    ---  r_B-V         ? B-V reference code
+ 233-237  F5.2  mag    (U-B)0      ? Integrated "face on" (U-B)(0) color
+                                       from RCBG
+ 239-242  F4.2  mag    (B-V)0      ? Integrated "face on" (B-V)(0) color
+                                       from RCBG
+ 244-245  A2    ---    Spectrum    Integral spectrum
+     247  I1    ---    NucType     ? Type of the nuclear region,
+                                   Byurakan class.
+     249  A1    ---  n_Spectrum    [1] If '1' emission lines in spectrum
+                                       (Ref 54)
+ 251-259  A9    ---    Member      Membership in multiple systems (17)
+ 261-271  A11   ---    Interact    Existence of interaction features (18)
+ 273-282  A10   ---    Comp        Existence of faint components (19)
+-------------------------------------------------------------------------------
+Note (1): Parameter, estimating the uncertainty as follows:
+     '0' for certain values
+     '1' for uncertain values on the blue prints only
+     '2' for uncertain values on the red prints only
+     '3' for uncertain values on the red and blue prints
+Note (2): Parameter, estimating the uncertainty as follows:
+     '0' for certain values
+     '1' for uncertain values
+     '2' for face-on spirals
+     '3' for asymmetric systems
+Note (11): Description of the general appearance of a galaxy
+       according to MCG (ref. 1):
+     Field structure: A B C D E
+   A Description of the general appearance of a galaxy by means of symbols:
+     E,P,L,F
+   B Description of various structure details coded as follows:
+     MCG  tape|MCG  tape|MCG  tape|MCG  tape|MCG  tape|MCG  tape|MCG  tape|
+     A.   A   |I.   I   |O.   2   |F.   F   |N.   8   |T.   T   |B.   B   |
+     A.D. 5   |E.   E   |M.   M   |Z.   Z   |C.   C   |A.I. 6   |A    1   |
+     W.   W   |L.   9   |D.   D   |B.I. 7   |P.   P   |?    4   |
+   C the same as B
+   D Type of the faint galaxy seen in contact with the main one,
+     or *, if a star is projected on the image of a galaxy
+   E Structure of the faint galaxy or its inclination to the line of sight.
+     in the case of * in  D  there are used codes:
+     1 - for a star, projected on the nuclear region of a galaxy,
+     2 - on the outer region,
+     3 - a star is close-by to a galaxy,
+     4 - a star is possibly projected on the galaxy image
+Note (12): Description of the galaxy inner bright region
+           according to mcg (ref.1)
+     Field structure: A B C D
+   A Number of galaxy nuclei seen in contact
+   B Description of the galaxy inner region by symbols: N,L,N..
+     in the case of 'N.' the symbol $ is used on the tape
+   C,D structure of a nuclear region, for ()  is used the code  3
+Note (13):  Description of the galaxy external region
+            according to MCG (ref.1)
+     Description of the external part of a galaxy was carried out from
+     the central regions outwards for five similar areas. For lack of
+     information the corresponding areas were filled with blanks.
+     Field structure for one of the above mentioned similar 5 areas:
+     A B C D E F G
+   A area separating symbols according to MCG, coded as follows:
+      MCG  tape|MCG  tape|MCG  tape|MCG  tape|
+      ,    ,   |;    ;   |;;   1   |->   2   |
+   B number of structure details described in  C.
+     In the case of B=9, B must be considered as duplication of
+     symbols in C
+   C Description of galaxy external areas by symbols, coded as follows:
+      MCG  tape|MCG  tape|MCG  tape|MCG  tape|MCG  tape|MCG  tape|MCG  tape|
+      S    S   |H    H   |B    B   |T    T   |CAM  6   |R    R   |L.   9   |
+      C    C   |SS.S.4   |D    D   |L    L   |R.   @   |S.   2   |
+      MCG            tape|MCG            tape|MCG            tape|
+      'REVERSE SS.S.'3   |'REVERSE S.'+S.0   |'REVERSE S'    #   |
+      'REVERSE S.'   1   |'REVERSE S'+S  5   |'ARCS'         8   |
+   D,E,F Description of various structure details (the same as  B  in
+     note (11), as well as the following codes:
+     K - for a galaxy with sharp edges,
+     X - for the traces of structure,
+     Q - for the uncertainty in the number of arms
+   G Uncertainties in structure details coded as follows:
+      MCG  tape|MCG  tape|MCG  tape|MCG  tape|MCG  tape|MCG  tape|MCG  tape|
+      '    1   |(')  4   |->R  R   |-    2   |->8  8   |()   3   |(-)  6   |
+Note (14):  Morphological type of a galaxy by de Vaucouleurs
+            classification according to RCBG (Ref.21), or UGC (Ref.10)
+     Field structure: A B C D E F G
+   A Existence of outward ring
+   B,C,D,E Galaxy type
+   F,G peculiarities
+Note (15): Type of a galaxy by Morgan's classification
+            according to RCBG (Ref.21)
+     Field structure: A B C D E F
+   A,B,C Galaxy type
+   D,E Spectral class
+   F peculiarities
+Note (16): Type of a galaxy by Hubble's classification
+           according to UGC (Ref.10), or van den Bergh's classification
+           according to RCBG (Ref.21)
+     Field structure: A B C D E F G H
+     For the case of Hubble's classification (Ref.10), we have:
+   A,B,E,F Galaxy type coded as follows:
+      UGC       tape|UGC       tape|UGC       tape|UGC       tape|
+      E         E   |E0        E0  |S         S   |SO        SO  |
+      SB        SB  |SBO       S1  |P         P   |IR.R.     I   |
+     DWARF      1   |DWARF S   2   |DWARF I   3   |DWARF E   4   |
+     DWARF P    5   |S(R)      SR  |SB(R.)    S2  |SBO(R)    S3  |
+      S(R)O     S4  |
+   C,G Structure details coded as follows:
+      UGC  tape|UGC  tape|UGC  tape|UGC  tape|UGC  tape|
+      A.   A   |B.   B   |A.-B.1   |C.   C   |B.-C.2   |
+      D.   D   |C.-D.3   |
+   D Additional symbols coded as follows:
+      UGC  tape|UGC  tape|UGC  tape|UGC  tape|UGC  tape|
+      :    :   |?    1   |/    /   |(//) 2   |-    3
+   H Luminosity class:
+     For the case of van den Bergh's classification (rEF.21), we have:
+   A,B Galaxy type
+   C Structure details
+   D Peculiarities, additional symbols
+   E,F,G Characteristics of spiral arms
+   H Luminosity class
+Note (17): Appearance of a galaxy in binary or multiple system
+     Field structure: A B C D
+   A The following codes are used:
+      1 the galaxy has a companion with MCG identification number
+      2 the galaxy has a companion with no MCG identification number
+      3 for more than one galaxy in a system described by one MCG
+        identification number
+   B designation of members in binary and multiple systems
+      1 for the brightest member in a multiple system
+      K for one of the fainter members in a multiple system
+      2 for one of the members of binary system
+      D for another member of binary system
+      3 for the brightest member of triple system
+      T for one of the fainter members of triple system
+   C If  A=1, then  C=XXX (MCG number of the component in the field,
+     positions 8-10), otherwise blank
+   D Degree of isolation of galaxy pairs according to Karachentsev
+     (Ref.57), coded as follows:
+      Ref.57  tape|  Ref.57  tape|  Ref.57  tape|  Ref.57  tape|
+      +,+     1   |  -,-     2   |  +,-     3   |  -,+     4
+Note (18): Existence of the interaction features
+     Field structure: A B C D E
+   A Number of the members observed in interaction
+   B the following codes are used:
+      if  B  then interaction is evident
+      if  Q  then interaction is suspected, otherwise blank
+   C Type of interaction, coded as follows:
+      if  1  then galaxies are connected with a bar
+      if  2  then a galaxy is connected with another one by a spiral arm
+      if  3  then contact of galaxies
+      if  4  then contact of galaxy nuclei
+      if  5  then a nest of galaxies
+      if  6  then a chain of galaxies
+      if  7  then galaxies are embedded in common nebulous envelope
+   D Description of apparent galaxy form distortion by means of codes:
+      if  1  then existence of a tail
+      if  2  then existence of unusual branched features (jet, streamer,
+             plume, etc.)
+      if  3  then a halo
+      if  4  then clear evidence of structure distortion
+      if  7  then galaxies are embedded in common nebulous envelope
+   E Angular separation of members in system in minutes of arc (E=X.X)
+Note (19): Existence of faint components
+     Field structure: A B C D
+   A Number of faint components
+   B the following codes are used:
+      1 a galaxy has a faint component with MCG identification number
+      2 a galaxy has a faint component with no MCG identification number
+      3 a galaxy has a faint galaxy close-by
+      4 a galaxy has a questionable object (star or defect), close-by
+   C either MCG number of a component in the field (if B=1), or a
+     magnitude of a nearest component (if B=2,3,4). C=XX
+   D angular distance to the nearest companion in minutes of arC. D=X.X
+-------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: refs.dat
+--------------------------------------------------------------------------------
+ Bytes Format Units   Label   Explanations
+--------------------------------------------------------------------------------
+  1-  3  I3    ---    RefNo   [1,266]+= Reference number
+  5- 66  A62   ---    Text    Text of reference and remarks (on several lines)
+--------------------------------------------------------------------------------
+
+Historical Notes:
+  * From the CD-ROM "Selected Astronomical Catalogs" Vol. 1 (1992),
+    directory "nonstell/galaxies/mcg5")
+  * 17-Nov-1994 (CDS):
+    The "catalog.dat" file differs from the CD-ROM "mcg5.dat" file:
+    the contents of bytes at the right of #243 were erroneous on the CD-ROM.
+
+References:
+   Lauberts, A. 1982, The ESO/Uppsala Survey of the ESO(B) Atlas, European
+      Southern Observatory (Cat. <VII/34>)
+   Longo, G., Vaucouleurs, A. de, and Corwin, H.G. 1983, A General Catalogue of
+      Photoelectric Magnitudes and Colours in the U,B,V System, Univ. Texas
+   Kogoshvili, N.G. 1983, CDS Bull. No. 25, p. 63 (Cat. <VII/90>)
+   Vaucouleurs, G. de, Vaucouleurs, A. de, and Corwin, H. 1964, Reference
+      Catalogue of Bright Galaxies, Univ. Texas
+   Vaucouleurs, G. de, Vaucouleurs, A. de, and Corwin, H. 1976, Second
+      Reference Catalogue of Bright Galaxies, Univ. Texas (Cat. <VII/112>)
+   Vorontsov-Velyaminov, B.A., and Arkhipova, V.P. 1974, Morphological
+      Catalogue of Galaxies, V. 5, Moskow Univ. (Cat. <VII/62>)
+================================================================================
+(End)                                    Francois Ochsenbein [CDS]   17-Nov-1994

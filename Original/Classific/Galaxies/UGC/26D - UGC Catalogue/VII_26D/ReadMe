@@ -1,0 +1,249 @@
+VII/26D     Uppsala General Catalogue of Galaxies (UGC)     (Nilson 1973)
+================================================================================
+Uppsala General Catalogue of Galaxies (UGC)
+     Nilson P.
+     <Uppsala Astron. Obs. Ann. 6 (1973)>
+     =1973UGC...C......0N         (SIMBAD/NED BibCode)
+================================================================================
+ADC_Keywords: Galaxy catalogs
+
+Description:
+    The Uppsala General Catalogue of Galaxies (UGC) is an essentially
+    complete catalogue of galaxies to a limiting diameter of 1.0' and/or
+    to a limiting apparent magnitude of 14.5 on the blue prints of the
+    Palomar Observatory Sky Survey (POSS). Coverage is limited to the sky
+    north of declination -02.5degrees. Galaxies smaller than 1.0' in
+    diameter but brighter than 14.5 mag may be included from the Catalogue
+    of Galaxies and of Clusters of Galaxies (CGCG, Zwicky et al.
+    1961-1968); all such galaxies in the CGCG are included in the UGC. The
+    galaxies are ordered by 1950 right ascension.
+
+    The catalogue contains descriptions of the galaxies and their
+    surrounding areas, plus conventional system classifications and
+    position angles for flattened galaxies. Galaxy diameters on both the
+    blue and red POSS prints are included and the classifications and
+    descriptions are given in such a way as to provide as accurate an
+    account as possible of the appearance of the galaxies on the prints.
+    Only the data portion of the published UGC is included in the
+    machine-readable version.
+
+    The order of the records is strictly by UGC number; i.e., the Addenda
+    records follow their main catalogue counterparts in the file. The
+    colons (indicating uncertainty) and various other codes (parentheses,
+    brackets) are not included in the machine-readable version of the
+    catalogue. Several possible improvements to the catalogue might
+    consist of adding codes corresponding to the published version, a
+    second file containing abbreviations and terminology and a third file
+    with the extensive notes. It would also be important to add an
+    asterisk or some other code to data records having a note in the
+    proposed third file.
+
+    This document describes the machine-readable version of the UGC as
+    distributed by the Astronomical Data Centers. It is intended to enable
+    users to read and process the data without problems or guesswork. For
+    additional details regarding the classifications, measurement of
+    apparent magnitudes, and data content, the source reference should be
+    consulted. A copy of this document should accompany any
+    machine-readable copy of the catalogue.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName     Lrecl       Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe           80             .    This file
+catalog.dat      81         12939    UGC catalogue
+errors.dat       49           133    The changes made by the ADC in 1995
+--------------------------------------------------------------------------------
+
+See also:
+    J/ApJS/125/409 : Arcsecond positions of UGC galaxies     (Cotton+ 1999)
+
+Byte-by-byte Description of file: catalog.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  3  A3     ---     ---      [UGC]
+   5-  9  I5     ---     UGC      [1/12921]+= UGC number
+      10  A1     ---     A        [A] "A" if the galaxy is from the Addenda
+                                      list of the published catalogue;
+                                      otherwise blank.
+  11- 12  I2     h       RAh      Right Ascension 1950 (hours)
+  13- 16  F4.1   min     RAm      Right Ascension 1950 (minutes)
+      17  A1     ---     DE-      Declination 1950 (sign)
+  18- 19  I2     deg     DEd      Declination 1950 (degrees)
+  20- 21  I2     arcmin  DEm      Declination 1950 (minutes)
+  22- 34  A13    ---     MCG      MCG designation (1)
+  35- 38  I4     ---     POSS     Number of the POSS field in which the
+                                     galaxy is best visible.
+  39- 44  F6.2   arcmin  MajAxis  ? Major axis of the galaxy as measured on
+                                     the POSS blue print. (2)
+  45- 49  F5.2   arcmin  MinAxis  ? Minor axis of the galaxy as measured on
+                                     the POSS blue print. (2)
+  50- 52  I3     deg     PA       [0/180[? Position angle measured in the
+                                     conventional manner from North through
+                                     East. (3)
+  53- 59  A7     ---     Hubble   Classification in the Hubble system or
+                                     remarks, in a free field format,
+                                     including lower case designations.
+  61- 64  F4.1   mag     Pmag     ? Photographic magnitude mpg , recorded to
+                                     precision given in published catalogue;
+                                     i.e., if tenths not reported, byte 64 is
+                                     blank.
+  65- 69  I5     km/s    RadVel   ? Radial velocity corrected for Solar
+                                     motion (4)
+  70- 75  F6.2   arcmin  aR       ? Major axis of the galaxy as measured on
+                                     the POSS red print. (2)
+  76- 80  F5.2   arcmin  bR       ? Minor axis of the galaxy as measured on
+                                     the POSS red print. (2)
+      81  I1     ---     i        [0/7]? Inclination to the line of sight for
+                                     spirals (5)
+--------------------------------------------------------------------------------
+Note (1): The Morphological Catalogue of Galaxies (MCG) <Catalogue: VII/62A>
+    (Vorontsov-Velyaminov et al. 1962, 1963, 1964, 1968). The first number
+    of the designation is the Palomar Observatory Sky Survey (POSS) 6deg
+    zone, from the equator +00 to the north celestial pole +15; the second
+    number is the POSS field along the zone, while the third number is the
+    galaxy in this field in the MCG. Non-MCG galaxies are assigned the
+    number 000 in the third position, but the first and second values are
+    given correctly.
+Note (2): The precision to which diameters are recorded matches the
+    published catalogue; additional decimal places are blank, but colons,
+    brackets and parentheses are not included in the computerized
+    catalogue.
+Note (3): Colons, parentheses and brackets in the published catalogue
+    are not included here. Blank if data not present.
+Note (4): Radial Velocity is relative to the Local Group according to
+    V0 = 300 cos A, where A is the distance to the conventional Solar
+    apex at lI=55deg, bI=0deg or lII = 87deg bII = +1deg. If the
+    uncertainties in the measurements were considered too large to make
+    corrections meaningful, usually only the uncorrected value is given.
+    See also other values in <VII/36>
+Note (5): Inclination measured on a scale from 1 (face-on) to 7 (edge-on).
+    For galaxies of high inclination, a value is calculated from the
+    Hubble formula n - 10(a-b)/a [a - major axis, b - minor axis]. The
+    value 7 denotes objects inclined not more than a few degrees to the
+    line of sight.
+--------------------------------------------------------------------------------
+
+Byte-per-byte Description of file: errors.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+ 1- 5     I5      ---     UGC     Number of entry
+    6     A1      ---     A       [A] Suffix for entry number
+ 7- 9     A3      ---     field   Field in error
+11-20     A10     ---     old     Old entry
+22-42     A21     ---     new     New entry and comments
+--------------------------------------------------------------------------------
+
+Historical Notes:
+    The magnetic tape version of the Uppsala General Catalogue of Galaxies
+    was received from Dr. Robert S. Dixon of the Ohio State University
+    Radio Observatory on 7 December 1981. As received, the catalogue
+    consisted of 12,942 logical records of length 90 bytes. Each logical
+    record contained a sequential counter on bytes 85-90, while bytes
+    81-84 and single columns throughout the records were not used. There
+    was also only a five-byte allowance for the major axis of the galaxy
+    as measured on the red POSS print, a field too small to accommodate
+    U00454 (M31), which has a major axis of 200:' (in order to fit the
+    200' value, the radial velocity had been moved left one byte, thus
+    making it read -2990 km/sec instead of the correct value of -299
+    km/sec). The following modifications were made to the catalogue to fix
+    the above items, correct several errors, and to maximize storage
+    efficiency. Except for item 10, these modifications were made by Francois
+    Ochsenbein at the CDS.
+
+  1.The published edition contains 12,921 objects in the main catalogue
+    and 19 addenda; hence, with 12,942 records on the tape there were
+    obviously a few duplicates. The records for UGC 3944 and UGC 6063A
+    were found to be repeated and the duplicates were deleted.
+
+  2.A check for the addenda objects resulted in the discovery of a missing
+    A for UGC 7399A--this was added.
+
+  3.Upon examination of the original file version of the catalogue
+    supplied to him, Mr. Marion Schmitz discovered the misnumbering of UGC
+    12417 and UGC 12418 as UGC 12447 and UGC 12448--these errors were
+    corrected.
+
+  4.The data record for UGC   253 was found to have a hexadecimal code "AA"
+    character (equivalent to a down-arrow in the classification field (bytes
+    46-52) in place of a lower case "b" (Sb/SB(down-arrow) instead of
+    Sb/SBb)--this was corrected.
+
+  5.The data field for the major axis as measured on the red POSS print
+    was expanded to six bytes and the record for UGC 454 (discussed above)
+    corrected.
+
+  6.All superfluous blanks were removed to decrease the logical record
+    length from 90 bytes to 74 bytes (counting also the removal of the
+    sequential numbers originally in bytes 85-90).
+
+  7.UGC and MCG catalog designations were altered to their present format,
+    extending the record length to 81 bytes.
+
+  8.(Version C, made at CDS, August 1993)
+    a. The error reported by Carlo Giovanardi in "ADC Newsletter" 2.2
+       (April 1993) was corrected (RAh column)
+    b. The position of the minor axis blue in UGC 326 which was shifted
+       has been fixed.
+    c. All records with radial velocities larger than 10000 km/s expanded
+       over the red major axis column; the + sign in column 65 was
+       therefore removed for the following galaxies:
+         UGC   262  UGC   545  UGC  1095  UGC  4093  UGC  5408  UGC  6514
+         UGC  8058  UGC  8327  UGC  8696  UGC  8811  UGC  8825  UGC  9509
+         UGC 10099  UGC 10170  UGC 10180  UGC 10188  UGC 10189  UGC 10191
+         UGC 10192  UGC 10199  UGC 10635  UGC 11130  UGC 11763  UGC 12397
+    d. UGC Number 20016 should be read 12016
+       Position angles for UGC 153, 341 and 388 were corrected
+      (S. Nishimura, on 30-Aug-1993)
+
+  9.(Version D, made at CDS September 1995, following comments by
+     Ralph Pass <rppass@rppass.com>), typo errors in UGC numbers:
+          4500  5228  5258  7307 10374 10377 10848 11718 11748 12342 12392
+         12847 12848 12817 12818 12843 12873
+
+  10.At least one error may have been corrected inappropriately. UGC5206 and
+    5854A are both given as MGC+02-28-002 but UGC 5206 is at RA=0941.7
+    while the MGC galaxy is at RA=1041.7. 5854A is at that location. It
+    was assumed that these referred to the same galaxy. Hence UGC5854A
+    was deleted and the RA changed for UGC5206 by the undersigned.
+    She also moved two records which were out of order to the proper position.
+
+Acknowledgments:
+    The present version includes a few corrections inserted by CDS (see
+    Remarks, Modifications, points 8 and 9) compared to the CD-ROM
+    "Selected Astronomical Catalogs Volume 1" edited by the
+    Astronomical Data Center, NASA, 1992. It also contains a number of
+    corrections inserted by the undersigned. The latter are listed in
+    errors.dat.
+
+    Points 8 and 9, the "File Summary" and the
+    "Byte-per-byte Description" were prepared by Francois Ochsenbein of
+    the CDS. The file errors.dat and minor modifications to this
+    acknowledgement were prepared by the undersigned. Otherwise, the
+    documentation herein is from Wayne H. Warren Jr. (1982).
+    The latter expressed appreciation to Dr. R. S. Dixon for supplying the
+    original tape version of the UGC, and to Mr. M. Schmitz for pointing
+    out the errors that he discovered in the UGC numbers (point 3 above).
+
+    Nancy G. Roman expresses appreciation particularly to Mark Anderson
+    who did an extensive analysis of the catalog. Others errors were
+    reported by Ralph Pass, Carlo Giovanardi, and James Himer. All have
+    been checked and most reported errors were correct as reported.
+
+References:
+  Nilson, P. 1973, Uppsala General Catalogue of Galaxies, Uppsala
+    Astron. Obs.  Ann. 6.
+  Vorontsov-Velyaminov, B. A., Krasnogorskaya, A. and Arhipova, V. P.
+    1962-1968, Morphological Catalogue of Galaxies, 4 Volumes (Moscow:
+    Sternberg Institute 32, 33, 34, 38). (Catalogue <VII/62>)
+  Warren, W.H. Jr 1982, "Documentation for the Machine-Readable Version
+    of the Uppsala General Catalogue of Galaxies", NSSDC/WDC-A-R&S 82-30,
+    National Aeronautics and Space Administration, Goddard Space Flight
+    Center, Greenbelt, Maryland 20771
+  Zwicky, F. et al. 1961-1968, Catalogue of Galaxies and of Clusters of
+    Galaxies, I-VI (Pasadena: California Institute of Technology).
+    (Catalogue <VII/49>)
+================================================================================
+(End)                 Nancy Grace Roman    [ADC/SSDOO]               20-Oct-1995

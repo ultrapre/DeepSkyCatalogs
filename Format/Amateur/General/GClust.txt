@@ -1,0 +1,37 @@
+#Common Name	Mag.	Size	Class	Kly	NGC	Type	Const.	VQ	R.A. (E2000)	Dec. (E2000)
+NGC104	4.0	30.9	3	14.7	0104	Globular cluster highly resolved	Tuc	B	00h 24m 05s	72° 04' 51" S
+NGC288 in Sculptor	8.1	13.8	10	27.1	0288	Globular cluster highly resolved	Scl	b	00h 52m 48s	26° 35' 24" S
+NGC362 in Tucana	6.4	12.9	3	27.7	0362	Globular cluster highly resolved	Tuc	b	01h 03m 14s	70° 50' 54" S
+NGC1261 in Horologium	8.3	6.9	2	53.5	1261	Globular cluster	Hor	c	03h 12m 15s	55° 13' 01" S
+NGC1851 in Columba	7.1	11.0	2	39.5	1851	Globular cluster loose	Col	b	05h 14m 06s	40° 02' 50" S
+M79 in Lepus	7.7	8.7	5	42.1	1904	Globular cluster highly resolved	Lep	D	05h 24m 11s	24° 31' 27" S
+NGC2298 in Puppis	9.3	6.8	6	34.9	2298	Globular cluster	Pup		06h 48m 59s	36° 00' 19" S
+NGC2808 in Carina	6.2	13.8	1	30.3	2808	Globular cluster highly resolved	Car	C	09h 12m 03s	64° 51' 47" S
+NGC3201 in Vela	6.8	18.2	10	17.0	3201	Globular cluster	Vel	b	10h 17m 37s	46° 24' 40" S
+NGC4372 in Musca Australis	7.2	18.6	12	18.9	4372	Globular cluster	Mus		12h 25m 45s	72° 39' 33" S
+#Common Name	Mag.	Size	Class	Kly	NGC	Type	Const.	VQ	R.A. (E2000)	Dec. (E2000)
+M68 in Hydra	7.8	12.0	10	33.3	4590	Globular cluster highly resolved	Hya	D	12h 39m 28s	26° 44' 34" S
+NGC4833 in Musca Australis	6.9	13.5	8	19.6	4833	Globular cluster highly resolved	Mus	b	12h 59m 35s	70° 52' 29" S
+M53 in Coma Berenices	7.6	12.6	5	59.7	5024	Globular cluster highly resolved	Com	D	13h 12m 55s	18° 10' 09" N
+NGC5053 in Coma Berenices	9.5	10.5	11	53.5	5053	Globular cluster loose	Com	c	13h 16m 27s	17° 41' 53" N
+NGC5139	3.7	36.3	8	17.3	5139	Globular cluster highly resolved	Cen	A	13h 26m 46s	47° 28' 37" S
+M3 in Canis Venatici	6.2	16.2	6	33.9	5272	Globular cluster highly resolved	CVn	B	13h 42m 11s	28° 22' 32" N
+NGC5286 in Centaurus	7.3	9.1	5	35.9	5286	Globular cluster highly resolved	Cen	b	13h 46m 27s	51° 22' 24" S
+NGC5466 in Bootes	9.0	11.0	12	55.5	5466	Globular cluster loose	Boo		14h 05m 27s	28° 32' 04" N
+NGC5634 in Virgo	9.5	4.9	4	84.5	5634	Globular cluster unresolved	Vir		14h 29m 37s	05° 58' 35" S
+NGC5824 in Lupus	9.1	6.2	1	104.4	5824	Globular cluster unresolved	Lup	c	15h 03m 59s	33° 04' 04" S
+#Common Name	Mag.	Size	Class	Kly	NGC	Type	Const.	VQ	R.A. (E2000)	Dec. (E2000)
+NGC5897 in Libra	8.5	12.6	11	41.8	5897	Globular cluster loose	Lib	b	15h 17m 25s	21° 00' 37" S
+M5 in Serpens	5.7	17.4	5	24.5	5904	Globular cluster highly resolved	Ser	B	15h 18m 34s	02° 04' 58" N
+NGC5927 in Lupus	8.0	12.0	8	24.8	5927	Globular cluster	Lup	b	15h 28m 01s	50° 40' 22" S
+NGC5946 in Norma	9.6	7.1	9	41.8	5946	Globular cluster	Nor		15h 35m 29s	50° 39' 34" S
+NGC5986 in Lupus	7.5	9.8	7	34.3	5986	Globular cluster	Lup	b	15h 46m 04s	37° 47' 10" S
+M80 in Scorpius	7.3	8.9	2	32.6	6093	Globular cluster mottled	Sco	D	16h 17m 03s	22° 58' 30" S
+M4 in Scorpius	5.6	26.3	9	7.2	6121	Globular cluster highly resolved	Sco	B	16h 23m 36s	26° 31' 31" S
+NGC6101 in Apus	9.2	10.7	10	49.9	6101	Globular cluster	Aps	c	16h 25m 49s	72° 12' 06" S
+NGC6144 in Scorpius	9.0	9.3	11	33.6	6144	Globular cluster	Sco	c	16h 27m 14s	26° 01' 29" S
+NGC6139 in Scorpius	9.0	5.5	2	32.9	6139	Globular cluster unresolved	Sco		16h 27m 40s	38° 50' 56" S
+#Common Name	Mag.	Size	Class	Kly	NGC	Type	Const.	VQ	R.A. (E2000)	Dec. (E2000)
+M107 in Ophiuchus	7.9	10.0	10	20.9	6171	Globular cluster	Oph	D	16h 32m 32s	13° 03' 13" S
+M13 Great Cluster in Hercules	5.8	16.6	5	25.1	6205	Globular cluster highly resolved	Her	B	16h 41m 42s	36° 27' 37" N
+NGC6229 in Hercules	9.4	

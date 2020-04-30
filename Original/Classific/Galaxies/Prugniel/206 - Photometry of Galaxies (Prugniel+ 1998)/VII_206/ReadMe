@@ -1,0 +1,239 @@
+VII/206             General Photometry of Galaxies        (Prugniel+ 1998)
+================================================================================
+Total magnitude, radius, color indices, color gradients and
+photometric type of galaxies
+       Prugniel P., Heraudeau P.
+      <Astron. Astrophys. Suppl. Ser. 128, 299 (1998)>
+      =1998A&AS..128..299P
+================================================================================
+ADC_Keywords: Galaxy catalogs ; Galaxies, photometry
+Keywords: galaxies: fundamental parameters - galaxies: general -
+          galaxies: photometry
+
+Abstract:
+    The tables presented here give the catalogue of aperture photometry of
+    galaxies (UBVRI), the associated bibliography, the weight and
+    systematic corrections applied to individual datasets. A table give
+    the results of the growth curve fits; the net of curves adopted is a
+    linear interpolation between the de Vaucouleurs (r^1/4^) and
+    exponential laws.
+    This aperture photometry has three different origins:
+    (i) an update of the catalogue of Buta et al. 1995 (Cat. <J/AJ/109/517>)
+    (ii) published photometric profiles and
+    (iii) aperture photometry performed on CCD images.
+    Fitting growth curves to aperture photometry of galaxies, in UBVRI, we
+    derive (1) the total magnitude, (2) the effective radius,
+    (3) the color indices and (4) gradients and (5) the photometric type
+    of 5066 galaxies. The photometric type is defined to statistically
+    match the revised morphologic type (numerically coded from -6 to +10)
+    and represents the shape of the growth curve.
+    The catalogue is maintained up-to-date in the database HYPERCAT
+    (http://www-obs.univ-lyon1.fr/~prugniel/cgi-bin/hypercat/).
+    This catalogue supersedes the Longo and de Vaucouleurs (1983)
+    catalogue <VII/167>.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName     Lrecl       Records  Explanation
+--------------------------------------------------------------------------------
+ReadMe           80             .  This file
+table1.dat       70        114356  Catalogue of aperture photometry
+table2.dat      176           468  Bibliographic references for table1.dat
+table3.dat       94           444  Weights and systematic corrections to be
+                                    applied to data in table1.dat
+table4.dat      170          7288  Derived photometric parameters for the
+                                    sample's galaxies
+--------------------------------------------------------------------------------
+
+See also:
+   J/A+A/309/749  : Fundamental plane of early type galaxies (Prugniel+ 1996)
+   J/A+AS/127/117 : Kinematics of galaxies (Prugniel+ 1998)
+   J/A+AS/132/255 : A catalogue of Mg_2_ indices (Golev+ 1998)
+   http://www-obs.univ-lyon1.fr/hypercat/ : Hypercat database
+
+   Other catalogues with similar data:
+   J/AJ/109/517   : Photoelectric types of bright galaxies (Buta+ 1995)
+   VII/155        : RC3
+   VII/167        : Longo & De Vaucouleurs (1983)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units     Labels    Explanation
+--------------------------------------------------------------------------------
+   1- 12  A12    ---       Name     *Galaxy identifier
+      14  A1     ---       Type     *[GN*M] Object type
+      15  I1     ---       StarN     [1/5]? Number of the star if Type=*
+      16  A1     ---     f_Imag     *[CLNU] Identification flag
+      17  I1     ---     f_Rmag     *[0/1] Rejection flag
+      18  A1     ---       Method   *[DSPI] Measurement method
+  21- 25  F5.2 [0.1arcmin] logA     *? Size of the circular aperture
+  27- 32  A6     ---       Dataset   Dataset name detailed in table2.dat
+  34- 38  F5.2   mag       Vmag      ? Aperture magnitude in V (Johnson)
+      39  A1     ---     u_Vmag     *Uncertainty on Vmag (: = uncertain)
+      40  A1     ---     n_Vmag     *[BU] V color
+  41- 45  F5.2   mag       B-V       ? B-V (Johnson)
+      46  A1     ---     u_B-V       Uncertainty on B-V (: = uncertain)
+      47  A1     ---     n_B-V      *[U ] B-V color
+  48- 52  F5.2   mag       U-B       ? U-B (Johnson)
+      53  A1     ---     u_U-B       Uncertainty on U-B (: = uncertain)
+  55- 59  F5.2   mag       Rmag      ? R magnitude in the Rsyst system
+      60  A1     ---     u_Rmag      Uncertainty on Rmag (: = uncertain)
+      61  A1     ---     n_Rmag     *[CGJV ] Magnitude system
+  64- 68  F5.2   mag       Imag      ? I magnitude in the I_syst system
+      69  A1     ---     u_Imag      Uncertainty on Imag (: = uncertain)
+      70  A1     ---     n_Imag     *[CJ ] Magnitude system
+--------------------------------------------------------------------------------
+Note on Name:
+   The Name has been adopted by descending the hierarchy:
+   1) NGC (Cat. <VII/118>)
+   2) IC  (Cat. <VII/118>)
+   3) UGC (Cat. <VII/26>) or ESO (Cat. <VII/34>)
+   4) PGC (Cat. <VII/119>) Lyon-Meudon Extragalactic Database internal
+      identifier, also acronimed PGC for numbers greater than 73097.
+   The objects left unfolded into this hierarchy are designated as in
+   the original reference, or by their coordinates: Arrrrrrsdddddd.
+   The galaxy identifiers follow the rule already used in Prugniel &
+   Simien 1996 (J/A+A/309/749) and in Prugniel et al. 1998
+   (J/A+AS/127/117).
+Note on Type:
+   G  Galaxy
+   N  Not a galaxy (e.g. nebula or cluster)
+   *# foreground star included in the aperture, # is the number of the star
+   M  Multiple; the aperture encompasses more than one object
+Note on f_Imag:
+   U Uncertain identification
+   L Cross identified in leda
+   C Identified by coordinates
+   N Not recognized
+Note on f_Rmag:
+   0 Standard measurement
+   1 Interactively marqued to be rejected because it departs
+      from the growth curve
+Note on Method:
+   D Diaphram; Photoelectric photometry
+   S Star count
+   P Simulated aperture photometry from a photometric profile
+   I Aperture measurement on an image
+Note on logA:
+   Decimal logarithm of the aperture diameter in 0.1 arcmin
+Note on u_Vmag:
+   All the uncertainty notes come from original publications
+Note on n_Vmag:
+   B The magnitude in the V field in B (Johnson)
+   U The magnitude in the V field in U (Johnson)
+Note on n_B-V:
+   U The index in B-V field is U-V (Johnson)
+Note on n_Rmag, n_Imag:
+   The colour system for the R and I bands is coded as:
+    J Johnson
+    C Cousins
+    V Sandage-Visvanathan
+    G Gunn
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table2.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Labels    Explanation
+--------------------------------------------------------------------------------
+   1-  6  A6     ---     Dataset   Dataset name as in table1.dat and table3.dat
+   8- 26  A19    ---     Bibcode   CDS/ADS reference code
+  27-176  A150   ---     Text      Bibliographic reference
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table3.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units  Labels   Explanation
+--------------------------------------------------------------------------------
+   1-  6  A6    ---    Dataset  Dataset name detailed in table2.dat
+   7- 13  F7.2  mag    Rres     Mean residual in B (unweighted)
+  14- 19  F6.2  mag  e_Rres     rms uncertainty on Rres
+  20- 24  F5.0  ---    Nmeas    ? Number of measurements used for this reference
+  25- 30  F6.2  mag    Wres     Mean residual in B (after weighting)
+  31- 36  F6.2  mag  e_Wres     rms uncertainty on Wres (after weighting)
+  37- 42  F6.1  ---  o_Wres     weighted number of measurements
+  43- 48  F6.2  mag    Bcorr    *Correction on B magnitude
+  49- 54  F6.2  mag    Vcorr    *Correction on V magnitude
+  55- 60  F6.2  mag    Rcorr    *Correction on R magnitude
+  61- 66  F6.2  mag    Icorr    *Correction on I magnitude
+  67- 72  F6.2  mag    Ucorr    *Correction on U magnitude
+  73- 78  F6.2  ---    WG       Global weight for this reference
+  79- 84  F6.2  ---    WZ       Zero point weight
+  85- 89  I5    ---    Ngal     Number of galaxies observed in this ref.
+  90- 94  F5.2  ---    WD       Density sampling weight
+--------------------------------------------------------------------------------
+Note on Bcorr:
+  Corrected magnitude = (measure in table1.dat) - (correction in table3.dat)
+Note on Vcorr:
+  Corrected magnitude = (measure in table1.dat) - (correction in table3.dat)
+Note on Rcorr:
+  Corrected magnitude = (measure in table1.dat) - (correction in table3.dat)
+Note on Icorr:
+  Corrected magnitude = (measure in table1.dat) - (correction in table3.dat)
+Note on Ucorr:
+  Corrected magnitude = (measure in table1.dat) - (correction in table3.dat)
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table4.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units      Label   Explanations
+--------------------------------------------------------------------------------
+   1- 11  A11   ---        Name   *Galaxy identifier
+  12- 13  I2    h          RAh     Right ascension (1950.0)
+  14- 15  I2    min        RAm     Right ascension (1950.0)
+  16- 19  F4.1  s          RAs     [0/60] Right ascension (1950.0)
+      20  A1    ---        DE-     Declination sign
+  21- 22  I2    deg        DEd     Declination (1950.0)
+  23- 24  I2    arcmin     DEm     Declination (1950.0)
+  25- 26  I2    arcsec     DEs     Declination (1950.0)
+  28- 32  F5.2  mag        Bt      Asymptotic magnitude in B
+  34- 39  F6.2 mag/arcsec2 SBe     Mean surface brightness within the
+                                    effective aperture
+  41- 46  F6.3  mag        e1      Residual 1-sigma error on Bt
+  48- 53  F6.3 [0.1arcmin] e2     *1-sigma error on log(Ae)
+  55- 60  F6.3  mag        e3      Effect of e2 on Bt
+  62- 67  F6.3  ---        e4      1-sigma error on Tphot
+  69- 74  F6.3  mag        e5      Effect of e4 on Bt
+  76- 80  F5.2  mag        B-Ve    ?=9.99 mean B-V within effective aperture
+  82- 86  F5.3  mag      e_B-Ve    ?=9.99 1-sigma error on B-Ve
+  88- 93  F6.3  ---        gB-V    ?=9.99 Color gradient in B-V
+  95- 99  F5.2  mag        U-Be    ?=9.99 mean U-B within effective aperture
+ 101-105  F5.3  mag      e_U-Be    ?=9.99 1-sigma error on U-Be
+ 107-112  F6.3  ---        gU-B    ?=9.99 Color gradient in U-B
+ 114-118  F5.2  mag        V-Re    ?=9.99 mean V-R within effective aperture
+ 120-124  F5.3  mag      e_V-Re    ?=9.99 1-sigma error on V-Re
+ 126-131  F6.3  ---        gV-R    ?=9.99 Color gradient in V-R
+ 133-137  F5.2  mag        V-Ie    ?=9.99 mean V-I within effective aperture
+ 139-143  F5.3  mag      e_V-Ie    ?=9.99 1-sigma error on V-Ie
+ 145-150  F6.3  ---        gV-I    ?=9.99 Color gradient in V-I
+ 152-154  I3    ---        Nap     ?=9.99 Number of aperture available
+ 156-160  F5.2 [0.1arcmin] LastA   log(A)-log(Ae) of the last used Ap
+ 162-166  F5.1  ---        Tphot   Photometric type
+     168  I1    ---        Mode    [0-1] Mode
+     170  I1    ---        Q       [0-6] Quality flag
+--------------------------------------------------------------------------------
+Note on Name:
+   The Name has been adopted by descending the hierarchy:
+   1) NGC (Cat. <VII/118>)
+   2) IC  (Cat. <VII/118>)
+   3) UGC (Cat. <VII/26>) or ESO (Cat. <VII/34>)
+   4) PGC (Cat. <VII/119>) Lyon-Meudon Extragalactic Database internal
+      identifier, also acronimed PGC for numbers greater than 73097.
+   The objects left unfolded into this hierarchy are designated as in
+   the original reference, or by their coordinates: Arrrrrrsdddddd.
+   The galaxy identifiers follow the rule already used in Prugniel &
+   Simien 1996 (J/A+A/309/749) and in Prugniel et al. 1998
+   (J/A+AS/127/117).
+Note on e2:
+  log(Ae) is the logarithm of the effective aperture in 0.1 arcmin
+--------------------------------------------------------------------------------
+
+Acknowledgements: Philippe Prugniel <prugniel@galaxies.univ-lyon1.fr>
+
+History:
+  * 17-Feb-2002: Corrected 68 signs of the declination in table4 between
+    -00 and -01 degrees -- all galaxies between -1 and +1 degrees had
+    originally a positive sign (Francois Ochsenbein, CDS). In table4
+    description, the equinox of the position was erroneously reported as
+    2000; it was changed to 1950
+================================================================================
+(End)                                 Philippe Prugniel [Obs. Lyon]  09-Mar-1998

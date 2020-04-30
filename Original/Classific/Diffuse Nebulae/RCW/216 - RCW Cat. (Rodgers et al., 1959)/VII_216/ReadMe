@@ -1,0 +1,101 @@
+VII/216         H-{alpha} emission regions in Southern Milky Way (Rodgers+ 1960)
+================================================================================
+A catalogue of H-{alpha} emission regions in the Southern Milky Way
+     Rodgers A.W., Campbell C.T., Whiteoak J.B.
+    <Mon. Not. R. Astron. Soc. 121, 103 (1960)>
+    =1960MNRAS.121..103R
+================================================================================
+ADC_Keywords: Nebulae ; H II regions
+
+Description:
+    The Catalogue of Rodgers, Cambell, and Whiteoak (RCW),  was the result
+    of a survey of emission nebulae carried out at Mt. Stromlo Observatory
+    from  December 1957 to April 1959.  The entire region of the Milky Way
+    southward  of the Palomar sky survey with  a latitude of plus or minus
+    15 degrees of  the galactic equator  was photographed in  the light of
+    hydrogen  alpha with comparison plates obtained in yellow light.  This
+    work roughly complements the Sharpless (Sh2, see Cat. <VII/20>) survey
+    published in 1959.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl    Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe          80          .    This file
+rcw.dat         80        181    The Catalogue (tables 2 and 3 of the paper)
+notes.dat       80        143    Notes to individual  nebulae
+--------------------------------------------------------------------------------
+
+See also:
+    VII/20 : Catalogue of HII Regions (Sharpless 1959)
+
+Byte-by-byte Description of file: rcw.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  3  I3    ---     RCW       RCW id number
+   6- 10  F5.1  deg     GLON      Galactic Longitude (l) new system
+  13- 17  F5.1  deg     GLAT      Galactic Latitude  (b) new system
+  20- 21  I2    h       RAh       Right Ascension B1950 (hours)
+  23- 26  F4.1  min     RAm       Right Ascension B1950 (minutes)
+      28  A1    ---     DE-       Declination B1950 (sign)
+  29- 30  I2    deg     DEd       Declination B1950 (degrees)
+  32- 33  I2    arcmin  DEm       Declination B1950 (minutes)
+  36- 38  I3    arcmin  MajAxis   Major Axis Size (arc minutes)
+  40- 42  I3    arcmin  MinAxis   Minor Axis Size (arc minutes)
+  45- 46  A2    ---     Br       *[vbmf ] Brightness on H-alpha plates
+  48- 79  A32   ---     IDs      *Cross Reference Identifications
+      80  A1    ---     Rem      *[*R] Note detailed in file "notes.dat"
+--------------------------------------------------------------------------------
+Note on Br: the symbols are b for bright, m for medium, f for faint,
+     or vb for very bright.
+
+Note on IDs: the cross identifications refer to the designations
+     from the following papers:
+     BBW - B.J. Bok, M.J. Bester and C.M. Wade
+           Daedalus 86, 9 (1955HarRe.416....1B)
+     E   - S. Sharpless, 1953ApJ...118..362S (Sh1)
+     G   - C.S. Gum, Mem. R.A.S. 67, 155 (1955MmRAS..67..155G)
+     HS  - V.F Hase and G.A. Shaijn
+           Bull. Crimea. Ast. Obs., 15, 11 (1955)
+     IC    J.L.E. Dryer, Index Catalogue(1895) and Second Index Catalog(1908)
+           London, 1962 Royal Astronomical Society
+     NGC   J.L.E. Dryer, New General Catalogue (1888)
+           London, 1962 Royal Astronomical Society
+
+Note on Rem:
+     The flag is an asterisk (*) for a remark due to a formatting problem,
+     and R is for a note in the original publication. Both notes are in the
+     file notes.dat
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: notes.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  3  I3    ---     RCW       RCW id number, repeated when several lines
+       5  A1    ---     add       [*] for a note due to formatting problems.
+   6- 80  A75   ---     Text      Text of note
+--------------------------------------------------------------------------------
+
+Note to the electronic version (by Raymond Bruton, pam99999@swbell.net):
+    The purpose of this version of the RCW Catalogue is a computer
+    readable file for the plotting of star charts. No more modern data was
+    incorporated into the data table. Typographical errors should be
+    brought to the attention of the editor. Any gross errors in the
+    original publication should likewise be reported. The editor
+    gratefully acknowledges the original work of Rodgers, Cambell, and
+    Whiteoak under the direction of the late Bart J. Bok. The NASA
+    Astrophysics Data System maintained at Harvard University was
+    indispensable for checking against the original work. The Royal
+    Astronomcal Society of the United Kingdom is thanked for making the
+    copyrighted original available to the NASA Astrophysics Data System
+    and indirectly to the editor.
+
+Acknowledgements:
+    It is a pleasure to thank Raymond Bruton, Fort Worth, Texas (USA)
+    (e-mail pam99999@swbell.net) who prepared the catalogue and kindly
+    forwarded it to CDS in May 2000.
+
+================================================================================
+(End)      Raymond Bruton [Fort Worth], Francois Ochsenbein [CDS]    03-May-2000

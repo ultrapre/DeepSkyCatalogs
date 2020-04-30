@@ -1,0 +1,124 @@
+#Section 1
+M3      CVN  GC  13 42.2 +28 23 06.4   16.2    Rosse saw dark marks
+M5      SER  GC  15 18.6 +02 05 05.8   17.4
+#Section 2
+M107      OPH  GC  16 32.5 -13 03 08.1   10.0
+M12      OPH  GC  16 47.2 -01 57 06.6   14.5    Somewhat loose struct.
+M10      OPH  GC  16 57.1 -04 06 06.6   15.1    Rosse saw dark lane
+M9      OPH  GC  17 19.2 -18 31 07.9    9.3    Dark neb B64 to west
+M6      SCO  OC  17 40.1 -32 13 04.2   15.0    Butterfly cluster
+M7      SCO  OC  17 53.9 -34 49 03.3   80.0    Fine naked eye cluster
+#Section 3
+M22      SGR  GC  18 36.4 -23 54 05.1   24.0    one of finest globs
+M28      SGR  GC  18 24.5 -24 52 06.9   11.2    * mags 14...
+M69      SGR  GC  18 31.4 -32 21 07.7    7.1
+M70      SGR  GC  18 43.2 -32 18 08.1    8      * mags 14...
+M54      SGR  GC  18 55.1 -30 29 07.7    9.1    * mags 15...
+M55      SGR  GC  19 40.0 -30 58 07.0   19.0    * mags 15...
+#Section 4
+M8      SGR  CN  18 03.1 -24 23 05.0   80X40   Lagoon Nebula
+M20      SGR  CN  18 02.3 -23 02 06.3   28.0    Trifid nebula
+M21      SGR  OC  18 04.6 -22 30 05.9   13.0    36 members to 12th mag
+M25      SGR  OC  18 31.6 -19 15 04.6   32      Stars mags 6...10
+M24      SGR  OC  18 17.0 -18 35 04.0  120X90   Sm Sgr * Cloud
+M23      SGR  OC  17 56.8 -19 01 05.5   27.0    100 members to 13th mag
+M18      SGR  OC  18 19.9 -17 08 06.9    9.0
+M17      SGR  CN  18 20.8 -16 11 06.0   11.0    Omega or Swan Nebule
+M16      SER  CN  18 18.8 -13 47 06.0    6.0    Star Queen, Eagle Neb
+M14      OPH  GC  17 37.6 -03 15 07.6   11.7    many vF stars 14...
+M11      SCT  OC  18 51.1 -06 16 05.8   14.0    Wild duck
+M26      SCT  OC  18 45.2 -09 24 08.0   15.0    70 * to 14 m
+NGC6712   SCT  GC  18 53.1 -08 42 08.2    7.2
+M75      SGR  GC  20 06.1 -21 55 08.6    6.0    * mags 17...
+NGC6818   SGR  PN  19 44.0 -14 09 10.0    5"     Little Gem Nebula
+#Section 5
+M101      UMA  Sc  14 03.3 +54 22 07.9   28X28
+NGC5907   DRA  Sb+ 15 15.9 +56 19 10.3 12.8X1.8
+M102      DRA  E6p 15 06.5 +55 45 09.9  6.5X3
+NGC6503   DRA  Sb  17 49.4 +70 09 10.2    8X2.6
+NGC6543   DRA  PN  17 58.6 +66 38 08.3  22"X16"  Cats Eye Nebula
+M13      HER  GC  16 41.7 +36 28 05.9   16.6    Hercules cluster
+NGC6207   HER  Sc  16 43.1 +36 50 11.6  3.3X1.2  30' NE from M13
+NGC6229  HER  GC  16 47.0 +47 32 09.4    4.5
+M92      HER  GC  17 17.1 +43 08 06.5   11.2    Rosse saw spiral struct
+M57      LYR  PN  18 53.6 +33 02 09.4  86"X62"  Ring Nebula
+M56      LYR  GC  19 16.6 +30 11 08.3    7.1    Stars 11...
+NGC6826   CYG  PN  19 44.8 +50 31 08.8  27"X24"  Blinking Planetary
+M39      CYG  OC  21 32.2 +48 26 04.6   32.0    Large but loose cluster
+M29      CYG  OC  20 23.9 +38 32 06.6    7.0    Abt 20 stars mags 8...
+NGC6960   CYG  SNR 20 45.6 +30 43 99.9   70X6    Veil Neb, 52 Cyg inv
+NGC6940   VUL  OC  20 34.6 +28 18 06.3   31.0    100 * mags 9...
+#Section 6
+M27      VUL  PN  19 59.6 +22 43 07.3 480"X340" Rosse drew 18* invl
+Cr399    VUL  OC  19 25.4 +20 11 03.6   60.0    Brocchis, Coathanger
+M71      SGE  GC  19 53.8 +18 47 08.3    7.2
+NGC6934  DEL  GC  20 34.2 +07 24 08.9    2
+M15      PEG  GC  21 30.0 +12 10 06.4    2.3    Stars mags 13...
+M2      AQR  GC  21 33.5 -00 49 06.5   12.9    Rosse-Dk area near core
+NGC7293   AQR  PN  22 29.6 -20 48 06.3 960"X720" Helical Nebula
+M72      AQR  GC  20 53.5 -12 32 09.4    5.9    3 deg WSW of N 7009
+M73      AQR  OC  20 59.0 -12 38 08.9    2.8
+NGC7009   AQR  PN  21 04.2 -11 22 08.3  28"X23"  Saturn Nebula
+M30      CAP  GC  21 40.4 -23 11 07.5   11.0    Herschel ellip. shape
+#Section 7
+NGC40   CEP  PN  00 13.0 +72 32 10.7  60"X40"  Rosse saw spiral struct
+M103      CAS  OC  01 33.2 +60 42 07.4    6.0    Cas OB8
+NGC663   CAS  OC  01 46.0 +61 15 07.1   16.0    Cas OB8
+NGC185   CAS  dE0 00 39.0 +48 20 09.2   12X10   Dwarf eliptical, N 396
+NGC7789   CAS  OC  23 57.0 +56 44 06.7   16.0    1000 sts 11...18 mag
+M52      CAS  OC  23 24.2 +61 35 06.9   13.0
+NGC6939   CEP  OC  20 31.4 +60 38 07.8    8.0    N6946 38' SE
+NGC7331   PEG  gl  22 37.1 +34 25 09.5 11.4X4.0  Brightest in group
+NGC7662   AND  PN  23 25.9 +42 33 08.6  17"X14"  Blue Snowball Nebula
+M31      AND  Sb  00 42.8 +41 16 03.4  178X40   Great Andromeda Galaxy
+M32      AND  E2  00 42.8 +40 52 08.1    8X6    M31 Companion
+M110      AND  E6  00 40.4 +41 41 08.1   17X10   M31 Companion
+#Section 8
+M33      TRI  Sc  01 33.9 +30 40 05.7   73X45   Pinwheel Galaxy
+M74      PSC  Sc  01 36.6 +15 48 09.4 12.0X12.0 Fine face on spiral
+M77      CET  SBp 02 42.7 -00 02 08.9    9X8
+NGC936   CET  SBa 02 27.7 -01 09 10.1  5.6X4.5  Thick central bar
+NGC253   SCL  Scp 00 47.5 -25 18 07.2   25X7
+M45      TAU  CN  03 47.0 +24 07 01.2  100      Pleiades
+M34      PER  OC  02 42.0 +42 47 05.2   35.0    sevral D* inv.
+NGC891   AND  Sb  02 22.6 +42 21 09.9 14.0X3.0  Rosse drawing w/dk lane
+NGC1023   PER  E7p 02 40.5 +39 03 09.4    9X4    faint tuft on E tip
+M76      PER  PN  01 42.4 +51 34 11.0 163"X107" Little Dumbbell, Cork Neb
+NGC869 PER  OC  02 19.0 +57 09 05.3   30.0    Double Cluster
+NGC884 PER  OC  02 19.0 +57 09 05.3   30.0    Double Cluster
+NGC1501   CAMPN  04 07.0 +60 55 12.0  56"X48"
+#Section 9
+M38      AUR  OC  05 28.7 +35 50 06.4   21      Greek letter Pi
+NGC1907   AUR  OC  05 28.0 +35 19 08.2    7.0
+M36      AUR  OC  05 36.1 +34 08 06.0   12      Aur OB1 inc Struve 737
+M37      AUR  OC  05 52.4 +32 33 05.6   24.0    500*
+M35      GEMOC  06 08.9 +24 20 05.1   28.0    Rosse counted 300*
+NGC2158   GEMOC  06 07.5 +24 06 08.6    5.0    F* on edge of M35
+M1      TAU  SNR 05 34.5 +22 01 08.4    6X4    Crab Nebula
+NGC2371 GEMPN  07 25.6 +29 29 13.0  74"X54"  double lobed
+NGC2372 GEMPN  07 25.6 +29 29 13.0  74"X54"  double lobed
+NGC2392   GEMPN  07 29.2 +20 55 08.6  47"X43"  Clown Face, Eskimo Neb
+#Section 10
+M78      ORI  BN  05 46.8 +00 04 08.0    8X6    Comet shaped 2 sts inv
+NGC2024  ORI  BN  05 42.0 -01 50 99.9   30X30   Tank Track Neb
+NGC1973 ORI  BN  05 35.1 -04 44 99.9   20X10   42 Ori etal, incl /5/7
+M42      ORI  CN  05 35.3 -05 23 04.0   66X60   Trapezium
+M43      ORI  BN  05 35.5 -05 16 09.0   20X15   detached pt of Ori Neb
+M79      LEP  GC  05 24.2 -24 31 08.4    8.7    Stars vF
+NGC1535   ERI  PN  04 14.2 -12 44 10.4  20"X17"
+#Section 11
+M81      UMA  Sb  09 55.6 +69 04 06.9   26X14   brightest in group
+M82      UMA  Ip  09 55.8 +69 41 08.4   13X6 M81 group, eruptive
+NGC2403   CAMSc  07 36.8 +65 37 08.5   17.8    in M81 group
+M108      UMA  Sc  11 11.5 +55 40 10.0  8.8X2.2  M97 is 48' SE
+M97      UMA  PN  11 14.8 +55 01 11.0 202"X196" Owl Nebula
+M40      UMA  2S  12 21.9 +58 06 09.0           D* 9.0 & 9.3 50" sep
+#Section 12
+M44      CNC  OC  08 40.1 +19 59 03.1   95.0    Beehive, 200 sts ...14
+M67      CNC  OC  08 50.4 +11 49 06.9   30.0    500 sts to 16 mag
+M48      HYA  OC  08 13.8 -05 48 05.8   54.0
+M50      MON  OC  07 03.2 -08 20 05.9   16.0    About 100 sts 9...14m
+M47      PUP  OC  07 36.6 -14 30 04.4   30.0
+M46      PUP  OC  07 41.8 -14 49 06.1   27.0    PN N 2438 on N edge
+M41      CMA  OC  06 46.0 -20 44 04.5   38.0    150 sts to 13 mag
+M93      PUP  OC  07 44.6 -23 52 06.2   22.0    63 sts to 13 mag

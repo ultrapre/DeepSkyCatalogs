@@ -1,0 +1,47 @@
+Remarks
+No.	Object	Remarks
+1	NGC 7822	large, faint emission nebula; rated `eeF'; also look for E/R nebula Ced 214 (ass. with cluster Berkeley 59) 1 deg S
+2	IC 59	faint emission/reflection nebulosity paired with IC 63 close to gamma Cas; requires clean optics; rated as `pF'
+3	NGC 609	faint patch at low power; high power needed to resolve this rich cluster (also look for Trumpler 1 cluster 1 deg S)
+4	IC 1795	brightest part of a complex nebulosity that includes IC 1805 and IC 1848; use a nebula filter
+5	Maffei 1	heavily reddened galaxy; very faint; requires large aperture and black skies; nearby Maffei II probably invisible
+6	NGC 1049	Class V globular in dward `Fornax system' Local Group galaxy 630,000 ly away, galaxy itself invisible ?
+7	NGC 1275	Perseus A exploding galaxy; brightest member of Abell 426 gal. cl. 300 million ly away; see Webb vol. 5
+8	NGC 1432/35	Pleiades nebulosity (also includes IC 349); brightest around Merope; requires transparent sky and clean optics
+9	IC 342	large and diffuse face-on spiral; member of UMa-Cam cloud (Kemble's Cascade of stars also in this chart)
+10	NGC 1499	California Nebula; very large and faint; use a wide-field telescope or big binoculars plus H-Beat filter
+11	IC 405	Flaming Star Nebula; associated with runaway star AE Aurigae; see Burnham's Handbook page 285 (also look for IC 410)
+12	HH 1	Herbig-Haro 1; best with no filter at 250x or more: bipolar jets from forming star; not plotted, 2.5' SW NGC 1999
+13	IC 434/B 33	B 33 is the Horsehead Nebula, a dark nebula superimposed on a very faint emission nebula IC 434; use H-Beta filter in dark sky!
+14	Sh 2-276	Barnard's Loop; SNR or interstellar bubble?; difficult to detect due to size; use filter and sweep with wide field
+15	Abell 12	also called PK 198 -6.1; faint; not plotted on Uranometria but is on NW edge of mu Orionis; OIII filter required
+16	IC 443	faint supernova remnant very close to eta Gem; use filter (also look for NGC 2174 and Sh 2-247 on this Chart)
+17	J 900	Jonckheere 900; bright starlike planetary; plotted as PK 194 +2.1 in Uranometria; use OIII filter & high power
+18	IC 2177	Eagle Nebula; large, faint; contains bright patches Gum 1 (-10d 28'), NGC 2327 (-11d 18') & Ced 90 (-12d 20')
+19	PK 205+14.1	Medusa Nebula or Abell 21; much larger than plotted in Uranometria; impressive in large aperture with OIII filter
+20	PK 164+31.1	extremely faint with two small components; use OIII filter; sometimes confused with nearby NGC 2474-75
+21	Leo I	dwarf elliptical; satellite of Milky Way; very low surface brightness; 0.3deg N of Regulus!; requires clean optics
+22	Abell 1367	cluster of some 30 or more galaxies within a 1deg field near 93 Leonis; see Webb Handbook Volume 5, page 139
+23	NGC 3172	`Polarissma Borealis' - closest galaxy to the North Celestial Pole; small, faint and otherwise unremarkable
+24	NGC 4236	very large, dim barred spiral; a diffuse glow (NGC 4395 on Chart 108 is a similar large diffuse face-on)
+25	Mrk 205	Markarian 205; a faint star on SW edge of NGC 4319; plotted as a radio source; centre of the red-shift controversy
+26	3C 273	at 2 to 3 billion light years away one of the most distant objects visible in amateur telescopes; magnitude variable
+27	NGC 4676	`The Mice' or VV 224 - two classic interacting galaxies; very faint; double nature detectable at high power
+28	Abell 1656	Coma Berenices galaxy cluster; very rich; 400 million light years away; brightest member NGC 4889; see Webb Volume 5
+29	NGC 5053	faint and very loose globular 1deg SE of M53; requires large aperture to resolve; difficult in hazy skies; Class XI
+30	NGC 5897	large, faint and loose globular; magnitude 10.9 in Atlas Coeli Catalogue; requires large aperture to resolve; Class XI
+31	Abell 2065	Corona Borealis galaxy cluster; perhaps the most difficult object for amateur telescopes; 1.5 billion light years away; requires superb sky!
+32	NGC 6027	Seyfert's Sextet (6027 A-F); compact group of 6 small and very faint galaxies; see Burnham's Handbook page 1793
+33	B 72	Barnard's dark S-Nebula or `The Snake'; opacity of 6/6; 1.5 deg NNE of theta Ophiuchi; area rich in dark nebulas
+34	NGC 6791	large, faint but very rich open cluster with 300 stars; a faint smear in smaller instruments; Type II 3 r
+35	PK 064+05.1	Campbell's Hydrogen Star; very bright but very starlike; also catalogued as star BD +30 3639
+36	M 1-92	Minkowski 92 or Footprint Nebula; bright, starlike reflection nebula; double at high magnification; associated star invisible
+37	NGC 6822	Barnard's Galaxy; member of the Local Group; large but very low surface brightness; requires transparent skies
+38	Palomar 11	brightest of 15 heavily reddened GCs found on Sky Survey; magnitude is misleading. 11 Terzan GCs more challenging
+39	IC 4997	bright but starlike planetary; the challenge is to see the disk!; blink the field with and without a nebula filter
+40	IC 1318	complex of nebulosity around gamma Cygni; multitude of patches in rich starfield; use a very wide field plus filter
+41	PK 080-06.1	the `Egg Nebula'; a very small proto-planetary nebula; can owners of large telescopes detect polarization?
+42	IC 1396	extremely large and diffuse area of emission nebulosity; use nebula filter and very wide field optics in dark sky
+43	IC 5146	Cocoon Nebula; faint and diffuse; use H-Beta filter; at the end of the long filamentary dark nebula is Barnard 168
+44	NGC 7317-20	Stephan's Quintet; 0.5 deg SSW of NGC 7331; easy to pick out 3 or 4 (also look for `companions' to 7331)
+45	Jones 1	plotted as PK 104-29.1 (from Perek & Kohoutek catalogue) in Uranometria; large dim glow; OIII filter required

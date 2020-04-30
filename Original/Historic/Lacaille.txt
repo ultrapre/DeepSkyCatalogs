@@ -1,0 +1,37 @@
+Lac I.1       104  47 Tuc    Gl   00:24.1 -72:05 Tuc  3.95 30.9
+Lac I.2      2070  30 Dor    DN   05:38.7 -69:06 Dor       40x25 
+Lac I.3      2477            OCl  07:52.3 -38:33 Pup  5.8  27
+Lac I.4      4833            Gl   12:59.6 -70:53 Mus  6.91 13.5
+Lac I.5      5139 Omega Cen  Gl   13:26.8 -47:29 Cen  3.68 36.3 
+Lac I.6      5236  M83       S G  13:37.0 -29:52 Hya  7.6: 11x10
+Lac I.7      5281            OCl  13:46.6 -62:54 Cen  5.9  5
+Lac I.8      6124            OCl  16:25.6 -40:40 Sco  5.8: 29
+Lac I.9      6121  M4        Gl   16:23.6 -26:32 Sco  5.9  26.3
+Lac I.10     6242            OCl  16:55.6 -39:30 Sco  6.4  9
+Lac I.11     6634  -         3st  18:30.0 -33:29 Sgr  7.3  4       (3 stars, GC 5076; probably not M69)
+Lac I.12     6656  M22       Gl   18:36.4 -29:54 Sgr  6.5  24.0
+Lac I.13     6777  -         2st  19:26.8 -71:30 Pav               (2 stars 8..9 mag nearby; GC 4484)
+Lac I.14     6809  M55       Gl   19:40.0 -30:58 Sgr  7.0  19.0
+Lac II.2     Cr140   OCl? 07:26.3 -34:08 Pup               OCl Cr 140? (asterism of 8 stars mag 5.9..8.9 ?)
+Lac II.3     2516            OCl  07:58.3 -60:52 Car  3.8  30
+Lac II.4     2546            OCl  08:12.4 -37:38 Pup  6.3  41
+Lac II.5    I2391  o Vel     OCl  08:40.2 -53:04 Vel  2.5  50
+Lac II.6     Tr10     OCl? 08:46.6 -42:34 Vel  4.6? 15?     OCl Trumpler 10 ?
+Lac II.7     3228            OCl  10:21.8 -51:43 Vel  6.0  18
+Lac II.8     3293            DNCl 10:35.8 -58:14 Car  4.7  6
+Lac II.9    I2602 Theta Cru  OCl  10:43.2 -64:24 Car  1.9  50
+Lac II.10    3532            OCl  11:06.4 -58:40 Car  3.0  55
+Lac II.12    4755 Kappa Cru  OCl  12:53.6 -60:20 Cru  4.2  10
+Lac II.13    6231            OCl  16:54.0 -41:48 Sco  2.6  15
+Lac II.14    6475  M7        OCl  17:53.9 -34:49 Sco  3.5  80.0
+Lac III.2    2547            OCl  08:10.7 -49:16 Vel  4.7  20
+Lac III.3   I2395  vdB-Ha47? OCl? 08:42.2 -48:04 Vel       13?     OCl vdB-Ha 47 ?
+Lac III.4   I2488            OCl  09:27.6 -56:59 Vel  7.4p 15
+Lac III.5    Cr228    OCl? 10:43.0 -60:01 Car  4.4   5      OCl Cr 228 in DN NGC 3372 (=Lac III.6)
+Lac III.6    3372  Eta Car   DN   10:43.8 -59:52 Car       120x120 (contains Lac III.5)
+Lac III.7    3766            OCl  11:36.1 -61:37 Cen  5.3  12
+Lac III.8    5662            OCl  14:35.2 -56:33 Cen  5.5  12
+Lac III.10   6025            OCl  16:03.7 -60:30 TrA  5.1  12
+Lac III.11   6397            Gl   17:40.7 -53:40 Ara  5.73 25.7
+Lac III.12   6405  M6        OCl  17:40.1 -32:13 Sco  4.5  15.0
+Lac III.13   6523  M8        DN   18:03.8 -24:23 Sgr  5.0  60x35

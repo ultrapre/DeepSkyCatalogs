@@ -1,0 +1,96 @@
+VII/116     Southern Galaxy Catalogue  (SGC)     (Corwin+ 1985)
+================================================================================
+Southern Galaxy Catalogue
+     Corwin, H.G., de Vaucouleurs, A., de Vaucouleurs, G.
+    <The University of Texas Monographs in Astronomy No.4,
+     The Department of Astronomy, University of Texas at Austin (1985)>
+    =1985MAUTx...4....1C           (Simbad/NED BibCode)
+================================================================================
+ADC_Keywords: Galaxy catalogs
+
+Description: (Abstract in the documentation file "docu.txt")
+    The "Southern Galaxy Catalogue" provides a finding list of galaxies
+    larger than about 1.5 to 2 arc minutes, south of declination -17
+    degrees. It includes, as far as possible, precise positions,
+    morphological types, luminosity classifications, and diameters. It is
+    essentially complete for logD>1.52.
+
+Notes:
+  * Detail, see "docu.txt" (document) file.
+  * The remark flag 'r' in column 68 of the original "catalog" file has been
+    shifted to column 74 in accordance with the other case of full EU name.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName      Lrecl     Records      Explanations
+--------------------------------------------------------------------------------
+ReadMe            80           .      this file
+catalog.dat      126        5472      Southern Galaxy Catalogue
+notes.dat         80        8172      notes for the catalogue
+docu.txt          76         792      documentation for the computer-readable
+                                        version of the catalog
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: catalog.dat
+--------------------------------------------------------------------------------
+ Bytes  Format   Unit     Label    Explanation
+--------------------------------------------------------------------------------
+  1-  2  I2      h        RAh      Right ascension (hours)   (B1950)
+  4-  5  I2      min      RAm      Right ascension (minutes)
+  7-  8  I2      s        RAs      Right ascension (seconds)
+     10  A1      ---      DE-      [-] declination sign
+ 11- 12  I2      deg      DEd      declination (degrees)     (B1950)
+ 14- 17  F4.1    arcmin   DEm      declination (minutes)
+ 19- 20  I2      h        RA2000h  right ascension (hours)   (J2000)
+ 22- 23  I2      min      RA2000m  right ascension (minutes)
+ 25- 26  I2      s        RA2000s  right ascension (seconds)
+     28  A1      ---      DE2000-  [-] declination sign
+ 29- 30  I2      deg      DE2000d  declination (degrees)     (J2000)
+ 32- 35  F4.1    arcmin   DE2000m  declination (minutes)
+ 37- 42  F6.2    deg      GLON     galactic longitude l^II^
+ 44- 49  F6.2    deg      GLAT     galactic latitude b^II^
+ 51- 63  A13     ---      RC2      [ A-Zab0-9?+=-] RC2 name
+ 65- 73  A9      ---      EU       [ IGSCPNAE0-9?-]! ESO/Uppsala name
+     74  A1      ---    n_EU       [r] 'r' denotes that a remark is given in
+                                     "docu.txt" file
+ 76- 82  A7      ---      MType    Morphological type
+ 84- 87  F4.1    ---      T        ? weighted mean numerical type (1)
+     89  I1      ---    o_T        ? number of estimates of T, n(T)
+ 91- 94  F4.2    ---    w_T        [0,]? Total internal weight of T, w(T)
+ 95- 98  F4.1    ---      L        ? weighted mean luminosity class (1)
+    100  I1      ---    o_L        ? number of estimates of L, n(L)
+102-104  F3.1    ---    w_L        [0,]? total internal weight of L, w(L)
+106-109  F4.2 [0.1arcmin] logD     ? weighted mean logarithm of the outer
+                                      diameter D along the major axis (1)
+111-114  F4.2    ---    w_logD     [0,]? total internal weight of log(D)
+116-119  F4.2   [---]     logR     ? weighted mean log. of the axis ratio
+                                     R=D/d, where d is the diameter along the
+                                     minor axis (1)
+121-124  F4.2    ---    w_logR     [0,]? weight of R, w(R)
+    126  I1      ---    o_logR     ? number of independent estimates of R
+--------------------------------------------------------------------------------
+Note (1): For detail, see "docu.txt" file.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: notes.dat
+--------------------------------------------------------------------------------
+ Bytes  Format   Unit    Label    Explanation
+--------------------------------------------------------------------------------
+  1- 12  A12     ---     GN       galaxy name (neither RC2 nor ESO-Uppsala)
+ 13- 16  I4      ---     J        ? plate number
+     17  A1      ---   n_J        [r] 'r' denotes that a remark is given in
+                                  "docu.txt" file
+ 19- 80  A62     ---     NOTE     notes for the galaxy (for abbreviations used,
+                                  see the "docu.txt" file)
+--------------------------------------------------------------------------------
+
+Historical Notes:
+  * The catalogue was provided by H. Andernach who took it out from
+    NDADS/ARMS; it was numbered A110 in H. Andernach's
+    "List of Astronomical Catalogues and Documents kindly provided
+    on request by various authors"
+  * 10-Jan-1994: First archived.
+    (The date of the latest archiving, see the date of each file.)
+  * 28-Jun-2012: filenames standardized (suffixes .txt or .dat)
+================================================================================
+(End)                                        Koichi Nakajima [CDS]   10-Jan-1994

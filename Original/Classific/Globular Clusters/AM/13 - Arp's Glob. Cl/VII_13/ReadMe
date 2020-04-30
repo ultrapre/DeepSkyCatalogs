@@ -1,0 +1,162 @@
+VII/13            Globular-Cluster Catalog          (Arp 1965)
+================================================================================
+Globular-Cluster Catalog
+    Arp H.C.
+   <Stars and Stellar Systems, Vol. 5, gen. ed. G.P. Kuiper,
+    eds. A. Blaauw and M. Schmidt, Chapter 19, p. 410. (1965)>
+================================================================================
+ADC_Keywords: Clusters, globular - 220
+
+Description:
+   This catalog is the Globular Cluster Catalog published by
+   Halton C. Arp in 1965 as part of a review paper on globular
+   Clusters.  The review focused on the slightly more than a
+   hundred roughly spherical star clusters that have integrated
+   color indices between B-V = 0.6 an 0.8 mag and intrinsic
+   magnitudes between Mbol = -4 and -10 mag.  They are distributed
+   about the center of the galaxy. Such clusters contain stars that
+   are very old and metal poor. The catalog improves upon the earlier
+   publication by Mrs. Hogg (1959). An estimate of the completeness
+   of the catalog is 98 percent complete for galactic latitudes
+   above b(II)=8 degrees and 94 percent complete for low latitudes
+   for concentration classes less than XI. This catalog lists
+   for all 119 clusters: the NGC number, or other ID, the name, the
+   position in equatorial and galactic coordinates, the concentration
+   class, galactic absorption, diameter at 0.9, magnitude of 25-st
+   brightest star, distance modulus, galactic radius, x, y, and z
+   positions, total brightness, apparent and intrinsic colors,
+   spectral type and radial velocity.
+
+File Summary:
+--------------------------------------------------------------------------------
+  FileName      Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe             80        .   This file
+catalog.dat       135      119   *Catalog Data
+--------------------------------------------------------------------------------
+Note on catalog.dat:
+  NGC 2158 was dropped from Mrs. Hogg's list, because although Arp and
+  McCuffey (1962) have shown this to be a transitional cluster in many
+  respects, it is nevertheless similar in stellar content to NCG 7789
+  and NGC 752, which have been traditionally classified as galactic
+  clusters. Also dropped was the so-called ''Russian cluster'' because
+  under high resolution it proves to be a cluster of galaxies.
+  Added was a faint, sparse globular cluster at 19h30m and -30d, a plate
+  of which was found in Baade's files, and a globular cluster at low
+  latitudes, NGC 6749, pictured in Setteducati and Weaver (1962), as well
+  as a faint, distant cluster discovered by Arp and van den Bergh (1960).
+--------------------------------------------------------------------------------
+
+See also:
+    VII/151 : Parameters of Galactic Globular Clusters (Webbink 1985)
+
+Byte-by-byte Description of file: catalog.dat
+--------------------------------------------------------------------------------
+  Bytes  Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+  1-  6  A6      ---     ID       *NGC number or other
+  7      A1      ---     n_ID     *[ 5] note
+  9- 18  A10     ---     name     cluster name
+ 20- 21  I2      ---     Con_Cl   *?Concentration Class
+ 22      A1      ---     u_Con_Cl uncertainty indicator Concentration Class
+ 25- 26  I2      h       RAh      Right Ascension hours (1950.0)
+ 28- 31  F4.1    min     RAm      Right Ascension minutes (1950.0)
+ 32      A1      ---     DE-      Declination sign (1950)
+ 33- 34  I2      deg     DEd      Declination degrees (1950)
+ 36- 37  I2      arcmin  DEm      Declination arc minutes (1950)
+ 39- 41  I3      deg     GLON     Galactic Longitude l II
+ 42      A1      ---     n_GLON   note to GLON
+ 45- 47  I3      deg     GLAT     Galactic Lattitude b II
+ 48- 52  F5.2    ---     ABS_LAW  Galactic Absorption from formula 0.24 csc b
+ 54- 57  F4.2    mag     A(B)     ? Kron-Mayal case II absorption law
+ 58- 61  F4.1    arcsec  D(0.9)   ?Diameter (containing 0.9 of the light)
+ 62      A1      ---     u_D(0.9) uncertainty indicator Diameter
+ 64- 68  F5.2    mag     Bmean    *?Mean B mag of 25 brightest stars
+ 70- 74  F5.2    ---     Dmod     ?distance modulus (m-M)app from Bmean
+ 76      A1      ---     n_Dmod   *note to Dmod
+ 78- 82  F5.1    kpc     r        ?galactic radius from Dmod and ABS_LAW, Fig.7
+ 85- 89  F5.1    kpc     x        *?Sun centered galactic X-coordinate
+ 92- 96  F5.1    kpc     y        *?galactic y-coordinate in direction rotation
+ 99-103  F5.1    kpc     z        *?height above galactic plane
+106-110  F5.2    mag     Btot     *?apparent integrated B brightness
+112-115  F4.2    mag     B-V      ?apparent color from Kron and Mayal (1960)
+117-120  F4.1    mag     M(B)     *?absolute magnitudes from Btot
+122-125  F4.2    mag     (B-V)o   ?intrinsic color using E(B-V) = 0.06 csc b
+127-128  A2      ---     Sp       spectral type from Kron and Mayal (1960)
+130      A1      ---     n_Sp     *[ :346]note on Spectral type
+132-135  I4      km/s    RV       ?cluster radial velocity
+--------------------------------------------------------------------------------
+Note on ID:
+   102 globular clusters have NGC designations
+   2 are listed in the Index catalogues
+Note on Con_Cl:
+   The roman numerals have been replaced by arabic numerals.
+Note on Bmean:
+   The apparent B magnitudes of the mean of the 25 brightest stars.
+   Older photographic magnitudes have all been corrected using the
+   photometric recalibration of the Selected Areas and the color
+   index correction to the B system by Arp.
+   Bmean can be used to estimate the distance of the cluster based
+   on a mean intrinsic magnitude M(B) = -0.8 mag. This is used to
+   derive the Dmod value.
+Note on n_ID, n_Sp,n_Dmod:
+   Unmarked entries of Spectral Type are from Kron and Mayal (1960)
+   : uncertain value
+   1 from V(hor br), table 6 in reference
+   2 adjusted to RR Lyrae distance scale via figure 7 in reference
+   3 Spectral type from Kinman (1959b).
+   4 Kinman (1959b) gives F2
+   5 Arp-Van den Bergh
+   6 Kinman (1959b) gives F3
+Note on Btot, M(B):
+   Apparent magnitudes measured by Kron and Mayal (1960) were transformed
+   into the Johnson V system, transformed color indices were applied to
+   derive Btot. Absolute magnitudes M(B) were found for the clusters that
+   have distances using the CSC reddening law.
+
+   Earlier measures of integrated globular cluster magnitudes by Christie
+   (Hogg 1959) can be compared to the Kron-Mayal measures. Transforming
+   both measures to the B system, it can be shown that they correlate well.
+   The data for 12  additional clusters based on the Christie measures
+   were included.
+
+Note on x,y,z:
+   The coordinate system x,y, and z  is centered on the Sun, with x
+   directed toward the galaxy center, y in the direction of the rotation,
+   and z perpendicular to the plane. In order to get a coordinate system
+   with its center at the center of the galaxy it is only necessary to
+   substract Ro, the distance between the Sun and the center of the
+   galaxy, from x.
+--------------------------------------------------------------------------------
+
+Other parameters:
+   Cluster mass. Only for 2 clusters the mass was determined based on
+   the internal kinematics. These are M92 (110,000 Msun) and 47 Tuc
+   (2.5 to 6 million Msun).
+
+Remarks and Modifications:
+    Arp's Globular Cluster Catalogue has been made machine-readable by Dr.
+    N.P.M. Kuin at the ADC since catalog was requested frequently and the
+    original version submitted by Dr. G. Share only contained ID and
+    positions.
+
+References:
+  H.C. Arp, in Galactic Structure, ed. A. Blaauw and M. Schmidt,
+       1965, University of Chicago Press, p. 401.
+
+  Arp, H.C. and  Van den Bergh S. 1960 PASP 72, 48
+
+  Arp, H.C. and McCuffey, J. 1962 ApJ 136, 51 (1962ApJ...136...51A)
+
+  Hogg, Helen Sawyer 1959 Hdb. d. Phys., ed. S. Fluegge (Berlin:
+        Springer Verlag) 53, 129
+
+  Kinman T.D. 1959b MNRAS 119, 538 (1959MNRAS.119..538K)
+
+  Kron G.E. and Mayal N.U. 1960 AJ 65, 581 (1960AJ.....65..581K)
+
+  Setteducati, A.F. and Weaver, H.F. 1962 Newly Found Star Clusters,
+      Vol. 1 (Berkeley, University of California, Radio Astronomy Laboratory)
+
+================================================================================
+(End)   N.P.M. Kuin                                                  24-Apr-1996

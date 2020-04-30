@@ -1,0 +1,367 @@
+VII/34C     ESO/Uppsala Survey of the ESO(B) Atlas     (Lauberts 1982)
+================================================================================
+The ESO/Uppsala Survey of the ESO(B) Atlas
+    Lauberts A.
+   <European Southern Observatory (1982)>
+   =1982ESO...C......0L
+================================================================================
+ADC_Keywords: Surveys ; Nonstellar objects ; Atlases ; Galaxy catalogs
+
+Mission_Name: ESO
+
+Description:
+    The survey is a joint project undertaken by the European Southern
+    Observatory (ESO) and the Uppsala Observatory to provide a systematic
+    and homogeneous search of the ESO(B) Atlas (also known as the Quick
+    Blue Survey). The ESO(B) Atlas, taken with the ESO 1-m Schmidt
+    telescope at La Silla, Chile, covers 606 fields from -90 to -20
+    degrees of declination. The fields are similar in size and scale to
+    those of the Palomar Observatory Sky Survey. Unsensitized IIa-O plates
+    and a 2-mm GG385 filter were used to give a passband similar to the
+    Johnson B color. The actual search was conducted at the Uppsala
+    Observatory and resulted in a list of nonstellar objects including all
+    NGC and IC galaxies between -20 and -30 degrees declination, all
+    galaxies down to a limiting diameter of 1.0 arcmin, all disturbed
+    galaxies as faint as possible, all star clusters in the Catalog of
+    Star Clusters and Associations (Alter et al. 1970) and smaller and
+    fainter clusters if recognizable and all planetary nebulae listed in
+    the available catalogs.
+
+    The catalog includes coordinates, identifications, diameters, position
+    angles, morphological types, classifications, magnitudes, colors, and
+    radial velocities.
+
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl    Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe          80          .    This file
+catalog.dat    188      18422    The Catalogue
+idrefs.dat      80        107    Identifications References
+refs.dat        80        202    Magnitude, Color and Radial Velocity References
+notes.dat       80       1405    Notes to catalog
+plates.dat      80        612    Plate centers
+--------------------------------------------------------------------------------
+
+See also:
+    VII/115 : Surface Photometry of the ESO-Uppsala Galaxies (Lauberts+ 1989)
+
+Byte-by-byte Description of file: catalog.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units     Label     Explanations
+--------------------------------------------------------------------------------
+   1-  2  I2     h         RAh       Hours RA, equinox 1950
+   3-  4  I2     min       RAm       Minutes RA, equinox 1950
+   5-  6  I2     s         RAs       Seconds RA, equinox 1950
+       7  A1     ---       DE-       Sign Dec, equinox 1950
+   8-  9  I2     deg       DEd       Degrees Dec, equinox 1950
+  10- 13  F4.1   arcmin    DEm       Minutes Dec, equinox 1950
+  15- 24  A10    ---       ESO       ESO/Uppsala descriptive identifier (1)
+  26- 48  A23    ---       ID        Other identifier (2)
+  49- 54  F6.2   deg       GLON      Galactic longitude
+  55- 60  F6.2   deg       GLAT      Galactic latitude
+  61- 66  F6.1   mm        X         X plate coordinate (positive toward East)
+  67- 72  F6.1   mm        Y         Y plate coordinate (positive toward North)
+  74- 76  I3     0.1arcmin MajAxis   ? Major axis diameter
+      77  A1     ---     u_MajAxis     [: ] ':' if major axis is uncertain
+  78- 80  I3     0.1arcmin MinAxis   ? Minor axis diameter
+      81  A1     ---     u_MinAxis     [: ] ':' if minor axis is uncertain
+  82- 84  I3     deg       PA        ? Position angle of major axis from
+                                       north through east
+      85  A1     ---     u_PA        [: ] ':' if position angle is uncertain
+  87- 88  I2     ---       MType     ? Morphological type in RC2 system
+                                       (de Vaucouleurs et al., 1976)
+  90-116  A27    ---       Class     Estimated Hubble class
+ 117-143  A27    ---       Desc      Description
+     144  A1     ---       FlagN     [ *] '*' if note exists in file "notes.dat"
+     145  A1     ---       FlagM     [ 1] '1' if galaxy listed in MCG
+     146  A1     ---       FlagRC    [ 2] '2' if galaxy listed in RC2
+     147  A1     ---       FlagV     [ V] 'V' if galaxy listed in
+                                         Vorontsov-Velyaminov (1959)
+     148  A1     ---       FlagA     [ A] 'A' if galaxy listed in Arp (1966)
+ 149-154  F6.2   mag       Bmag      ? B magnitude in the UBV system
+ 155-158  F4.2   mag     e_Bmag      ? Mean error in Bmag
+ 159-160  I2     arcsec  apBmag      ? Aperture for Bmag
+ 162-163  A2     ---     r_Bmag      ? Reference code for Bmag magnitude (3)
+ 164-168  F5.2   mag       B-V       ? B-V color in the UBV system
+ 169-173  F5.2   mag       U-B       ? U-B color in the UBV system
+ 175-176  A2     ---     r_B-V       ? Reference to U-B and B-V (3)
+ 177-181  I5     km/s      RV        ? Radial velocity
+ 182-185  I4     km/s    e_RV        ? Radial velocity mean error
+ 187-188  A2     ---     r_RV        ? Radial velocity reference (3)
+--------------------------------------------------------------------------------
+Note (1): ESO designation is written FFF-oooNNN, where
+   FFF = Field (plate) number, see file "plates.dat"
+   ooo = Object class with
+        * = star                    ** = double or multiple star
+       SC = star cluster             N = nebula
+        A = asteroid                 C = comet
+        G = galaxy                  IG = interacting galaxy
+       EN = emission nebula         PN = planetary nebula
+       RN = reflection nebula      SNR = supernova remnant
+        ? = questionable object
+   NNN = number within field
+Note (2): Some common abbreviations include: N for NGC, I for IC,
+    M for Messier, PK for Perek-Kohoutek planetary nebulae,
+    and GCl or OCl for star clusters from the Budapest catalog.
+    References to these and other abbreviations are detailed in
+    file "idrefs.dat"
+Note (3): See explanation in file "refs.dat"
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: idrefs.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1- 10  A10    ---     ID       Identification, see ID in table catalog.dat
+  11- 80  A70    ---     Text     Text of bibliographic reference
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: refs.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  2  A2     ---     Code     Reference code (columns
+                                    r_Bmag, r_B-V, r_RV of catalog.dat)
+   4- 12  A9     ---     Data     Type of data taken from reference:
+                                        Z = reference for radial velocity
+                                    other = magnitude bandpass, e.g. 'UBV'
+  14- 80  A67    ---     Text     Text of bibliographic reference
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: notes.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  2  I2     h       RAh      Hours RA, equinox 1950
+   3-  4  I2     min     RAm      Minutes RA, equinox 1950
+   5-  6  I2     s       RAs      Seconds RA, equinox 1950
+       7  A1     ---     DE-      Sign Dec, equinox 1950
+   8-  9  I2     deg     DEd      Degrees Dec, equinox 1950
+  10- 13  F4.1   arcmin  DEm      Minutes Dec, equinox 1950
+  15- 24  A10    ---     ESO      ESO/Uppsala identifier
+  26- 80  A55    ---     Text     Text of note
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: plates.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  3  I3     ---     Field     Field number
+   6-  7  I2     h       NPC_RAh   Hours RA, 1950.0, of nominal plate center
+   9- 10  I2     min     NPC_RAm   Minutes RA, 1950.0, of nominal plate center
+  12- 14  I3     deg     NPC_DEdeg Degrees Dec, 1950.0, of nominal plate center
+  16- 19  I4     ---     Plate     Plate number
+  21- 22  I2     h       RAh       Hours RA, 1950.0, of plate center
+  24- 25  I2     min     RAm       Minutes RA, 1950.0, of plate center
+  27- 28  I2     s       RAs       Seconds RA, 1950.0, of plate center
+      30  A1     ---     DE-       Sign Dec, 1950.0, of plate center
+  31- 32  I2     deg     DEd       Degrees Dec, 1950.0, of plate center
+  34- 37  F4.1   arcmin  DEm       Minutes Dec, 1950.0, of plate center
+  38- 43  F6.2   mm      Diff_X    Center difference, X
+  44- 49  F6.2   mm      Diff_Y    Center difference, Y
+  50- 54  I5     a       Exp.Y     Exposure start time, year, Universal Time
+  55- 57  I3     ---     Exp.M     Exposure start time, month, Universal Time
+  58- 66  F9.5   d       Exp.d     Exposure start time, day, Universal Time
+  67- 69  I3     h       ExpST.h   Exposure start time, hour, Sideral Time
+  70- 72  I3     min     ExpST.m   Exposure start time, minutes, Sideral Time
+      74  I1     ---     Seeing    Seeing quality (1)
+  76- 78  A3     ---     Obs_Code  Observer code (2)
+      80  A1     ---     Note      Note (3)
+--------------------------------------------------------------------------------
+Note (1): Seeing judged  on  a 5-step scale; the corresponding
+          approximate image diameters are as follows:
+          1 -   <25 microns (156 plates)
+          2 - 20-30 microns (182 plates)
+          3 - 25-35 microns (141 plates)
+          4 - 30-40 microns ( 79 plates)
+          5 -   >35 microns ( 48 plates)
+Note (2): the Observer code is:
+          GPA - Guido Pizarro       (186 plates)
+          OPA - Oscar Pizarro       (180 plates)
+          HES - Hans-Emil Schuster  (167 plates)
+          DBA - Dominique Ballereau ( 72 plates)
+          AZU - Alberto Zuniga      (  1 plate )
+Note (3): the coded notes stand for:
+          1 - Clouds
+          2 - Wind
+          3 - Cirrus
+          4 - Humidity
+          5 - Wind and clouds
+          6 - Image motion
+          7 - (not used)
+          8 - No grid on plate (plate number < 400)
+          9 - Plate not used in ESO/Uppsala Survey.
+--------------------------------------------------------------------------------
+
+Historical Notes:
+
+  * June 1985, by Lee E. Brotzman and Robert S. Hill:
+
+    The ESO/U catalog was sent to the Astronomical Data Center (ADC), NASA
+    Goddard Space Flight Center, by the Centre de Donnees Stellaires
+    (CDS), in January 1983. This version was equivalent to the book
+    version of the en- tire catalog (Lauberts 1982), having two records
+    per object and a separate notes file. The following changes were made
+    to the catalog format:
+
+    o  The main catalog file was reformatted to have one record per object.
+
+    o  The object classes were placed into a consistent format.
+
+    o  The  flags for additional information were segregated each into its
+       own byte in the record.
+
+    o  The notes file was proofread and  notes  for  individual  objects
+       were placed in separate records.
+
+    Programs were written to compare the main catalog file and the notes
+    file, in order to assure that every note had a corresponding note flag
+    in the main catalog, and vice versa. Discrepancies were checked
+    against the lists published in the A. & A. Suppl., against the errata
+    in the A. & A. Suppl., and against the book version.
+
+    The results of this comparison and other minor corrections were sent
+    to Dr. Andris Lauberts at Uppsala Observatory for confirmation and
+    approval. With his reply, Dr. Lauberts supplied a tape of the then
+    current version of the ESO/U catalog (dated September 9, 1984). This
+    version had four records per object with a record length of 80 bytes,
+    and had the notes incorporated into the catalog record. The new
+    version allowed changes and updates to be made easily with a standard
+    text editor.
+
+    The processing of this new version was much the same as the previous
+    one:
+
+    o  The main catalog file was reformatted into one record per object.
+
+    o  The object classes were placed into a consistent format.
+
+    o  The notes were placed into a separate file to keep the record
+       length of the main catalog file to a reasonable size.
+
+    o  The programs to compare the catalog with the notes file were run
+       and no discrepancies between these files remain.
+
+    o  The files containing the references to identifications, the
+       references to  magnitudes and radial velocities, and the plate
+       data were made from the documentation file on the tape provided
+       by Dr. Lauberts.
+
+  * 20-Jul-1993, by F. Ochsenbein, CDS:
+
+    The following few modifications have been made to the
+    original catalogue from the ADC CD-ROM (NASA, 1991)
+    "Selected Astronomical Catalogs Vol. 1":
+
+    o  File "catalog" was transformed from the ADC CD-ROM file
+       nonstell/galaxies/esoupp/esoupp.dat, and
+       - the field e_Bmag/apBmag (mean error on B or aperture) has been
+         transformed into two columns
+       - the flags in columns 147-148 have been put in the right column
+       - the flags in columns 77 and 81 were corrected to : (colon) for the
+         various characters found (e.g. dots, commas, minus), and also
+         for the 3 galaxies 2-G 4, 423-G 9 and 406-G 5 which had a numeric
+         value in column 81 (6, 3 and 1 respectively)
+       - the Hubble class started in column 86 instead of column 90 for 9
+         objects at positions 023457-3424.0, 085101-3517.2, 132049-4137.6,
+         052059-2757.1, 071514-2849.6, 075750-2426.0, 095433-3137.7,
+         105443-3253.3, 224002-3520.0
+       - values of 0.00 for e_Bmag were transformed to blanks (unknown)
+
+    o  File "plates": records with a value of "60" in RAs or "60.0" in DEm
+       have been corrected (fields 301, 306, 308, 336, 338, 425, 438, 512)
+
+    o  Other remarks:
+       - Many reference codes are included in "refs" file which never
+         appear in the "catalog" file: AA, 1A, 1D, 3A, 3D, 4A, 5A, 5D, 6A,
+         7A, 9A, 9D, 9F, 9G, 9H, 9J, 9L, 9M.
+       - r_Bmag for 122732-6557.8 is "FW", which was only in "idrefs" file;
+         it has been added to "refs" file
+       - The statistics of the observer code is not consistent with those
+         in "adc.doc" file. The following modifications have been made:
+         "AZA" changed to "AZU"
+         "BAL" and "BSL" changed to "DBA"
+         "DPA" changed to "GPA"
+         The results obtained from the "plates" file are then, if the 6
+         additional plates are substrated:
+         AZU(1)   DBA(73)   GPA(184)   HES(167)   OPA(181)
+
+  * Documentation file revisited on 25-Oct-1995
+
+  * 08-Jul-1998: it was discovered by Ivan Valtchanov <ivan@astro.bas.bg>
+    that radial velocities larger than 9999 or smaller than -999km/s
+    were truncated to the last four digits. This truncation apparently
+    did not exist in the very original file supplied by A. Lauberts to
+    CDS in 1982, but appears in the 1985 version created at ADC.
+    The 143 velocities concerned where corrected at CDS.
+    Velocities also checked versus Lauberts-Valentijn <VII/115> and PGC
+    <VII/119>, and 122 further corrections on the velocities were
+    performed.
+
+Acknowledgments:
+    The authors of the ADC document (Lee E. Brotzman and Robert S. Hill)
+    wish to thank Dr. Lauberts for his assistance in completing the ADC
+    version of the ESO/U catalog.
+
+    A large fraction of the contents of the "ReadMe" file originates from
+    the "Documentation for the machine-readable version of the ESO/Uppsala
+    Survey of the ESO(B) Atlas", prepared in June 1985 by Lee E. Brotzman
+    and Robert S. Hill at NASA/ADC, document SASC-T-1-5810-5003-85.
+
+References:
+
+  Lauberts, A. 1984, private communication.
+
+  Holmberg, E. B., Lauberts, A., Schuster, H. -E., West, R. M. 1974, A. &
+      A. Suppl., 18, 463. (1974A&AS...18..463H)
+
+  Holmberg, E. B., Lauberts, A., Schuster, H. -E., West, R. M. 1974, A. &
+      A. Suppl., 18, 491. (1974A&AS...18..491H)
+
+  Holmberg, E. B., Lauberts, A., Schuster, H. -E., West, R. M. 1975, A. &
+      A. Suppl., 22, 327. (1975A&AS...22..327H)
+
+  Holmberg, E. B., Lauberts, A., Schuster, H. -E., West, R. M. 1977, A. &
+      A. Suppl., 27, 295. (1977A&AS...27..295H)
+
+  Holmberg, E. B., Lauberts, A., Schuster, H. -E., West, R. M. 1978, A. &
+      A. Suppl., 31, 15.  (1978A&AS...31...15H)
+
+  Holmberg, E. B., Lauberts, A., Schuster, H. -E., West, R. M. 1978, A. &
+      A. Suppl., 34, 285. (1978A&AS...34..285H)
+
+  Holmberg, E. B., Lauberts, A., Schuster, H. -E., West, R. M. 1980, A. &
+      A. Suppl., 39, 173. (1980A&AS...39..173H)
+
+  Lauberts, A., Holmberg, E. B., Schuster, H. -E., West, R. M. 1981, A. &
+      A. Suppl., 43, 307. (1981A&AS...43..307L)
+
+  Lauberts, A., Holmberg, E. B., Schuster, H. -E., West, R. M. 1981, A. &
+      A. Suppl., 46, 311. (1981A&AS...46..311L)
+
+  "Reference  Catalog   of   Bright  Galaxies",  de Vaucouleurs,  G.,  de
+      Vaucouleurs, A. 1964, University of Texas Press, Austin.
+
+  "The Second Reference Catalog of Bright Galaxies",  de Vaucouleurs, G.,
+      de Vaucouleurs, A.,  Corwin, H. G.  1976,  University  of  Texas Press,
+      Austin. (Cat. <VII/112>)
+
+  "The Morphological Catalog of Galaxies" (MCG), Vorontsov-Velyaminov,
+      B. A. and Ahripova, A. A. 1968, Moscow:  Sternberg Institute 38.
+      (See cat. <VII/62> and <VII/100>)
+
+  "Atlas and catalog of Interacting Galaxies" Vorontsov-Velyaminov, B.A.,
+      Sternberg Inst., Moscow, 1959
+
+  "Atlas and Catalog of Peculiar Galaxies", Arp, H.  1966,  California
+      Institute of Technology, Pasadena.
+      (see cat. <VII/74>)
+
+  "Catalog of Star Clusters and Associations", Alter, G., Balazs, B., and
+      Ruprecht, J. 1970, 2nd edition, Budapest.
+      (see cat. <VII/44>)
+
+================================================================================
+(End)                                     Francois Ochsenbein [CDS]  30-Jun-1998

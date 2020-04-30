@@ -1,0 +1,117 @@
+VII/1B           Revised New General Catalogue    (Sulentic+, 1973)
+================================================================================
+Revised New General Catalogue of Nonstellar Astronomical Objects
+    Sulentic J.W., Tifft W.G.
+   <Univ. of Arizona Press (1973)>
+   =1973rncn.book.....S
+================================================================================
+ADC_Keywords: Nonstellar objects ; Galaxy catalogs
+
+Description:
+    The catalog is a modern, revised, and expanded version of the original
+    NGC (Dreyer 1888). In addition to incorporating the many corrections
+    to the NGC found over the years, each object was verified on Palomar
+    Observatory Sky Survey (POSS) prints and on plates for southern
+    objects specifically taken for the purpose (although about 90 southern
+    objects could not be verified).
+
+    Please refer to the documentation by Wayne H. Warren Jr. in
+    file "adc.doc".
+
+References:
+   Dreyer, J.L.E. 1888,"New General Catalogue of Nebulae and Clusters of
+      Stars", MmRAS, 49, Part I (reprinted 1962, London: Royal Astronomical
+      Society) (1888MmRAS..49....1D)
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl    Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe          80          .    This file
+adc.doc         79       1187    Documentation by Wayne H. Warren Jr. (1982)
+catalog.dat    192       8163    The Revised NGC Catalog
+--------------------------------------------------------------------------------
+
+See also:
+    VII/13 : Arp's globular cluster catalog
+    VII/49 : Zwicky's Catalogue of Galaxies and Clusters of Galaxies (CGCG)
+    VII/62 : Vorontsov-Velyaminov's Morphological Catalog of Galaxies (MCG)
+
+
+Byte-by-byte Description of file: catalog.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   2-  5  I4     ---     NGC     [1/7840]+= The original NGC number
+       6  A1     ---   m_NGC     Component of NGC (6)
+   8-  9  I2     ---     Type    Type of object (1)
+  11- 12  I2     h       RAh     Right Ascension (1975)
+  14- 17  F4.1   min     RAm     Right Ascension (1975)
+      19  A1     ---     DE-     Declination (1975) sign
+  20- 21  I2     deg     DEd     Declination (1975)
+  23- 24  I2     arcmin  DEm     Declination (1975)
+  26- 31  F6.2   deg     GLON    ? Galactic longitude
+  33- 38  F6.2   deg     GLAT    ? Galactic latitude
+  40- 42  I3     mm      Xpos    ? Position eastwards on POSS blue print
+  44- 46  I3     mm      Ypos    ? Position northwards on POSS blue print
+  48- 51  F4.1   mag     Mag     ? Magnitude rounded to the nearest
+                                    half magnitude
+      53  I1     ---   r_Mag     ? Source of Magnitude (2)
+  55- 94  A40    ---     OldDesc Visual appearance of object transcribed from
+                                   Dreyer J.L.E. (1888) (3)
+  96-151  A56    ---     NewDesc Palomar Sky Survey Description of each
+                                   object (4)
+ 153-192  A40    ---     Notes   Cross References for RNGC objects (5)
+--------------------------------------------------------------------------------
+Note (1): the object type is coded as follows :
+    1 Open Cluster                    6 Cluster associated with nebulosity
+    2 Globular Cluster                7 Non existent
+    3 Diffuse Nebula                  8 Object in Large Magellanic Cloud
+    4 Planetary Nebula                9 Object in Small Magellanic Cloud
+    5 Galaxy                          0 Unverified southern object
+  Combination of two type numbers may appear for an object
+  (such as 28 for a Globular cluster in LMC, etc)
+Note (2): The magnitude sources are coded as follows:
+    1 de Vaucouleurs (RC1, 1964)      5  Collinder (1931)
+    2 Zwicky (1961-1968)   <VII/49>   6  Arp (1965)          <VII/13>
+    3 Vorontsov-Velyaminov <VII/62>   7  Vorontsov-Velyaminov (1931)
+    4 Lindsay  =1958MNRAS.118..172L   8  Bok (1962), Van den Bergh (1968)
+  The complete references are given in the file "adc.doc".
+Note (3): data blocks, separated by commas, each describing an aspect
+  of the visual appearance of the object from Dreyer's (1888) catalogue.
+    The appearance aspects are written in the following order:
+    (a) For nebulae the sequence of blocks is:
+        brightness, size, shape, radial brightness variation,
+        comments referring to the field.
+    (b) For clusters the sequence is:
+        identification (cluster), size, richness, compression,
+        brightness of the stars therein.
+    The various codes and abbreviations are detailed in Table 5 of
+    the file "adc.doc".
+Note (4): The data blocks in the new description do not follow the
+    regular sequence used in the old description.
+    The description are decoded by taking each individual block of
+    comma-separated data and finding the largest combination of
+    letters present in the RNGC code table (Table 6 in file "adc.doc").
+Note (5): See Table 7 in file "adc.doc" for acronyms used in
+    cross-references.
+Note (6): Some anonymous objects near NGC objects or components
+    in multiple systems are assigned the same NGC number followed
+    by a letter in alphabetic sequence
+--------------------------------------------------------------------------------
+
+Historical Notes:
+  * See Section 4 in file "adc.doc"
+  * The catalogue was distributed on the "Selected Astronomical Catalogs"
+    Vol. 1 CD-ROM (1991), directory      /nonstell/galaxies/rngc,
+    as five files: the description (the present "adc.doc" file),
+    the data file, old (Dreyer's) description supplement,
+    new description supplement, and cross-reference supplements.
+  * 15-Mar-1993: the four data files were merged into a single
+    "catalog" file at CDS (Francois Ochsenbein).
+  * 04-Nov-1995: this ReadMe file revisited at CDS.
+  * 07-Apr-1999: catalog.dat corrected at CDS (bad Messier numbers)
+  * 07-Oct-2014: catalog.dat corrected at CDS (first letter of oldDesc was 
+    mistakenly repeated (FF instead of F, VVF instead of VF, NNEBULA etc, PO)
+================================================================================
+(End)                                                      [CDS]     07-Apr-1999

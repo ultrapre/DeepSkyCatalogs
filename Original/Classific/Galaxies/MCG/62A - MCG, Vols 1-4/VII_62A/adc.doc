@@ -1,0 +1,779 @@
+                                                         NSSDC/WDC-A-R&S 82-31
+
+
+
+
+
+
+
+
+                DOCUMENTATION FOR THE MACHINE-READABLE VERSION
+
+
+
+                                    OF THE
+
+
+
+                   MORPHOLOGICAL CATALOGUE OF GALAXIES (MCG)
+
+
+                   OF VORONTSOV-VELYAMINOV ET AL. 1962-1968
+
+
+
+
+
+
+
+
+
+                              Wayne H. Warren Jr.
+
+
+
+
+
+
+
+                                 December 1982
+
+                             (Revised April, 1991)
+
+
+
+
+
+
+
+
+
+
+                  National Space Science Data Center (NSSDC)/
+          World Data Center A for Rockets and Satellites (WDC-A-R&S)
+                 National Aeronautics and Space Administration
+                          Goddard Space Flight Center
+                          Greenbelt, Maryland  20771
+                              TABLE OF CONTENTS
+
+
+
+Section 1  - INTRODUCTION AND SOURCE REFERENCES......................1-1
+Section 2  - FILE CONTENTS...........................................2-1
+Section 3  - FILE CHARACTERISTICS....................................3-1
+Section 4  - REMARKS, MODIFICATIONS, AKNOWLEDGMENTS AND REFERENCES...4-1
+
+
+
+
+
+                               LIST OF TABLES
+
+Table
+
+ 1  - File Format....................................................2-1
+ 2  - File Characteristics...........................................3-1
+ 3  - Individual Corrections Made to the MCG.........................4-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      ii
+
+
+
+
+
+
+
+
+
+
+
+
+             DOCUMENTATION FOR THE MACHINE-READABLE VERSION OF THE
+                   MORPHOLOGICAL CATLOGUE OF GALAXIES (MCG)
+                   OF VORONTSOV-VELYAMINOV ET AL. 1962-1968
+
+                             Wayne H. Warren Jr.
+
+
+                                  ABSTRACT
+
+
+   Detailed descriptions of modifications, corrections and the record format
+are provided for the machine-readable version of the "Morphological Catalogue
+of Galaxies" (Vorontsov-Velyaminov et al. 1962-68). In addition to hundreds of
+individual corrections, a detailed comparison of the machine-readable with the
+published catalogue resulted in the addition of 116 missing objects, the
+deletion of 10 duplicate records, and a format modification to increase storage
+efficiency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      iii
+               SECTION 1 - INTRODUCTION AND SOURCE REFERENCES
+
+
+   The "Morphological Catalogue of Galaxies" (MCG) is a compilation of
+information for approximately 34,000 galaxies found and examined on the Palomar
+Observatory Sky Survey (POSS). Individual identifiers are assigned for about
+29,000 galaxies and information on the remaining 5,000 is present in the
+extensive notes of the published catalogues (Vorontsov-Velyaminov et al.
+1962-1968). The catalogue is structured according to the POSS zones and is
+numbered from +15 (corresponding to +90 deg) to +01 (+06 deg zone) and +00
+(equatorial zone) to -05 (-30 deg zone); the fields are numbered with
+increasing right ascension. The original goal of the compilation was to be
+complete for galaxies brighter than magnitude 15.1, but the final catalogue
+lists many objects considerably fainter.
+
+   Information given in the original printed volumes includes:  cross-identifi-
+cations to the NGC (Dreyer 1888) and IC (Dreyer 1895, 1908) catalogues,
+equatorial coordinates for 1950.0, magnitude, estimated sizes and intensities
+of the bright inner region and the entire object, estimated inclination, and
+coded description (by symbols) of the appearance of the galaxy.  Each field is
+then followed by notes on individual objects.  All of the above data except
+the coded description are included in the machine version, except that special
+coding (e.g. for uncertainty or source designation) is not present (other than
+for the NGC/IC cross identifications [added at the Astronomical Data Center
+for this machine version]).  Although the notes are not computerized, the
+presence of a note in the original is flagged in the machine version.
+
+    This document describes in detail the machine-readable version of the MCG
+currently being distributed from the Astronomical Data Center. It is intended
+to enable users to read and process the data without problems or guesswork. For
+additional details concerning the galaxy classifications, measurements, and
+descriptions, the source references should be consulted. A copy of this
+document should accompany any machine-readable copy of the catalogue.
+
+
+SOURCE REFERENCES
+
+Vorontsov-Velyaminov, B. A. and Krasnogorskaya, A. A. 1962, Morpholoqical
+  Catalogue of Galaxies, Part I, Catalogue of 7200 Galaxies from +90 to +45
+  deg Declination (Moscow:  Sternberg Institute 32).
+
+Vorontsov-Velyaminov, B. A. and Arhipova, A. A. 1963, Morphological Catalogue
+  of Galaxies, Part III, Catalogue of 6740 Galaxies from +15 to -9 deg
+  Declination (Moscow:  Sternberg Institute 33).
+
+Vorontsov-Velyaminov, B. A. and Arhipova, A. A. 1964, Morphological Catalogue
+  of Galaxies, Part II, Catalogue of 9650 Galaxies from +45 to +15 deg
+  Declination (Moscow:  Sternberg Institute 34).
+
+Vorontsov-Velyaminov, B. A. and Arhipova, A. A. 1968, Morphological Catalogue
+  of Galaxies, Part IV, Catalogue of 5410 Galaxies from -9 to -33 deg
+  Declination (Moscow:  Sternberg Institute 38).
+
+
+
+                                     1-1
+                          SECTION 2 - FILE CONTENTS
+
+
+    A byte-by-byte description of the contents of the machine-readable MCG is
+given in Table 1. The suggested format specifications are for FORTRAN formatted
+read statements and can be modified depending upon individual programming and
+processing requirements. Since all data fields contain blanks for missing data
+(only the MCG and coordinate fields are never blank) care must be exercised
+when processing the catalogue for search or computational purposes (the
+situation is simplified here because there are no data with valid zero values).
+Alternate format specifications are given in parentheses.
+
+
+Table 1.  File Format.  Morphological Catalogue of Galaxies
+
+
+
+                      Suggested
+Byte(s)     Units      Format        Description
+
+1-13         ---       13A1          MCG number.  Bytes 1-3 contain the
+                                     characters "MCG", bytes 4-6 denote the
+                                     Palomar Observatory Sky Survey (POSS)
+                                     field in which the galaxy is located,
+                                     numbered in 6 deg zones (from +15 deg at
+                                     the North Celestial Pole to +00 at the
+                                     equator and to -05 in the southern sky).
+                                     The sign of the field is always in byte
+                                     4.  Bytes 7 and 10 contain hyphens.
+                                     Bytes 8-9 give the number of the field
+                                     in increasing right ascension (from a
+                                     minimum of 1 field at +90 deg to 60 fields
+                                     at +00 deg); bytes 11-13 contain the number
+                                     of this galaxy in the field.
+
+   14        ---       A1            a, b, ... for components of multiple
+                                     systems.
+
+   15        ---       A1            Asterisk (*) if there is a note for this
+                                     galaxy at the end of the field in the
+                                     published edition; otherwise blank.
+
+16-24        ---       A9            Catalogue number from the NGC (Dreyer
+                                     1888) or the IC (Dreyer 1895, 1908);
+                                     otherwise blank. Format as follows:
+                                     'NGC' 16-18, number 20-23, component 24;
+                                     'IC' 16-17, number 19-22, component 23.
+
+                                     The components in byte 23 or 24 are
+                                     a, b, c, etc. for components of NGC or IC
+                                     object; slash (/) to denote NGC(IC) and
+                                     NGC(IC) + 1 numbers together (e.g.
+                                     NGC 5906/7); a colon (:) indicates an
+                                     uncertain identification according to
+
+                                     2-1
+Table 1.  (continued)
+
+                      Suggested
+Byte(s)     Units     Format         Description
+
+                                     the authors (? in published catalogue)
+                                     [a : occurs in byte 24 in one case
+                                     (MCG+10-23-065) where a / should also
+                                     occur.]
+
+25-26       hours      I2            Right ascension for equinox 1950.0.
+
+27-31        min       F5.2          R.A. Precision reported varies from whole
+                                     minutes to hundredths of a minute.  The
+                                     greater precision is used to
+                                     discriminate objects close together, but
+                                     does not indicate greater accuracy.
+
+32-34        deg       I3 (A1,I2)    Declination for equinox 1950.0.  The
+                                     sign is always in byte 32.
+
+   35        ---       1X            Blank
+
+36-38      arcmin      F3.0 (I2,A1)  A decimal point can occur in byte
+                                     38, denoting that the original measure-
+                                     ment had a 5 in the tenths column.
+
+39-43        mag        F5.2 (A5)    Magnitude taken from various sources in
+                                     order of preference (Holmberg 1958;
+                                     Humason, Mayall and Sandage 1956; Pettit
+                                     1954; Reiz 1941; Bigay 1951).  In the
+                                     published version, various symbols are
+                                     used to indicate the sources above, e.g.
+                                     surrounded by (), [], or //.  These
+                                     codes are not present in the machine
+                                     version; however, magnitudes from
+                                     Holmberg (1958) are reported to a
+                                     hundredth and Humason et al. (1956) to a
+                                     tenth.  Any other coding is
+                                     indistinguishable in the present machine
+                                     version.  Blank for missing data.
+
+44-48        0.1        F5.1         Diameter of the major axis of the bright
+           arcmin                    inner port of the galaxy.  Blank if
+                                     absent.  The special coding (: for
+                                     uncertainty) is not present in this
+                                     machine version.  If only one number is
+                                     given in the published version, it is
+                                     given in this field and bytes 49-53 are
+                                     blank.  (To clarify the units, the
+                                     reporting of all diameters in tenths
+
+
+
+
+                                      2-2
+Table 1.  (continued)
+
+                      Suggested
+Byte(s)     Units      Format        Description
+
+                                     means that MCG+15-01-001 has inner
+                                     region dimensions of 0.2 x 0.05 arcmin and
+                                     overall dimensions of 1.6 x 1.3 arcmin
+                                     [divide diameters by ten to obtain
+                                     arcminutes].)
+
+49-53        0.1        F5.1         Diameter of the minor axis of the bright
+            arcmin                   inner part of the galaxy.  Blank if
+                                     absent or if only one diameter is
+                                     reported.
+
+54-59        0.1        F6.1         Diameter of the major axis of the entire
+            arcmin                   galaxy.  Blank if no data.  The special
+                                     coding (e.g. : for uncertainty) used in
+                                     the published catalogue is not present
+                                     in the machine version.  If only one
+                                     number is given in the published edition
+                                     (object round) it is given in this field
+                                     and bytes 60-64 are blank.  (The larger
+                                     data field is required to accommodate
+                                     M 31 at 1600 arcmin [MCG+07-02-016].)
+
+60-64        0.1        F5.1         Diameter of the minor axis of the entire
+            arcmin                   galaxy.  Blank if absent or if only one
+                                     diameter is reported.
+
+   65        --         I1 (A1)      Intensity of the inner region of the
+                                     galaxy I_d on a scale from 1
+                                     (completely black image) to 6 (image
+                                     barely visible).  Blank if absent.
+
+   66        ---        I1 (A1)      Intensity of the outer region (I_D) on
+                                     same scale as above.  Blank if absent.
+
+   67        ---        I1 (A1)      Inclination (i) of the principal Plane
+                                     estimated on a scale from 1 (face on) to
+                                     5 (edge on).  Blank if absent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     2-3
+                      SECTION 3 - FILE CHARACTERISTICS
+
+
+The information contained in Table 2 is sufficient for a user to describe the
+indigeneous characteristics of the machine-readable MCG to a computer.
+Information easily varied from installation to installation, such as block
+size (physical record length), blocking factor (number of logical records per
+physical record), total number of blocks, tape density, number of tracks, and
+internal coding (EBCDIC, ASCII, etc.) is not included.  That information
+should always be transmitted if secondary copies are supplied to other users
+or installations on tape.
+
+
+Table 2.  File Characteristics.  Morphological Catalogue of Galaxies.
+
+
+
+NUMBER OF FILES........................................................1
+
+LOGICAL RECORD LENGTH (BYTES).........................................67
+
+RECORD FORMAT......................................................Fixed
+
+TOTAL NUMBER OF LOGICAL RECORDS....................................29003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     3-1
+    SECTION 4 - REMARKS, MODIFICATIONS, ACKNOWLEDGMENTS, AND REFERENCES
+
+
+The machine readable version of the MCG was received from Dr. Robert S. Dixon
+of the Ohio State University Radio Observatory on 7 December 1981. As
+received, the catalogue consisted of 28904 records of length 90 bytes. Each
+logical record contained a number giving the approximate sequential position of
+the object in the original published catalogue volumes, but the machine version
+was ordered by right ascension. Upon listing the data and scanning some records
+manually, enough errors were found such that it was deemed necessary to check
+the records more closely.
+
+The catalogue was sorted by MCG number from north to south to obtain the
+published order.  Further checking revealed many hundreds of records in the
+MCG-01 zone with MCG+01 in bytes 1-6.  At this time it was decided to review
+the published version in order to compare certain data items in detail, e.g.
+the "a, b, ..." suffixes on MCG and NGC/IC numbers, the NCG and NGC/IC numbers
+themselves, and the number of galaxies in each region.  A complete count of
+the number of objects in each region was performed manually by scanning the
+published volumes and adding suffixed records to the highest number in each
+region.  (This procedure was complicated by the fact that while one region
+might have the sequence ..., 15, 16a, 16b, 17, ..., another has ..., 15, 16,
+16a, 16b, I7, ... ) Following some initial corrections and the addition of an
+uncertainty symbol (:) to NGC/IC identifications (in place of ? in the
+published catalogue) [since it is important to know about such uncertainties
+when using the catalogue for source identification] a computer program was
+written to make a count of the objects in each region, to count the total
+number of regions with at least one object, and to list all suffixed objects
+along the way (these had also been recorded during the manual count).  The
+initial run on the partially corrected version gave 28950 objects in 824
+occupied regions, while the manual count gave 29003 objects.  A region-by-
+region count comparison revealed 26 regions with discrepant counts.  The
+discrepancies were checked and individually resolved.  Most corrections
+involved duplicate records and erroneous MCG numbers (two occupied regions
+were added due to the omission of MCG+10-01-001 and the correction of the
+MCG+05-40 records to MCG+05-41).  The individual corrections found during the
+catalogue analysis are listed in Table 3.  In addition to correcting the
+tabulated items, the following changes were made to the machine-readable
+version in order to make it more uniform, self-consistent, and storage
+efficient:
+
+1.  Many NGC and IC numbers were not right justified or were misaligned in the
+    data field; these were corrected in 125 cases.  The two bytes following
+    the NGC/IC field were not uniform in content (asterisks were usually in
+    the byte following the NGC/IC number, but sometimes not if an A or B were
+    present; or sometimes the A, B, ... followed the NGC/IC number and the
+    asterisk was in the next byte.  Question marks (?) were present following
+    two NGC numbers.  The question marks were changed to colons and colons
+    were added to 111 NGC/IC numbers as a result of the catalogue review.  All
+    components identifications (A, B, ...) were changed to lower case to agree
+    with the published catalogue.
+
+
+
+
+                                      4-1
+
+ 2.  The presence of preceding zeroes on NGC and IC numbers was not consistent,
+     so all preceding zeroes were deleted.  Although not important for reading
+     the data, the records would not sort properly if a sort were performed on
+     NGC and IC numbers.
+
+ 3.  Approximately five hundred MCG-01 records having erroneous plus (+) signs
+     were corrected.
+
+ 4.  The format was modified by deleting all unused bytes (except the one
+     between degrees and minutes of declination) and removing the sequential
+     numbers (which were not correct in many cases where MCG numbers were
+     corrected, thereby moving the record location, and which are no longer
+     needed because the catalogue is now in published order).
+
+ 5.  Following all corrections, the modified catalogue was resorted in MCG
+     published order.  If needed for possible source identifications by right
+     ascension searches, the records can easily be sorted by RA.
+
+ 6.  NGC and IC catalogue designations were added to the numbers, eliminating
+     the asterisk which had indicated the IC catalogue designation. This
+     change added three bytes to the record length.
+
+         Table 3.  Individual Corrections to the MCG.
+
+          MCG      Datum      For       Read          Remarks
+
+       +12-11-023  NGC        3654                    Delete number
+       +12-19-002                                     Delete duplicate record
+       +12-19-004                                     Delete duplicate record
+       +12-20-002                                     Delete duplicate record
+       +11-01-001                                     Delete duPlicate record
+       +11-04-002                                     Delete duplicate record
+       +10-01-001                                     Add from Addenda, Part III
+       +10-03-001  MCG        +10-01-001  +10-03-001
+                   RA         00          01
+                   Dec        +5902       +5749
+                   mag        13.68       18
+                   d          15 x 10     2 x 1.5
+                   D          50 x 40     5
+                   I_d,I_D,i              161
+       +10-23-065  NGC        6127        6127:/
+       +09-13-029  NGC        2429        2429a
+       +09-13-040  NGC        2429        2429b
+       +09-14-006  NGC        2518        2518/
+       +09-25-040  NGC         506        5906/
+       +08-16-036  NGC        2686        2686a
+       +08-16-037  NGC        2686        2686b
+       +08-16-039  NGC        2687        2687b
+       +08-23-022  D          4 x 1#5     4 x 1.5
+       +08-27-003  NGC        2683        5683
+       +08-27-032  NGC        2794        5794
+       +08-27-034  MCG        +08-28-033  +08-28-034  Two records had 033
+       +08-32-001  MCG        +08-31-001  +08-32-001
+       +08-34-009  MCG        +09-34-009  +08-34-009
+       +07-05-024  NGC         846         846/
+
+                                      4-2
+Table 3.  (continued)
+
+          MCG      Datum      For       Read          Remarks
+
+       +07-26-056                                    Add 4 missing records
+          to -059
+       +07-28-018                                    Add 49 missing records
+          to -062
+       +07-27-017   NGC     4067        4067/
+       +07-34-060                                    Delete duplicate record
+       +06-05-090                                    Add missing record
+       +06-05-091   RA      0206.95     0207.1
+       +06-06-074                                    Delete duplicate record
+       +06-20-021   MCG     -06-20-021  +06-20-021
+       +06-25-009                                    Delete duplicate record
+       +06-25-016   NGC     3545        3545a
+       +06-25-017   NGC     3545        3545b
+       +06-28-033   NGC     4711        3804 *       Change NGC to IC
+       +06-29-014   NGC     4912        4912/
+       +06-32-002   NGC     5579        5579/
+       +06-32-005   MCG     +06-32-055  +06-32-005
+       +06-34-007   IC      4542a       4542b
+       +06-49-039   NGC     7318        7318a
+       +06-49-040   NGC     7318        7318a        Both records are "a"
+       +05-05-036   NGC      760         760/
+       +05-07-016   NGC      978         978a
+       +05-07-017   NGC      978         978b
+       +05-21-014   NGC     2679        2679/
+       +05-29-074   NGC     4310        4310/
+       +05-30-066   NGC     4656        4656/
+       +05-30-105a  MCG     +05-30-105  +05-30-105a
+       +05-37-014   MCG                              Delete duplicate record
+       +05-37-015   MCG                              Delete duplicate record
+       +05-41-001   MCG     +05-40-001  +05-41-001
+       +05-41-002   MCG     +05-40-002  +05-41-002
+       +05-41-003   MCG     +05-40-003  +05-41-003
+       +05-41-004   MCG     +05-40-004  +05-41-004
+       +05-41-005   MCG     +05-40-005  +05-41-005
+       +05-41-006   MCG     +05-40-006  +05-41-006
+       +05-41-007   MCG     +05-40-007  +05-41-007
+       +05-41-008   MCG     +05-40-008  +05-41-008
+       +05-41-009   MCG     +05-40-009  +05-41-009
+       +05-41-010   MCG     +05-40-010  +05-41-010
+       +05-41-011   MCG     +05-40-011  +05-41-011
+       +05-41-012   MCG     +05-40-012  +05-41-012
+       +05-41-013   MCG     +05-40-013  +05-41-013
+       +05-41-014   MCG     +05-40-014  +05-41-014
+       +05-41-015   MCG     +05-40-015  +05-41-015
+       +05-42-003   MCG     +05-40-003  +05-42-003
+       +05-53-004   NGC     7303        7303/
+
+
+
+                                      4-3
+Table 3.  (continued)
+
+          MCG       Datum      For        Read        Remarks
+
+       +04-01-030   NGC       8  9          8/
+       +04-02-005   NGC       8283         82/
+       +04-02-008   NGC        85a         85b
+       +04-02-035   NGC       169A        169b
+       +04-06-003                                     Add 60 missing records
+          to -062
+       +04-10-012                                     Delete duplicate record
+       +04-24-026   NGC       3189        3189/
+       +04-28-057   MCG      +04-08-057  +04-28-057
+       +04-38-005   NGC       6027        6027b
+       +04-38-006   NGC       6027        6027a
+       +04-38-007   NGC       6027        6027c
+       +04-38-008   NGC       6027        6027A
+       +04-38-009   NGC       6027        6027d
+       +04-38-010   NGC       6027        6027e
+       +04-44-003   NGC       6660        6660/
+       +04-54-005   NGC       7436        7436a
+       +04-54-006   NGC       7436        7436b
+       +03-25-008   NGC       2933        2933/
+       +03-32-016   NGC       4322        4322/
+       +03-45-035   NGC       6467        6467/
+       +03-46-012   NGC       6548        6548/
+       +03-59-024   IC        7578        7578a
+       +03-59-025   IC        7578        7578b
+       +02-24-010   NGC       2874        2874/
+       +02-33-014   IC         815         815a
+       +02-33-015   IC         815         815b
+       +02-34-018   NGC       5174        5174/
+       +02-59-013   NGC       7559        7559a
+       +02-59-014   NGC       7559        7559b
+       +02-59-022   NGC       7594=       7594
+       +01-28-010   NGC       3386        3386/
+       +01-31-046   IC        3131        3131/
+       +01-32-038   NGC       4342        4342/
+       +01-32-043   IC        3265        3265/
+       +01-33-024   NGC       4795        4795/
+       +01-36-033   NGC       5535        5535/
+       +01-39-014a  RA        0515.1      1515.1
+       +01-58-007                                     Delete duplicate record
+       +01-59-051a  MCG       +01-59-51A  +01-59-051a
+       +00-03-001   MCG       +01-03-001  +00-03-001
+       +00-03-003   MCG       -00-03-003  +03-03-003
+       +00-04-142   NGC        547         547a
+       +00-04-143   NGC        547         547b
+       +00-25-032   NGC       3047        3047b
+       +00-25-033   NGC       3047        3047a
+
+
+
+
+
+                                     4-4
+           Table 3.  (concluded)
+
+          MCG       Datum      For         Read      Remarks
+
+       +00-32-019   NGC        R80                    Delete Reinmuth number
+       +00-60-058   NGC        7783        7783a
+       +00-60-059   NGC        7783        7783b
+       +00-60-060   NGC        7783        7783c
+       -01-01-047              - 1-01-047  -01-01-047
+       -01-01-062   NGC          61          61a
+       -01-01-063   NGC          61          61b
+       -01-03-002   IC         1575*       1575a*
+       -01-03-003   IC         1575*       1575b*
+       -01-05-041   MCG       +01-05-041   -01-05-041
+       -01-07-002   NGC        8945         894/
+       -01-50-002   I_d                    1          Record from Addenda,
+                                                      Part II
+                    I_D                    3          Remaining data previously
+                                                      present
+                    i                      1
+       -01-58-014   IC         5278        5278:*     Number in IC
+       -01-60-004   NGC        7694        7694/
+       -02-03-063   NGC         341         341a
+       -02-03-064   NGC         341         341b
+       -02-007-004  Dec         -1200      -12 00     Alignment
+       -02-12-011   IC          369*        370*
+       -02-12-031   IC          376         376/
+       -02-28-013   NGC        3421        3421/
+       -02-32-003   NGC        4279        4279/
+       -03-05-003   MCG        -03-04-003  -03-05-003
+       -03-05-009   MCG        -03-04-009  -03-05-009
+       -03-08-048   NGC        1150        1150/
+       -03-10-030                                     Add missing record
+       -03-26-028   NGC        3140        3140/
+       -04-01-041   NGC         235         235a
+       -04-01-042   NGC         235         235b
+       -04-33-044                                     Delete duplicate record
+       -04-48-006   NGC        6907        6907/
+
+
+
+       ACKNOWLEDGMENTS
+
+    Appeciation is expressed to B. G. Corbin of the U.S. Naval Observatory for
+making the published volumes of the MCG available, to Dr. R. S. Dixon of the
+Ohio State University Radio Observatory for supplying the original tape
+version, and to Dr. N. G. Roman for help with translation and interpretation of
+parts of the Russian preface to the Published catalogue.
+
+                                      4-5
+
+REFERENCES
+
+Bigay, J. 1951, Ann. Astrophys. 14, 319.
+
+Dreyer, J. L. E. 1888, New General Catalogue of Nebulae and Clusters of Stars,
+  Mem. Roy. Astron. Soc. 49, Part I (London:  Royal Astronomical Society 1962,
+  reprinted).
+
+Dreyer, J. L. E. 1895, Index Catalogue of Nebulae found in the Years
+  1888-1894, with Notes and Corrections to the New General Catalogue, Mem.
+  Roy. Astron. Soc. 51, 185 (London:  Royal Astronomical Society 1962,
+  reprinted).
+
+Dreyer, J. L. E. 1908, Second Index Catalogue of Nebulae and Clusters of
+  Stars, containing Objects found in the years 1895-1907, with Notes and
+  Corrections to the New General Catalogue and to the Index Catalogue for
+  1888-94, Kern. Roy. Astron. Soc. 59, Part 2, 105 (London:  Royal Astronomical
+  Society 1962, reprinted).
+
+Holmberg, E. 1937, AM. Obs. Lund. No. 6.
+
+Holmberg, E. 1958, Lund. Medd. 2, No. 136.
+
+Humason, M. L., Mayall, N. U. and Sandage, A. R. 1956, Astron. J. 61, 97.
+
+Pettit, E. 1954, Astrophys. J. 120, 413.
+
+Reiz, A. 1941, Ann Obs. Lund. No. 9.
+
+Vorontsov-Velyaminov, B. A. and Krasnogorskaya, A. A. 1962, :Morphological
+  Catalogue of Galaxies, Part I, Catalogue of 7200 Galaxies from +90 to +45 deg
+  Declination (Moscow:  Sternberg Institute 32).
+
+Vorontsov-Velyaminov, B. A. and Arhipova, A. A. 1963, Morphological Catalogue
+  of Galaxies, Part III, Catalogue of 6740 Galaxies from +15 to -9 deg
+  Declination (Moscow:  Sternherg Institute 33).
+
+Vorontsov-Velyaminov, B. A. and Arhipova, A. A. 1964, Morphological Catalogue
+  of Galaxies, Part II, Catalogue of 9650 Galaxies from +45 to +15 deg
+  Declination (Moscow:  Sternberg Institute 34).
+
+Vorontsov-Velyaminov, B. A. and Arhipova, A. A. 1968, Morphological Catalogue
+  of Galaxies Part IV, Catalogue of 5410 Galaxies from -9 to -33 deg
+  Declination (Moscow:  Sternberg Institute 38).
+
+
+
+
+
+
+
+
+
+
+
+                                     4-6

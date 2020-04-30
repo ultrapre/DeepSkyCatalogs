@@ -1,0 +1,2521 @@
+H 1.1   NGC1055 Galaxy         2:41.8 + 0:26  7.6 10.6 Cet  = H 2.6 "400" edge-on
+H 1.2   NGC2775 Galaxy         9:10.3 + 7:02  4.5 10.3 Cnc  "400"
+H 1.3   NGC3166 Galaxy        10:13.8 + 3:26  5.2 10.6 Sex  "400" NGC 3166 group
+H 1.4   NGC3169 Galaxy        10:14.2 + 3:28  4.8 10.5 Sex  "400"
+H 1.5   NGC3655 Galaxy        11:22.9 +16:35  1.5 11.7 Leo  "400"
+H 1.6   NGC5363 Galaxy        13:56.1 + 5:15  5.0 10.1 Vir  "400"
+H 1.8   NGC4698 Galaxy        12:48.4 + 8:29  3.2 10.6 Vir  = H 3.6 "400"
+H 1.9   NGC4179 Galaxy        12:12.9 + 1:18  3.9 11.0 Vir  "400" edge on spindle shape
+H 1.10   NGC4643 Galaxy        12:43.3 + 1:59  3.4 10.6 Vir  "400"
+H 1.11   NGC4153 Nonexistent   12:10.8 +18:22           Com 
+H 1.12   NGC4377 Galaxy        12:25.2 +14:46  1.5 11.7 Com 
+H 1.13   NGC3521 Galaxy        11:05.8 - 0:02 12.5  9.0 Leo  "400"
+H 1.14   NGC4632 Galaxy        12:42.5 - 0:05  2.9 11.7 Vir 
+H 1.15   NGC4666 Galaxy        12:45.1 - 0:28  4.5 10.8 Vir  "400"
+H 1.16   NGC4753 Galaxy        12:52.4 - 1:12  4.1  9.9 Vir  "400"
+H 1.17   NGC3379 Galaxy        10:47.8 +12:35  3.9  9.3 Leo  "400" M105 Leo Group
+H 1.18   NGC3384 Galaxy        10:48.3 +12:38  5.5  9.9 Leo  "400" Leo group
+H 1.19   NGC4147 Globular clst 12:10.1 +18:33  4.0 10.2 Com  "400"
+H 1.20   NGC3666 Galaxy        11:24.4 +11:21  4.1 12.0 Leo 
+H 1.21   NGC3810 Galaxy        11:41.0 +11:28  3.8 10.8 Leo  "400"
+H 1.22   NGC4371 Galaxy        12:24.9 +11:42  3.9 10.8 Vir  "400"
+H 1.23   NGC4452 Galaxy        12:28.7 +11:45  2.4 12.4 Vir  cigar shaped edge on
+H 1.24   NGC4596 Galaxy        12:39.9 +10:11  3.9 10.5 Vir  "400"
+H 1.25   NGC4754 Galaxy        12:52.3 +11:19  4.6 10.6 Vir  = H 2.74 "400"
+H 1.26?  NGC3345 Double star   10:43.6 +11:59           Leo 
+H 1.27   NGC3412 Galaxy        10:50.9 +13:25  3.3 10.5 Leo  "400" Leo group
+H 1.28.1 NGC4435 Galaxy        12:27.7 +13:05  3.0 10.9 Vir  "400" Markarian's chain
+H 1.28.2 NGC4438 Galaxy        12:27.8 +13:01  9.3 10.1 Vir  "400" Markarian's chain
+H 1.29   NGC3593 Galaxy        11:14.6 +12:49  5.3 10.9 Leo  "400" NGC 3607 group
+H 1.30   NGC4365 Galaxy        12:24.5 + 7:19  5.6  9.6 Vir  "400"
+H 1.31   NGC4526 Galaxy        12:34.0 + 7:42  7.1  9.7 Vir  = H 1.38 "400"
+H 1.32   NGC4570 Galaxy        12:36.9 + 7:15  4.1 10.9 Vir  "400" lens shaped
+H 1.33   NGC4124 Galaxy        12:08.2 +10:23  4.6 11.3 Vir  = H 2.60
+H 1.34   NGC5248 Galaxy        13:37.5 + 8:53  6.2 10.3 Boo  "400"
+H 1.35   NGC4216 Galaxy        12:15.9 +13:09  7.8 10.0 Vir  "400" edge on streak
+H 1.36   NGC4550 Galaxy        12:35.5 +12:13  3.3 11.7 Vir  "400"
+H 1.37   NGC4551 Galaxy        12:35.6 +12:16  1.7 12.0 Vir 
+H 1.38   NGC4526 Galaxy        12:34.0 + 7:42  7.1  9.7 Vir  = H 1.31 "400"
+H 1.39   NGC4697 Galaxy        12:48.6 - 5:48  4.4  9.2 Vir  "400"
+H 1.40   NGC4941 Galaxy        13:04.2 - 5:33  3.7 11.1 Vir 
+H 1.41   NGC4731 Galaxy        12:51.0 - 6:24  5.4 11.5 Vir  Narrow bright bar
+H 1.42   NGC4995 Galaxy        13:09.7 - 7:50  2.5 11.1 Vir  "400" Dense spiral
+H 1.43   NGC4594 Galaxy        12:40.0 -11:37  8.9  8.3 Vir  "400" M104 Sombrero
+H 1.44   NGC6401 Globular clst 17:38.6 -23:55  5.6  9.5 Oph  "400"
+H 1.45   NGC6316 Globular clst 17:16.6 -28:08  4.9  8.8 Oph  "400"
+H 1.46   NGC6355 Globular clst 17:24.0 -26:21  5.0  9.7 Oph  "400"
+H 1.47   NGC6712 Globular clst 18:53.1 - 8:42  7.2  8.2 Sct  "400"
+H 1.48   NGC6356 Globular clst 17:23.6 -17:49  7.2  8.2 Oph  "400"
+H 1.49   NGC6522 Globular clst 18:03.6 -30:02  5.6  8.6 Sgr  "400"
+H 1.50   NGC6624 Globular clst 18:23.7 -30:22  5.9  8.3 Sgr  "400"
+H 1.51   NGC6638 Globular clst 18:30.9 -25:30  5.0  9.2 Sgr  "400"
+H 1.52   NGC7006 Globular clst 21:01.5 +16:11  2.8 10.6 Del  "400" very remote
+H 1.53   NGC7331 Galaxy        22:37.1 +34:25 10.7  9.5 Peg  "400"
+H 1.54   NGC393 Galaxy         1:08.6 +39:40  1.7 12.5 And 
+H 1.55   NGC7479 Galaxy        23:04.9 +12:19  4.0 10.8 Peg  "400" barred spiral
+H 1.56   NGC2903 Galaxy         9:32.2 +21:30 12.6  8.9 Leo  "400" short B nuc. bar
+H 1.57   NGC2905 Knot in galax  9:32.2 +21:31 13.3 10 p Leo   With NGC 2903
+H 1.58   NGC1395 Galaxy         3:38.5 -23:02  5.4  9.7 Eri 
+H 1.59   NGC2784 Galaxy         9:12.3 -24:10  5.1 10.1 Hya 
+H 1.60   NGC1332 Galaxy         3:26.3 -21:20  4.6 10.3 Eri 
+H 1.61   NGC2974 Galaxy         9:42.6 - 3:42  3.4 10.8 Sex  "400" bright nucleus
+H 1.62   NGC701 Galaxy         1:51.1 - 9:42  2.5 12.2 Cet 
+H 1.63   NGC1052 Galaxy         2:41.1 - 8:15  2.9 10.6 Cet  "400"
+H 1.64   NGC1084 Galaxy         2:46.0 - 7:35  2.9 10.6 Eri  "400"
+H 1.65   NGC4361 Planetary neb 12:24.5 -18:48  1.8 10.9 Crv  "400"
+H 1.66   NGC2781 Galaxy         9:11.5 -14:49  3.9 11.5 Hya 
+H 1.67   NGC3962 Galaxy        11:54.7 -13:58  2.6 10.7 Crt  "400"
+H 1.68   NGC4856 Galaxy        12:59.3 -15:02  3.1 10.5 Vir  "400"
+H 1.69   NGC4902 Galaxy        13:01.0 -14:31  2.5 10.9 Vir 
+H 1.70   NGC5634 Globular clst 14:29.6 - 5:59  4.9  9.4 Vir  "400"
+H 1.71   NGC5812 Galaxy        15:01.0 - 7:27  2.4 11.2 Lib 
+H 1.72   NGC3254 Galaxy        10:29.3 +29:30  5.1 11.5 LMi 
+H 1.73   NGC4150 Galaxy        12:10.6 +30:24  2.1 11.6 Com  "400"
+H 1.74   NGC4245 Galaxy        12:17.6 +29:36  3.2 11.4 Com  "400"
+H 1.75   NGC4274 Galaxy        12:19.8 +29:37  6.7 10.4 Com  "400"
+H 1.76   NGC4314 Galaxy        12:22.6 +29:53  4.2 10.6 Com  "400"
+H 1.77   NGC4414 Galaxy        12:26.4 +31:13  4.4 10.1 Com   "400"
+H 1.78   NGC2985 Galaxy         9:50.4 +72:17  3.9 10.4 UMa  "400"
+H 1.79   NGC3147 Galaxy        10:16.9 +73:24  4.3 10.6 Dra  "400"
+H 1.80   NGC3348 Galaxy        10:47.2 +72:50  2.0 11.2 UMa 
+H 1.81   NGC3344 Galaxy        10:43.5 +24:55  6.9  9.9 LMi  "400"
+H 1.82   NGC3900 Galaxy        11:49.2 +27:01  2.9 11.3 Leo  "400"
+H 1.83   NGC4494 Galaxy        12:31.4 +25:47  4.6  9.8 Com  "400"
+H 1.84   NGC4725 Galaxy        12:50.4 +25:30 11.0  9.4 Com  "400"
+H 1.85   NGC5012 Galaxy        13:11.6 +22:55  2.7 12.2 Com 
+H 1.86   NGC3245 Galaxy        10:27.3 +28:30  2.9 10.8 LMi  "400"
+H 1.87   NGC3486 Galaxy        11:00.4 +28:58  6.6 10.5 LMi  "400"
+H 1.88   NGC3504 Galaxy        11:03.2 +27:58  2.3 10.9 LMi  "400"
+H 1.89   NGC4251 Galaxy        12:18.1 +28:10  3.7 10.7 Com  "400" lens shape
+H 1.90   NGC4278 Galaxy        12:20.1 +29:17  3.5 10.2 Com  = H 2.322 "400"
+H 1.91   NGC4448 Galaxy        12:28.2 +28:37  3.7 11.1 Com  "400"
+H 1.92   NGC4559 Galaxy        12:36.0 +27:58 12.0 10.0 Com  "400" multi arm spiral
+H 1.93   NGC4793 Galaxy        12:54.6 +28:56  3.1 11.6 Com 
+H 1.94   NGC3813 Galaxy        11:41.3 +36:33  1.9 11.7 UMa  "400"
+H 1.95   NGC4214 Galaxy        12:15.6 +36:20 10.0  9.8 CVn  "400" = NGC 4208
+H 1.96   NGC5005 Galaxy        13:10.9 +37:03  5.8  9.8 CVn  "400"
+H 1.97   NGC5033 Galaxy        13:13.4 +36:36 10.5 10.2 CVn  "400"
+H 1.98   NGC5273 Galaxy        13:42.1 +35:39  2.8 11.6 CVn  "400"
+H 1.99   NGC5557 Galaxy        14:18.4 +36:30  2.2 11.0 Boo  "400"
+H 1.100   NGC584 Galaxy         1:31.3 - 6:52  3.8 10.4 Cet  "400"
+H 1.101   NGC779 Galaxy         1:59.7 - 5:58  4.1 11.0 Cet  "400" nearly edge-on
+H 1.102   NGC1022 Galaxy         2:38.5 - 6:40  2.5 11.4 Cet  "400"
+H 1.103   NGC6934 Globular clst 20:34.2 + 7:24  5.9  8.7 Del  "400"
+H 1.104   NGC7606 Galaxy        23:19.1 - 8:29  5.8 10.8 Aqr  "400"
+H 1.105   NGC720 Galaxy         1:53.0 -13:44  4.4 10.2 Cet  "400"
+H 1.106   NGC1309 Galaxy         3:22.1 -15:24  2.3 11.6 Eri 
+H 1.107   NGC1407 Galaxy         3:40.2 -18:35  2.5  9.8 Eri  "400"
+H 1.108   NGC467 Galaxy         1:19.2 + 3:18  2.4 11.9 Psc  NGC 470 group
+H 1.109   NGC1201 Galaxy         3:04.1 -26:04  4.4 10.6 For 
+H 1.110   NGC7723 Galaxy        23:38.9 -12:58  2.8 11.2 Aqr  "400"
+H 1.111   NGC7727 Galaxy        23:39.9 -12:18  5.6 10.6 Aqr  "400"
+H 1.112   NGC772 Galaxy         1:59.3 +19:01  7.1 10.3 Ari  "400"
+H 1.113   NGC2832 Galaxy         9:19.8 +33:44  3.3 11.5 Lyn 
+H 1.114   NGC2964 Galaxy         9:42.9  31:51  3.2 11.3 Leo  "400" vfaint bar
+H 1.115   NGC3021 Galaxy         9:51.0 +33:33  1.4 12.1 LMi 
+H 1.116   NGC3395 Galaxy        10:49.8 +32:59  1.6 12.1 LMi  "400"
+H 1.117   NGC3396 Galaxy        10:49.9 +32:59  3.4 12.1 LMi 
+H 1.118   NGC3430 Galaxy        10:52.2 +32:57  4.1 11.6 LMi  NGC 3395 group
+H 1.119   NGC4560 Nonexistent   12:36.1 + 7:41           Vir 
+H 1.120   NGC3887 Galaxy        11:47.1 -16:51  3.5 10.6 Crt 
+H 1.121   NGC4030 Galaxy        12:00.4 - 1:06  3.8 10.6 Vir  "400" face on spiral
+H 1.122   NGC1637 Galaxy         4:41.5 - 2:51  3.3 10.9 Eri  Strong asymm vF
+H 1.123   NGC4378 Galaxy        12:25.3 + 4:55  3.0 11.7 Vir 
+H 1.124   NGC4580 Galaxy        12:37.8 + 5:22  2.4 11.8 Vir 
+H 1.125   NGC4586 Galaxy        12:38.5 + 4:19  3.6 11.7 Vir 
+H 1.126   NGC5746 Galaxy        14:44.9 + 1:57  7.9 10.6 Vir  "400" edge on
+H 1.127   NGC5813 Galaxy        15:01.2 + 1:42  3.4 10.5 Vir  NGC 5846 group
+H 1.128   NGC5846 Galaxy        15:06.4 + 1:36  3.0 10.0 Vir  "400" NGC 5846 group
+H 1.129   NGC4699 Galaxy        12:49.0 - 8:40  4.4  9.5 Vir  "400"
+H 1.130   NGC4958 Galaxy        13:05.8 - 8:01  3.6 10.7 Vir  "400"
+H 1.131   NGC3672 Galaxy        11:25.0 - 9:48  3.9 11.4 Crt  Multi arm spiral
+H 1.132   NGC2855 Galaxy         9:21.5 -11:55  2.7 11.6 Hya 
+H 1.133   NGC4742 Galaxy        12:51.8 -10:27  2.3 11.3 Vir 
+H 1.134   NGC4781 Galaxy        12:54.4 -10:32  2.9 11.1 Vir  "400" Coarse spiral
+H 1.135   NGC4782 Galaxy        12:54.6 -12:34  1.8 11.7 Crv 
+H 1.136   NGC4783 Galaxy        12:54.6 -12:33  1.8 11.5 Crv  = 3C278
+H 1.137   NGC2859 Galaxy         9:24.3 +34:31  4.6 10.9 LMi  "400" bright nucleus
+H 1.138   NGC5061 Galaxy        13:18.1 -26:50  4.1 10.2 Hya 
+H 1.139   NGC4303 Galaxy        12:21.9 + 4:28  6.0  9.7 Vir  "400" M61 face on spiral
+H 1.140   NGC4713 Galaxy        12:50.0 + 5:19  2.9 11.7 Vir 
+H 1.141   NGC4808 Galaxy        12:55.8 + 4:18  2.4 11.7 Vir 
+H 1.142   NGC4665 Galaxy        12:45.1 + 3:03  4.1 10.5 Vir  "400"
+H 1.143   NGC4900 Galaxy        13:00.6 + 2:30  2.3 11.4 Vir  "400"
+H 1.144   NGC5566 Galaxy        14:20.3 + 3:56  5.7 10.6 Vir  "400" double galaxy
+H 1.145   NGC5574 Galaxy        14:20.9 + 3:14  1.1 12.4 Vir 
+H 1.146   NGC5576 Galaxy        14:21.1 + 3:16  3.0 11.0 Vir  "400"
+H 1.147   NGC6304 Globular clst 17:14.5 -29:28  6.8  8.4 Oph  "400"
+H 1.148   NGC5921 Galaxy        15:21.9 + 5:04  4.9 10.8 Ser 
+H 1.149   NGC6342 Globular clst 17:21.2 -19:35  3.0  9.8 Oph  "400"
+H 1.150   NGC6440 Globular clst 17:48.9 -20:22  5.4  9.1 Sgr  "400"
+H 1.151   NGC524 Galaxy         1:24.8 + 9:32  3.2 10.6 Psc  "400"
+H 1.152   NGC821 Galaxy         2:08.4 +11:00  3.5 10.8 Ari 
+H 1.153   NGC908 Galaxy         2:23.1 -21:14  5.5 10.2 Cet  "400"
+H 1.154   NGC949 Galaxy         2:30.8 +37:08  2.8 11.9 Tri 
+H 1.155   NGC1453 Galaxy         3:46.4 - 3:58  2.1 11.6 Eri 
+H 1.156   NGC1023 Galaxy         2:40.4 +39:04  8.7  9.5 Per  "400" brtst in grp
+H 1.157   NGC672 Galaxy         1:47.9 +27:26  6.6 10.8 Tri  coarse spiral
+H 1.158   NGC1600 Galaxy         4:31.7 - 5:05  2.3 10.9 Eri  brtst in grp
+H 1.159   NGC278 Galaxy         0:52.1 +47:33  2.2 10.9 Cas  "400" Lg B nucl
+H 1.160   NGC4546 Galaxy        12:35.5 - 3:48  3.2 10.3 Vir  "400"
+H 1.161   NGC4459 Galaxy        12:29.0 +13:59  3.5 10.4 Com  "400"
+H 1.162   NGC4866 Galaxy        12:59.5 +14:10  5.5 11.2 Vir  "400"
+H 1.163   NGC3115 Galaxy        10:05.2 - 7:43  8.1  8.9 Sex  "400" Spindle Galaxy
+H 1.164   NGC3294 Galaxy        10:36.3 +37:20  3.5 11.8 LMi  "400"
+H 1.165   NGC4151 Galaxy        12:10.5 +39:24  6.4 10.8 CVn  "400"
+H 1.166   NGC4369 Galaxy        12:24.6 +39:23  2.2 11.7 CVn 
+H 1.167   NGC2782 Galaxy         9:14.1 +40:07  3.8 11.5 Lyn  "400" broad bar
+H 1.168   NGC3184 Galaxy        10:18.3 +41:25  6.9  9.8 UMa  "400"
+H 1.169   NGC4145 Galaxy        12:10.0 +39:53  6.0 11.3 CVn 
+H 1.170   NGC5290 Galaxy        13:45.3 +41:43  3.3 12.5 CVn 
+H 1.171   NGC5739 Galaxy        14:42.5 +41:50  1.8 12.1 Boo 
+H 1.172   NGC3432 Galaxy        10:52.5 +36:37  6.9 11.2 LMi  "400"
+H 1.173   NGC3941 Galaxy        11:52.9 +36:59  3.7 10.3 UMa  "400"
+H 1.174   NGC4062 Galaxy        12:04.1 +31:54  4.4 11.1 UMa 
+H 1.175   NGC4203 Galaxy        12:15.1 +33:12  3.5 10.9 Com  "400"
+H 1.176   NGC4656 Galaxy        12:44.0 +32:10 20.0 10.5 CVn  "400"
+H 1.177   NGC4657 Galaxy        12:44.2 +32:12 15.0 10.5 CVn  Superimposed on 4656
+H 1.178   NGC4618 Galaxy        12:41.5 +41:09  4.1 10.8 CVn  = H 1.179 "400"
+H 1.179   NGC4618 Galaxy        12:41.5 +41:09  4.1 10.8 CVn  = H 1.178 "400"
+H 1.180   NGC5297 Galaxy        13:46.4 +43:52  5.3 11.8 CVn 
+H 1.181   NGC5383 Galaxy        13:57.1 +41:51  3.2 11.4 CVn 
+H 1.182   NGC5713 Galaxy        14:40.2 - 0:17  3.0 11.2 Vir  NGC 5713 group
+H 1.183   NGC5750 Galaxy        14:46.2 - 0:13  2.9 11.6 Vir 
+H 1.184   NGC5728 Galaxy        14:42.4 -17:15  3.7 11.5 Lib 
+H 1.185   NGC5633 Galaxy        14:27.5 +46:09  2.3 12.4 Boo 
+H 1.186   NGC5195 Galaxy        13:30.0 +47:16  6.4  9.6 CVn  "400" = M51B; with M51
+H 1.187   NGC5377 Galaxy        13:56.3 +47:14  4.1 11.3 CVn 
+H 1.188   NGC5689 Galaxy        14:35.5 +48:45  3.7 11.9 Boo  "400"
+H 1.189   NGC5676 Galaxy        14:32.8 +49:28  3.7 11.2 Boo  "400"
+H 1.190   NGC5395 Galaxy        13:58.6 +37:25  2.7 11.4 CVn 
+H 1.191   NGC5394 Galaxy        13:58.6 +37:27  1.7 13.0 CVn 
+H 1.192   NGC7008 Planetary neb 21:00.6 +54:33  1.4 10.7 Cyg  "400"
+H 1.193   NGC651 Planetary neb  1:42.3 +51:35  0.1 10.1 Per  "400" M76 = NGC 650 Little Dumbbell
+H 1.194   NGC3675 Galaxy        11:26.1 +43:35  6.2 10.2 UMa  "400"
+H 1.195   NGC4111 Galaxy        12:07.1 +43:04  4.8 10.8 CVn  "400"
+H 1.196   NGC4138 Galaxy        12:09.5 +43:41  2.9 11.3 CVn 
+H 1.197   NGC4485 Galaxy        12:30.5 +41:42  2.7 11.9 CVn  "400"
+H 1.198   NGC4490 Galaxy        12:30.6 +41:38  6.4  9.8 CVn  "400"
+H 1.199   NGC3198 Galaxy        10:19.9 +45:33  9.2 10.3 UMa  "400"
+H 1.200   NGC2683 Galaxy         8:52.7 +33:25  9.3  9.7 Lyn  "400" peanut-shaped
+H 1.201   NGC3877 Galaxy        11:46.1 +47:30  5.1 11.0 UMa  "400" edge on spiral
+H 1.202   NGC3949 Galaxy        11:53.7 +47:52  3.0 11.0 UMa  "400"
+H 1.203   NGC3938 Galaxy        11:52.8 +44:07  5.4 10.4 UMa  "400" face on spiral
+H 1.204   NGC2639 Galaxy         8:43.6 +50:12  2.0 11.8 UMa  faint thin spiral arm
+H 1.205   NGC2841 Galaxy         9:22.0 +50:58  6.1  9.2 UMa  "400" fine spiral
+H 1.206   NGC4088 Galaxy        12:05.6 +50:33  5.4 10.6 UMa  "400"
+H 1.207   NGC4096 Galaxy        12:06.0 +47:29  6.5 10.6 UMa  nearly edge on
+H 1.208   NGC4157 Galaxy        12:11.1 +50:29  7.1 11.3 UMa  edge on narrow streak
+H 1.209   NGC4220 Galaxy        12:16.2 +47:53  3.5 11.4 CVn 
+H 1.210   NGC4346 Galaxy        12:23.5 +47:00  3.2 11.1 CVn  "400"
+H 1.211   NGC4800 Galaxy        12:54.6 +46:32  1.6 11.5 CVn  "400"
+H 1.212   NGC4460 Galaxy        12:28.8 +44:52  4.3 11.3 CVn  = H 2.750
+H 1.213   NGC4449 Galaxy        12:28.2 +44:06  5.5  9.6 CVn  "400"
+H 1.214   NGC5474 Galaxy        14:05.0 +53:40  6.0 10.8 UMa  "400"
+H 1.215   NGC5866 Galaxy        15:06.5 +55:46  6.6  9.9 Dra  "400" M102
+H 1.216   NGC2787 Galaxy         9:19.3 +69:12  3.4 10.8 UMa  "400"
+H 1.217   NGC1579 Nebula         4:30.2 +35:16 12.0      Per 
+H 1.218   NGC2419 Globular clst  7:38.1 +38:53  4.1 10.4 Lyn  "400" Intergalactic Wanderer
+H 1.219   NGC3665 Galaxy        11:24.7 +38:46  3.5 10.8 UMa  "400"
+H 1.220   NGC3549 Galaxy        11:10.9 +53:23  3.0 12.1 UMa  nearly edge on
+H 1.221   NGC3718 Galaxy        11:32.6 +53:04  8.7 10.5 UMa 
+H 1.222   NGC3729 Galaxy        11:33.8 +53:08  3.1 11.4 UMa  "400"
+H 1.223   NGC4026 Galaxy        11:59.4 +50:58  4.6 10.8 UMa  "400" edge on
+H 1.224   NGC4085 Galaxy        12:05.4 +50:21  2.5 12.4 UMa  "400"
+H 1.225   NGC4102 Galaxy        12:06.4 +52:43  2.9 11.2 UMa  "400"
+H 1.226   NGC3631 Galaxy        11:21.0 +53:10  5.5 10.4 UMa  "400"
+H 1.227   NGC3780 Galaxy        11:39.4 +56:16  2.8 11.5 UMa 
+H 1.228   NGC3898 Galaxy        11:49.2 +56:05  3.3 10.7 UMa  "400"
+H 1.229   NGC3998 Galaxy        11:57.9 +55:27  3.0 10.7 UMa  "400"
+H 1.230   NGC5422 Galaxy        14:00.7 +55:10  3.0 11.8 UMa 
+H 1.231   NGC5473 Galaxy        14:04.7 +54:54  2.6 11.4 UMa  "400"
+H 1.232   NGC5485 Galaxy        14:07.2 +55:00  2.7 11.4 UMa 
+H 1.233   NGC3448 Galaxy        10:54.7 +54:19  4.9 12.1 UMa 
+H 1.234   NGC4500 Galaxy        12:31.4 +57:58  1.6 12.5 UMa 
+H 1.235   NGC5585 Galaxy        14:19.8 +56:44  5.6 10.7 UMa  M101 group
+H 1.236   NGC5631 Galaxy        14:26.6 +56:35  1.8 11.5 UMa  "400"
+H 1.237   NGC5678 Galaxy        14:32.1 +57:55  3.2 11.3 Dra 
+H 1.238   NGC5376 Galaxy        13:55.3 +59:30  1.6 12.1 UMa  = H 2.844
+H 1.239   NGC5379 Galaxy        13:55.6 +59:45  2.0 12.9 UMa 
+H 1.240   NGC5389 Galaxy        13:56.1 +59:44  4.6 12.0 UMa 
+H 1.241   NGC3621 Galaxy        11:18.3 -32:49  9.8  8.9 Hya  "400"
+H 1.242   NGC2681 Galaxy         8:53.5 +51:19  3.8 10.3 UMa  "400" Compact center
+H 1.243   NGC4814 Galaxy        12:55.4 +58:21  3.2 12.0 UMa 
+H 1.244   NGC3619 Galaxy        11:19.4 +57:46  3.7 11.5 UMa  "400"
+H 1.245   NGC3642 Galaxy        11:22.3 +59:05  5.7 11.2 UMa 
+H 1.246   NGC3683 Galaxy        11:27.5 +56:53  1.9 12.4 UMa 
+H 1.247   NGC3690 Galaxy        11:28.5 +58:33  2.5 11.5 UMa  double system
+H 1.248   NGC3894 Galaxy        11:48.8 +59:25  2.0 11.6 UMa 
+H 1.249   NGC2742 Galaxy         9:07.6 +60:29  3.0 11.4 UMa  "400" bright nucleus
+H 1.250   NGC2768 Galaxy         9:11.6 +60:02  6.6  9.9 UMa  "400"
+H 1.251   NGC3945 Galaxy        11:53.2 +60:41  5.9 10.8 UMa  "400"
+H 1.252   NGC4041 Galaxy        12:02.2 +62:08  2.6 11.3 UMa  "400"
+H 1.253   NGC4036 Galaxy        12:01.4 +61:54  3.8 10.7 UMa  "400" spindle shape
+H 1.254   NGC4605 Galaxy        12:40.0 +61:37  6.4 10.3 UMa 
+H 1.255   NGC5308 Galaxy        13:47.0 +60:58  2.6 11.4 UMa 
+H 1.256   NGC5322 Galaxy        13:49.3 +60:12  6.1 10.2 UMa  "400"
+H 1.257   NGC1344 Galaxy         3:28.3 -31:04  3.9 10.3 For 
+H 1.258   NGC1491 Nebula         4:03.4 +51:19 25.0      Per 
+H 1.259   NGC3923 Galaxy        11:51.0 -28:48  6.9  9.6 Hya 
+H 1.260   NGC2880 Galaxy         9:29.6 +62:30  2.6 11.6 UMa  very compact
+H 1.261   NGC1931 Clstr wth neb  5:31.4 +34:15  3.0 11.3 Aur  "400"
+H 1.262   NGC3682 Galaxy        11:27.7 +66:35  2.1 12.5 Dra 
+H 1.263   NGC4128 Galaxy        12:08.5 +68:46  2.5 12.0 Dra 
+H 1.264   NGC4250 Galaxy        12:17.4 +70:48  2.3 11.8 Dra 
+H 1.265   NGC3182 Galaxy        10:19.5 +58:12  2.1 12.1 UMa 
+H 1.266   NGC3206 Galaxy        10:21.8 +56:56  2.6 11.9 UMa 
+H 1.267   NGC3445 Galaxy        10:54.6 +56:59  1.6 12.6 UMa  NGC 3445 group
+H 1.268   NGC3458 Galaxy        10:56.0 +57:07  1.4 12.2 UMa  NGC 3445 group
+H 1.269   NGC3488 Galaxy        11:01.4 +57:41  1.9 12.9 UMa 
+H 1.270   NGC3610 Galaxy        11:18.4 +58:47  3.2 10.8 UMa  "400"
+H 1.271   NGC3613 Galaxy        11:18.6 +58:00  3.4 10.9 UMa  "400"
+H 1.272   NGC3332 Galaxy        10:40.4 + 9:11  1.4 12.3 Leo 
+H 1.273   NGC4589 Galaxy        12:37.4 +74:12  3.0 10.7 Dra 
+H 1.274   NGC4648 Galaxy        12:41.8 +74:25  1.7 12.0 Dra 
+H 1.275   NGC4291 Galaxy        12:20.3 +75:22  2.0 11.5 Dra 
+H 1.276   NGC4319 Galaxy        12:21.7 +75:19  2.8 11.9 Dra 
+H 1.277   NGC4386 Galaxy        12:24.5 +75:32  2.8 11.7 Dra 
+H 1.278   NGC4133 Galaxy        12:08.6 +74:56  1.8 12.3 Dra 
+H 1.279   NGC4127 Galaxy        12:08.4 +76:48  2.9 12.7 Cam 
+H 1.280   NGC6217 Galaxy        16:32.6 +78:12  3.3 11.2 UMi  "400"
+H 1.281   NGC613 Galaxy         1:34.3 -29:25  5.8 10.0 Scl  "400"
+H 1.282   NGC2977 Galaxy         9:43.8 +74:52  1.5 12.5 Dra  low surface br
+H 1.283   NGC3183 Galaxy        10:26.5 +74:39  2.2 11.9 Dra 
+H 1.284   NGC3329 Galaxy        10:44.7 +76:49  2.0 12.2 Dra 
+H 1.285   NGC2976 Galaxy         9:47.3 +67:55  5.0 10.2 UMa  "400"
+H 1.286   NGC3077 Galaxy        10:03.3 +68:44  4.6  9.9 UMa  "400" M81 group
+H 1.287   NGC3735 Galaxy        11:36.0 +70:32  3.9 11.8 Dra  nearly edge-on
+H 1.288   NGC2655 Galaxy         8:55.6 +78:13  5.1 10.1 Cam  "400" large nucleus
+H 2.1   NGC7184 Galaxy        22:02.7 -20:49  6.5 11.2 Aqr 
+H 2.2   NGC7507 Galaxy        23:12.1 -28:32  2.6 10.4 Scl 
+H 2.3   NGC157 Galaxy         0:34.8 - 8:24  4.3 10.4 Cet  "400"
+H 2.4   NGC596 Galaxy         1:32.9 - 7:02  3.5 10.9 Cet  "400"
+H 2.5   NGC1032 Galaxy         2:39.4 + 1:06  3.5 11.6 Cet 
+H 2.6   NGC1055 Galaxy         2:41.8 + 0:26  7.6 10.6 Cet  = H 1.1 "400" edge-on
+H 2.7   NGC1589 Galaxy         4:30.8 + 0:51  3.1 11.8 Tau 
+H 2.8   NGC1587 Galaxy         4:30.7 + 0:40  1.8 11.7 Tau 
+H 2.9   NGC1588 Galaxy         4:30.8 + 0:39  1.4 12.9 Tau  compact,disturbed
+H 2.10   NGC7800 Galaxy        23:59.6 +14:49  2.1 12.6 Peg 
+H 2.11   NGC4237 Galaxy        12:17.2 +15:19  2.3 11.7 Com 
+H 2.12   NGC4651 Galaxy        12:43.7 +16:24  3.5 10.8 Com 
+H 2.13   NGC3705 Galaxy        11:30.1 + 9:17  4.6 11.1 Leo 
+H 2.14   NGC4119 Nonexistent   12:07.9 + 9:33           Vir 
+H 2.15   NGC4578 Galaxy        12:37.5 + 9:33  3.6 11.4 Vir 
+H 2.16   NGC3462 Galaxy        10:55.3 + 7:42  1.7 12.2 Leo 
+H 2.17   NGC4235 Galaxy        12:17.2 + 7:11  3.6 11.6 Vir  nearly edge on
+H 2.18   NGC4470 Galaxy        12:29.6 + 7:49  1.3 12.1 Vir  = H 2.498
+H 2.19   NGC4610 Nonexistent   12:41.4 + 7:43           Vir 
+H 2.20   NGC4612 Galaxy        12:41.5 + 7:19  1.6 10.9 Vir  = H 2.148
+H 2.21   NGC4795 Galaxy        12:55.0 + 8:04  1.9 12.1 Vir 
+H 2.22   NGC5106 Single star   13:21.7 + 8:29           Vir 
+H 2.23   NGC4420 Galaxy        12:27.0 + 2:30  2.0 12.1 Vir 
+H 2.24   NGC4772 Galaxy        12:53.5 + 2:10  2.7 11.0 Vir 
+H 2.25   NGC5147 Galaxy        13:26.3 + 2:06  1.6 11.8 Vir 
+H 2.26   NGC4453 Galaxy        12:28.7 + 6:30   .6 14.8 Vir  double nebula
+H 2.27   NGC5665 Galaxy        14:32.4 + 8:05  2.1 12.0 Boo 
+H 2.28   NGC3226 Galaxy        10:23.4 +19:54  2.5 11.4 Leo  "400"
+H 2.29   NGC3227 Galaxy        10:23.5 +19:52  6.9 10.3 Leo  "400"
+H 2.30   NGC3632 Nonexistent   11:20.5 +18:09           Leo 
+H 2.31   NGC4592 Galaxy        12:39.3 - 0:32  4.7 11.7 Vir 
+H 2.32   NGC3645 Galaxy        11:21.6 + 2:59  NIU 14.1 Leo 
+H 2.33   NGC3640 Galaxy        11:21.1 + 3:14  4.6 10.4 Leo  "400"
+H 2.34   NGC4412 Galaxy        12:26.6 + 3:58  1.5 12.4 Vir 
+H 2.35   NGC4457 Galaxy        12:29.0 + 3:34  3.0 10.8 Vir 
+H 2.36   NGC4496A Galaxy       12:31.6 + 3:56  4.0 11.4 Vir  overlapping 4496B
+H 2.37   NGC4527 Galaxy        12:34.1 + 2:39  6.0 10.5 Vir  "400"
+H 2.38   NGC4636 Galaxy        12:42.8 + 2:41  7.1  9.5 Vir  "400"
+H 2.39   NGC4664 Not documnted 12:45.1 + 3:03           Vir 
+H 2.40   NGC2911 Galaxy         9:33.8 +10:09  3.7 11.5 Leo  brightest in group
+H 2.41   NGC3389 Galaxy        10:48.5 +12:32  2.7 11.8 Leo  Leo group
+H 2.42   NGC3547 Galaxy        11:09.9 +10:43  1.9 12.8 Leo 
+H 2.43   NGC3162 Galaxy        10:13.5 +22:44  3.1 11.6 Leo 
+H 2.44   NGC3190 Galaxy        10:18.1 +21:50  4.2 11.2 Leo  "400"
+H 2.45   NGC3193 Galaxy        10:18.4 +21:54  2.5 10.9 Leo  "400" NGC 3190 group
+H 2.46   NGC3301 Galaxy        10:36.9 +21:53  3.4 11.4 Leo  Nearly edge-on
+H 2.47   NGC3437 Galaxy        10:52.6 +22:56  2.6 12.1 Leo 
+H 2.48   NGC2672 Galaxy         8:49.3 +19:04  2.6 11.6 Cnc  = H 2.80
+H 2.49   NGC3599 Galaxy        11:15.4 +18:07  2.5 11.9 Leo  NGC 3607 group
+H 2.50   NGC3607 Galaxy        11:16.9 +18:03  4.6  9.9 Leo  "400" NGC 3607 group
+H 2.51   NGC3608 Galaxy        11:17.0 +18:09  2.7 10.8 Leo  "400" NGC 3607 group
+H 2.52   NGC3626 Galaxy        11:20.1 +18:21  2.6 11.0 Leo  "400"
+H 2.53   NGC3659 Galaxy        11:23.8 +17:49  1.8 12.3 Leo 
+H 2.54   NGC3691 Galaxy        11:28.2 +16:55  1.0 11.8 Leo 
+H 2.55   NGC4394 Galaxy        12:25.9 +18:13  3.3 10.9 Com   "400"
+H 2.56   NGC4450 Galaxy        12:28.5 +17:05  5.0 10.1 Com  = H 2.90 "400"
+H 2.57   NGC2872 Galaxy         9:25.7 +11:26  1.8 11.9 Leo  = H 2.546
+H 2.58   NGC2874 Galaxy         9:25.8 +11:26  2.2 12.5 Leo  = H 2.547 disturbed
+H 2.59   NGC3070 Galaxy         9:58.0 +10:22  1.6 12.3 Leo 
+H 2.60   NGC4124 Galaxy        12:08.2 +10:23  4.6 11.3 Vir  = H 1.33
+H 2.61   NGC4294 Galaxy        12:21.3 +11:31  2.7 12.1 Vir 
+H 2.62   NGC4299 Galaxy        12:21.7 +11:30  1.7 12.5 Vir 
+H 2.63   NGC4313 Galaxy        12:22.6 +11:48  3.2 11.6 Vir 
+H 2.64   NGC4352 Galaxy        12:24.1 +11:13  2.0 12.6 Vir 
+H 2.65   NGC4429 Galaxy        12:27.4 +11:07  5.5 10.2 Vir   "400"
+H 2.66   NGC4503 Galaxy        12:32.1 +11:11  3.5 11.1 Vir 
+H 2.67   NGC4528 Galaxy        12:34.1 +11:19  1.5 12.1 Vir 
+H 2.68   NGC4564 Galaxy        12:36.4 +11:26  3.1 11.1 Vir 
+H 2.69   NGC4608 Galaxy        12:41.2 +10:09  3.0 11.0 Vir 
+H 2.70   NGC4638 Galaxy        12:42.8 +11:26  2.9 11.2 Vir  = H 2.176 with NGC4637
+H 2.71   NGC4660 Galaxy        12:44.5 +11:11  2.4 11.2 Vir  "400"
+H 2.72   NGC4694 Galaxy        12:48.2 +10:59  3.5 11.4 Vir 
+H 2.73   NGC4733 Galaxy        12:51.1 +10:55  2.0 11.8 Vir 
+H 2.74   NGC4754 Galaxy        12:52.3 +11:19  4.6 10.6 Vir  = H 1.25 "400"
+H 2.75   NGC4762 Galaxy        12:52.9 +11:14  9.1 10.3 Vir  "400"
+H 2.76   NGC5970 Galaxy        15:38.5 +12:11  2.7 11.5 Ser 
+H 2.77   NGC3338 Galaxy        10:42.1 +13:45  4.8 11.1 Leo  Leo group
+H 2.78   NGC3367 Galaxy        10:46.6 +13:45  2.3 11.5 Leo 
+H 2.79   NGC5669 Galaxy        14:32.7 + 9:53  4.1 11.3 Boo 
+H 2.80   NGC2672 Galaxy         8:49.3 +19:04  2.6 11.6 Cnc  = H 2.48
+H 2.81   NGC3370 Galaxy        10:47.1 +17:16  2.7 11.6 Leo 
+H 2.82   NGC3455 Galaxy        10:54.5 +17:17  2.6 12.0 Leo  Nearly edge-on
+H 2.83   NGC4152 Galaxy        12:10.6 +16:02  2.0 12.2 Com 
+H 2.84   NGC4328 Galaxy        12:23.3 +15:48  1.5 13.5 Com 
+H 2.85   NGC4340 Galaxy        12:23.6 +16:43  3.7 11.2 Com 
+H 2.86   NGC4350 Galaxy        12:24.0 +16:42  2.5 11.0 Com  "400"
+H 2.87   NGC4379 Galaxy        12:25.2 +15:36  1.5 11.7 Com 
+H 2.88   NGC4405 Galaxy        12:26.1 +16:11  1.6 12.0 Com 
+H 2.89   NGC4421 Galaxy        12:27.0 +15:28  2.7 11.6 Com 
+H 2.90   NGC4450 Galaxy        12:28.5 +17:05  5.0 10.1 Com  = H 2.56 "400"
+H 2.91   NGC4489 Galaxy        12:30.8 +16:45  1.8 12.0 Com 
+H 2.92   NGC4502 Galaxy        12:32.1 +16:42  1.2 13.9 Com 
+H 2.93   NGC4515 Galaxy        12:33.0 +16:15  1.3 12.3 Com 
+H 2.94   NGC4540 Galaxy        12:34.8 +15:33  1.9 11.7 Com  = H 2.119
+H 2.95   NGC4710 Galaxy        12:49.6 +15:10  3.9 11.0 Com 
+H 2.96   NGC5962 Galaxy        15:36.5 +16:37  2.6 11.3 Ser 
+H 2.97   NGC5996 Galaxy        15:46.9 +17:52  1.8 12.8 Ser 
+H 2.98   NGC3041 Galaxy         9:53.1 +16:41  3.7 11.5 Leo 
+H 2.99   NGC3377 Galaxy        10:47.7 +13:59  4.1 10.4 Leo  "400" Leo group
+H 2.100   NGC3485 Galaxy        11:00.0 +14:50  2.4 11.6 Leo 
+H 2.101   NGC3489 Galaxy        11:00.3 +13:54  3.7 10.3 Leo  "400" Leo group
+H 2.102   NGC3596 Galaxy        11:15.1 +14:47  4.0 11.2 Leo  Leo group
+H 2.103   NGC3800 Galaxy        11:40.2 +15:21  1.7 12.7 Leo 
+H 2.104   NGC3872 Galaxy        11:45.8 +13:46  2.2 11.7 Leo 
+H 2.105   NGC4168 Galaxy        12:12.3 +13:12  2.8 11.2 Vir 
+H 2.106   NGC4189 Galaxy        12:13.8 +13:26  2.5 11.7 Com 
+H 2.107   NGC4208 Not documnted 12:15.4 +13:54           Com  = NGC 4214
+H 2.108   NGC4212 Galaxy        12:15.7 +13:54  2.7 11.2 Com 
+H 2.109   NGC4222 Galaxy        12:16.4 +13:19  2.8 13.3 Com 
+H 2.110   NGC4262 Galaxy        12:19.5 +14:53  1.9 11.6 Com 
+H 2.111   NGC4298 Galaxy        12:21.5 +14:36  3.2 11.4 Com 
+H 2.112   NGC4302 Galaxy        12:21.7 +14:36  4.7 11.6 Com  nearly edge on
+H 2.113   NGC4419 Galaxy        12:26.9 +15:03  3.4 11.1 Com  "400"
+H 2.114   NGC4473 Galaxy        12:29.8 +13:26  3.7 10.2 Com  "400" Markarian's chain
+H 2.115   NGC4477 Galaxy        12:30.0 +13:38  3.9 10.4 Com  "400" Markarian's chain
+H 2.116   NGC4479 Galaxy        12:30.3 +13:35  1.5 12.4 Com 
+H 2.117   NGC4474 Galaxy        12:29.9 +14:04  1.9 11.5 Com  = H 2.629 spindle shaped
+H 2.118            Nonexistent                            Com  near M88
+H 2.119   NGC4540 Galaxy        12:34.8 +15:33  1.9 11.7 Com  = H 2.94
+H 2.120   NGC4548 Galaxy        12:35.4 +14:30  5.0 10.2 Com  "400" M91
+H 2.121   NGC4458 Galaxy        12:29.0 +13:15  1.5 12.1 Vir  Markarian's chain
+H 2.122   NGC4461 Galaxy        12:29.0 +13:11  3.7 11.2 Vir  = H 2.174 Markarian's chain
+H 2.123   NGC4476 Galaxy        12:30.0 +12:21  1.7 12.2 Vir 
+H 2.124   NGC4478 Galaxy        12:30.3 +12:20  1.7 11.4 Vir  "400"
+H 2.125   NGC4639 Galaxy        12:42.9 +13:15  2.9 11.5 Vir 
+H 2.126   NGC4654 Galaxy        12:44.0 +13:08  4.9 10.5 Vir  "400"
+H 2.127   NGC4659 Galaxy        12:44.5 +13:31  1.6 12.1 Com 
+H 2.128   NGC4689 Galaxy        12:47.8 +13:46  3.7 10.9 Com  "400"
+H 2.129   NGC5020 Galaxy        13:12.6 +12:36  3.0 11.7 Vir 
+H 2.130   NGC5936 Galaxy        15:30.0 +12:59  1.5 12.4 Ser 
+H 2.131   NGC3423 Galaxy        10:51.2 + 5:50  3.9 11.1 Sex  = H 4.6 face on spiral
+H 2.132   NGC3976 Galaxy        11:56.0 + 6:45  3.3 11.5 Vir  nearly edge on spiral
+H 2.133   NGC4180 Galaxy        12:13.1 + 7:02  1.6 12.6 Vir 
+H 2.134   NGC4197 Galaxy        12:14.6 + 5:48  3.5 12.8 Vir 
+H 2.135   NGC4215 Galaxy        12:15.9 + 6:24  1.5 12.1 Vir  edge on lens shape
+H 2.136   NGC4224 Galaxy        12:16.6 + 7:28  1.8 11.8 Vir  edge on
+H 2.137   NGC4223 Nonexistent   12:16.5 + 6:42           Vir 
+H 2.138   NGC4260 Galaxy        12:19.4 + 6:06  2.0 11.8 Vir 
+H 2.139   NGC4261 Galaxy        12:19.4 + 5:49  3.5 10.4 Vir  "400"
+H 2.140   NGC4264 Galaxy        12:19.6 + 5:51   .8 12.8 Vir 
+H 2.141   NGC4326 Galaxy        12:23.2 + 6:04  1.6 13.3 Vir  NGC 4339 group
+H 2.142   NGC4333 Galaxy        12:23.4 + 6:02   .9 13.6 Vir 
+H 2.143   NGC4339 Galaxy        12:23.6 + 6:05  2.0 11.3 Vir 
+H 2.144   NGC4370 Galaxy        12:24.9 + 7:27  1.4 12.6 Vir 
+H 2.145   NGC4423 Galaxy        12:27.1 + 5:52  2.0 13.5 Vir 
+H 2.146   NGC4430 Galaxy        12:27.4 + 6:15  2.7 12.0 Vir 
+H 2.147   NGC4532 Galaxy        12:34.3 + 6:28  3.2 11.9 Vir 
+H 2.148   NGC4612 Galaxy        12:41.5 + 7:19  1.6 10.9 Vir  = H 2.20
+H 2.149   NGC4623 Galaxy        12:42.2 + 7:41  2.0 12.2 Vir 
+H 2.150   NGC5645 Galaxy        14:30.7 + 7:17  2.9 12.5 Vir 
+H 2.151   NGC6106 Galaxy        16:18.8 + 7:25  2.3 12.2 Her 
+H 2.152   NGC3692 Galaxy        11:28.4 + 9:24  2.8 12.1 Leo 
+H 2.153   NGC3822 Galaxy        11:42.2 +10:17  1.3 13.1 Vir 
+H 2.154   NGC3825 Galaxy        11:42.4 +10:17  1.3 13.0 Vir 
+H 2.155   NGC4417 Galaxy        12:26.8 + 9:35  3.6 11.2 Vir  edge on lens shape
+H 2.156   NGC4442 Galaxy        12:28.1 + 9:48  4.6 10.5 Vir  "400"
+H 2.157   NGC4469 Galaxy        12:29.5 + 8:45  2.9 11.2 Vir  edge on
+H 2.158   NGC4519 Galaxy        12:33.5 + 8:39  3.5 11.8 Vir 
+H 2.159   NGC3681 Galaxy        11:26.5 +16:52  2.5 11.2 Leo 
+H 2.160   NGC3686 Galaxy        11:27.7 +17:13  2.8 11.3 Leo  = H 3.28 "400"
+H 2.161   NGC3801 Galaxy        11:40.3 +17:44  2.3 12.0 Leo 
+H 2.162   NGC3968 Galaxy        11:55.5 +11:58  2.7 11.8 Leo 
+H 2.163   NGC4193 Galaxy        12:13.9 +13:10  2.3 12.4 Vir 
+H 2.164   NGC4200 Galaxy        12:14.8 +12:11  1.5 13.0 Vir 
+H 2.165   NGC4206 Galaxy        12:15.3 +13:02  5.3 12.2 Vir  Member Virgo Group
+H 2.166   NGC4267 Galaxy        12:19.8 +12:48  3.7 10.9 Vir 
+H 2.167   NGC4387 Galaxy        12:25.7 +12:49  1.5 12.1 Vir 
+H 2.168   NGC4388 Galaxy        12:25.8 +12:40  5.7 11.0 Vir  edge on lens
+H 2.169   NGC4413 Galaxy        12:26.5 +12:37  2.2 12.2 Vir 
+H 2.170   NGC4425 Galaxy        12:27.2 +12:44  3.4 11.9 Vir  lens shaped
+H 2.171   NGC4431 Galaxy        12:27.5 +12:18  1.7 12.9 Vir  NGC 4440 group
+H 2.172   NGC4436 Galaxy        12:27.7 +12:19  1.9 13.1 Vir 
+H 2.173   NGC4440 Galaxy        12:27.9 +12:18  2.0 11.8 Vir  NGC 4440 group
+H 2.174   NGC4461 Galaxy        12:29.0 +13:11  3.7 11.2 Vir  = H 2.122 Markarian's chain
+H 2.175   NGC4531 Galaxy        12:34.3 +13:05  3.5 11.4 Vir 
+H 2.176   NGC4638 Galaxy        12:42.8 +11:26  2.9 11.2 Vir  = H 2.70 with NGC4637
+H 2.177   NGC5600 Galaxy        14:23.8 +14:38  1.3 12.1 Boo 
+H 2.178   NGC5953 Galaxy        15:34.5 +15:12  1.7 12.1 Ser 
+H 2.179   NGC5954 Galaxy        15:34.6 +15:12  1.0 12.1 Ser 
+H 2.180   NGC4454 Galaxy        12:28.8 - 1:56  2.3 11.9 Vir 
+H 2.181   NGC4684 Galaxy        12:47.3 - 2:43  2.6 11.4 Vir 
+H 2.182   NGC4691 Galaxy        12:48.2 - 3:20  2.6 11.1 Vir 
+H 2.183   NGC4593 Galaxy        12:39.7 - 5:21  3.9 10.9 Vir 
+H 2.184   NGC4602 Galaxy        12:40.6 - 5:08  3.0 11.5 Vir 
+H 2.185   NGC4989 Galaxy        13:09.4 - 5:25  1.7 12.8 Vir 
+H 2.186   NGC4775 Galaxy        12:53.8 - 6:37  2.0 11.1 Vir  face on spiral
+H 2.187   NGC4786 Galaxy        12:54.5 - 6:52  1.1 11.7 Vir 
+H 2.188   NGC4951 Galaxy        13:05.1 - 6:30  3.2 11.9 Vir  Nearly edge on
+H 2.189   NGC4981 Galaxy        13:08.8 - 6:47  2.7 11.3 Vir 
+H 2.190   NGC4928 Galaxy        13:03.0 - 8:05  1.2 12.5 Vir  = H 3.760
+H 2.191   NGC4933A Galaxy       13:03.9 -11:30  1.3 11.7 Vir  interacting w/ 4933B
+H 2.192   NGC5861 Galaxy        15:09.3 -11:19  2.8 11.6 Lib 
+H 2.193   NGC5077 Galaxy        13:19.5 -12:39  1.9 11.3 Vir 
+H 2.194   NGC5548 Galaxy        14:18.0 +25:08  1.6 12.6 Boo 
+H 2.195   NGC6287 Globular clst 17:05.2 -22:42  5.1  9.2 Oph  "400"
+H 2.196   NGC5694 Globular clst 14:39.6 -26:32  3.6 10.2 Hya  "400"
+H 2.197   NGC6544 Globular clst 18:07.3 -25:00  8.9  8.3 Sgr  "400"
+H 2.198   NGC6540 Open cluster  18:06.3 -27:49  0.8 14.6 Sgr  "400"
+H 2.199   NGC6517 Globular clst 18:01.8 - 8:58  4.3 10.3 Oph  "400"
+H 2.200   NGC6528 Globular clst 18:04.8 -30:03  3.7  9.5 Sgr  "400"
+H 2.201   NGC6569 Globular clst 18:13.6 -31:50  5.8  8.7 Sgr  "400"
+H 2.202   NGC6847 Nonexistent   19:57.0 +29:20           Vul 
+H 2.203   NGC7013 Galaxy        21:03.6 +29:54  4.8 11.3 Cyg 
+H 2.204   NGC6629 Planetary neb 18:25.7 -23:12   .3 11.6 Sgr  "400"
+H 2.205   NGC6642 Globular clst 18:31.9 -23:29  4.5  8.8 Sgr  "400"
+H 2.206   NGC6979 Nebula        20:51.0 +32:09  7.0  NIU Cyg  Veil
+H 2.207   NGC7217 Galaxy        22:07.9 +31:22  3.7 10.2 Peg  "400"
+H 2.208   NGC7741 Galaxy        23:43.9 +26:05  4.0 11.3 Peg 
+H 2.209   NGC214 Galaxy         0:41.5 +25:30  2.1 12.2 And 
+H 2.210   NGC315 Galaxy         0:57.8 +30:21  3.0 11.2 Psc 
+H 2.211   NGC972 Galaxy         2:34.2 +29:19  3.6 11.3 Ari  coarse spiral
+H 2.212   NGC7457 Galaxy        23:01.0 +30:09  4.1 11.2 Peg 
+H 2.213   NGC7753 Galaxy        23:47.1 +29:29  3.2 12.0 Peg 
+H 2.214   NGC296 Galaxy         0:55.4 +31:40  1.1 15.0 Psc 
+H 2.215   NGC379 Galaxy         1:07.3 +32:31  1.8 12.6 Psc 
+H 2.216   NGC380 Galaxy         1:07.3 +32:29  1.6 12.5 Psc  NGC 383 group
+H 2.217   NGC383 Galaxy         1:07.4 +32:25  2.3 11.9 Psc  NGC 383 group
+H 2.218   NGC392 Galaxy         1:08.4 +33:07  1.2 12.7 Psc  Brightest of 3
+H 2.219   NGC407 Galaxy         1:10.6 +33:07  1.8 13.4 Psc 
+H 2.220   NGC410 Galaxy         1:11.0 +33:09  2.3 11.5 Psc 
+H 2.221   NGC736 Galaxy         1:56.7 +33:03  2.0 12.2 Tri  with NGC 736
+H 2.221   NGC740 Galaxy         1:56.9 +33:01  1.6 14.0 Tri  with NGC 740
+H 2.222   NGC750 Galaxy         1:57.5 +33:13  1.6 12.2 Tri  Contact pair
+H 2.223   NGC777 Galaxy         2:00.2 +31:26  2.8 11.4 Tri  with NGC 778
+H 2.224   NGC404 Galaxy         1:09.4 +35:43  4.4 10.1 And  "400" Near Beta And
+H 2.225   NGC890 Galaxy         2:22.0 +33:16  2.9 11.2 Tri 
+H 2.226   NGC7678 Galaxy        23:28.5 +22:25  2.3 11.8 Peg 
+H 2.227   NGC7817 Galaxy         0:04.0 +20:45  3.7 11.8 Peg 
+H 2.228   NGC678 Galaxy         1:49.4 +22:00  4.6 12.2 Ari  NGC 697 group
+H 2.229   NGC680 Galaxy         1:49.8 +21:58  2.7 11.9 Ari 
+H 2.230   NGC7769 Galaxy        23:51.1 +20:09  1.6 12.0 Peg  NGC 7769 group
+H 2.231   NGC7771 Galaxy        23:51.4 +20:07  2.3 12.2 Peg  NGC 7769 group
+H 2.232   NGC7798 Galaxy        23:59.4 +20:45  1.5 13 p Peg 
+H 2.233   NGC7332 Galaxy        22:37.4 +23:48  3.7 11.1 Peg 
+H 2.234   NGC7339 Galaxy        22:37.8 +23:47  2.6 12.2 Peg 
+H 2.235   NGC7556 Galaxy        23:15.9 - 2:20  2.4 11.7 Psc 
+H 2.236   NGC7585 Galaxy        23:18.0 - 4:39  2.3 11.7 Aqr 
+H 2.237   NGC958 Galaxy         2:30.7 - 2:57  2.8 12.2 Cet  edge-on spiral
+H 2.238   NGC1003 Galaxy         2:39.3 +40:52  5.4 11.5 Per  = H 3.198
+H 2.239   NGC1161 Galaxy         3:01.2 +44:55  2.8 11.0 Per 
+H 2.240   NGC7814 Galaxy         0:03.3 +16:09  6.0 10.6 Peg  Nearly edge-on
+H 2.241   NGC57 Galaxy         0:15.4 +17:18  2.6 11.6 Psc  = H 2.243
+H 2.242   NGC7681 Galaxy        23:28.6 +17:16  1.4 13.7 Peg 
+H 2.243   NGC57 Galaxy         0:15.4 +17:18  2.6 11.6 Psc  = H 2.241
+H 2.244   NGC7711 Galaxy        23:35.7 +15:18  4.1 12.2 Peg 
+H 2.245   NGC234 Galaxy         0:43.4 +14:20  1.6 12.5 Psc 
+H 2.246   NGC877 Galaxy         2:18.0 +14:33  2.3 11.8 Ari  NGC 877 group
+H 2.247   NGC7177 Galaxy        22:00.7 +17:44  3.3 11.2 Peg 
+H 2.248   NGC7280 Galaxy        22:26.5 +16:09  1.7 12.1 Peg 
+H 2.249   NGC7454 Galaxy        23:01.1 +16:23  1.8 11.8 Peg  NGC 7448 group
+H 2.250   NGC7625 Galaxy        23:20.5 +17:14  1.4 12.1 Peg 
+H 2.251   NGC7448 Galaxy        23:00.1 +15:59  2.5 11.7 Peg  "400" NGC 7448 group
+H 2.252   NGC514 Galaxy         1:24.1 +12:55  3.5 11.9 Psc 
+H 2.253   NGC660 Galaxy         1:43.0 +13:38  9.1 10.8 Psc 
+H 2.254   NGC1134 Galaxy         2:53.6 +13:00  2.3 12.1 Ari 
+H 2.255   NGC7742 Galaxy        23:44.3 +10:46  2.0 11.6 Peg 
+H 2.256   NGC7743 Galaxy        23:44.4 + 9:56  2.3 11.5 Peg 
+H 2.257   NGC95 Galaxy         0:22.2 +10:30  1.9 12.6 Psc  asym uneven arms
+H 2.258   NGC1232 Galaxy         3:09.8 -20:35  7.8  9.9 Eri  face-on spiral
+H 2.259   NGC2577 Galaxy         8:22.7 +22:33  1.8 12.4 Cnc 
+H 2.260   NGC2916 Galaxy         9:35.0 +21:42  2.6 12.0 Leo  asym,radial filaments
+H 2.261   NGC7137 Galaxy        21:48.2 +22:10  1.5 12.4 Peg 
+H 2.262   NGC1371 Galaxy         3:35.0 -24:56  4.9 10.6 For  = NGC 1367
+H 2.263   NGC1385 Galaxy         3:37.5 -24:30  3.0 11.2 For 
+H 2.264   NGC2139 Galaxy         6:01.1 -23:40  3.0 11.4 Lep 
+H 2.265   NGC2196 Galaxy         6:12.2 -21:48  2.8 11.2 Lep 
+H 2.266   NGC2613 Galaxy         8:33.4 -22:58  7.2 10.4 Pyx  "400" Nearly edge-on
+H 2.267   NGC1415 Galaxy         3:41.0 -22:34  3.2 11.5 Eri 
+H 2.268   NGC3078 Galaxy         9:58.4 -26:56  3.0 11.0 Hya 
+H 2.269   NGC3585 Galaxy        11:13.3 -26:45  2.9 10.0 Hya 
+H 2.270   NGC718 Galaxy         1:53.2 + 4:12  2.8 11.7 Psc  2 smooth arms
+H 2.271   NGC741 Galaxy         1:56.4 + 5:38  3.2 11.3 Psc  Brightest in group
+H 2.272   NGC742 Galaxy         1:56.5 + 5:38   .2 14.3 Psc  Compact
+H 2.273   NGC1070 Galaxy         2:43.3 + 4:58  2.6 11.9 Cet 
+H 2.274   NGC1153 Galaxy         2:58.1 + 3:22  1.3 12.3 Cet 
+H 2.275   NGC2967 Galaxy         9:42.1 + 0:20  3.0 11.6 Sex 
+H 2.276   NGC4045 Galaxy        12:02.7 + 1:59  2.8 11.8 Vir 
+H 2.277   NGC4073 Galaxy        12:04.5 + 1:54  2.1 11.4 Vir 
+H 2.278   NGC955 Galaxy         2:30.6 - 1:07  3.0 12.0 Cet 
+H 2.279   NGC1507 Galaxy         4:04.5 - 2:11  3.4 12.2 Eri 
+H 2.280   NGC2695 Galaxy         8:54.5 - 3:05  1.6 11.9 Hya 
+H 2.281   NGC2708 Galaxy         8:56.1 - 3:22  2.6 12.0 Hya 
+H 2.282   NGC615 Galaxy         1:35.1 - 7:20  4.0 11.5 Cet  "400"
+H 2.283   NGC636 Galaxy         1:39.1 - 7:31  2.3 11.3 Cet 
+H 2.284   NGC1035 Galaxy         2:39.5 - 8:08  2.2 12.2 Cet  Nearly edge-on spiral
+H 2.285   NGC1208 Galaxy         3:06.2 - 9:32  1.9 12.6 Eri 
+H 2.286   NGC1241 Galaxy         3:11.3 - 8:55  2.8 12.0 Eri 
+H 2.287   NGC1299 Galaxy         3:20.1 - 6:17  1.2 13.6 Eri 
+H 2.288   NGC1376 Galaxy         3:37.1 - 5:03  2.2 12.1 Eri 
+H 2.289   NGC1888 Galaxy         5:22.5 -11:30  3.0 12.0 Lep 
+H 2.290   NGC1357 Galaxy         3:33.2 -13:40  3.6 11.5 Eri 
+H 2.291   NGC1421 Galaxy         3:42.5 -13:29  3.6 11.4 Eri  Nearly edge-on
+H 2.292   NGC1832 Galaxy         5:12.1 -15:41  2.8 11.4 Lep 
+H 2.293   NGC3091 Galaxy        10:00.2 -19:38  3.5 11.0 Hya 
+H 2.294   NGC3957 Galaxy        11:54.0 -19:34  3.1 12.0 Crt  edge-on lenticular
+H 2.295   NGC4024 Galaxy        11:58.5 -18:21  1.7 11.9 Crv 
+H 2.296   NGC4027 Galaxy        11:59.5 -19:16  3.8 11.2 Crv  "400"
+H 2.297   NGC5247 Galaxy        13:38.1 -17:53  5.2 10.1 Vir 
+H 2.298   NGC4727 Galaxy        12:51.0 -14:20  1.1 13.0 Crv 
+H 2.299   NGC4877 Galaxy        13:00.4 -15:17  1.9 12.4 Vir 
+H 2.300   NGC4899 Galaxy        13:00.9 -13:57  1.9 11.9 Vir 
+H 2.301   NGC4984 Galaxy        13:09.0 -15:31  3.2 11.3 Vir 
+H 2.302   NGC2481 Galaxy         7:57.3 +23:46  1.5 12.9 Gem  distorted
+H 2.303   NGC2554 Galaxy         8:17.9 +23:28  3.2 12.0 Cnc  faint asym disc
+H 2.304   NGC2316 Nebula         6:59.7 - 7:46  4.0      Mon 
+H 2.305   NGC3122 Galaxy        10:06.5 - 6:32  1.8  NIU Sex 
+H 2.306   NGC5306 Galaxy        13:49.1 - 7:12  1.3 12.1 Vir 
+H 2.307   NGC5324 Galaxy        13:52.1 - 6:03  2.1 11.7 Vir 
+H 2.308   NGC5343 Galaxy        13:54.0 - 7:34  1.7 12.7 Vir 
+H 2.309   NGC5426 Galaxy        14:03.4 - 6:04  2.3 12.1 Vir   2' S of 5427
+H 2.310   NGC5427 Galaxy        14:03.4 - 6:02  2.6 11.4 Vir   2' N of 5426
+H 2.311   NGC2986 Galaxy         9:44.3 -21:17  4.1 10.6 Hya 
+H 2.312   NGC5068 Galaxy        13:18.9 -21:02  7.1  9.6 Vir 
+H 2.313   NGC5084 Galaxy        13:20.3 -21:50 11.0 10.4 Vir  Nearly edge on
+H 2.314   NGC5134 Galaxy        13:25.3 -21:08  2.8 11.2 Vir 
+H 2.315   NGC2592 Galaxy         8:27.1 +25:58  1.7 12.3 Cnc  brightest of 3
+H 2.316   NGC2371 Planetary neb  7:25.6 +29:29   .9 11.3 Gem  "400" with NGC2372
+H 2.317   NGC2372 Planetary neb  7:25.6 +29:30   .9 11.3 Gem  "400" with NGC2371
+H 2.318   NGC2608 Galaxy         8:35.3 +28:28  2.3 12.3 Cnc  asym arms
+H 2.319   NGC2619 Galaxy         8:37.6 +28:43  2.6 12.4 Cnc  many very thin arms
+H 2.320   NGC3106 Galaxy        10:03.9 +31:11  1.8 12.4 LMi 
+H 2.321   NGC4136 Galaxy        12:09.3 +29:56  3.8 11.0 Com 
+H 2.322   NGC4278 Galaxy        12:20.1 +29:17  3.5 10.2 Com  = H 1.90 "400"
+H 2.323   NGC4283 Galaxy        12:20.3 +29:19  1.1 12.1 Com  = H 2.377
+H 2.324   NGC4317 Single star   12:22.6 +31:03           Com 
+H 2.325   NGC4525 Galaxy        12:33.8 +30:17  2.7 12.2 Com 
+H 2.326   NGC4676A Galaxy       12:46.1 +30:44  2.0 13.0 Com  Mice Galaxy
+H 2.327   NGC5089 Galaxy        13:19.6 +30:15  1.9 13.0 Com 
+H 2.328   NGC5127 Galaxy        13:23.8 +31:34  2.3 11.9 CVn 
+H 2.329   NGC5623 Galaxy        14:27.2 +33:14  1.6 12.5 Boo 
+H 2.330   NGC5653 Galaxy        14:30.2 +31:13  1.6 12.2 Boo 
+H 2.331   NGC5607 Galaxy        14:19.4 +71:35   .8 13.4 UMi 
+H 2.332   NGC5832 Galaxy        14:57.8 +71:41  3.4 12.1 UMi 
+H 2.333   NGC3065 Galaxy        10:01.9 +72:10  1.8 12.5 UMa 
+H 2.334   NGC3066 Galaxy        10:02.2 +72:07  1.1 12.9 UMa  = H 2.909 ?
+H 2.335   NGC3403 Galaxy        10:53.9 +73:41  3.2 12.2 Dra 
+H 2.336   NGC3516 Galaxy        11:06.8 +72:34  2.1 11.7 UMa 
+H 2.337   NGC3562 Galaxy        11:12.9 +72:53  1.7 12.2 Dra 
+H 2.338   NGC3629 Galaxy        11:20.5 +26:58  1.9 12.1 Leo 
+H 2.339   NGC3689 Galaxy        11:28.2 +25:40  1.5 12.3 Leo 
+H 2.340   NGC3798 Galaxy        11:40.2 +24:43  2.6 12.1 Leo
+H 2.341   NGC3826 Galaxy        11:42.4 +26:30   .9 13.4 Leo 
+H 2.342   NGC3912 Galaxy        11:50.1 +26:29  1.6 12.4 Leo  "400"
+H 2.343   NGC4555 Galaxy        12:35.7 +26:31  1.4 12.1 Com 
+H 2.344   NGC4747 Galaxy        12:51.8 +25:47  3.2 12.3 Com 
+H 2.345   NGC4789 Galaxy        12:54.3 +27:04  1.4 12.1 Com 
+H 2.346   NGC4819 Galaxy        12:56.5 +26:59  1.0 13.2 Com 
+H 2.347   NGC3248 Galaxy        10:27.8 +22:50  2.5 12.4 Leo 
+H 2.348   NGC3327 Galaxy        10:40.0 +24:05  1.3 13.4 LMi 
+H 2.349   NGC3701 Galaxy        11:29.4 +24:05  1.8 12.9 Leo 
+H 2.350   NGC3710 Galaxy        11:31.0 +22:46  1.0 13.1 Leo 
+H 2.351   NGC3728 Galaxy        11:33.2 +24:27   .8 14.8 Leo 
+H 2.352   NGC3772 Galaxy        11:37.8 +22:42  1.1 13.5 Leo 
+H 2.353   NGC4162 Galaxy        12:11.9 +24:07  2.3 12.2 Com 
+H 2.354   NGC4213 Galaxy        12:15.7 +23:59  1.7 12.5 Com 
+H 2.355   NGC4455 Galaxy        12:28.7 +22:49  2.5 12.3 Com  Nearly edge-on spiral
+H 2.356   NGC5016 Galaxy        13:12.1 +24:06  1.7 12.8 Com 
+H 2.357   NGC5637 Galaxy        14:28.9 +23:11   .9 13.8 Boo 
+H 2.358   NGC3274 Galaxy        10:32.3 +27:40  1.9 12.8 Leo 
+H 2.359   NGC3277 Galaxy        10:32.9 +28:31  2.2 11.7 LMi  "400"
+H 2.360   NGC3380 Galaxy        10:48.2 +28:36  1.5 12.5 LMi 
+H 2.361   NGC3400 Galaxy        10:50.8 +28:28  1.1 13.2 LMi 
+H 2.362   NGC3414 Galaxy        10:51.3 +27:59  3.0 11.0 LMi  "400"
+H 2.363   NGC3418 Galaxy        10:51.3 +28:07  1.1 13.2 LMi 
+H 2.364   NGC3451 Galaxy        10:54.4 +27:14  1.7 13.0 LMi 
+H 2.365   NGC3510 Galaxy        11:03.7 +28:53  3.8 12.2 LMi 
+H 2.366   NGC3512 Galaxy        11:04.0 +28:02  1.7 12.4 LMi 
+H 2.367   NGC3713 Galaxy        11:31.6 +28:09  1.2 13.2 Leo 
+H 2.368   NGC4008 Galaxy        11:58.3 +28:12  2.4 12.0 Leo 
+H 2.369   NGC4017 Galaxy        11:58.7 +27:26  2.1 12.2 Com 
+H 2.370   NGC4104 Galaxy        12:06.6 +28:10  2.6 12.1 Com 
+H 2.371   NGC4134 Galaxy        12:09.2 +29:11  2.1 12.8 Com  NGC 4134 group
+H 2.372   NGC4173 Galaxy        12:12.3 +29:11  4.8 13 p Com  NOT IN URANOMETRIA
+H 2.373   NGC4185 Galaxy        12:13.4 +28:31  2.7 12.1 Com 
+H 2.374   NGC4196 Galaxy        12:14.4 +28:25  1.5 12.8 Com 
+H 2.375   NGC4209 Nonexistent   12:15.5 +28:31           Com 
+H 2.376   NGC4275 Galaxy        12:19.9 +27:37   .7 13.1 Com 
+H 2.377   NGC4283 Galaxy        12:20.3 +29:19  1.1 12.1 Com  = H 2.323
+H 2.378   NGC4310 Galaxy        12:22.4 +29:12  2.1 12.2 Com  = NGC 4311
+H 2.379   NGC4375 Galaxy        12:25.0 +28:33  1.3 12.8 Com 
+H 2.380   NGC4556 Galaxy        12:35.8 +26:54  1.2 13.1 Com 
+H 2.381   NGC4692 Galaxy        12:47.9 +27:13  1.1 12.6 Com 
+H 2.382   NGC4798 Galaxy        12:55.0 +27:25   .9 13.2 Com 
+H 2.383   NGC4816 Galaxy        12:56.2 +27:45  1.3 12.8 Com 
+H 2.384   NGC4827 Galaxy        12:56.7 +27:11  1.4 12.9 Com 
+H 2.385   NGC4840 Galaxy        12:57.5 +27:37   .5 13.7 Com 
+H 2.386   NGC4839 Galaxy        12:57.4 +27:30  4.1 12.1 Com 
+H 2.387   NGC4841A Galaxy       12:57.5 +28:29  1.7 12.8 Com 
+H 2.388   NGC4869 Galaxy        12:59.4 +27:55   .6 13.8 Com 
+H 2.389   NGC4874 Galaxy        12:59.6 +27:58  2.4 11.7 Com 
+H 2.390   NGC4892 Galaxy        13:00.0 +26:54  1.5 13.9 Com 
+H 2.391   NGC4889 Galaxy        13:00.1 +27:58  2.8 11.5 Com 
+H 2.392   NGC4911 Galaxy        13:00.9 +27:47  1.2 12.8 Com 
+H 2.393   NGC4921 Galaxy        13:01.4 +27:53  2.3 12.2 Com 
+H 2.394   NGC4923 Galaxy        13:01.5 +27:51   .9 13.7 Com 
+H 2.395   NGC4944 Galaxy        13:03.8 +28:11  1.5 12.9 Com 
+H 2.396   NGC4952 Galaxy        13:05.0 +29:08  1.3 12.4 Com 
+H 2.397   NGC4957 Galaxy        13:05.2 +27:34  1.1 13.0 Com 
+H 2.398   NGC4961 Galaxy        13:05.8 +27:44  1.5 13.6 Com 
+H 2.399   NGC5958 Galaxy        15:34.7 +28:40  1.0 12.6 CrB 
+H 2.400   NGC5910 Galaxy        15:19.3 +20:55   .9 13.6 Ser 
+H 2.401   NGC5937 Galaxy        15:30.8 - 2:49  2.0 12.3 Ser 
+H 2.402   NGC6118 Galaxy        16:21.8 - 2:17  4.6 11.7 Ser  "400"
+H 2.403   NGC3947 Galaxy        11:53.4 +20:45  1.3 13.2 Leo 
+H 2.404   NGC4032 Galaxy        12:00.6 +20:04  1.7 12.2 Com 
+H 2.405   NGC4158 Galaxy        12:11.2 +20:11  1.6 12.1 Com 
+H 2.406   NGC4336 Galaxy        12:23.6 +19:27  1.5 12.5 Com 
+H 2.407   NGC4561 Galaxy        12:36.1 +19:20  1.3 12.5 Com 
+H 2.408   NGC3897 Galaxy        11:49.0 +35:01  1.9 12.9 UMa 
+H 2.409   NGC4190 Galaxy        12:13.7 +36:38  1.6 13.3 CVn 
+H 2.410   NGC4534 Galaxy        12:34.1 +35:31  4.1 12.3 CVn 
+H 2.411   NGC4619 Galaxy        12:41.7 +35:04  1.4 12.7 CVn 
+H 2.412   NGC4711 Galaxy        12:48.9 +35:21  1.4 13.4 CVn 
+H 2.413   NGC4956 Galaxy        13:05.1 +35:11  1.5 12.4 CVn 
+H 2.414   NGC5014 Galaxy        13:11.5 +36:17  1.6 12.8 CVn 
+H 2.415   NGC5352 Galaxy        13:53.6 +36:09  1.2 13.0 CVn 
+H 2.416   NGC5440 Galaxy        14:03.0 +34:46  2.9 12.3 CVn  NGC 5444 Group
+H 2.417   NGC5444 Galaxy        14:03.4 +35:08  2.5 11.8 CVn  NGC 5444 Group
+H 2.418   NGC5533 Galaxy        14:16.1 +35:21  3.4 11.8 Boo 
+H 2.419   NGC5544 Galaxy        14:17.0 +36:34   .9 13.4 Boo 
+H 2.420   NGC5614 Galaxy        14:24.1 +34:52  2.7 11.7 Boo 
+H 2.421   NGC5656 Galaxy        14:30.4 +35:19  1.6 11.8 Boo 
+H 2.422   NGC5675 Galaxy        14:32.6 +36:17  2.4 12.7 Boo 
+H 2.423   NGC5695 Galaxy        14:37.3 +36:34  1.5 12.8 Boo 
+H 2.424   NGC5347 Galaxy        13:53.3 +33:29  1.6 12.6 CVn 
+H 2.425   NGC5990 Galaxy        15:46.4 + 2:24  1.5 12.4 Ser 
+H 2.426   NGC6962 Galaxy        20:47.3 + 0:19  3.0 12.0 Aqr  with 6959,61,63,64,67
+H 2.427   NGC6964 Galaxy        20:47.4 + 0:18  1.9 12.7 Aqr  with 6959,61,62,63,67
+H 2.428   NGC7311 Galaxy        22:34.2 + 5:35  1.6 12.5 Peg 
+H 2.429   NGC7537 Galaxy        23:14.6 + 4:30  1.9 13.2 Psc 
+H 2.430   NGC7541 Galaxy        23:14.7 + 4:32  3.1 11.7 Psc 
+H 2.431   NGC7600 Galaxy        23:18.9 - 7:35  3.0 11.9 Aqr 
+H 2.432   NGC7721 Galaxy        23:38.8 - 6:31  3.3 11.6 Aqr 
+H 2.433   NGC337 Galaxy         0:59.8 - 7:35  2.8 11.6 Cet  Coarse spiral pattern
+H 2.434   NGC357 Galaxy         1:03.4 - 6:20  2.6 11.8 Cet 
+H 2.435   NGC788 Galaxy         2:01.1 - 6:49  1.8 12.3 Cet 
+H 2.436   NGC881 Galaxy         2:18.7 - 6:35  2.9 12.4 Cet 
+H 2.437   NGC883 Galaxy         2:19.0 - 6:45  1.6 12.4 Cet 
+H 2.438   NGC895 Galaxy         2:21.6 - 5:31  3.6 11.8 Cet  NGC 894 p/o NGC 895
+H 2.439   NGC7619 Galaxy        23:20.2 + 8:12  2.8 11.1 Peg 
+H 2.440   NGC7626 Galaxy        23:20.7 + 8:13  2.4 11.1 Peg 
+H 2.441   NGC7634 Galaxy        23:21.6 + 8:52  1.2 12.6 Peg 
+H 2.442   NGC7364 Galaxy        22:44.5 - 0:07  1.6 12.6 Aqr 
+H 2.443   NGC7391 Galaxy        22:50.7 - 1:31  1.8 12.0 Aqr 
+H 2.444   NGC227 Galaxy         0:42.6 - 1:32  1.7 12.2 Cet 
+H 2.445   NGC245 Galaxy         0:46.1 - 1:44  1.2 12.2 Cet  Peculiar
+H 2.446   NGC271 Galaxy         0:50.8 - 1:53  2.3 12.0 Cet 
+H 2.447   NGC430 Galaxy         1:13.1 - 0:15  1.8 12.5 Cet  NGC 430 group
+H 2.448   NGC545 Galaxy         1:26.0 - 1:20  3.0 12.2 Cet  double system
+H 2.449   NGC547 Galaxy         1:26.0 - 1:21  1.7 12.3 Cet  double system
+H 2.450   NGC7443 Galaxy        23:00.1 -12:48  1.5 12.6 Aqr  with NGC7444
+H 2.451   NGC7444 Galaxy        23:00.1 -12:50  1.4 12.8 Aqr  with NGC7443
+H 2.452   NGC210 Galaxy         0:40.6 -13:52  5.4 10.9 Cet 
+H 2.453   NGC7393 Galaxy        22:51.7 - 5:33  2.0 12.6 Aqr 
+H 2.454   NGC7576 Galaxy        23:17.4 - 4:44  1.5 13.0 Aqr 
+H 2.455   NGC1417 Galaxy         3:42.0 - 4:42  2.8 12.0 Eri 
+H 2.456   NGC1418 Galaxy         3:42.3 - 4:44   .9 13.6 Eri 
+H 2.457   NGC1665 Galaxy         4:48.2 - 5:25  1.9 13.2 Eri 
+H 2.458   NGC1440 Galaxy         3:45.0 -18:16  2.3 11.5 Eri  = NGC1442?
+H 2.459   NGC1452 Galaxy         3:45.4 -18:38  2.5 12.1 Eri  = NGC 1455
+H 2.460   NGC1461 Galaxy         3:48.5 -16:24  3.3 11.7 Eri  Lens-shaped
+H 2.461   NGC521 Galaxy         1:24.6 + 1:44  3.5 11.7 Cet 
+H 2.462   NGC533 Galaxy         1:25.5 + 1:46  4.1 11.4 Cet  many S galaxies near
+H 2.463   NGC550 Galaxy         1:26.7 + 2:01  1.8 12.7 Cet 
+H 2.464   NGC1550 Galaxy         4:19.6 + 2:26  1.7 12.0 Tau 
+H 2.465   NGC1090 Galaxy         2:46.6 - 0:15  3.8 11.9 Cet  NGC 1068 group
+H 2.466   NGC1087 Galaxy         2:46.4 - 0:30  3.5 11.0 Cet  NGC1068 group
+H 2.467   NGC7562 Galaxy        23:16.0 + 6:41  2.1 11.6 Psc 
+H 2.468   NGC7785 Galaxy        23:55.3 + 5:55  1.8 11.6 Psc 
+H 2.469   NGC7284 Galaxy        22:28.6 -24:51  2.2 11.9 Aqr 
+H 2.470   NGC1140 Galaxy         2:54.6 -10:02  1.4 12.5 Eri 
+H 2.471   NGC137 Galaxy         0:31.1 +10:11  1.6 12.8 Psc 
+H 2.472   NGC255 Galaxy         0:47.8 -11:28  3.1 11.8 Cet 
+H 2.473   NGC599 Galaxy         1:32.8 -12:11  1.7 13.7 Cet 
+H 2.474   NGC873 Galaxy         2:16.6 -11:20  1.7 12.4 Cet 
+H 2.475   NGC1200 Galaxy         3:03.8 -11:59  2.8 12.7 Eri 
+H 2.476   NGC7309 Galaxy        22:34.3 -10:21  1.6 12.5 Aqr 
+H 2.477   NGC7371 Galaxy        22:46.1 -11:00  2.1 12.1 Aqr  Faint outer ring
+H 2.478   NGC151 Galaxy         0:34.0 - 9:42  3.7 11.5 Cet 
+H 2.479   NGC191 Galaxy         0:39.0 - 9:00  1.5 13.3 Cet 
+H 2.480   NGC217 Galaxy         0:41.5 -10:02  2.5 12.7 Cet 
+H 2.481   NGC681 Galaxy         1:49.2 -10:26  2.8 11.8 Cet  like M104
+H 2.482   NGC833 Galaxy         2:09.3 -10:08  1.9 12.7 Cet 
+H 2.483   NGC835 Galaxy         2:09.4 -10:08  1.4 12.2 Cet  Contact with NGC 833
+H 2.484   NGC838 Galaxy         2:09.6 -10:09  1.7 12.8 Cet 
+H 2.485   NGC839 Galaxy         2:09.7 -10:11  1.8 13.0 Cet 
+H 2.486   NGC853 Galaxy         2:11.8 - 9:18  2.0 12.7 Cet 
+H 2.487   NGC945 Galaxy         2:28.6 -10:32  2.2 12.1 Cet 
+H 2.488   NGC1045 Galaxy         2:40.4 -11:18  2.2 12.1 Cet 
+H 2.489   NGC932 Galaxy         2:27.9 +20:19  1.9 14   Ari                                     
+H 2.490   NGC2770 Galaxy         9:09.6 +33:07  3.3 12.2 Lyn 
+H 2.491   NGC2968 Galaxy         9:43.2 +31:56  2.2 11.8 Leo 
+H 2.492   NGC3067 Galaxy         9:58.4 +32:22  2.5 11.7 Leo 
+H 2.493   NGC3413 Galaxy        10:51.3 +32:46  1.7 12.1 LMi  NGC 3395 group
+H 2.494   NGC3424 Galaxy        10:51.8 +32:54  2.5 12.4 LMi  NGC 3395 group
+H 2.495   NGC2906 Galaxy         9:32.2 + 8:27  1.4 12.7 Leo 
+H 2.496   NGC4233 Galaxy        12:17.1 + 7:37  2.0 11.9 Vir 
+H 2.497   NGC4434 Galaxy        12:27.5 + 8:09  1.3 12.2 Vir 
+H 2.498   NGC4470 Galaxy        12:29.6 + 7:49  1.3 12.1 Vir  = H 2.18
+H 2.499   NGC4492 Galaxy        12:31.0 + 8:05  1.9 12.6 Vir 
+H 2.500   NGC4535 Galaxy        12:34.3 + 8:12  6.8  9.8 Vir  "400" S-shaped spiral
+H 2.501   NGC682 Galaxy         1:49.0 -14:59  1.3 12.7 Cet 
+H 2.502   NGC1172 Galaxy         3:01.6 -14:50  2.2 12.0 Eri 
+H 2.503   NGC1199 Galaxy         3:03.6 -15:37  2.2 11.5 Eri  Brightest group
+H 2.504   NGC1209 Galaxy         3:06.0 -15:37  2.6 11.4 Eri 
+H 2.505   NGC2811 Galaxy         9:16.2 -16:19  2.7 11.3 Hya  "400"
+H 2.506   NGC2907 Galaxy         9:31.6 -16:44  2.1 11.7 Hya  Nearly edge-on
+H 2.507   NGC3508 Galaxy        11:02.9 -16:18  1.0 13.2 Crt 
+H 2.508   NGC4033 Galaxy        12:00.6 -17:51  2.2 11.8 Crv 
+H 2.509   NGC4050 Galaxy        12:02.9 -16:22  3.4 12.2 Crv 
+H 2.510   NGC5037 Galaxy        13:15.0 -16:35  2.2 12.2 Vir  Nearly edge on
+H 2.511   NGC5044 Galaxy        13:15.4 -16:23  3.0 10.8 Vir 
+H 2.512   NGC5049 Galaxy        13:16.0 -16:24  1.7 13.0 Vir 
+H 2.513   NGC5054 Galaxy        13:17.0 -16:38  4.8 10.9 Vir  "400" Three branch spiral
+H 2.514   NGC1620 Galaxy         4:36.6 - 0:09  2.9 12.3 Eri 
+H 2.515   NGC1635 Galaxy         4:40.1 - 0:33  1.5 12.4 Eri 
+H 2.516   NGC1713 Galaxy         4:58.9 - 0:30  2.2 12.7 Ori 
+H 2.517   NGC4904 Galaxy        13:01.0 - 0:02  2.2 12.0 Vir 
+H 2.518   NGC4227 Galaxy        12:16.5 +33:31  1.6 12.7 CVn 
+H 2.519   NGC4229 Galaxy        12:16.7 +33:34  1.2 13.2 CVn 
+H 2.520   NGC2765 Galaxy         9:07.6 + 3:23  1.7 12.1 Hya 
+H 2.521   NGC3611 Galaxy        11:17.5 + 4:33  2.5 12.2 Leo   = NGC3604?
+H 2.522   NGC1636 Galaxy         4:40.7 - 8:36  1.3 12.0 Eri 
+H 2.523   NGC1646 Galaxy         4:44.3 - 8:33      13.0 Eri 
+H 2.524   NGC1618 Galaxy         4:36.1 - 3:09  2.8 12.6 Eri 
+H 2.525   NGC1638 Galaxy         4:41.6 - 1:49  2.5 12.1 Eri 
+H 2.526   NGC1653 Galaxy         4:45.8 - 2:25  1.7 12.0 Eri 
+H 2.527   NGC1682 Galaxy         4:52.3 - 3:06  1.0 11.8 Ori 
+H 2.528   NGC1684 Galaxy         4:52.5 - 3:06  2.3 11.7 Ori 
+H 2.529   NGC2721 Galaxy         8:58.9 - 4:46  2.6 11.7 Hya 
+H 2.530   NGC4376 Galaxy        12:25.3 + 4:56      14 p Vir  Not in Uranometria
+H 2.531   NGC4480 Galaxy        12:30.4 + 4:15  2.3 12.4 Vir 
+H 2.532   NGC4630 Galaxy        12:42.5 + 3:58  1.6 12.7 Vir 
+H 2.533   NGC5300 Galaxy        13:48.3 + 3:57  3.5 11.4 Vir  face on spiral
+H 2.534   NGC5364 Galaxy        13:56.2 + 5:01  6.6 10.5 Vir  "400" sBN Galaxy
+H 2.535   NGC4771 Galaxy        12:53.4 + 1:16  3.7 12.3 Vir  edge on
+H 2.536   NGC4845 Galaxy        12:58.0 + 1:35  4.8 11.2 Vir  "400" edge on
+H 2.537   NGC4999 Galaxy        13:09.6 + 1:40  2.1 11.8 Vir 
+H 2.538   NGC5740 Galaxy        14:44.4 + 1:41  3.1 11.9 Vir 
+H 2.539   NGC5806 Galaxy        15:00.0 + 1:54  2.7 11.7 Vir  NGC 5846 group
+H 2.540   NGC5831 Galaxy        15:04.1 + 1:13  2.0 11.5 Vir 
+H 2.541   NGC5839 Galaxy        15:05.5 + 1:38  1.2 12.7 Vir  NGC 5846 group
+H 2.542   NGC5838 Galaxy        15:05.4 + 2:06  3.8 10.9 Vir  NGC 5846 group
+H 2.543   NGC5850 Galaxy        15:07.1 + 1:33  4.6 10.8 Vir  NGC 5846 group
+H 2.544   NGC5854 Galaxy        15:07.8 + 2:34  2.2 11.9 Vir  NGC 5846 group
+H 2.545   NGC5869 Not documnted 15:09.9 + 0:28      13 p Vir  Not in Uranometria
+H 2.546   NGC2872 Galaxy         9:25.7 +11:26  1.8 11.9 Leo  = H 2.57
+H 2.547   NGC2874 Galaxy         9:25.8 +11:26  2.2 12.5 Leo  = H 2.58 disturbed
+H 2.548   NGC4129 Galaxy        12:08.9 - 9:02  2.3 12.5 Vir  edge on barred spiral
+H 2.549   NGC4818 Galaxy        12:56.8 - 8:31  3.4 11.1 Vir 
+H 2.550   NGC3636 Galaxy        11:20.4 -10:17  1.7 12.4 Crt 
+H 2.551   NGC3637 Galaxy        11:20.7 -10:16  1.7 12.7 Crt 
+H 2.552   NGC3732 Galaxy        11:34.2 - 9:51  1.4 12.5 Crt 
+H 2.553   NGC3892 Galaxy        11:48.0 -10:58  3.4 11.5 Crt 
+H 2.554   NGC2507 Galaxy         8:01.6 +15:43  1.6 12.2 Cnc 
+H 2.555   NGC2889 Galaxy         9:27.2 -11:38  2.0 11.8 Hya 
+H 2.556   NGC2935 Galaxy         9:36.7 -21:08  4.3 11.1 Hya 
+H 2.557   NGC2718 Galaxy         8:58.9 + 6:18  2.1 11.8 Hya 
+H 2.558   NGC4658 Galaxy        12:44.6 -10:05  1.3 12.5 Vir 
+H 2.559   NGC4759 Galaxy        12:53.1 - 9:11  1.7 13.0 Vir 
+H 2.560   NGC4790 Galaxy        12:54.9 -10:15  1.4 12.1 Vir 
+H 2.561   NGC4939 Galaxy        13:04.2 -10:20  4.3 11.3 Vir  Well defined spiral
+H 2.563   NGC4825 Galaxy        12:57.2 -13:40  2.0 12.1 Vir 
+H 2.564   NGC2778 Galaxy         9:12.3 +35:01  1.4 12.4 Lyn  brightest in group
+H 2.565   NGC3381 Galaxy        10:48.4 +34:42  2.1 11.7 LMi 
+H 2.566   NGC5078 Galaxy        13:19.8 -27:24  4.8 10.6 Hya  Nearly edge-on
+H 2.567   NGC5101 Galaxy        13:21.8 -27:26  6.0 10.4 Hya 
+H 2.568   NGC4270 Galaxy        12:19.8 + 5:28  1.7 12.2 Vir 
+H 2.569   NGC4273 Galaxy        12:19.9 + 5:21  2.3 11.9 Vir  "400"
+H 2.570   NGC4281 Galaxy        12:20.4 + 5:23  2.5 11.3 Vir  = H 2.573 (?) "400"
+H 2.571   NGC4277 Galaxy        12:20.1 + 5:21   .8 13.4 Vir 
+H 2.572   NGC4300 Galaxy        12:21.7 + 5:23  1.4 12.9 Vir 
+H 2.573   NGC4281 Galaxy        12:20.4 + 5:23  2.5 11.3 Vir  = H 2.570 (?) "400"
+H 2.574   NGC5668 Galaxy        14:33.4 + 4:27  3.2 11.5 Vir 
+H 2.575   NGC5701 Galaxy        14:39.2 + 5:22  4.1 10.9 Vir 
+H 2.576   NGC5770 Galaxy        14:53.4 + 3:57      13 p Vir  dwarf Not in Uranometria
+H 2.577   NGC4600 Galaxy        12:40.4 + 3:08  1.3 12.7 Vir 
+H 2.578   NGC4701 Galaxy        12:49.2 + 3:23  3.3 12.4 Vir 
+H 2.579   NGC5560 Galaxy        14:20.1 + 4:00  3.9 12.4 Vir 
+H 2.580   NGC5636 Galaxy        14:29.7 + 3:16  1.4 12.7 Vir  NGC 5638 group
+H 2.581   NGC5638 Galaxy        14:29.7 + 3:14  2.3 11.2 Vir 
+H 2.582   NGC5690 Galaxy        14:37.7 + 2:17  3.3 11.8 Vir 
+H 2.583   NGC6010 Galaxy        15:54.4 + 0:32  1.9 12.6 Ser 
+H 2.584   NGC6235 Globular clst 16:53.4 -22:11  5.0 10.2 Oph  "400"
+H 2.585   NGC5864 Galaxy        15:09.6 + 3:03  2.4 11.8 Vir  NGC 5846 group
+H 2.586   NGC6445 Planetary neb 17:49.2 -20:01   .6 11.2 Sgr  "400" Little Gem
+H 2.587   NGC6426 Globular clst 17:44.9 + 3:00  3.2 11.2 Oph  "400"
+H 2.588   NGC665 Galaxy         1:44.8 +10:26  2.4 12.1 Psc 
+H 2.589   NGC673 Galaxy         1:48.4 +11:32  2.1 12.6 Ari 
+H 2.590   NGC7458 Galaxy        23:01.5 + 1:45  1.1 12.5 Psc 
+H 2.591   NGC14 Galaxy         0:08.8 +15:49  3.0 12.1 Peg 
+H 2.592   NGC1024 Galaxy         2:39.2 +10:51  4.4 12.1 Ari  brtst in grp
+H 2.593   NGC1400 Galaxy         3:39.5 -18:41  1.9 11.1 Eri 
+H 2.594   NGC1442 Not documented 3:45.0 -18:16           Eri  = NGC1440?
+H 2.595   NGC7183 Galaxy        22:02.4 -18:56  4.1 11.9 Aqr 
+H 2.596   NGC706 Galaxy         1:51.8 + 6:18  1.9 12.5 Psc  NGC 676 group
+H 2.597   NGC1441 Galaxy         3:45.7 - 4:06  1.5 12.9 Eri 
+H 2.598   NGC7377 Galaxy        22:47.8 -22:19  2.2 11.6 Aqr 
+H 2.599   NGC7197 Galaxy        22:02.9 +41:03  1.9 12.8 Lac 
+H 2.600   NGC7640 Galaxy        23:22.1 +40:51 10.7 10.9 And  nearly edge on
+H 2.601   NGC1122 Galaxy         2:52.8 +42:12  2.0 12.1 Per 
+H 2.602   NGC1129 Galaxy         2:54.5 +41:35  4.1 12.5 Per 
+H 2.603   NGC1275 Galaxy         3:19.8 +41:31  2.6 11.6 Per  Perseus A
+H 2.604   NGC818 Galaxy         2:08.7 +38:47  3.2 12.5 And 
+H 2.605   NGC828 Galaxy         2:10.2 +39:12  3.2 12.2 And  Peculiar
+H 2.606   NGC7231 Galaxy        22:12.4 +45:19  1.9 13.0 Lac 
+H 2.607   NGC1175 Galaxy         3:04.5 +42:20  2.5 12.8 Per  Saturn-like
+H 2.608   NGC1193 Open cluster   3:05.8 +44:23  2.0 12.6 Per 
+H 2.609   NGC252 Galaxy         0:48.0 +27:38  1.7 12.3 And  Brightest in group
+H 2.610   NGC661 Galaxy         1:44.2 +28:42  2.0 12.2 Tri 
+H 2.611   NGC670 Galaxy         1:47.4 +27:53  2.5 12.1 Tri 
+H 2.612   NGC684 Galaxy         1:50.2 +27:39  3.1 12.3 Tri 
+H 2.613   NGC855 Galaxy         2:14.0 +27:53  3.3 12.6 Tri 
+H 2.614   NGC2275 Galaxy         6:47.2 +33:36  1.3 13.1 Gem  distorted
+H 2.615   NGC2274 Galaxy         6:47.2 +33:34  1.8 12.1 Gem 
+H 2.616   NGC2435 Galaxy         7:44.2 +31:38  2.4 12.8 Gem 
+H 2.617   NGC691 Galaxy         1:50.7 +21:46  3.5 11.4 Ari  NGC 697 group
+H 2.618   NGC695 Galaxy         1:51.2 +22:35   .5 12.8 Ari  NGC 697 group
+H 2.619   NGC1156 Galaxy         2:59.7 +25:14  3.1 11.7 Ari  dwarf
+H 2.620   NGC1169 Galaxy         3:03.6 +46:23  4.4 11.7 Per 
+H 2.621   NGC259 Galaxy         0:48.1 - 2:47  2.3 12.5 Cet  = H 2.703
+H 2.622   NGC428 Galaxy         1:12.9 + 0:59  4.1 11.4 Cet  patchy central region
+H 2.623   NGC3955 Galaxy        11:54.0 -23:10  3.7 11.3 Crt 
+H 2.624   NGC2990 Galaxy         9:46.3 + 5:43  1.3 12.8 Sex  bright nucleus
+H 2.625   NGC4348 Galaxy        12:23.9 - 3:27  2.8 12.5 Vir  edge on
+H 2.626   NGC3604 Nonexistent   11:16.3 + 4:31           Leo  = NGC3611?
+H 2.627   NGC2545 Galaxy         8:14.2 +21:21  2.2 12.4 Cnc  one-arm spiral
+H 2.628   NGC4312 Galaxy        12:22.5 +15:32  4.7 11.8 Com 
+H 2.629   NGC4474 Galaxy        12:29.9 +14:04  1.9 11.5 Com  = H 2.117 spindle shaped
+H 2.630   NGC4468 Galaxy        12:29.5 +14:03  1.2 12.8 Com 
+H 2.631   NGC4506 Galaxy        12:32.2 +13:25  1.6 12.7 Com 
+H 2.632   NGC4595 Galaxy        12:39.9 +15:18  1.6 12.1 Com 
+H 2.633   NGC1058 Galaxy         2:43.5 +37:21  3.0 11.5 Per  NGC1023 grp
+H 2.634   NGC2563 Galaxy         8:20.6 +21:04  2.3 12.3 Cnc 
+H 2.635   NGC3660 Galaxy        11:23.6 - 8:40  2.9 13.2 Crt 
+H 2.636   NGC4597 Galaxy        12:40.2 - 5:48  4.1 12.1 Vir 
+H 2.637   NGC5015 Galaxy        13:12.4 - 4:19  2.1 12.1 Vir 
+H 2.638   NGC5253 Galaxy        13:39.9 -31:39  4.0 10.6 Cen 
+H 2.639   NGC3158 Galaxy        10:13.8 +38:46  2.3 11.8 LMi 
+H 2.640   NGC3163 Galaxy        10:14.1 +38:39  1.4 13.1 LMi  NGC 3158 group
+H 2.641   NGC3334 Galaxy        10:41.4 +37:18  1.1 12.8 LMi 
+H 2.642   NGC4156 Galaxy        12:10.8 +39:28  1.3 13.2 CVn 
+H 2.643   NGC4662 Galaxy        12:44.5 +37:07  2.3 12.7 CVn 
+H 2.644   NGC4868 Galaxy        12:59.1 +37:19  1.5 12.2 CVn 
+H 2.645   NGC4914 Galaxy        13:00.7 +37:19  3.5 11.6 CVn 
+H 2.646   NGC5112 Galaxy        13:21.9 +38:44  3.7 12.1 CVn 
+H 2.647   NGC6158 Galaxy        16:27.7 +39:23  NIU 13.7 Her 
+H 2.648   NGC5696 Galaxy        14:37.0 +41:49  1.8 13.0 Boo 
+H 2.649   NGC5704 Nonexistent   14:37.9 +40:31           Boo 
+H 2.650   NGC5899 Galaxy        15:15.0 +42:03  2.6 11.7 Boo 
+H 2.651   NGC5930 Galaxy        15:26.1 +41:41  1.8 12.2 Boo 
+H 2.652   NGC6160 Galaxy        16:27.7 +40:55  1.8 13.2 Her 
+H 2.653   NGC5129 Galaxy        13:24.1 +13:59  1.7 12.1 Vir 
+H 2.654   NGC5951 Galaxy        15:33.7 +15:00  3.2 12.7 Ser 
+H 2.655   NGC5980 Galaxy        15:41.4 +15:47  1.7 12.6 Ser 
+H 2.656   NGC5984 Galaxy        15:42.9 +14:14  2.7 12.5 Ser  bright narrow bar
+H 2.657   NGC6012 Galaxy        15:54.2 +14:35  1.9 12.0 Ser 
+H 2.658   NGC2691 Galaxy         8:54.8 +39:32  1.5 13.1 Lyn  compact
+H 2.659   NGC4627 Galaxy        12:42.0 +32:34  2.1 12.4 CVn 
+H 2.660   NGC4625 Galaxy        12:41.9 +41:16  1.4 12.3 CVn 
+H 2.661   NGC4655 Galaxy        12:43.6 +41:02  1.0 14.1 CVn 
+H 2.662   NGC4704 Galaxy        12:48.8 +41:55   .9 13.7 CVn 
+H 2.663   NGC4963 Galaxy        13:05.8 +41:43  1.2 13.2 CVn 
+H 2.664   NGC5023 Galaxy        13:12.2 +44:02  6.9 12.3 CVn 
+H 2.665   NGC5103 Galaxy        13:20.5 +43:04  1.4 12.6 CVn 
+H 2.666   NGC5123 Galaxy        13:23.2 +43:04  1.3 12.8 CVn 
+H 2.667   NGC5145 Galaxy        13:25.2 +43:15  2.1 12.3 CVn 
+H 2.668   NGC5289 Galaxy        13:45.1 +41:30  1.7 13.0 CVn 
+H 2.669   NGC5320 Galaxy        13:50.3 +41:22  3.3 12.1 CVn 
+H 2.670   NGC5336 Galaxy        13:52.1 +43:15  1.5 12.8 CVn 
+H 2.671   NGC5362 Galaxy        13:54.9 +41:19  2.2 12.3 CVn 
+H 2.672   NGC5410 Galaxy        14:00.7 +41:00  1.5 13.0 CVn 
+H 2.673   NGC5608 Galaxy        14:23.3 +41:46  2.7 13.4 Boo 
+H 2.674   NGC5630 Galaxy        14:27.6 +41:16  2.3 13.1 Boo 
+H 2.675   NGC5697 Galaxy        14:36.6 +41:41  1.0 13.7 Boo 
+H 2.676   NGC5784 Galaxy        14:54.2 +42:33  1.9 12.4 Boo 
+H 2.677   NGC5787 Galaxy        14:55.3 +42:30  1.0 13.1 Boo 
+H 2.678   NGC5893 Galaxy        15:13.6 +41:58  1.3 13.2 Boo 
+H 2.679   NGC5183 Galaxy        13:30.1 - 1:44  1.8 12.7 Vir 
+H 2.680   NGC5184 Galaxy        13:30.2 - 1:41  2.0 12.6 Vir 
+H 2.681   NGC5691 Galaxy        14:37.9 - 0:24  1.7 12.3 Vir 
+H 2.682   NGC5719 Galaxy        14:40.9 - 0:19  2.9 12.2 Vir 
+H 2.683   NGC5792 Galaxy        14:58.4 - 1:05  7.3 11.2 Lib 
+H 2.684   NGC5865 Galaxy        15:09.9 + 0:31      15 p Vir  Not in Uranometria
+H 2.685   NGC5327 Galaxy        13:52.1 - 2:12  1.9 12.6 Vir 
+H 2.686   NGC5345 Galaxy        13:54.3 - 1:25  1.8 12.4 Vir 
+H 2.687   NGC5506 Galaxy        14:13.2 - 3:13  2.7 11.9 Vir 
+H 2.688   NGC5301 Galaxy        13:46.4 +46:06  3.8 12.7 CVn 
+H 2.689   NGC5198 Galaxy        13:30.2 +46:40  2.0 11.8 CVn 
+H 2.690   NGC6155 Galaxy        16:26.1 +48:22  1.3 12.2 Her 
+H 2.691   NGC5448 Galaxy        14:02.8 +49:10  3.9 11.0 UMa 
+H 2.692   NGC5480 Galaxy        14:06.4 +50:43  1.6 12.1 UMa 
+H 2.693   NGC5481 Galaxy        14:06.7 +50:43  1.8 12.2 Boo 
+H 2.694   NGC5602 Galaxy        14:22.3 +50:31  1.3 12.7 Boo 
+H 2.695   NGC5660 Galaxy        14:29.8 +49:37  2.9 11.9 Boo 
+H 2.696   NGC5673 Galaxy        14:31.5 +49:58  2.4 12.1 Boo 
+H 2.697   NGC5351 Galaxy        13:53.5 +37:55  2.7 12.1 CVn  sBN w knotty arms
+H 2.698   NGC5380 Galaxy        13:56.9 +37:37  1.8 12.3 CVn 
+H 2.699   NGC5406 Galaxy        14:00.3 +38:55  1.7 12.3 CVn 
+H 2.700   NGC5698 Galaxy        14:37.2 +38:28  1.7 13.0 Boo 
+H 2.701   NGC6207 Galaxy        16:43.1 +36:50  3.0 11.6 Her  "400"
+H 2.702   NGC7392 Galaxy        22:51.8 -20:36  2.0 11.9 Aqr 
+H 2.703   NGC259 Galaxy         0:48.1 - 2:47  2.3 12.5 Cet  = H 2.621
+H 2.704   NGC1184 Galaxy         3:16.6 +80:48  2.6 12.4 Cep 
+H 2.705   NGC7354 Planetary neb 22:40.4 +61:17   .2 12.2 Cep 
+H 2.706   NGC7538 Nebula        23:13.5 +61:31  9.0  5.0 Cep 
+H 2.707   NGC185 Galaxy         0:39.0 +48:20 11.5  9.2 Cas  "400" Dwarf eliptic
+H 2.708   NGC2798 Galaxy         9:17.4 +42:00  2.8 12.3 Lyn  Nearly edge-on
+H 2.709   NGC3600 Galaxy        11:15.8 +41:36  3.8 11.7 UMa 
+H 2.710   NGC5311 Galaxy        13:49.0 +40:00  2.0 12.3 CVn 
+H 2.711   NGC5313 Galaxy        13:49.7 +39:59  1.5 12.0 CVn 
+H 2.712   NGC5326 Galaxy        13:50.8 +39:34  2.0 11.9 CVn 
+H 2.713   NGC5350 Galaxy        13:53.4 +40:22  2.1 11.3 CVn 
+H 2.714   NGC5353 Galaxy        13:53.5 +40:17  2.8 11.0 CVn 
+H 2.715   NGC5354 Galaxy        13:53.5 +40:18  2.2 11.4 CVn 
+H 2.716   NGC5371 Galaxy        13:55.7 +40:28  4.1 10.6 CVn 
+H 2.717   NGC2998 Galaxy         9:48.7 +44:05  2.4 12.5 UMa 
+H 2.718   NGC3415 Galaxy        10:51.7 +43:43  1.9 12.7 UMa 
+H 2.719   NGC2543 Galaxy         8:13.0 +36:15  2.5 11.9 Lyn 
+H 2.720   NGC3202 Galaxy        10:20.5 +43:01  1.2 13.2 UMa 
+H 2.721   NGC3205 Galaxy        10:20.8 +42:57  1.4 13.2 UMa 
+H 2.722   NGC3207 Galaxy        10:21.0 +42:58  1.3 13.2 UMa  NGC 3202 group
+H 2.723   NGC3891 Galaxy        11:48.0 +30:23  2.1 12.4 UMa 
+H 2.724   NGC3971 Galaxy        11:55.6 +30:00  1.4 12.7 UMa 
+H 2.725   NGC4020 Galaxy        11:58.9 +30:25  1.8 12.7 UMa 
+H 2.726   NGC2532 Galaxy         8:10.2 +33:57  2.2 12.4 Lyn 
+H 2.727   NGC2649 Galaxy         8:44.1 +34:43  1.6 12.3 Lyn 
+H 2.728   NGC3583 Galaxy        11:14.2 +48:19  2.5 11.1 UMa 
+H 2.729   NGC3614 Galaxy        11:18.3 +45:45  4.2 11.6 UMa 
+H 2.730   NGC3726 Galaxy        11:33.3 +47:02  5.6 10.4 UMa  "400"
+H 2.731   NGC3769 Galaxy        11:37.7 +47:54  3.0 11.8 UMa  nearly edge on
+H 2.732   NGC3782 Galaxy        11:39.3 +46:31  1.3 12.4 UMa  asymmetric spiral
+H 2.733   NGC4013 Galaxy        11:58.5 +43:57  4.7 11.2 UMa  edge on
+H 2.734   NGC2326 Galaxy         7:08.4 +50:44  1.6 13.1 Lyn 
+H 2.735   NGC2329 Galaxy         7:09.2 +48:37  1.3 12.4 Lyn  = H 3.875
+H 2.736   NGC2340 Galaxy         7:11.0 +50:10  1.8 11.7 Lyn 
+H 2.737   NGC3811 Galaxy        11:41.3 +47:42  2.3 12.3 UMa 
+H 2.738   NGC3893 Galaxy        11:48.6 +48:43  4.2 10.5 UMa  "400"
+H 2.739   NGC3896 Galaxy        11:48.9 +48:41  1.6 12.9 UMa 
+H 2.740   NGC3928 Galaxy        11:51.8 +48:41  1.4 12.6 UMa 
+H 2.741   NGC4047 Galaxy        12:02.9 +48:38  1.1 12.2 UMa 
+H 2.742   NGC4248 Galaxy        12:17.8 +47:25  2.9 12.5 CVn 
+H 2.743   NGC4381 Nonexistent   12:25.1 +48:50           CVn  = NGC4357 (?)
+H 2.744   NGC4617 Galaxy        12:41.1 +50:26  2.8 13.2 CVn 
+H 2.745   NGC3320 Galaxy        10:39.6 +47:24  2.0 12.3 UMa 
+H 2.746   NGC5018 Galaxy        13:13.0 -19:31  2.6 10.8 Vir 
+H 2.747   NGC4144 Galaxy        12:10.0 +46:27  6.3 11.6 UMa 
+H 2.748   NGC4217 Galaxy        12:15.8 +47:06  5.0 11.2 CVn 
+H 2.749   NGC4389 Galaxy        12:25.6 +45:41  2.4 11.7 CVn 
+H 2.750   NGC4460 Galaxy        12:28.8 +44:52  4.3 11.3 CVn  = H 1.212
+H 2.751   NGC5857 Galaxy        15:07.5 +19:36  1.2 13.1 Boo 
+H 2.752   NGC5859 Galaxy        15:07.6 +19:35  2.7 12.4 Boo
+H 2.753   NGC6181 Galaxy        16:32.3 +19:50  2.6 11.9 Her 
+H 2.754   NGC5582 Galaxy        14:20.7 +39:42  2.8 11.6 Boo 
+H 2.755   NGC5875 Galaxy        15:09.2 +52:32  2.4 12.4 Boo 
+H 2.756   NGC5820 Galaxy        14:58.7 +53:53  2.2 12.4 Boo 
+H 2.757   NGC5879 Galaxy        15:09.8 +57:00  4.4 11.6 Dra 
+H 2.758   NGC5905 Galaxy        15:15.4 +55:31  4.3 11.7 Dra 
+H 2.759   NGC5907 Galaxy        15:15.9 +56:19 11.5 10.3 Dra  "400"
+H 2.760   NGC5908 Galaxy        15:16.7 +55:25  2.7 11.8 Dra 
+H 2.761   NGC5963 Galaxy        15:33.5 +56:35  3.7 12.5 Dra 
+H 2.762   NGC5965 Galaxy        15:34.0 +56:42  5.5 11.7 Dra 
+H 2.763   NGC5894 Galaxy        15:11.7 +59:49  3.0 12.9 Dra 
+H 2.764   NGC5982 Galaxy        15:38.7 +59:21  3.0 11.1 Dra  "400"
+H 2.765   NGC5987 Galaxy        15:39.9 +58:05  4.7 11.7 Dra 
+H 2.766   NGC5985 Galaxy        15:39.6 +59:20  5.3 11.1 Dra 
+H 2.767   NGC6340 Galaxy        17:10.4 +72:18  3.0 11.0 Dra 
+H 2.768   NGC1569 Galaxy         4:30.8 +64:51  2.9 11.2 Cam 
+H 2.769   NGC2339 Galaxy         7:08.3 +18:47  2.8 11.6 Gem 
+H 2.770   NGC3687 Galaxy        11:28.0 +29:31  1.6 12.0 UMa 
+H 2.771   NGC4504 Galaxy        12:32.3 - 7:34  5.0 11.2 Vir 
+H 2.772   NGC4626 Galaxy        12:42.4 - 7:02  1.5 11.9 Vir 
+H 2.773   NGC4628 Galaxy        12:42.4 - 6:57  1.8 13.7 Vir 
+H 2.774   NGC4671 Galaxy        12:45.8 - 7:04  1.5 13.2 Vir 
+H 2.775   NGC3652 Galaxy        11:22.6 +37:46  2.7 12.2 UMa 
+H 2.776   NGC4487 Galaxy        12:31.1 - 8:03  4.1 10.9 Vir  Coarse structured spiral
+H 2.777   NGC4813 Galaxy        12:56.6 - 6:48  1.3 13.7 Vir 
+H 2.778   NGC4888 Nonexistent   13:01.1 - 6:04           Vir  = NGC4879? cf 4878/79
+H 2.779   NGC4925 Galaxy        13:02.1 - 7:42  1.2 14.3 Vir 
+H 2.780   NGC5085 Galaxy        13:20.3 -24:26  3.2 11.3 Hya 
+H 2.781   NGC4068 Galaxy        12:04.0 +52:35  2.7 12.5 UMa 
+H 2.782   NGC3656 Galaxy        11:23.6 +53:51  1.6 12.5 UMa 
+H 2.783   NGC3738 Galaxy        11:35.8 +54:31  3.2 11.7 UMa 
+H 2.784   NGC3756 Galaxy        11:36.8 +54:18  4.4 11.5 UMa 
+H 2.785   NGC3888 Galaxy        11:47.6 +55:58  1.6 12.1 UMa 
+H 2.786   NGC3913 Galaxy        11:50.6 +55:21  2.7 12.6 UMa 
+H 2.787   NGC3916 Galaxy        11:50.8 +55:09  1.5 13.9 UMa 
+H 2.788   NGC3921 Galaxy        11:51.1 +55:05  2.0 12.4 UMa 
+H 2.789   NGC3972 Galaxy        11:55.8 +55:19  3.8 12.3 UMa 
+H 2.790   NGC3977 Galaxy        11:56.1 +55:24  1.6 13.4 UMa 
+H 2.791   NGC3990 Galaxy        11:57.6 +55:28  1.4 12.6 UMa 
+H 2.792   NGC4172 Galaxy        12:12.2 +56:11  1.3 13.2 UMa 
+H 2.793   NGC4198 Galaxy        12:14.3 +56:01  1.0 13.6 UMa 
+H 2.794.1 NGC4644 Galaxy        12:42.7 +55:09  1.8 14.0 UMa  NGC 4686 group
+H 2.794.2 NGC4646 Galaxy        12:42.9 +54:51   .5 13.4 UMa  
+H 2.795   NGC4686 Galaxy        12:46.7 +54:33  1.9 12.6 UMa  NGC 4686 group
+H 2.796   NGC4695 Galaxy        12:47.5 +54:23  1.1 13.4 UMa  NGC 4686 group
+H 2.797   NGC5201 Galaxy        13:29.2 +53:04  1.6 13.1 UMa 
+H 2.798   NGC5278 Galaxy        13:41.6 +55:40  1.3 12.7 UMa 
+H 2.799   NGC5443 Galaxy        14:02.2 +55:49  3.0 12.3 UMa 
+H 2.800   NGC5475 Galaxy        14:05.2 +55:45  1.9 12.6 UMa 
+H 2.801   NGC5486 Galaxy        14:07.4 +55:06  1.4 13.3 UMa 
+H 2.802   NGC4149 Galaxy        12:10.4 +58:19  1.3 13.2 UMa 
+H 2.803   NGC4161 Galaxy        12:11.4 +57:44  1.1 12.9 UMa 
+H 2.804   NGC4271 Galaxy        12:19.6 +56:45  1.5 12.6 UMa 
+H 2.805   NGC4290 Galaxy        12:20.8 +58:06  2.3 11.8 UMa 
+H 2.806   NGC4335 Galaxy        12:23.0 +58:27  1.9 12.4 UMa 
+H 2.807   NGC5667 Galaxy        14:30.4 +59:29  1.6 12.5 Dra 
+H 2.808   NGC5687 Galaxy        14:34.9 +54:29  2.6 11.8 Boo 
+H 2.809   NGC5751 Galaxy        14:43.9 +53:25  1.4 13.2 Boo 
+H 2.810   NGC6125 Nonexistent   16:18.9 +57:36           Dra  = NGC6130 (?)
+H 2.811   NGC6143 Galaxy        16:21.7 +55:05   .9 13.2 Dra 
+H 2.812   NGC6338 Galaxy        17:15.3 +57:25  1.5 12.3 Dra 
+H 2.813   NGC4187A Galaxy       12:13.4 +50:44  1.2 13.2 CVn 
+H 2.814   NGC4732 Galaxy        12:50.1 +52:52  1.2 13.8 UMa 
+H 2.815   NGC4987 Galaxy        13:08.0 +51:56  1.2 13.4 CVn 
+H 2.816   NGC5040 Galaxy        13:13.6 +51:16  1.0 14.1 CVn 
+H 2.817   NGC5250 Galaxy        13:36.0 +51:14  1.0 13.0 UMa 
+H 2.818   NGC5881 Galaxy        15:09.1 +62:57  1.7 13.3 Dra 
+H 2.819   NGC3571 Galaxy        11:11.5 -18:17  3.4 12.1 Crt 
+H 2.820   NGC2387 Galaxy         7:29.0 +36:52      14.3 Aur  double system
+H 2.821   NGC2415 Galaxy         7:36.9 +35:15  1.0 12.4 Lyn  
+H 2.822   NGC2426 Galaxy         7:43.2 +52:49  1.1 13.1 Lyn 
+H 2.823   NGC2693 Galaxy         8:57.0 +51:21  2.2 11.7 UMa  very compact
+H 2.824   NGC3917 Galaxy        11:50.8 +51:50  4.7 11.8 UMa  nearly edge on
+H 2.825   NGC3924 Galaxy        11:52.6 +50:01  1.6 14.5 UMa 
+H 2.826   NGC5109 Galaxy        13:20.9 +57:39  1.6 12.8 UMa 
+H 2.827   NGC5430 Galaxy        14:00.8 +59:20  2.1 11.9 UMa 
+H 2.828   NGC2756 Galaxy         9:09.0 +53:51  1.6 12.4 UMa 
+H 2.829   NGC3669 Galaxy        11:25.4 +57:43  2.0 12.4 UMa 
+H 2.830   NGC3804 Galaxy        11:40.9 +56:12  2.3 12.9 UMa  = NGC 3794
+H 2.831   NGC3838 Galaxy        11:44.2 +57:57  1.4 12.3 UMa 
+H 2.832   NGC3895 Galaxy        11:49.1 +59:26  1.2 13.1 UMa 
+H 2.833   NGC3958 Galaxy        11:54.6 +58:22  1.3 13.0 UMa 
+H 2.834   NGC2726 Galaxy         9:04.9 +59:56  1.6 12.5 UMa 
+H 2.835   NGC3043 Galaxy         9:56.2 +59:18  1.7 12.6 UMa 
+H 2.836   NGC3725 Galaxy        11:33.7 +61:53  1.5 13.0 UMa 
+H 2.837   NGC3762 Galaxy        11:37.5 +61:46  2.1 12.6 UMa 
+H 2.838   NGC3770 Galaxy        11:38.0 +59:37  1.0 12.9 UMa 
+H 2.839   NGC3796 Galaxy        11:40.6 +60:18  1.3 12.5 UMa 
+H 2.840   NGC3978 Galaxy        11:56.2 +60:31  1.6 12.7 UMa 
+H 2.841   NGC5216 Galaxy        13:32.1 +62:42  2.7 12.6 UMa  Connected to 5218
+H 2.842   NGC5218 Galaxy        13:32.2 +62:46  1.8 12.3 UMa 
+H 2.843   NGC5370 Galaxy        13:54.1 +60:41  1.4 13.2 UMa 
+H 2.844   NGC5376 Galaxy        13:55.3 +59:30  1.6 12.1 UMa  = H 1.238
+H 2.845   NGC3668 Galaxy        11:25.5 +63:27  1.9 12.3 UMa 
+H 2.846   NGC4256 Galaxy        12:18.7 +65:54  4.1 11.9 Dra  edge-on spindle
+H 2.847   NGC4332 Galaxy        12:22.8 +65:51  2.2 12.2 Dra 
+H 2.848   NGC4441 Galaxy        12:27.3 +64:48  4.1 12.7 Dra 
+H 2.849   NGC4521 Galaxy        12:32.8 +63:57  2.5 12.2 Dra 
+H 2.850   NGC4545 Galaxy        12:34.6 +63:31  2.7 12.3 Dra 
+H 2.851   NGC7773 Galaxy        23:52.3 +31:16  1.1 13.4 Peg 
+H 2.852   NGC1425 Galaxy         3:42.2 -29:54  5.4 10.8 For 
+H 2.853   NGC29 Galaxy         0:10.8 +33:21  1.8 12.6 And 
+H 2.854   NGC128 Galaxy         0:29.2 + 2:51  3.4 11.6 Psc  group w rectangular central mass
+H 2.855   NGC132 Galaxy         0:30.2 + 2:06  1.7 12.7 Cet 
+H 2.856   NGC194 Galaxy         0:39.3 + 3:02  1.9 12.1 Psc  NGC 182 group
+H 2.857   NGC198 Galaxy         0:39.4 + 2:48  1.3 12.8 Psc  NGC 182 group
+H 2.858   NGC200 Galaxy         0:39.6 + 2:53  1.8 12.6 Psc  NGC 182 group
+H 2.859   NGC693 Galaxy         1:50.5 + 6:09  2.9 12.4 Psc  NGC 676 group
+H 2.860   NGC196 Galaxy         0:39.3 + 0:54  1.3 12.9 Cet 
+H 2.861   NGC2320 Galaxy         7:05.6 +50:36  1.4 11.9 Lyn 
+H 2.862   NGC2332 Galaxy         7:09.5 +50:11  1.5 12.8 Lyn 
+H 2.863   NGC257 Galaxy         0:48.1 + 8:19  2.0 12.6 Psc 
+H 2.864   NGC3904 Galaxy        11:49.2 -29:17  2.2 11.0 Hya 
+H 2.865   NGC4105 Galaxy        12:06.7 -29:46  3.7 10.4 Hya 
+H 2.866   NGC4106 Galaxy        12:06.8 -29:46  4.0 10.6 Hya 
+H 2.867   NGC4194 Galaxy        12:14.2 +54:32  2.1 12.5 UMa 
+H 2.868   NGC2814 Galaxy         9:21.2 +64:15  1.4 13.8 UMa  NGC 2805 group
+H 2.869   NGC2820 Galaxy         9:21.8 +64:16  4.3 12.8 UMa  v flat cent bulge
+H 2.870   NGC3259 Galaxy        10:32.6 +65:03  2.1 12.1 UMa 
+H 2.871   NGC3266 Galaxy        10:33.3 +64:45  1.4 12.4 UMa 
+H 2.872   NGC3394 Galaxy        10:50.6 +65:43  1.8 12.4 UMa 
+H 2.873   NGC6048 Galaxy        15:57.6 +70:42  2.2 12.3 UMi 
+H 2.874   NGC5928 Galaxy        15:25.9 +18:05  2.2 12.2 Ser 
+H 2.875   NGC6166 Galaxy        16:28.6 +39:33  2.4 12.0 Her 
+H 2.876   NGC5492 Galaxy        14:10.5 +19:37  1.6 12.8 Boo 
+H 2.877   NGC5513 Galaxy        14:13.2 +20:26  1.9 12.6 Boo 
+H 2.878   NGC6824 Galaxy        19:43.7 +56:07  2.1 11.9 Cyg 
+H 2.879   NGC3622 Galaxy        11:20.2 +67:15  1.2 13.2 UMa 
+H 2.880   NGC3654 Galaxy        11:24.1 +69:26  1.6 12.7 UMa 
+H 2.881   NGC3879 Galaxy        11:46.9 +69:24  2.3 13.1 Dra 
+H 2.882   NGC3225 Galaxy        10:25.1 +58:09  2.1 12.6 UMa 
+H 2.883   NGC3238 Galaxy        10:26.7 +57:14  1.3 12.9 UMa 
+H 2.884   NGC3517 Galaxy        11:05.6 +56:31   .9 13.0 UMa 
+H 2.885   NGC3625 Galaxy        11:20.5 +57:47  1.9 13.1 UMa 
+H 2.886   NGC3674 Galaxy        11:26.4 +57:03  1.5 12.2 UMa 
+H 2.887   NGC3435 Galaxy        10:54.8 +61:18  1.7 13.2 UMa 
+H 2.888   NGC3470 Galaxy        10:58.7 +59:31  1.6 13.2 UMa 
+H 2.889   NGC5374 Galaxy        13:57.5 + 6:06  1.6 12.5 Vir 
+H 2.890   NGC5491A Galaxy       14:10.9 + 6:22  1.4 12.8 Vir  contact pair w/ 5491B
+H 2.891   NGC5652 Galaxy        14:30.9 + 5:58  1.9 12.5 Vir 
+H 2.892   NGC5661 Galaxy        14:31.9 + 6:14  1.5 13.3 Vir 
+H 2.893   NGC5674 Galaxy        14:33.8 + 5:26  1.1 13.0 Vir 
+H 2.894   NGC5679 Galaxy        14:35.0 + 5:20  1.0 13.0 Vir 
+H 2.895   NGC5257 Galaxy        13:39.9 + 0:50  1.6 12.9 Vir 
+H 2.896   NGC5258 Galaxy        13:40.0 + 0:50  1.6 12.9 Vir 
+H 2.897   NGC7218 Galaxy        22:10.2 -16:40  2.8 12.0 Aqr 
+H 2.898   NGC3107 Galaxy        10:03.3 +13:38   .7 13.4 Leo 
+H 2.899   NGC5323 Galaxy        13:45.5 +76:51  1.4 13.5 UMi 
+H 2.900   NGC1247 Galaxy         3:12.2 -10:29  3.0 12.5 Eri 
+H 2.901   NGC6389 Galaxy        17:32.7 +16:24  2.9 12.1 Her 
+H 2.902   NGC6555 Galaxy        18:07.8 +17:36  1.9 12.4 Her 
+H 2.903   NGC3061 Galaxy         9:56.2 +75:52  1.8 12.8 Dra 
+H 2.904   NGC3523 Galaxy        11:02.8 +75:08  1.5 12.8 Dra 
+H 2.905   NGC3752 Galaxy        11:32.5 +74:38  1.6 12.8 Dra 
+H 2.906   NGC5949 Galaxy        15:28.0 +64:46  2.1 12.0 Dra 
+H 2.907   NGC6646 Galaxy        18:29.6 +39:52  1.2 12.6 Lyr 
+H 2.908   NGC2650 Galaxy         8:50.0 +70:18  1.6 13.3 UMa  HON 3
+H 2.909   NGC3063 Double star   10:01.6 +72:08           UMa  HON 5
+H 2.909?  NGC3066 Galaxy        10:02.2 +72:07  1.1 12.9 UMa  = H 2.334, HON 5?
+H 3.1   NGC1982 Nebula         5:35.6 - 5:16 20.0  9.0 Ori  M43 
+H 3.2   NGC875 Galaxy         2:15.9 + 1:03  1.4 12.9 Cet 
+H 3.3   NGC4028 Nonexistent   11:59.9 +16:14           Com 
+H 3.4   NGC2939 Galaxy         9:38.1 + 9:31  2.4 12.4 Leo  brightest of 3
+H 3.5   NGC3342 Single star   10:42.7 + 9:26           Leo 
+H 3.6   NGC4698 Galaxy        12:48.4 + 8:29  3.2 10.6 Vir  = H 1.8 "400"
+H 3.7   NGC2508 Galaxy         8:02.0 + 8:34  2.0 12.7 CMi 
+H 3.8   NGC2894 Galaxy         9:29.4 + 7:43  2.1 12.4 Leo  diffuse
+H 3.9   NGC5208 Galaxy        13:32.5 + 7:19  1.6 13.1 Vir 
+H 3.10   NGC5209 Galaxy        13:32.7 + 7:20  1.2 13.0 Vir 
+H 3.11   NGC5417 Galaxy        14:02.1 + 8:03  1.4 13.0 Boo 
+H 3.12   NGC5570 Galaxy        14:19.4 + 7:26  NIU 14.4 Boo 
+H 3.13   NGC4577 Nonexistent   12:37.5 + 6:04           Vir 
+H 3.14   NGC5621 Nonexistent   14:27.8 + 8:15           Boo 
+H 3.15   NGC3646 Galaxy        11:21.7 +20:10  3.5 11.1 Leo 
+H 3.16   NGC3649 Galaxy        11:22.2 +20:13  1.5 13.7 Leo 
+H 3.17   NGC4409 Nonexistent   12:26.5 + 2:30           Vir 
+H 3.18   NGC4505 Nonexistent   12:32.3 + 3:59           Vir  = NGC4496 (?)
+H 3.19   NGC2402 Galaxy         7:30.8 + 9:39      14.4 CMi  double system,contact
+H 3.20   NGC3433 Galaxy        10:52.1 +10:09  3.7 11.6 Leo 
+H 3.21   NGC3491 Galaxy        11:00.6 +12:10   .8 13.2 Leo 
+H 3.22   NGC3506 Galaxy        11:03.2 +11:05  1.2 12.5 Leo 
+H 3.23   NGC3524 Galaxy        11:06.5 +11:24  1.6 12.8 Leo 
+H 3.24   NGC3088A Galaxy       10:01.1 +22:24   .6 13.7 Leo 
+H 3.25   NGC3177 Galaxy        10:16.6 +21:07  1.5 12.4 Leo  NGC 3190 group
+H 3.26   NGC4529 Galaxy        12:31.8 +20:30  NIU 14.0 Com 
+H 3.27   NGC3605 Galaxy        11:16.8 +18:01  1.2 12.3 Leo 
+H 3.28   NGC3686 Galaxy        11:27.7 +17:13  2.8 11.3 Leo  = H 2.160 "400"
+H 3.29   NGC3768 Galaxy        11:37.2 +17:51  1.5 12.4 Leo 
+H 3.30   NGC3802 Galaxy        11:40.3 +17:46  1.1 13.3 Leo 
+H 3.31   NGC4344 Galaxy        12:23.6 +17:32  1.4 12.3 Com 
+H 3.32   NGC5490 Galaxy        14:10.0 +17:33  2.3 12.1 Boo 
+H 3.33   NGC6046 Nonexistent   16:04.9 +19:21           Her 
+H 3.34   NGC2984 Galaxy         9:43.6 +11:04   .6 13.4 Leo 
+H 3.35   NGC3848 Galaxy        11:43.7 +10:16   .8 13.8 Vir 
+H 3.36   NGC3852 Nonexistent   11:44.4 +10:18           Vir   = NGC 3848?
+H 3.37   NGC4067 Galaxy        12:04.2 +10:51  1.5 12.5 Vir 
+H 3.38   NGC4368 Nonexistent   12:24.7 +10:36           Vir 
+H 3.39   NGC4390 Galaxy        12:25.8 +10:27  1.6 12.6 Vir 
+H 3.40   NGC4482 Galaxy        12:30.2 +10:47  1.7 12.7 Vir 
+H 3.41   NGC4491 Galaxy        12:31.0 +11:29  1.6 12.6 Vir 
+H 3.42   NGC4497 Galaxy        12:31.5 +11:37  2.0 12.5 Vir 
+H 3.43   NGC4606 Galaxy        12:41.0 +11:55  2.6 11.8 Vir 
+H 3.44   NGC4647 Galaxy        12:43.5 +11:35  2.7 11.3 Vir 
+H 3.45   NGC5174 Galaxy        13:29.3 +11:00  3.4 12.4 Vir  with NGC5175
+H 3.46   NGC5175 Galaxy        13:29.3 +11:00  3.4 12.4 Vir  with NGC5174
+H 3.47   NGC5532 Galaxy        14:16.9 +10:48  1.6 11.9 Boo 
+H 3.48   NGC5747 Galaxy        14:44.4 +12:09  1.0 13.6 Boo  = IC4493
+H 3.49   NGC2648 Galaxy         8:42.7 +14:17  3.3 11.8 Cnc  spiral
+H 3.50   NGC2661 Galaxy         8:46.0 +12:38  1.5 12.8 Cnc  singular,patchy
+H 3.51   NGC3020 Galaxy         9:50.1 +12:49  2.9 11.9 Leo  NGC 3020 group
+H 3.52   NGC3024 Galaxy         9:50.5 +12:46  1.8 13.1 Leo  NGC 3020 group
+H 3.53   NGC3153 Galaxy        10:12.9 +12:40  2.1 12.7 Leo 
+H 3.54   NGC3299 Galaxy        10:36.4 +12:42  1.8 12.8 Leo  NGC 3306 group
+H 3.55   NGC3300 Galaxy        10:36.6 +14:10  1.8 12.1 Leo 
+H 3.56   NGC5416 Galaxy        14:02.1 + 9:27  1.4 13.3 Boo 
+H 3.57   NGC5446 Galaxy        14:05.1 + 9:37  NIU 14.5 Boo 
+H 3.58   NGC5463 Galaxy        14:06.1 + 9:22  1.1 13.0 Boo 
+H 3.59   NGC5482 Galaxy        14:08.4 + 8:56  1.2 12.9 Boo 
+H 3.60   NGC2744 Galaxy         9:04.7 +18:28  1.8 13.4 Cnc  double system
+H 3.61   NGC2774 Galaxy         9:10.6 +18:42   .9 13.7 Cnc 
+H 3.62   NGC2802 Galaxy         9:16.7 +18:58   .9 14.5 Cnc  double system w 2803
+H 3.63   NGC2803 Galaxy         9:16.7 +18:58  1.3 14.3 Cnc  double system w 2802
+H 3.64   NGC2843 Galaxy         9:20.4 +18:57  NIU  NIU Cnc 
+H 3.65   NGC3129 Nonexistent   10:08.4 +18:25           Leo 
+H 3.66   NGC3303 Galaxy        10:37.1 +18:08  3.4 13.5 Leo  double system
+H 3.67   NGC3473 Galaxy        10:58.0 +17:07  1.0 13.6 Leo 
+H 3.68   NGC4126 Galaxy        12:08.7 +16:09  1.0 13.4 Com 
+H 3.69   NGC4498 Galaxy        12:31.7 +16:51  3.2 12.2 Com 
+H 3.70   NGC4758 Galaxy        12:52.7 +15:51  2.7 13.1 Com 
+H 3.71   NGC5180 Galaxy        13:29.4 +16:49  1.5 13.0 Com  double system
+H 3.72   NGC5249 Galaxy        13:37.6 +15:58  1.2 12.9 Boo 
+H 3.73   NGC6021 Galaxy        15:57.5 +15:56  1.6 13.1 Ser 
+H 3.74   NGC6073 Galaxy        16:10.1 +16:42  1.1 13.5 Her 
+H 3.75   NGC3498 Triple star   11:01.9 +14:23           Leo 
+H 3.76   NGC3616 Nonexistent   11:18.2 +14:44           Leo 
+H 3.77   NGC4037 Galaxy        12:01.4 +13:24  2.6 11.9 Com 
+H 3.78   NGC4516 Galaxy        12:33.1 +14:34  1.6 12.8 Com 
+H 3.79   NGC3559 Galaxy        11:10.7 +12:01  1.2 12.7 Leo 
+H 3.80   NGC3731 Galaxy        11:34.2 +12:32  1.0 12.9 Leo 
+H 3.81   NGC3773 Galaxy        11:38.2 +12:07  1.4 12.0 Leo 
+H 3.82   NGC4752 Single star   12:52.3 +13:29           Com 
+H 3.83   NGC4880 Galaxy        13:00.2 +12:29  3.4 11.4 Vir 
+H 3.84   NGC5136 Galaxy        13:24.8 +13:44   .3 14.0 Vir 
+H 3.85   NGC5222 Galaxy        13:34.9 +13:44  NIU 13.1 Vir 
+H 3.86   NGC5221 Galaxy        13:34.9 +13:49  2.7 13.0 Vir 
+H 3.87   NGC5230 Galaxy        13:35.5 +13:40  1.9 12.1 Vir 
+H 3.88   NGC3401 Nonexistent   10:50.4 + 5:48           Sex 
+H 3.89   NGC3567 Galaxy        11:11.3 + 5:50  1.1 13.2 Leo 
+H 3.90   NGC3914 Galaxy        11:50.6 + 6:35  1.0 13.2 Vir 
+H 3.91   NGC4246 Galaxy        12:18.0 + 7:11  2.2 12.7 Vir 
+H 3.92   NGC4296 Galaxy        12:21.5 + 6:40  1.5 12.7 Vir 
+H 3.93   NGC4297 Galaxy        12:21.5 + 6:40   .5 14.2 Vir 
+H 3.94   NGC4343 Galaxy        12:23.7 + 6:57  2.4 12.1 Vir 
+H 3.95   NGC4341 Galaxy        12:24.0 + 7:07      14 p Vir  Not in Uranometria
+H 3.96   NGC4342 Galaxy        12:23.6 + 7:03  1.1 14 p Vir  Not in Uranometria
+H 3.97   NGC4366 Unknown       12:25.0 + 7:27           Vir 
+H 3.98   NGC4588 Galaxy        12:38.8 + 6:46  1.3 14.3 Vir 
+H 3.99   NGC5210 Galaxy        13:32.9 + 7:10  1.6 12.9 Vir 
+H 3.100   NGC5235 Galaxy        13:36.1 + 6:34  1.1 14.0 Vir 
+H 3.101   NGC5239 Galaxy        13:36.5 + 7:22  1.9 12.8 Boo 
+H 3.102   NGC3833 Galaxy        11:43.5 +10:10  1.4 13.5 Vir 
+H 3.103   NGC3876 Galaxy        11:45.4 + 9:11  1.0 12.8 Vir 
+H 3.104   NGC3874 Double star   11:45.8 + 8:33           Vir 
+H 3.105   NGC4598 Galaxy        12:40.3 + 8:23  1.7 12.7 Vir 
+H 3.106   NGC4779 Galaxy        12:53.8 + 9:44  1.9 12.4 Vir 
+H 3.107   NGC3356 Galaxy        10:44.2 + 6:45  1.6 13.3 Leo 
+H 3.108   NGC3425 Galaxy        10:51.4 + 8:34  1.1 13.1 Leo 
+H 3.109   NGC3790 Galaxy        11:39.8 +17:43  1.0 13.9 Leo  NGC 3801 group
+H 3.110   NGC5587 Galaxy        14:22.2 +13:55  2.5 12.5 Boo 
+H 3.111   NGC3535 Galaxy        11:08.5 + 4:50  1.1 13.5 Leo 
+H 3.112   NGC3679 Galaxy        11:26.2 - 5:35  1.1 14.0 Leo 
+H 3.113   NGC3915 Nonexistent   11:50.6 - 5:08           Vir 
+H 3.114   NGC4422 Galaxy        12:27.3 - 5:49  1.5 13.7 Vir 
+H 3.115   NGC5146 Galaxy        13:26.5 -12:19  1.8 12.3 Vir 
+H 3.116   NGC5885 Galaxy        15:15.1 -10:05  3.2 11.8 Lib 
+H 3.117   NGC5076 Galaxy        13:19.4 -12:45  1.4 13.2 Vir 
+H 3.118   NGC5079 Galaxy        13:19.6 -12:42  1.4 13.0 Vir 
+H 3.119   NGC5111 Galaxy        13:22.8 -12:58  1.9 11.7 Vir 
+H 3.120   NGC5605 Galaxy        14:25.1 -13:10  1.4 12.3 Lib 
+H 3.121   NGC5595 Galaxy        14:24.2 -16:43  2.2 12.0 Lib 
+H 3.122   NGC5597 Galaxy        14:24.5 -16:46  2.4 12.0 Lib 
+H 3.123   NGC6267 Galaxy        16:58.2 +22:59  1.3 13.1 Her 
+H 3.124   NGC6278 Galaxy        17:00.9 +23:01  2.1 12.4 Her 
+H 3.125   NGC5396 Nonexistent   13:59.0 +29:07           CVn 
+H 3.126   NGC5642 Galaxy        14:29.2 +30:01  1.8 12.6 Boo 
+H 3.127   NGC5699 Nonexistent   14:38.3 +29:30           Boo 
+H 3.128   NGC5703 Nonexistent   14:38.5 +29:30           Boo 
+H 3.129   NGC5771 Galaxy        14:52.2 +29:51   .8 13.6 Boo 
+H 3.130   NGC5773 Galaxy        14:52.5 +29:48  1.0 13.5 Boo 
+H 3.131   NGC5798 Galaxy        14:57.7 +29:58  1.3 13.1 Boo 
+H 3.132   NGC5635 Galaxy        14:28.5 +27:25  2.2 12.5 Boo 
+H 3.133   NGC5735 Galaxy        14:42.4 +28:44  2.6 12.3 Boo 
+H 3.134   NGC5523 Galaxy        14:14.8 +25:19  4.3 12.1 Boo 
+H 3.135   NGC5594 Galaxy        14:23.2 +26:15  1.1 14.0 Boo 
+H 3.136   NGC5610 Galaxy        14:24.3 +24:36  2.0 13.2 Boo 
+H 3.137   NGC6372 Galaxy        17:27.5 +26:28  1.6 12.9 Her  NGC6371 nearby
+H 3.138   NGC5898 Galaxy        15:18.2 -24:06  1.7 11.5 Lib 
+H 3.139   NGC5903 Galaxy        15:18.6 -24:04  2.0 11.5 Lib 
+H 3.140   NGC6064 Nonexistent   16:07.0 +20:33           Her 
+H 3.141   NGC6907 Galaxy        20:25.1 -24:49  3.4 11.3 Cap 
+H 3.142   NGC6926 Galaxy        20:33.1 - 2:01  2.1 12.4 Aql 
+H 3.143   NGC6717 Globular clst 18:55.1 -22:42  3.9  9.2 Sgr 
+H 3.144   NGC6857 Planetary neb 20:01.9 +33:31  NIU  NIU Cyg 
+H 3.145   NGC7052 Galaxy        21:18.6 +26:27  2.5 12.4 Vul 
+H 3.146   NGC7720 Galaxy        23:38.5 +27:02  1.6 12.3 Peg  3C456
+H 3.147   NGC23 Galaxy         0:09.9 +25:55  2.3 12.0 Peg 
+H 3.148   NGC108 Galaxy         0:25.9 +29:13  2.3 12.1 And 
+H 3.149   NGC233 Galaxy         0:43.4 +30:35  2.0 12.4 And 
+H 3.150   NGC604 Knot in galax  1:34.5 +30:48  1.0      Tri  with M33
+H 3.151   NGC807 Galaxy         2:04.8 +28:59  2.2 12.5 Tri 
+H 3.152   NGC1012 Galaxy         2:39.3 +30:09  2.7 12.0 Ari  large nucleus
+H 3.153   NGC266 Galaxy         0:49.8 +32:16  3.2 11.6 Psc 
+H 3.154   NGC420 Galaxy         1:12.1 +32:06  2.0 12.1 Psc 
+H 3.155   NGC421 Nonexistent    1:12.1 +32:09           Psc 
+H 3.156   NGC495 Galaxy         1:22.9 +33:28  1.5 13.2 Psc  in triple sub-group
+H 3.157   NGC496 Galaxy         1:23.3 +33:33  1.6 13.3 Psc 
+H 3.158   NGC499 Galaxy         1:23.2 +33:28  2.0 12.0 Psc 
+H 3.159   NGC507 Galaxy         1:23.7 +33:15  4.3 11.2 Psc 
+H 3.160   NGC508 Galaxy         1:23.7 +33:17  1.6 12.8 Psc 
+H 3.161   NGC987 Galaxy         2:36.8 +33:19  1.3 12.4 Tri 
+H 3.162   NGC1060 Galaxy         2:43.2 +32:24  2.3 11.8 Tri  very diffuse
+H 3.163   NGC1066 Galaxy         2:43.8 +32:27  1.7 13.2 Tri 
+H 3.164   NGC1240 Single star    3:12.9 +30:34           Ari 
+H 3.165   NGC7186 Not documnted 22:01.0 +35:06           Peg 
+H 3.166   NGC7335 Galaxy        22:37.3 +34:27  1.3 13.3 Peg 
+H 3.167   NGC515 Galaxy         1:24.6 +33:29  1.7 13.0 Psc 
+H 3.168   NGC517 Galaxy         1:24.7 +33:27  2.1 12.4 Psc 
+H 3.169   NGC513 Galaxy         1:23.8 +33:49  0.7 12.9 And 
+H 3.170   NGC537 Nonexistent    1:26.3 +34:05           And 
+H 3.170   NGC523 Galaxy         1:25.3 +34:02  2.9 12.7 And  Peculiar SAC?*
+H 3.171   NGC536 Galaxy         1:26.4 +34:43  3.1 12.3 And 
+H 3.172   NGC552 Nonexistent    1:27.8 +33:28           Psc 
+H 3.173   NGC553 Nonexistent    1:27.8 +33:28           Psc 
+H 3.174   NGC614 Galaxy         1:35.8 +33:42  1.6 12.7 Tri 
+H 3.175   NGC679 Galaxy         1:49.7 +35:47  2.3 12.4 And 
+H 3.176   NGC735 Galaxy         1:56.6 +34:11  1.6 13.3 Tri 
+H 3.177   NGC925 Galaxy         2:27.3 +33:35  9.8 10.0 Tri  NGC 1023 group
+H 3.178   NGC1167 Galaxy         3:01.7 +35:12  3.1 12.3 Per 
+H 3.179   NGC697 Galaxy         1:51.3 +22:21  4.7 12.0 Ari  NGC 697 group
+H 3.180   NGC7316 Galaxy        22:35.9 +20:19  1.0 13.0 Peg 
+H 3.181   NGC7550 Galaxy        23:15.3 +18:57  1.4 12.2 Peg  with NGC7547
+H 3.182   NGC7578 Galaxy        23:17.2 +18:41  1.0 14.0 Peg  double system
+H 3.183   NGC52 Galaxy         0:14.6 +18:33  2.4 13.3 Peg   
+H 3.184   NGC7506 Galaxy        23:11.8 - 2:10  1.7 12.9 Psc 
+H 3.185   NGC7566 Galaxy        23:16.6 - 2:21  1.5 13.7 Psc 
+H 3.186   NGC7592 Galaxy        23:18.4 - 4:25  1.1 14.2 Aqr  colliding pair
+H 3.187   NGC7694 Galaxy        23:33.4 - 2:42  1.8 12.8 Psc 
+H 3.188   NGC7701 Galaxy        23:34.6 - 2:51  1.6 13.7 Psc 
+H 3.189   NGC7725 Galaxy        23:39.3 - 4:32   .8 12.2 Aqr 
+H 3.190   NGC7832 Galaxy         0:06.6 - 3:42  1.7 13.8 Psc 
+H 3.191   NGC352 Galaxy         1:02.1 - 4:15  2.3 12.6 Cet 
+H 3.192   NGC702 Galaxy         1:51.3 - 4:03  1.7 13.1 Cet  probable interacting
+H 3.193   NGC748 Galaxy         1:56.4 - 4:28  2.9 12.6 Cet 
+H 3.194   NGC1266 Galaxy         3:16.0 - 2:24  1.5 12.7 Eri 
+H 3.195   NGC1287 Galaxy         3:18.6 - 2:45  0.9 14.2 Eri 
+H 3.196   NGC1321 Galaxy         3:24.9 - 3:00  1.1 13.7 Eri 
+H 3.197   NGC1320 Galaxy         3:24.8 - 3:01  1.7 12.4 Eri 
+H 3.198   NGC1003 Galaxy         2:39.3 +40:52  5.4 11.5 Per  = H 2.238
+H 3.199   NGC1160 Galaxy         3:01.2 +44:58  1.4 12.8 Per 
+H 3.200   NGC213 Galaxy         0:41.2 +16:28  1.6 13.3 Psc 
+H 3.201   NGC871 Galaxy         2:17.2 +14:33  1.3 13.5 Ari  with NGC 870
+H 3.202   NGC7468 Galaxy        23:03.0 +16:36   .8 13.7 Peg  two jets
+H 3.203   NGC7497 Galaxy        23:09.1 +18:11  4.0 12.2 Peg 
+H 3.204   NGC251 Galaxy         0:47.8 +19:34  2.3 13.2 Psc  amorph disc
+H 3.205   NGC459 Galaxy         1:18.0 +17:33  1.0 14.4 Psc 
+H 3.206   NGC473 Galaxy         1:19.9 +16:33  2.6 12.5 Psc 
+H 3.207   NGC794 Galaxy         2:02.5 +18:22  1.3 12.7 Ari 
+H 3.208   NGC803 Galaxy         2:03.8 +16:02  3.3 12.4 Ari 
+H 3.209   NGC7042 Galaxy        21:13.8 +13:33  1.9 12.0 Peg 
+H 3.210   NGC7463 Galaxy        23:01.9 +15:59  2.9 13.2 Peg  NGC 7448 group
+H 3.211   NGC7465 Galaxy        23:02.0 +15:58  1.2 12.6 Peg  NGC 7448 group
+H 3.212   NGC7659 Galaxy        23:26.0 +14:12   .9 14.0 Peg 
+H 3.213   NGC7691 Galaxy        23:32.6 +15:50  2.2 12.9 Peg 
+H 3.214   NGC774 Galaxy         1:59.4 +14:01  2.0 13.0 Ari 
+H 3.215   NGC781 Galaxy         2:00.1 +12:38  1.6 13.0 Ari 
+H 3.216   NGC7385 Galaxy        22:49.9 +11:36  1.6 12.3 Peg 
+H 3.217   NGC7386 Galaxy        22:50.0 +11:42  2.1 12.5 Peg 
+H 3.218   NGC7648 Galaxy        23:23.8 + 9:39  1.6 13.0 Peg 
+H 3.219   NGC6956 Galaxy        20:44.0 +12:31  1.6 12.3 Del 
+H 3.220   NGC7515 Galaxy        23:12.9 +12:41  1.6 12.4 Peg 
+H 3.221   NGC7559 Galaxy        23:15.9 +13:17  1.3 13.8 Peg 
+H 3.222   NGC7563 Galaxy        23:16.0 +13:11  1.9 12.8 Peg 
+H 3.223   NGC175 Galaxy         0:37.4 -19:56  2.6 12.1 Cet   NGC171?*
+H 3.224   NGC907 Galaxy         2:23.0 -20:43  2.2 12.6 Cet 
+H 3.225   NGC2124 Galaxy         5:57.9 -20:04  2.7 12.6 Lep 
+H 3.226   NGC7671 Galaxy        23:27.3 +12:28  1.4 12.8 Peg 
+H 3.227   NGC827 Galaxy         2:08.8 + 7:58  2.5 12.7 Cet 
+H 3.228   NGC1044 Galaxy         2:41.1 + 8:44   .6 13.2 Cet  dbl system
+H 3.229   NGC1046 Galaxy         2:41.2 + 8:43      13.8 Cet 
+H 3.230   NGC7469 Galaxy        23:03.3 + 8:52  1.5 12.3 Peg 
+H 3.231   NGC7778 Galaxy        23:53.3 + 7:52  1.1 12.7 Psc  NGC 7782 group
+H 3.232   NGC7779 Galaxy        23:53.4 + 7:52  1.3 12.7 Psc  NGC 7782 group
+H 3.233   NGC7782 Galaxy        23:53.9 + 7:58  1.9 12.2 Psc 
+H 3.234   NGC2599 Galaxy         8:32.2 +22:34  2.4 12.2 Cnc 
+H 3.235   NGC2628 Galaxy         8:40.5 +23:33  1.1 13.3 Cnc 
+H 3.236   NGC2764 Galaxy         9:08.3 +21:27  1.3 12.9 Cnc 
+H 3.237   NGC7321 Galaxy        22:36.4 +21:38  1.6 12.9 Peg 
+H 3.238   NGC7570 Galaxy        23:16.8 +13:29  1.5 13.2 Peg 
+H 3.239   NGC922 Galaxy         2:25.1 -24:47  1.9 12.2 For 
+H 3.240   NGC1979 Galaxy         5:33.8 -23:19  2.0 11.8 Lep 
+H 3.241   NGC2073 Galaxy         5:45.9 -21:59  1.4 12.4 Lep 
+H 3.242   NGC2815 Galaxy         9:16.3 -23:38  3.4 11.8 Hya 
+H 3.243   NGC7436 Galaxy        22:58.0 +26:09  2.0  NIU Peg 
+H 3.244   NGC216 Galaxy         0:41.4 -21:03  1.8 13.3 Cet 
+H 3.245   NGC1187 Galaxy         3:02.6 -22:52  5.2 10.7 Eri  Multi arm spiral
+H 3.246   NGC1353 Galaxy         3:32.1 -20:49  3.4 11.4 Eri 
+H 3.247   NGC1401 Galaxy         3:39.4 -22:44  2.3 12.3 Eri 
+H 3.248   NGC1426 Galaxy         3:42.8 -22:07  2.1 11.4 Eri 
+H 3.249   NGC1439 Galaxy         3:44.8 -21:55  2.8 11.2 Eri 
+H 3.250   NGC470 Galaxy         1:19.7 + 3:25  3.0 11.9 Psc  NGC 470 group
+H 3.251   NGC474 Galaxy         1:20.1 + 3:25  7.9 11.1 Psc  NGC 470 group
+H 3.252   NGC488 Galaxy         1:21.8 + 5:15  5.2 10.3 Psc  "400"
+H 3.253   NGC520 Galaxy         1:24.6 + 3:48  4.8 11.2 Psc  M82 type galaxy
+H 3.254   NGC3044 Galaxy         9:53.7 + 1:35  4.8 12.0 Sex  Nearly edge-on
+H 3.255   NGC3156 Galaxy        10:12.7 + 3:08  1.8 12.3 Sex  NGC 3166 group
+H 3.256   NGC2555 Galaxy         8:18.0 + 0:44  1.9 12.2 Hya 
+H 3.257   NGC2618 Galaxy         8:36.2 + 0:42  2.7 12.1 Hya  very diffuse outside
+H 3.258   NGC4077 Galaxy        12:04.7 + 1:48  1.0 13.1 Vir 
+H 3.259   NGC850 Galaxy         2:11.2 - 1:30  1.4 12.9 Cet 
+H 3.260   NGC863 Galaxy         2:14.6 - 0:46  1.2 12.9 Cet 
+H 3.261   NGC941 Galaxy         2:28.5 - 1:09  2.8 12.4 Cet  with NGC 936
+H 3.262   NGC1239 Galaxy         3:11.0 - 2:31  1.1 14.2 Eri 
+H 3.263   NGC1409 Galaxy         3:41.2 - 1:17   .9 13.9 Tau  post-eruptive pair
+H 3.264   NGC2722 Galaxy         8:58.8 - 3:43  1.9 12.6 Hya 
+H 3.265   NGC755 Galaxy         1:56.4 - 9:04  4.0 12.6 Cet 
+H 3.266   NGC731 Galaxy         1:54.9 - 9:01  1.7 12.1 Cet 
+H 3.267   NGC2076 Galaxy         5:46.8 -16:46  2.2 13.0 Lep 
+H 3.268   NGC1794 Galaxy                                     
+H 3.269   NGC1993 Galaxy         5:35.5 -17:49  1.3 12.4 Lep 
+H 3.270   NGC2089 Galaxy         5:47.8 -17:36  2.0 11.9 Lep 
+H 3.271   NGC2283 Galaxy         6:45.9 -18:14  2.8 12.2 CMa 
+H 3.272   NGC3052 Galaxy         9:54.5 -18:38  2.1 12.2 Hya 
+H 3.273   NGC3072 Galaxy         9:57.6 -19:21  1.8 12.7 Hya 
+H 3.274   NGC3981 Galaxy        11:56.1 -19:54  3.3 11.0 Crt  Nearly edge-on spiral
+H 3.275   NGC2763 Galaxy         9:06.8 -15:30  2.3 12.1 Hya 
+H 3.276   NGC2902 Galaxy         9:30.9 -14:44  1.5 12.2 Hya 
+H 3.277   NGC2992 Galaxy         9:45.7 -14:20  4.1 11.9 Hya  Long streamer
+H 3.278   NGC2993 Galaxy         9:45.8 -14:22  1.6 12.6 Hya 
+H 3.279   NGC4035 Galaxy        12:00.5 -15:57  1.2 12.4 Crv 
+H 3.280   NGC4724 Galaxy        12:50.9 -14:20   .9 13.9 Crv 
+H 3.281   NGC4756 Galaxy        12:52.9 -15:25  1.8 12.4 Crv 
+H 3.282   NGC5073 Galaxy        13:19.4 -14:52  3.0 12.3 Vir 
+H 3.283   NGC5677 Galaxy        14:34.2 +25:27   .9 13.7 Boo 
+H 3.284   NGC3818 Galaxy        11:42.0 - 6:09  2.0 11.7 Vir 
+H 3.285   NGC5369 Galaxy        13:56.8 - 5:29  1.0 13.6 Vir 
+H 3.286   NGC5468 Galaxy        14:06.6 - 5:27  2.6 12.5 Vir 
+H 3.287   NGC5476 Galaxy        14:08.2 - 6:05  1.7 12.2 Vir 
+H 3.288   NGC2566 Galaxy         8:18.7 -25:29  4.1 11.0 Pup 
+H 3.289   NGC2983 Galaxy         9:43.7 -20:29  2.6 11.7 Hya 
+H 3.290   NGC3956 Galaxy        11:54.0 -20:34  3.4 12.2 Crt  Nearly edge-on spiral
+H 3.291   NGC2750 Galaxy         9:05.7 +25:26  2.0 11.9 Cnc  slightly asym
+H 3.292   NGC2604 Galaxy         8:33.3 +29:33  1.9 12.3 Cnc  irregular
+H 3.293   NGC3068 Galaxy         9:58.5 +28:53  1.1 14.3 Leo 
+H 3.294   NGC2679 Galaxy         8:51.5 +30:52  1.8 13.3 Cnc  comp superimp
+H 3.295   NGC2783A Galaxy        9:13.6 +29:59  2.1 12.6 Cnc  NGC 2778 group
+H 3.296   NGC2796 Galaxy         9:16.7 +30:55  1.3 13.8 Cnc  brightest of three
+H 3.297   NGC2893 Galaxy         9:30.3 +29:32  1.1 13.2 Leo  brightest in group
+H 3.298   NGC2918 Galaxy         9:35.8 +31:42  1.4 12.6 Leo 
+H 3.299   NGC4272 Galaxy        12:19.8 +30:20  1.0 13.1 Com 
+H 3.300   NGC4286 Galaxy        12:20.7 +29:21  1.7 13.1 Com 
+H 3.301   NGC4495 Galaxy        12:31.3 +29:09  1.5 13.2 Com 
+H 3.302   NGC4514 Galaxy        12:32.5 +29:44  1.1 13.2 Com 
+H 3.303   NGC4962 Nonexistent   13:05.9 +29:04           Com 
+H 3.304   NGC4966 Galaxy        13:06.3 +29:04   .9 13.3 Com 
+H 3.305   NGC5004 Galaxy        13:11.1 +29:38  1.6 12.9 Com 
+H 3.306   NGC5056 Galaxy        13:16.2 +30:56  1.7 13.1 Com 
+H 3.307   NGC5057 Galaxy        13:16.5 +31:01  1.2 13.0 Com 
+H 3.308   NGC5065 Galaxy        13:17.6 +31:04  1.4 13.6 Com 
+H 3.309   NGC5074 Galaxy        13:18.4 +31:28   .7 14.0 CVn 
+H 3.310   NGC5672 Galaxy        14:32.6 +31:40   .8 13.5 Boo 
+H 3.311   NGC5819 Galaxy        14:54.0 +73:08   .9 13.5 UMi 
+H 3.312   NGC5836 Galaxy        14:59.5 +73:53  1.2 13.9 UMi 
+H 3.313   NGC6011 Galaxy        15:46.6 +72:09  1.6 13.5 UMi 
+H 3.314   NGC6094 Galaxy        16:06.6 +72:30  1.8 13.2 UMi 
+H 3.315   NGC2963 Galaxy         9:47.8 +72:58  1.1 13.5 Dra  P w NGC 2957
+H 3.316   NGC3252 Galaxy        10:34.4 +73:46  1.8 13.5 Dra 
+H 3.317   NGC3343 Galaxy        10:46.1 +73:21  1.3 13.4 Dra 
+H 3.318   NGC3364 Galaxy        10:48.5 +72:25  1.6 12.8 UMa 
+H 3.319   NGC5620 Galaxy        14:22.5 +69:34  NIU 14.0 UMi 
+H 3.320   NGC3812 Galaxy        11:41.1 +24:51  1.7 12.4 Leo 
+H 3.321   NGC3902 Galaxy        11:49.3 +26:07  1.6 12.8 Leo 
+H 3.322   NGC3944 Galaxy        11:53.1 +26:14  1.4 12.9 Leo 
+H 3.323   NGC4015 Galaxy        11:58.7 +25:03   .9 13.2 Com 
+H 3.324   NGC4021 Galaxy        11:59.0 +25:06   .2 14.5 Com 
+H 3.325   NGC4007 Not documnted 11:58.2 +25:08           Leo  = NGC4005
+H 3.326   NGC4101 Galaxy        12:06.2 +25:34  1.0 13.5 Com 
+H 3.327   NGC4146 Galaxy        12:10.3 +26:26  1.6 12.7 Com 
+H 3.328   NGC4670 Galaxy        12:45.3 +27:08  1.5 12.7 Com 
+H 3.329   NGC4673 Galaxy        12:45.6 +27:04  1.0 12.9 Com 
+H 3.330   NGC3216 Galaxy        10:21.7 +23:54  1.4 13.4 Leo 
+H 3.331   NGC3270 Galaxy        10:31.5 +24:51  2.8 13.1 Leo 
+H 3.332   NGC3475 Galaxy        10:58.3 +24:14  1.6 13.1 Leo 
+H 3.333   NGC3615 Galaxy        11:18.0 +23:24  1.4 12.8 Leo 
+H 3.334   NGC3618 Galaxy        11:18.5 +23:29   .9 13.6 Leo 
+H 3.335   NGC3651 Galaxy        11:22.4 +24:18  1.1 13.2 Leo 
+H 3.336   NGC3653 Galaxy        11:22.5 +24:16   .9 13.6 Leo 
+H 3.337   NGC3670 Galaxy        11:24.7 +23:57  1.2 13.5 Leo 
+H 3.338   NGC3808 Galaxy        11:40.7 +22:27   .7 11.9 Leo  double system
+H 3.339   NGC3815 Galaxy        11:41.7 +24:49  1.7 13.0 Leo 
+H 3.340   NGC3798 Galaxy        11:40.2 +24:43  2.6 12.1 Leo 
+H 3.340   NGC3832 Galaxy        11:43.5 +22:44  2.0 13.0 Leo 
+H 3.341   NGC3911 Galaxy        11:49.4 +24:57  1.1 13.8 Leo 
+H 3.342   NGC3951 Galaxy        11:53.7 +23:24  1.1 13.6 Leo 
+H 3.343   NGC3983 Galaxy        11:56.4 +23:53  1.1 14.0 Leo 
+H 3.344   NGC4002 Galaxy        11:58.0 +23:13   .7 14.0 Leo 
+H 3.345   NGC4003 Galaxy        11:58.0 +23:08  1.5 13.3 Leo  = NGC 4007
+H 3.346   NGC4979 Galaxy        13:07.6 +24:49  1.0 13.8 Com 
+H 3.347   NGC5559 Galaxy        14:19.1 +24:48  1.5 14.0 Boo 
+H 3.348   NGC3196 Galaxy        10:18.8 +27:40  NIU 14.7 Leo 
+H 3.349   NGC3265 Galaxy        10:31.1 +28:48   .9 12.9 LMi 
+H 3.350   NGC3527 Galaxy        11:07.3 +28:32  1.1 13.7 UMa 
+H 3.351   NGC3550 Galaxy        11:10.6 +28:46  1.0 13.3 UMa  peculiar,double nucl
+H 3.352   NGC3552 Galaxy        11:10.6 +28:42   .6 13.8 UMa 
+H 3.353   NGC3714 Galaxy        11:31.8 +28:22  2.0 14.1 UMa 
+H 3.354   NGC4004A Galaxy       11:58.1 +27:53  1.8 13.7 Leo 
+H 3.355   NGC4080 Galaxy        12:05.0 +27:00  1.2 13.8 Com 
+H 3.356   NGC4131 Galaxy        12:08.7 +29:18  1.4 13.2 Com  NGC 4134 group
+H 3.357   NGC4132 Galaxy        12:09.0 +29:14  1.1 13.9 Com 
+H 3.358   NGC4169 Galaxy        12:12.2 +29:10  1.8 12.2 Com  NGC 4196 group
+H 3.359   NGC4174 Galaxy        12:12.4 +29:08   .7 13.3 Com  NGC 4169 group
+H 3.360   NGC4175 Galaxy        12:12.5 +29:09  1.9 13.2 Com  NGC 4169 group
+H 3.361   NGC4393 Galaxy        12:25.8 +27:33  3.2 12.1 Com 
+H 3.362   NGC4475 Galaxy        12:29.8 +27:15  1.8 13.6 Com 
+H 3.363    IC4051 Galaxy        13:00.9 +28:00  1.1 13.2 Com 
+H 3.364   NGC4927 Galaxy        13:02.0 +28:00  NIU 13.7 Com 
+H 3.365   NGC4983 Galaxy        13:08.4 +28:19  1.1 13.9 Com 
+H 3.366   NGC5000 Galaxy        13:09.8 +28:54  1.6 13.2 Com 
+H 3.367   NGC5032 Galaxy        13:13.4 +27:48  2.0 12.8 Com 
+H 3.368   NGC5116 Galaxy        13:22.9 +26:59  2.1 12.7 Com 
+H 3.369   NGC5251 Galaxy        13:37.5 +27:25   .7 13.8 Boo 
+H 3.370   NGC5263 Galaxy        13:40.0 +28:24  1.5 13.3 CVn 
+H 3.371   NGC6001 Galaxy        15:47.7 +28:38  1.0 13.6 CrB 
+H 3.372   NGC3883 Galaxy        11:46.8 +20:42  2.8 12.7 Leo 
+H 3.373   NGC5768 Galaxy        14:52.1 - 2:32  1.8 12.5 Lib 
+H 3.374   NGC5913 Galaxy        15:20.9 - 2:35  1.8 13.2 Ser 
+H 3.375   NGC3805 Galaxy        11:40.8 +20:22  1.4 12.7 Leo 
+H 3.376   NGC3821 Galaxy        11:42.2 +20:20  1.4 12.9 Leo 
+H 3.377   NGC3842 Galaxy        11:44.0 +19:57  1.4 11.8 Leo 
+H 3.378   NGC3851 Galaxy        11:44.3 +19:59   .3 14.4 Leo 
+H 3.379   NGC3926A Galaxy       11:51.5 +22:03  1.0 13.5 Leo  double system
+H 3.380   NGC3940 Galaxy        11:52.7 +21:01  1.3 12.8 Leo 
+H 3.381   NGC3954 Galaxy        11:53.7 +20:54   .8 13.7 Leo 
+H 3.382    IC2995 Galaxy        12:05.8 -27:56  3.1 13.5 Hya 
+H 3.382   NGC4095 Galaxy        12:06.0 +20:35      13.5 Com 
+H 3.383   NGC4098 Galaxy        12:06.1 +20:37  1.0 13.7 Com 
+H 3.384   NGC4099 Nonexistent   12:06.1 +20:39           Com 
+H 3.385   NGC3862 Galaxy        11:45.1 +19:36  1.0 12.7 Leo 
+H 3.386   NGC3860A Galaxy       11:44.6 +19:49  1.1 13.4 Leo 
+H 3.387   NGC3875 Galaxy        11:45.8 +19:46   .9 13.9 Leo 
+H 3.388   NGC3884 Galaxy        11:46.2 +20:25  1.7 12.6 Leo 
+H 3.389   NGC3937 Galaxy        11:52.7 +20:39  1.8 12.5 Leo 
+H 3.390   NGC4049 Galaxy        12:03.0 +18:46   .8 13.2 Com 
+H 3.391   NGC4070 Galaxy        12:04.2 +20:26  1.2 13.1 Com 
+H 3.392   NGC4069 Galaxy        12:04.2 +20:20           Com 
+H 3.393   NGC4074 Galaxy        12:04.6 +20:20   .4 14.5 Com 
+H 3.394   NGC4061 Galaxy        12:04.1 +20:13  1.2 13.1 Com 
+H 3.395   NGC4065 Galaxy        12:04.2 +20:13  1.2 12.6 Com 
+H 3.396   NGC4076 Galaxy        12:04.6 +20:12   .8 13.3 Com 
+H 3.397   NGC4204 Galaxy        12:15.2 +20:39  4.3 12.4 Com 
+H 3.398   NGC4685 Galaxy        12:47.1 +19:28  1.5 12.6 Com 
+H 3.399   NGC4163 Galaxy        12:12.2 +36:10  1.9 14.0 CVn 
+H 3.400   NGC4097 Galaxy        12:06.1 +36:52  1.2 13.4 UMa 
+H 3.401   NGC4986 Galaxy        13:08.4 +35:12  1.6 13.2 CVn 
+H 3.402   NGC5141 Galaxy        13:24.9 +36:23  1.5 12.8 CVn 
+H 3.403   NGC5142 Galaxy        13:25.0 +36:24  1.0 13.3 CVn 
+H 3.404   NGC5149 Galaxy        13:26.1 +35:56  1.5 12.9 CVn 
+H 3.405   NGC5154 Galaxy        13:26.4 +36:00  1.3 13.8 CVn 
+H 3.406   NGC5199 Galaxy        13:30.6 +34:49   .9 14.0 CVn 
+H 3.407   NGC5223 Galaxy        13:34.4 +34:42  1.5 13.0 CVn  NGC 5223 Group
+H 3.408   NGC5228 Galaxy        13:34.5 +34:46  1.0 13.3 CVn  NGC 5223 Group
+H 3.409   NGC5240 Galaxy        13:35.9 +35:34  1.9 13.1 CVn 
+H 3.410   NGC5265 Galaxy        13:40.1 +36:51   .6 13.9 CVn 
+H 3.411   NGC5399 Galaxy        13:59.5 +34:47  1.2 13.8 CVn 
+H 3.412   NGC5401 Galaxy        13:59.7 +36:15  1.5 13.7 CVn 
+H 3.413   NGC5445 Galaxy        14:03.5 +35:02  1.7 13.0 CVn  NGC 5444 Group
+H 3.414   NGC5529 Galaxy        14:15.6 +36:13  5.7 11.9 Boo 
+H 3.415   NGC5579 Galaxy        14:20.5 +35:11  1.7 13.6 Boo 
+H 3.416   NGC5589 Galaxy        14:21.5 +35:15  1.2 13.3 Boo 
+H 3.417   NGC5590 Galaxy        14:21.7 +35:11  1.8 12.3 Boo 
+H 3.418   NGC5596 Galaxy        14:22.5 +37:07  1.2 13.4 Boo 
+H 3.419   NGC5616 Galaxy        14:24.2 +36:26  2.2 13.8 Boo 
+H 3.420   NGC5654 Galaxy        14:29.9 +36:21  1.5 12.9 Boo  double nucleus
+H 3.421   NGC5684 Galaxy        14:35.8 +36:32  1.9 12.7 Boo 
+H 3.422   NGC5312 Galaxy        13:49.8 +33:38   .8 13.9 CVn 
+H 3.423   NGC5318 Galaxy        13:50.5 +33:43  1.5 12.6 CVn  double w/ 5319
+H 3.424   NGC4719 Galaxy        12:50.1 +33:09  1.6 13.2 CVn 
+H 3.425   NGC5233 Galaxy        13:35.1 +34:40  1.1 13.9 CVn  NGC 5223 Group
+H 3.426   NGC7685 Galaxy        23:30.6 + 3:54  1.7 13.2 Psc 
+H 3.427   NGC7750 Galaxy        23:46.7 + 3:47  1.6 12.9 Psc 
+H 3.428   NGC61A Galaxy        0:16.5 - 6:14  1.1 14.7 Psc 
+H 3.429   NGC274 Galaxy         0:51.0 - 7:03  1.3 11.8 Cet 
+H 3.430   NGC273 Galaxy         0:50.8 - 6:53  1.7 12.9 Cet 
+H 3.431   NGC586 Galaxy         1:31.6 - 6:54  1.6 13.2 Cet 
+H 3.432   NGC600 Galaxy         1:33.1 - 7:19  3.5 12.4 Cet 
+H 3.433   NGC790 Galaxy         2:01.5 - 5:23  1.3 12.7 Cet 
+H 3.434   NGC991 Galaxy         2:35.5 - 7:09  2.9 11.7 Cet 
+H 3.435   NGC7623 Galaxy        23:20.5 + 8:24  1.6 12.8 Peg 
+H 3.436   NGC7816 Galaxy         0:03.8 + 7:28  1.8 12.8 Psc 
+H 3.437   NGC7751 Galaxy        23:47.0 + 6:51  1.5 12.8 Psc 
+H 3.438   NGC7665 Galaxy        23:27.2 - 9:24   .9 12.7 Aqr 
+H 3.439   NGC279 Galaxy         0:52.3 - 2:12  1.6 12.7 Cet 
+H 3.440   NGC450 Galaxy         1:15.5 - 0:52  3.2 12.1 Cet 
+H 3.441   NGC560 Galaxy         1:27.4 - 1:55  2.3 12.9 Cet 
+H 3.442   NGC564 Galaxy         1:27.8 - 1:53  1.8 12.5 Cet 
+H 3.443   NGC1248 Galaxy         3:12.8 - 5:13  1.1 12.5 Eri 
+H 3.444   NGC1304 Galaxy         3:21.0 - 4:35  1.3 13.7 Eri 
+H 3.445   NGC1324 Galaxy         3:25.0 - 5:45  2.0 13.4 Eri 
+H 3.446   NGC1358 Galaxy         3:33.7 - 5:05  2.8 12.1 Eri 
+H 3.447   NGC1924 Galaxy         5:27.9 - 5:19  1.4 12.5 Ori 
+H 3.448   NGC2110 Galaxy         5:52.2 - 7:27  1.6 12.4 Ori  = H 3.510
+H 3.449   NGC1114 Galaxy         2:49.2 -17:00  1.5 12.8 Eri 
+H 3.450   NGC1125 Galaxy         2:51.8 -16:38  1.5 12.6 Eri 
+H 3.451   NGC1393 Galaxy         3:38.6 -18:26  1.8 12.0 Eri 
+H 3.452   NGC7156 Galaxy        21:54.6 + 2:57  1.7 13.0 Peg 
+H 3.453   NGC1762 Galaxy         5:03.6 + 1:34  1.6 12.6 Ori 
+H 3.454   NGC622 Galaxy         1:36.0 + 0:40  1.9 12.9 Cet 
+H 3.455   NGC1073 Galaxy         2:43.7 + 1:23  4.9 11.0 Cet  NGC 1068 group
+H 3.456   NGC36 Galaxy         0:11.4 + 6:23  2.4 14.4 Psc 
+H 3.457   NGC864 Galaxy         2:15.5 + 6:00  4.6 11.0 Cet 
+H 3.458   NGC7252 Galaxy        22:20.7 -24:41  2.2 12.1 Aqr 
+H 3.459   NGC686 Galaxy         1:49.0 -23:48  1.5 12.4 For 
+H 3.460   NGC723 Galaxy         1:53.9 -23:46  1.3 12.4 Cet 
+H 3.461   NGC24 Galaxy         0:09.9 -24:58  5.5 11.5 Scl  Nearly edge-on
+H 3.462   NGC1094 Galaxy         2:47.5 - 0:17  1.2 12.5 Cet  NGC 1068 group
+H 3.463   NGC268 Galaxy         0:50.2 - 5:12  1.3 13.1 Cet 
+H 3.464   NGC762 Galaxy         1:57.1 - 5:26  1.5 13.5 Cet 
+H 3.465   NGC7432 Galaxy        22:58.0 +13:08  1.5 13.4 Peg 
+H 3.466   NGC7794 Galaxy        23:58.6 +10:42  1.3 12.5 Peg 
+H 3.467   NGC154 Galaxy         0:34.1 -12:39  1.0 13.1 Cet 
+H 3.468   NGC773 Galaxy         1:59.0 -11:31  1.4 13.2 Cet 
+H 3.469   NGC1162 Galaxy         2:58.9 -12:24  1.3 12.5 Eri 
+H 3.470   NGC7526 Asterism      23:13.9 - 9:12           Aqr 
+H 3.471   NGC624 Galaxy         1:35.7 -10:00  2.7 12.8 Cet 
+H 3.472   NGC977 Galaxy         2:33.0 -10:44  1.7 12.7 Cet 
+H 3.473   NGC7647 Galaxy        23:24.1 +16:47  1.1 13.6 Peg 
+H 3.474   NGC924 Galaxy         2:26.8 +20:30  2.3 12.4 Ari  NGC 932 group
+H 3.475   NGC1036 Galaxy         2:40.5 +19:18  1.5 13.2 Ari  asymmetric
+H 3.476   NGC160 Galaxy         0:36.1 +23:57  3.2 12.4 And 
+H 3.477   NGC280 Galaxy         0:52.5 +24:20  1.6 13.2 And  distorted
+H 3.478   NGC3099A Galaxy       10:02.7 +32:42   .5 14.8 LMi 
+H 3.479   NGC2459 Not documnted  7:52.0 + 9:33           CMi 
+H 3.480   NGC4241 Galaxy        12:17.4 + 6:41  2.5 11.9 Vir 
+H 3.481   NGC4356 Galaxy        12:24.3 + 8:33  2.8 13.3 Vir 
+H 3.482   NGC4415 Galaxy        12:26.6 + 8:25  1.3 12.1 Vir 
+H 3.483   NGC4464 Galaxy        12:29.4 + 8:10   .9 12.5 Vir 
+H 3.484   NGC4488 Galaxy        12:30.9 + 8:22  4.2 12.2 Vir 
+H 3.485   NGC244 Galaxy         0:45.8 -15:36  1.3 13.3 Cet 
+H 3.486   NGC887 Galaxy         2:19.6 -16:04  1.8 12.0 Cet 
+H 3.487   NGC1354 Galaxy         3:32.4 -15:13  2.6 13.7 Eri 
+H 3.488   NGC2848 Galaxy         9:20.2 -16:32  2.7 12.1 Hya 
+H 3.489   NGC4763 Galaxy        12:53.4 -17:00  1.7 12.6 Crv 
+H 3.490   NGC1552 Galaxy         4:20.3 - 0:40  2.0 12.9 Eri  spiral
+H 3.491   NGC4044 Galaxy        12:02.5 - 0:11  1.1 13.0 Vir 
+H 3.492   NGC4418 Galaxy        12:26.9 - 0:51  1.3 13.1 Vir 
+H 3.493   NGC4541 Galaxy        12:35.2 - 0:13  1.5 13.0 Vir 
+H 3.494   NGC4642 Galaxy        12:43.3 - 0:39  1.8 12.9 Vir 
+H 3.495   NGC4583 Galaxy        12:38.0 +33:28  1.1 13.5 CVn 
+H 3.496   NGC4737 Galaxy        12:50.9 +34:09   .6 14.3 CVn 
+H 3.497   NGC3434 Galaxy        10:52.0 + 3:48  2.1 12.1 Leo 
+H 3.498   NGC3495 Galaxy        11:01.3 + 3:38  4.4 11.8 Leo  Nearly edge-on
+H 3.499   NGC1516A Galaxy        4:08.1 - 8:53   .5 11.6 Eri 
+H 3.500   NGC1779 Galaxy         5:05.3 - 9:09  2.2 12.1 Eri 
+H 3.501   NGC1670 Galaxy         4:49.9 - 2:44  1.9 12.7 Ori 
+H 3.502   NGC1678 Galaxy         4:51.7 - 2:38  1.1 13.2 Ori 
+H 3.503   NGC1729 Galaxy         5:00.1 - 3:21  1.9 12.3 Ori 
+H 3.504   NGC4591 Galaxy        12:39.3 + 6:01  1.6 13.0 Vir 
+H 3.505   NGC5252 Galaxy        13:38.3 + 4:31  1.5 13.0 Vir 
+H 3.506   NGC5356 Galaxy        13:55.0 + 5:20  2.7 12.6 Vir 
+H 3.507   NGC5203 Galaxy        13:32.2 - 8:48  1.5 12.5 Vir 
+H 3.508   NGC5729 Galaxy        14:42.0 - 9:03  2.7 12.6 Lib 
+H 3.509   NGC4599 Galaxy        12:40.5 + 1:11  1.6 12.6 Vir 
+H 3.510   NGC2110 Galaxy         5:52.2 - 7:27  1.6 12.4 Ori  = H 3.448
+H 3.511   NGC5845 Galaxy        15:06.0 + 1:38   .6 12.5 Vir  NGC 5846 group
+H 3.512   NGC2513 Galaxy         8:02.5 + 9:25  2.5 11.6 Cnc  brightest in group
+H 3.513   NGC2914 Galaxy         9:34.0 +10:07  1.2 13.1 Leo  NGC 2911 group
+H 3.514   NGC4703 Galaxy        12:49.3 - 9:07  2.8 13.7 Vir 
+H 3.515   NGC4739 Galaxy        12:51.6 - 8:25  1.5 12.6 Vir 
+H 3.516   NGC4773 Galaxy        12:53.6 - 8:38  1.3 14.1 Vir 
+H 3.517   NGC4777 Galaxy        12:54.0 - 8:47  1.8 13.7 Vir 
+H 3.518   NGC3145 Galaxy        10:10.2 -12:26  2.3 11.7 Hya 
+H 3.519   NGC2948 Galaxy         9:38.9 + 6:57  1.6 12.9 Leo 
+H 3.520   NGC2863 Galaxy         9:23.6 -10:24  1.1 12.7 Hya 
+H 3.521   NGC2979 Galaxy         9:43.1 -10:23  1.7 12.8 Sex 
+H 3.522   NGC3411 Galaxy        10:50.3 -12:51  2.0 11.9 Hya  = NGC 3402
+H 3.523   NGC4682 Galaxy        12:47.3 -10:04  2.2 12.2 Vir 
+H 3.524   NGC4700 Galaxy        12:49.1 -11:25  2.8 11.9 Vir  edge on spiral
+H 3.525   NGC4770 Galaxy        12:53.5 - 9:31  1.5 13.0 Vir 
+H 3.526   NGC4784 Galaxy        12:54.6 -10:37  1.2 14.2 Vir 
+H 3.527   NGC2969 Galaxy         9:41.8 - 8:37  1.5 14.7 Sex 
+H 3.528   NGC2980 Galaxy         9:43.2 - 9:37  1.6 13.0 Sex 
+H 3.529   NGC3591 Galaxy        11:14.1 -14:04  1.3 13.1 Crt 
+H 3.530   NGC3661 Galaxy        11:23.7 -13:48  1.7 14.0 Crt 
+H 3.531   NGC3667A Galaxy       11:24.3 -13:49  1.4 12.7 Crt 
+H 3.532   NGC3693 Galaxy        11:28.2 -13:10  3.7 12.3 Crt 
+H 3.533   NGC4114 Galaxy        12:07.2 -14:11  1.7 12.7 Crv 
+H 3.534   NGC4177 Galaxy        12:12.8 -14:00  1.6 13.2 Crv 
+H 3.535   NGC4263 Galaxy        12:19.7 -12:15  1.2 11.8 Crv 
+H 3.536   NGC4714 Galaxy        12:50.3 -13:18  1.5 12.5 Crv 
+H 3.537   NGC4748 Galaxy        12:52.2 -13:24   .8 13.5 Crv 
+H 2.538   NGC4794 Galaxy        12:55.2 -12:37  1.5 13.7 Crv 
+H 3.539   NGC5094 Galaxy        13:20.7 -14:05  1.2 13.2 Vir 
+H 3.540   NGC2719 Galaxy         9:00.3 +35:44  1.3 13.1 Lyn  high surf brightn
+H 3.541   NGC2955 Galaxy         9:41.3 +35:53  1.4 12.9 LMi 
+H 3.542   NGC3074 Galaxy         9:59.7 +35:24  2.2 12.7 LMi 
+H 3.543   NGC4688 Galaxy        12:47.8 + 4:20  4.0 11.9 Vir 
+H 3.544   NGC4765 Galaxy        12:53.2 + 4:28  1.4 13.0 Vir 
+H 3.545   NGC5019 Galaxy        13:12.8 + 4:44   .8 13.5 Vir 
+H 3.546   NGC5382 Galaxy        13:58.2 + 6:16  1.5 12.6 Vir 
+H 3.547   NGC5386 Galaxy        13:58.2 + 6:21  1.0 13.2 Vir 
+H 3.548   NGC4799 Galaxy        12:55.3 + 2:54  1.5 13.3 Vir 
+H 3.549   NGC5329 Galaxy        13:52.2 + 2:20  1.5 12.4 Vir  Double system
+H 3.550   NGC5718 Galaxy        14:40.8 + 3:28  1.4 12.9 Vir 
+H 3.551   NGC5546 Galaxy        14:18.1 + 7:34  1.3 12.3 Boo 
+H 3.552   NGC5549 Galaxy        14:18.5 + 7:22  1.5 12.8 Vir 
+H 3.553   NGC6070 Galaxy        16:10.0 + 0:43  3.6 11.8 Ser 
+H 3.554   NGC5775 Galaxy        14:54.0 + 3:33  4.3 11.4 Vir  with NGC5774
+H 3.555   NGC6548 Galaxy        18:06.0 +18:35  2.8 11.7 Her  = NGC 6550.6549 nearby
+H 3.556   NGC532 Galaxy         1:25.3 + 9:16  2.6 12.9 Psc  Singular
+H 3.557   NGC990 Galaxy         2:36.4 +11:39  1.8 12.4 Ari 
+H 3.558   NGC7492 Globular clst 23:08.4 -15:37  6.2 11.5 Aqr 
+H 3.559   NGC1370 Galaxy         3:35.2 -20:22  1.5 12.4 Eri 
+H 3.560   NGC551 Galaxy         1:27.6 +37:11  1.8 12.7 And 
+H 3.561   NGC687 Galaxy         1:50.6 +36:21  1.4 12.3 And 
+H 3.562   NGC3715 Galaxy        11:31.5 -14:12  1.5 11.1 Crt 
+H 3.562   NGC703 Galaxy         1:52.8 +36:09  1.2 13.3 And  NGC 708 group
+H 3.563   NGC704 Galaxy         1:52.7 +36:06      13.1 And  Double system
+H 3.564   NGC705 Galaxy         1:52.8 +36:08  1.1 13.6 And  NGC 708 group
+H 3.565   NGC708 Galaxy         1:52.8 +36:10  3.0 12.7 And  NGC 708 group
+H 3.566   NGC797 Galaxy         2:03.4 +38:07  1.7 12.2 And  double nebula
+H 3.567   NGC834 Galaxy         2:11.0 +37:40  1.1 13.1 And 
+H 3.568   NGC1308 Galaxy         3:22.5 - 2:45  1.3 13.9 Eri 
+H 3.569   NGC1397 Galaxy         3:39.6 - 4:40  1.5 13.7 Eri 
+H 3.570   NGC898 Galaxy         2:23.3 +41:57  1.8 12.9 And 
+H 3.571   NGC910 Galaxy         2:25.4 +41:50  2.2 12.2 And 
+H 3.572   NGC980 Galaxy         2:35.5 +40:54  1.7 13.0 And 
+H 3.573   NGC982 Galaxy         2:35.4 +40:57  1.6 12.5 And 
+H 3.574   NGC1293 Galaxy         3:21.6 +41:24  1.0 13.4 Per 
+H 3.575   NGC1294 Galaxy         3:21.7 +41:22  1.8 13.1 Per 
+H 3.576   NGC7426 Galaxy        22:56.1 +36:21  1.7 12.3 Lac 
+H 3.577   NGC477 Galaxy         1:21.3 +40:29  2.3 13.0 And  main arms split
+H 3.578   NGC1207 Galaxy         3:08.2 +38:23  1.8 12.6 Per 
+H 3.579   NGC7707 Galaxy        23:34.8 +44:18  1.2 13.4 And 
+H 3.580   NGC1138 Galaxy         2:56.5 +43:03  1.4 12.8 Per 
+H 3.581   NGC1030 Galaxy         2:39.9 +18:01  1.6 13.2 Ari 
+H 3.582   NGC1088 Galaxy         2:47.0 +16:11  1.1 13.7 Ari  appears disturbed
+H 3.583   NGC780 Galaxy         2:00.5 +28:13  1.6 13.4 Tri 
+H 3.584   NGC1056 Galaxy         2:42.9 +28:33  2.3 12.4 Ari  lge nucl bulge
+H 3.585   NGC1609 Galaxy         4:32.6 - 4:22  1.1 13.5 Eri 
+H 3.586   NGC1611 Galaxy         4:33.0 - 4:17  1.9 13.0 Eri 
+H 3.587   NGC1576 Galaxy         4:26.2 - 3:37  1.3 13.5 Eri 
+H 3.588   NGC1643 Galaxy         4:43.6 - 5:17  1.1 12.8 Eri 
+H 3.589   NGC1659 Galaxy         4:46.5 - 4:47  1.7 12.5 Eri 
+H 3.590   NGC1954 Galaxy         5:32.8 -14:04  4.2 11.8 Lep 
+H 3.591   NGC1242 Galaxy         3:11.3 - 8:54  0.9 13.7 Eri 
+H 3.592   NGC426 Galaxy         1:12.9 - 0:17  1.7 12.8 Cet  NGC 430 group
+H 3.593   NGC429 Galaxy         1:13.0 - 0:20  1.6 13.4 Cet  NGC 430 group
+H 3.594   NGC493 Galaxy         1:22.2 + 0:57  3.8 12.5 Cet 
+H 3.595   NGC193 Galaxy         0:39.3 + 3:20  1.7 12.3 Psc  NGC 182 Group
+H 3.596   NGC3081 Galaxy         9:59.5 -22:50  2.0 12.0 Hya 
+H 3.597   NGC2921 Galaxy         9:34.7 -20:57  3.2 12.0 Hya 
+H 3.598   NGC3509 Galaxy        11:04.4 + 4:50  1.9 12.7 Leo 
+H 3.599   NGC2595 Galaxy         8:27.7 +21:29  2.9 12.3 Cnc  slightly asym spiral
+H 3.600   NGC3053 Galaxy         9:55.6 +16:26  1.6 12.7 Leo 
+H 3.601   NGC3060 Galaxy         9:56.4 +16:51  2.2 13.0 Leo 
+H 3.602   NGC4571 Galaxy        12:36.9 +14:13  3.8 11.3 Com 
+H 3.603   NGC4634 Galaxy        12:42.7 +14:18  2.4 12.4 Com 
+H 3.604   NGC845 Galaxy         2:12.3 +37:29  1.6 13.5 And 
+H 3.605   NGC2512 Galaxy         8:03.1 +23:24  1.3 13.1 Cnc 
+H 3.606   NGC2558 Galaxy         8:19.4 +20:30  2.0 12.9 Cnc 
+H 3.607   NGC2562 Galaxy         8:20.4 +21:08  1.4 12.9 Cnc 
+H 3.608   NGC2743 Galaxy         9:05.0 +25:00  1.1 13.7 Cnc 
+H 3.609   NGC3791 Galaxy        11:39.8 - 9:23  1.3 13.7 Crt 
+H 3.610   NGC4705 Galaxy        12:49.4 - 5:12  3.2 12.8 Vir 
+H 3.611   NGC4720 Galaxy        12:50.7 - 4:07  1.0 14.2 Vir 
+H 3.612   NGC3952 Galaxy        11:53.7 - 4:00  1.7 13.1 Vir 
+H 3.613   NGC4843 Galaxy        12:58.0 - 3:37  2.0 13.0 Vir 
+H 3.614   NGC4890 Galaxy        13:00.6 - 4:34  1.0 11.9 Vir 
+H 3.615   NGC3304 Galaxy        10:37.6 +37:27  1.4 13.4 LMi 
+H 3.616   NGC3930 Galaxy        11:51.8 +38:01  4.1 12.4 UMa 
+H 3.617   NGC4025 Galaxy        11:59.2 +37:48  2.6 13.6 UMa 
+H 3.618   NGC4774 Galaxy        12:53.2 +36:49   .6 14.3 CVn 
+H 3.619   NGC5107 Galaxy        13:21.4 +38:32  1.6 13.2 CVn 
+H 3.620   NGC5243 Galaxy        13:36.2 +38:21  1.4 13.1 CVn 
+H 3.621   NGC5305 Galaxy        13:47.9 +37:50  1.5 13.6 CVn 
+H 3.622   NGC6038 Galaxy        16:02.6 +37:21  1.1 13.5 CrB 
+H 3.623   NGC6120 Galaxy        16:19.8 +37:47   .5 13.8 CrB   with 6119 & 6122
+H 3.624   NGC6137 Galaxy        16:23.1 +37:55  1.9 12.4 CrB 
+H 3.625   NGC2704 Galaxy         8:56.9 +39:22  1.1 13.4 Lyn 
+H 3.626   NGC2755 Galaxy         9:07.9 +41:43  1.1 13.2 Lyn  compact
+H 3.627   NGC2838 Galaxy         9:20.7 +39:19      13.6 Lyn 
+H 3.628   NGC2844 Galaxy         9:21.8 +40:09  1.9 12.9 Lyn  brightest in NGC2852
+H 3.629   NGC2852 Galaxy         9:23.2 +40:10  1.0 13.2 Lyn  compact,NGC 2844 group
+H 3.630   NGC2853 Galaxy         9:23.3 +40:12  1.7 13.3 Lyn  NGC 2844 group
+H 3.631   NGC3237 Galaxy        10:25.8 +39:39  1.1 13.0 UMa 
+H 3.632   NGC3468 Galaxy        10:57.4 +40:57  1.6 13.0 UMa 
+H 3.633   NGC5093 Galaxy        13:19.6 +40:23  1.5 13.7 CVn 
+H 3.634   NGC5966 Galaxy        15:35.8 +39:47  1.8 12.2 Boo 
+H 3.635   NGC5992 Galaxy        15:44.4 +41:05   .9 13.7 Boo 
+H 3.636   NGC5993 Galaxy        15:44.5 +41:07  1.1 13.1 Boo 
+H 3.637   NGC6058 Planetary neb 16:04.4 +40:41   .4 12.9 Her 
+H 3.638   NGC6146 Galaxy        16:25.2 +40:53  1.3 12.5 Her 
+H 3.639   NGC6150 Galaxy        16:25.8 +40:30  NIU 14.0 Her 
+H 3.640   NGC6173 Galaxy        16:29.8 +40:49  1.9 12.1 Her 
+H 3.641   NGC6175 Galaxy        16:29.9 +40:39  1.4 13.7 Her 
+H 3.642   NGC5185 Galaxy        13:30.0 +13:25  1.7 13.3 Vir 
+H 3.643   NGC5207 Galaxy        13:32.2 +13:54  1.7 13.2 Vir 
+H 3.644   NGC5522 Galaxy        14:14.8 +15:09  1.6 13.5 Boo 
+H 3.645   NGC5649 Galaxy        14:30.6 +14:00   .8 13.2 Boo 
+H 3.646   NGC6018 Galaxy        15:57.5 +15:51  1.4 13.4 Ser 
+H 3.647   NGC2759 Galaxy         9:08.6 +37:37  1.0 13.0 Lyn  brightest in group
+H 3.648   NGC4359 Galaxy        12:24.2 +31:31  3.3 12.7 Com 
+H 3.649   NGC5025 Galaxy        13:12.8 +31:48  2.0 13.4 CVn 
+H 3.650   NGC5096 Galaxy        13:20.2 +33:05  1.5 13.8 CVn 
+H 3.651   NGC5157 Galaxy        13:27.4 +32:01  1.5 13.2 CVn 
+H 3.652   NGC5187 Galaxy        13:29.9 +31:07  1.7 13.3 CVn 
+H 3.653   NGC5433 Galaxy        14:02.5 +32:31  1.6 13.6 CVn 
+H 3.654   NGC4985 Galaxy        13:08.1 +41:41  1.3 13.7 CVn 
+H 3.655   NGC5003 Galaxy        13:08.6 +43:44  1.0 13.4 CVn  double system
+H 3.656   NGC5214 Galaxy        13:32.8 +41:52  1.0 13.6 CVn 
+H 3.657   NGC5730 Galaxy        14:40.3 +42:45  2.0 14.1 Boo 
+H 3.658   NGC5731 Galaxy        14:40.0 +42:46  1.7 13.1 Boo 
+H 3.659   NGC5888 Galaxy        15:13.1 +41:16  1.4 13.4 Boo 
+H 3.660   NGC5900 Galaxy        15:15.1 +42:13  1.4 14.0 Boo 
+H 3.661   NGC5922 Galaxy        15:21.2 +41:40   .5 15 p Boo  Not in Uranometria
+H 3.662   NGC4653 Galaxy        12:43.9 - 0:34  2.6 12.3 Vir 
+H 3.663   NGC4668 Galaxy        12:45.5 - 0:32  1.4 13.1 Vir 
+H 3.664   NGC4690 Galaxy        12:47.9 - 1:38  1.1 12.9 Vir 
+H 3.665   NGC5334 Galaxy        13:52.9 - 1:07  4.1 11.3 Vir  low surface brt.H 3.666   NGC 5392 Galaxy        13:59.4 - 3:12  1.1 13.4 Vir 
+H 3.667   NGC5400 Galaxy        14:00.6 - 2:51  1.5 12.9 Vir 
+H 3.668   NGC5604 Galaxy        14:24.7 - 3:13  2.0 12.8 Vir 
+H 3.669   NGC5017 Galaxy        13:12.9 -16:46  2.0 12.6 Vir 
+H 3.670   NGC5047 Galaxy        13:15.8 -16:31  2.5 12.7 Vir 
+H 3.671   NGC5716 Galaxy        14:41.1 -17:29  2.0 12.9 Lib 
+H 3.672   NGC5173 Galaxy        13:28.4 +46:36  1.0 12.1 CVn 
+H 3.673   NGC5256 Galaxy        13:38.3 +48:17  1.1 13.2 UMa 
+H 3.674   NGC5500 Galaxy        14:10.2 +48:33  1.0 13.3 Boo 
+H 3.675   NGC5714 Galaxy        14:38.2 +46:38  2.7 13.4 Boo 
+H 3.676   NGC5520 Galaxy        14:12.3 +50:22  1.6 12.4 Boo 
+H 3.677   NGC5622 Galaxy        14:26.2 +48:33  1.6 13.2 Boo 
+H 3.678   NGC5797 Galaxy        14:56.3 +49:42  1.0 12.8 Boo 
+H 3.679   NGC5804 Galaxy        14:55.7 +49:39  1.2 13.1 Boo 
+H 3.680   NGC6154 Galaxy        16:25.6 +49:50  2.0 12.7 Her 
+H 3.681   NGC5303 Galaxy        13:47.8 +38:18   .9 12.6 CVn 
+H 3.682   NGC5361 Galaxy        13:54.7 +38:27   .9 13.8 CVn 
+H 3.683   NGC5403 Galaxy        13:59.9 +38:11  2.9 13.6 CVn 
+H 3.684   NGC5407 Galaxy        14:00.9 +39:09  1.3 13.2 CVn 
+H 3.685   NGC5515 Galaxy        14:12.5 +39:18  1.4 12.9 Boo 
+H 3.686   NGC5732 Galaxy        14:40.6 +38:39  1.4 13.5 Boo 
+H 3.687   NGC5754 Galaxy        14:45.4 +38:47  1.8 13.1 Boo 
+H 3.688   NGC6104 Galaxy        16:16.5 +35:42   .8 13.2 CrB 
+H 3.689   NGC6255 Galaxy        16:54.8 +36:30  3.2 12.7 Her 
+H 3.690   NGC5757 Galaxy        14:47.8 -19:05  2.3 12.0 Lib 
+H 3.691   NGC5791 Galaxy        14:58.8 -19:16  2.4 11.9 Lib 
+H 3.692   NGC7171 Galaxy        22:01.0 -13:16  2.1 12.2 Aqr 
+H 3.693   NGC7180 Galaxy        22:02.3 -20:33  1.8 12.5 Aqr 
+H 3.694   NGC1343 Galaxy         3:37.8 +72:34  2.8 12.3 Cas  ringshaped nucl
+H 3.695   NGC896 Nebula         2:24.8 +61:54 27.0      Cas 
+H 3.696   NGC7139 Planetary neb 21:45.9 +63:39  1.3 13.3 Cep 
+H 3.697   NGC4183 Galaxy        12:13.3 +43:42  5.0 12.3 CVn 
+H 3.698   NGC5337 Galaxy        13:52.5 +39:42  1.6 12.5 CVn 
+H 3.699   NGC5355 Galaxy        13:53.8 +40:21  1.2 13.1 CVn 
+H 3.700   NGC3319 Galaxy        10:39.2 +41:41  6.9 11.1 UMa 
+H 3.701   NGC3374 Galaxy        10:47.9 +43:10  1.3 13.7 UMa 
+H 3.702   NGC4253 Galaxy        12:18.4 +29:49   .8 13.1 Com 
+H 3.703   NGC2385 Galaxy         7:28.4 +33:50  0.7 14.2 Gem 
+H 3.704   NGC3192 Galaxy        10:19.0 +46:27   .3 15.0 UMa 
+H 3.705   NGC3478 Galaxy        10:59.5 +46:07  2.4 12.9 UMa 
+H 3.706   NGC3595 Galaxy        11:15.4 +47:27  1.5 12.1 UMa 
+H 3.707   NGC3985 Galaxy        11:56.7 +48:20  1.0 12.6 UMa 
+H 3.708   NGC4117 Galaxy        12:07.8 +43:08  2.5 13.0 CVn 
+H 3.709   NGC2500 Galaxy         8:01.9 +50:44  2.9 11.6 Lyn  bright nucleus in bar
+H 3.710   NGC2541 Galaxy         8:14.7 +49:04  6.6 11.8 Lyn 
+H 3.711   NGC2552 Galaxy         8:19.3 +50:01  3.6 12.1 Lyn  irreg spiral struct
+H 3.712   NGC2684 Galaxy         8:54.8 +49:08   .8 12.6 UMa  peculiar
+H 3.713   NGC2856 Galaxy         9:24.2 +49:15  1.0 13.1 UMa  narrow tail
+H 3.714   NGC2854 Galaxy         9:24.0 +49:13  1.7 13.0 UMa  double galaxy,brightest of 3
+H 3.715   NGC3906 Galaxy        11:49.7 +48:26  1.6 12.6 UMa 
+H 3.716   NGC3922 Galaxy        11:51.2 +50:11  1.7 12.8 UMa 
+H 3.717   NGC4100 Galaxy        12:06.2 +49:35  5.1 11.2 UMa  nearly edge on spiral
+H 3.718   NGC4218 Galaxy        12:15.8 +48:08   .9 12.5 CVn 
+H 3.719   NGC4231 Galaxy        12:16.8 +47:27  1.2 13.3 CVn 
+H 3.720   NGC4232 Galaxy        12:16.8 +47:26  1.4 13.6 CVn 
+H 3.721   NGC4741 Galaxy        12:50.9 +47:40  1.4 13.7 CVn 
+H 3.722   NGC4708 Galaxy        12:49.7 -11:06  1.1 13.8 Vir 
+H 3.723   NGC3577 Galaxy        11:13.8 +48:16  1.5 13.4 UMa 
+H 3.724   NGC5087 Galaxy        13:20.4 -20:37  3.0 11.0 Vir 
+H 3.725   NGC4242 Galaxy        12:17.5 +45:37  5.2 10.8 CVn 
+H 3.726   NGC4288 Galaxy        12:20.6 +46:17  2.7 12.9 CVn 
+H 3.727   NGC6239 Galaxy        16:50.1 +42:44  2.3 12.4 Her 
+H 3.728   NGC6283 Galaxy        16:59.4 +49:56  1.1 12.9 Her 
+H 3.729   NGC4392 Galaxy        12:25.2 +45:52   .7 13.7 CVn 
+H 3.730   NGC6186 Galaxy        16:34.4 +21:33  1.6 12.9 Her 
+H 3.731   NGC5536 Galaxy        14:16.3 +39:30   .9 13.5 Boo  massive bar
+H 3.732   NGC5541 Galaxy        14:16.4 +39:35   .8 12.8 Boo 
+H 3.733   NGC5598 Galaxy        14:22.5 +40:19  1.5 13.0 Boo  NGC 5603 group
+H 3.734   NGC5603 Galaxy        14:23.1 +40:22  1.4 13.0 Boo  NGC 5603 group
+H 3.735   NGC6241 Galaxy        16:50.1 +45:24   .8 13.8 Her 
+H 3.736   NGC5878 Galaxy        15:13.8 -14:16  3.0 11.5 Lib 
+H 3.737   NGC5902 Galaxy        15:14.4 +50:21  1.1 13.0 Boo 
+H 3.738   NGC5989 Galaxy        15:41.5 +59:45   .9 13.1 Dra 
+H 3.739   NGC6015 Galaxy        15:51.4 +62:19  6.4 11.1 Dra 
+H 3.740   NGC6140 Galaxy        16:20.9 +65:23  7.3 11.3 Dra 
+H 3.741   NGC6434 Galaxy        17:36.8 +72:05  2.2 12.4 Dra 
+H 3.742   NGC6742 Planetary neb 18:59.3 +48:28   .5 13.4 Dra 
+H 3.743   NGC6781 Planetary neb 19:18.4 + 6:33  1.8 11.4 Aql  "400"
+H 3.744   NGC6814 Galaxy        19:42.7 -10:19  3.2 11.2 Aql 
+H 3.745   NGC7423 Open cluster  22:55.3 +57:08  6.0 15 p Cep  Not in Uranometria
+H 3.746   NGC2347 Galaxy         7:16.1 +64:43  2.0 12.5 Cam  faint roundness
+H 3.747   NGC1961 Galaxy         5:42.1 +69:23  4.3 11.1 Cam  "400"
+H 3.748   NGC2366 Galaxy         7:28.9 +69:13  7.6 10.9 Cam 
+H 3.749   NGC2810A Galaxy        9:22.1 +71:50  1.7 12.2 UMa 
+H 3.750   NGC2493 Galaxy         8:00.4 +39:50  2.2 12.0 Lyn 
+H 3.751   NGC2965 Galaxy         9:43.2 +36:14  1.2 13.4 LMi  brightest in group
+H 3.752   NGC2529 Galaxy         8:07.9 +17:49           Cnc  Undocumented in Urnaometria (2530?)
+H 3.753   NGC2582 Galaxy         8:25.3 +20:20  1.0 13.0 Cnc  s-shaped
+H 3.754   NGC4087 Galaxy        12:05.6 -26:33  1.8 12.1 Hya 
+H 3.755   NGC4403 Galaxy        12:26.3 - 7:41  2.0 13.0 Vir 
+H 3.756   NGC4404 Galaxy        12:26.4 - 7:41  1.5 11.2 Vir 
+H 3.757   NGC4520 Galaxy        12:33.8 - 7:23  1.3 14.0 Vir 
+H 3.758   NGC4878 Galaxy        13:00.3 - 6:05  1.3 13.7 Vir 
+H 3.759   NGC4879 Galaxy        13:00.5 - 6:03  1.2 14.2 Vir 
+H 3.760   NGC4928 Galaxy        13:03.0 - 8:05  1.2 12.5 Vir  = H 2.190
+H 3.761   NGC4942 Galaxy        13:04.3 - 7:39  1.9 13.8 Vir 
+H 3.762   NGC5478 Galaxy        14:08.2 - 1:42  1.1 13.6 Vir 
+H 3.763   NGC5618 Galaxy        14:27.2 - 2:16  1.6 13.4 Vir 
+H 3.764   NGC4462 Galaxy        12:29.3 -23:10  3.7 12 p Crv  Not in Uranometria
+H 3.765   NGC4970 Galaxy        13:07.5 -24:02  1.7 12.2 Hya 
+H 3.766   NGC4993 Galaxy        13:09.7 -23:24  1.4 12.3 Hya 
+H 3.767   NGC3298 Galaxy        10:37.2 +50:06  NIU 14.0 UMa 
+H 3.768   NGC3657 Galaxy        11:23.9 +52:55  2.7 12.4 UMa 
+H 3.769   NGC3931 Galaxy        11:51.2 +52:00  1.1 13.3 UMa 
+H 3.770   NGC3594 Galaxy        11:16.1 +55:42  1.3 13.7 UMa 
+H 3.771   NGC3733 Galaxy        11:35.0 +54:51  4.4 12.4 UMa 
+H 3.772   NGC3737 Galaxy        11:35.6 +54:57  1.0 12.8 UMa 
+H 3.773   NGC3794 Galaxy        11:39.6 +55:11      15 p UMa  Not in Uranometria
+H 3.774   NGC3824 Galaxy        11:42.8 +52:47  1.3 13.6 UMa 
+H 3.775   NGC3829 Galaxy        11:43.5 +52:43   .9 14.0 UMa 
+H 3.776   NGC3850 Galaxy        11:45.6 +55:53  2.0 13.3 UMa 
+H 3.777   NGC4181 Galaxy        12:13.4 +50:46  NIU 14.0 CVn 
+H 3.778   NGC4675 Galaxy        12:45.6 +54:44  1.5 14.4 UMa 
+H 3.779   NGC4964 Galaxy        13:05.4 +56:18  1.2 13.2 UMa 
+H 3.780   NGC4977 Galaxy        13:06.2 +55:39  1.8 13.3 UMa 
+H 3.781   NGC4973 Galaxy        13:05.5 +53:41   .7 13.3 UMa 
+H 3.782   NGC4974 Galaxy        13:05.9 +53:40   .7 14.7 UMa 
+H 3.783   NGC4967 Galaxy        13:05.7 +53:34  NIU 14.2 UMa 
+H 3.784   NGC5164 Galaxy        13:27.2 +55:29   .9 13.7 UMa 
+H 3.785   NGC5294 Galaxy        13:45.2 +55:17  NIU 14.2 UMa 
+H 3.786   NGC5368 Galaxy        13:54.5 +54:20   .8 13.0 UMa 
+H 3.787   NGC5447 Knot in galax 14:02.5 +54:17           UMa  with M101
+H 3.788   NGC5461 Knot in galax 14:03.7 +54:19           UMa  with M101
+H 3.789   NGC5462 Knot in galax 14:03.9 +54:22           UMa  with M101
+H 3.790   NGC5477 Galaxy        14:05.6 +54:28  1.7 14.0 UMa 
+H 3.791   NGC5484 Galaxy        14:06.8 +55:02  NIU 14.7 UMa 
+H 3.792   NGC3398 Galaxy        10:51.5 +55:23   .9 14.4 UMa 
+H 3.793   NGC3499 Galaxy        11:03.2 +56:13   .7 13.6 UMa 
+H 3.794   NGC4054 Galaxy        12:03.2 +57:54   .5 14.2 UMa 
+H 3.795   NGC4141 Galaxy        12:09.7 +58:51  1.3 13.7 UMa 
+H 3.796   NGC4195 Galaxy        12:14.2 +59:37  1.6 14.2 UMa 
+H 3.797   NGC4199 Galaxy        12:14.8 +59:54   .5 14.5 UMa 
+H 3.798   NGC4284 Galaxy        12:20.2 +58:06  2.7 13.5 UMa 
+H 3.799   NGC4358 Galaxy        12:24.0 +58:24   .3 15.4 UMa 
+H 3.800   NGC4362 Galaxy        12:24.2 +58:22   .7 14.3 UMa 
+H 3.801   NGC4364 Galaxy        12:24.0 +58:24  1.3 13.4 UMa 
+H 3.802   NGC4547 Galaxy        12:34.8 +58:56   .7 16.4 UMa  double with 4549
+H 3.803   NGC5255 Galaxy        13:37.3 +57:06   .8 14.4 UMa 
+H 3.804   NGC5526 Galaxy        14:13.9 +57:46  1.8 13.5 UMa  = H 3.835
+H 3.805   NGC5540 Galaxy        14:14.8 +60:00  NIU 13.9 UMa 
+H 3.806   NGC5777 Galaxy        14:51.3 +58:58  3.2 13.3 Dra 
+H 3.807   NGC4549 Galaxy        12:34.8 +58:56   .3 16.4 UMa  double with 4547
+H 3.808   NGC5113 Galaxy        13:21.4 +57:42   .9 14.3 UMa 
+H 3.809   NGC5372 Galaxy        13:54.7 +58:41   .6 13.2 UMa 
+H 3.810   NGC5402 Galaxy        13:58.2 +59:49  1.1 13.7 UMa 
+H 3.811   NGC5821 Galaxy        14:58.9 +53:55  1.6 13.5 Boo 
+H 3.812   NGC6088 Galaxy        16:10.7 +57:28   .7 15.6 Dra 
+H 3.813   NGC6182 Galaxy        16:29.5 +55:31  1.7 13.5 Dra 
+H 3.814   NGC4142 Galaxy        12:09.5 +53:06  2.0 13.3 UMa 
+H 3.815   NGC4707 Galaxy        12:48.4 +51:10  2.3 12.9 CVn 
+H 3.816   NGC4801 Galaxy        12:54.6 +53:06   .8 14.4 UMa 
+H 3.817   NGC4834 Galaxy        12:56.4 +52:18   .9 14.5 CVn 
+H 3.818   NGC4932 Galaxy        13:02.6 +50:27  1.6 13.6 CVn 
+H 3.819   NGC4998 Galaxy        13:08.2 +50:40   .9 14.1 CVn 
+H 3.820   NGC5009 Galaxy        13:10.8 +50:05  1.2 14.5 CVn 
+H 3.821   NGC5163 Galaxy        13:26.9 +52:45  1.1 13.6 UMa 
+H 3.822   NGC5225 Galaxy        13:33.3 +51:30   .6 13.5 CVn 
+H 3.823   NGC5238 Galaxy        13:34.7 +51:37  1.8 13.4 CVn 
+H 3.824   NGC3497 Nonexistent   11:01.4 -19:28           Crt  = 3528? real?
+H 3.825   NGC2746 Galaxy         9:06.0 +35:22  1.6 13.1 Lyn  medium compact
+H 3.826   NGC2780 Galaxy         9:12.7 +34:55   .9 13.3 Lyn  NGC 2778 group
+H 3.827   NGC2840 Galaxy         9:20.8 +35:23   .9 13.8 Lyn 
+H 3.828   NGC3885 Galaxy        11:46.8 -27:55  3.2 11.8 Hya 
+H 3.829   NGC2431 Galaxy         7:45.3 +53:04   .8 13.4 Lyn 
+H 3.830   NGC2474 Galaxy         7:57.9 +52:51   .6 13.3 Lyn  double system w 2475
+H 3.831   NGC2692 Galaxy         8:57.0 +52:04  1.2 13.3 UMa 
+H 3.832   NGC2800 Galaxy         9:18.6 +52:31  1.4 12.8 UMa 
+H 3.833   NGC3870 Galaxy        11:45.9 +50:12   .9 13.0 UMa 
+H 3.834   NGC4511 Galaxy        12:32.2 +56:29   .8 13.7 UMa 
+H 3.835   NGC5526 Galaxy        14:13.9 +57:46  1.8 13.5 UMa  = H 3.804
+H 3.836   NGC2469 Galaxy         7:58.1 +56:41   .9 12.7 Lyn 
+H 3.837   NGC2488 Galaxy         8:01.8 +56:34  1.4 12.4 Lyn 
+H 3.838   NGC2497 Galaxy         8:02.3 +56:57  1.3 13.2 Lyn  compact
+H 3.839   NGC2505 Galaxy         8:04.0 +53:34  1.2 13.2 Lyn 
+H 3.840   NGC2534 Galaxy         8:12.9 +55:40  1.3 12.9 Lyn  peculiar
+H 3.841   NGC2710 Galaxy         8:59.8 +55:41  2.0 12.9 UMa 
+H 3.842   NGC3353 Galaxy        10:45.4 +55:58  1.4 12.8 UMa 
+H 3.843   NGC3757 Galaxy        11:37.1 +58:26  1.1 12.6 UMa 
+H 3.844   NGC3795A Galaxy       11:40.1 +58:37  2.1 13.1 UMa 
+H 3.845   NGC4154 Single star   12:10.7 +58:21           UMa 
+H 3.846   NGC2870 Galaxy         9:27.8 +57:23  2.5 13.0 UMa 
+H 3.847   NGC3740 Galaxy        11:36.2 +59:59   .9 14.2 UMa 
+H 3.848   NGC5007 Galaxy        13:09.3 +62:10   .9 13.3 UMa 
+H 3.849   NGC5342 Galaxy        13:51.4 +59:53   .9 13.5 UMa 
+H 3.850   NGC4210 Galaxy        12:15.3 +65:59  1.9 12.5 Dra 
+H 3.851   NGC4238 Galaxy        12:16.9 +63:25  1.6 13.6 Dra 
+H 3.852   NGC4391 Galaxy        12:25.3 +64:56  1.2 12.7 Dra 
+H 3.853   NGC3073 Galaxy        10:00.9 +55:37  1.2 13.4 UMa  NGC 3079 group
+H 3.854   NGC7760 Galaxy        23:49.3 +30:58  1.0 13.4 Peg 
+H 3.855   NGC7805 Galaxy         0:01.4 +31:26   .9 13.3 Peg 
+H 3.856   NGC7806 Galaxy         0:01.5 +31:27  1.0 13.5 Peg 
+H 3.857   NGC1366 Galaxy         3:33.9 -31:12  1.9 11.9 For 
+H 3.858   NGC7046 Galaxy        21:14.9 + 2:50  1.6 13.1 Equ 
+H 3.859   NGC7081 Galaxy        21:31.4 + 2:30  1.0 12.7 Aqr 
+H 3.860   NGC7680 Galaxy        23:28.5 +32:24  1.6 12.6 Peg 
+H 3.861   NGC39 Galaxy         0:12.3 +31:03  1.1 13.5 And 
+H 3.862   NGC7223 Galaxy        22:10.2 +41:00  1.8 12.2 Lac 
+H 3.863   NGC7248 Galaxy        22:16.9 +40:30  1.8 12.4 Lac 
+H 3.864   NGC7250 Galaxy        22:18.3 +40:35  1.2 12.6 Lac 
+H 3.865   NGC1985 Planetary neb  5:37.7 +32:00           Aur 
+H 3.866   NGC13 Galaxy         0:08.8 +33:26  2.7 13.6 And 
+H 3.867   NGC7797 Galaxy        23:59.0 + 3:38  1.1 13.7 Psc 
+H 3.868   NGC12 Galaxy         0:08.7 + 4:37  1.9 14.1 Psc 
+H 3.869   NGC125 Galaxy         0:28.8 + 2:50  2.0 12.3 Psc  NGC 128 Group
+H 3.870   NGC182 Galaxy         0:38.2 + 2:44  2.3 12.6 Psc  NGC 182 Group
+H 3.871   NGC173 Galaxy         0:37.2 + 1:56  3.7 13.0 Cet 
+H 3.872   NGC192 Galaxy         0:39.3 + 0:51  2.2 12.6 Cet  Brightest of 4
+H 3.873   NGC201 Galaxy         0:39.7 + 0:51  2.1 12.9 Cet  NGC 192 group
+H 3.874   NGC2322 Galaxy         7:05.9 +50:31  1.2 13.8 Lyn 
+H 3.875   NGC2329 Galaxy         7:09.2 +48:37  1.3 12.4 Lyn  = H 2.735
+H 3.876   NGC180 Galaxy         0:38.0 + 8:38  2.6 12.9 Psc  thin inner arms
+H 3.877   NGC2525 Galaxy         8:05.6 -11:26  2.9 11.6 Pup 
+H 3.878   NGC2805 Galaxy         9:20.3 +64:06  6.3 11.3 UMa  slightly asym
+H 3.879   NGC4384 Galaxy        12:25.2 +54:30  1.3 13.0 UMa 
+H 3.880   NGC4566 Galaxy        12:35.9 +54:13  1.1 13.1 UMa 
+H 3.881   NGC3392 Galaxy        10:51.0 +65:46   .8 13.7 UMa 
+H 3.882   NGC5671 Galaxy        14:27.7 +69:38  1.6 13.3 UMi 
+H 3.883   NGC6071 Galaxy        16:01.1 +70:37   .9 14.0 UMi 
+H 3.884   NGC6079 Galaxy        16:04.5 +69:38  1.4 12.7 Dra 
+H 3.885   NGC5760 Galaxy        14:47.7 +18:31  1.5 13.3 Boo 
+H 3.886   NGC5851 Galaxy        15:06.9 +12:52  1.0 14.0 Boo 
+H 3.887   NGC5852 Galaxy        15:07.0 +12:51  1.1 13.5 Boo 
+H 3.888   NGC6103 Galaxy        16:15.7 +31:57   .7 13.8 CrB 
+H 3.889   NGC6089 Galaxy        16:12.7 +33:02   .7 14.0 CrB 
+H 3.890   NGC6177 Galaxy        16:30.6 +35:04  1.6 13.6 Her 
+H 3.891   NGC6129 Galaxy        16:21.8 +37:59   .7 13.7 CrB 
+H 3.892   NGC6142 Galaxy        16:23.4 +37:16  2.1 13.8 CrB 
+H 3.893   NGC6195 Galaxy        16:36.5 +39:02  1.5 13.0 Her 
+H 3.894   NGC5702 Galaxy        14:38.8 +20:31  1.1 13.3 Boo 
+H 3.895   NGC5710 Galaxy        14:39.3 +20:03  1.0 13.0 Boo 
+H 3.896   NGC5737 Galaxy        14:43.2 +18:53  1.3 13.5 Boo 
+H 3.897   NGC2290 Galaxy         6:51.0 +33:26  1.2 13.2 Gem  NGC 2289 group
+H 3.898   NGC2289 Galaxy         6:50.7 +33:27  1.1 13.2 Gem  NGC 2289 group
+H 3.899   NGC2333 Galaxy         7:08.4 +35:11  1.2 13.3 Gem 
+H 3.900   NGC2388 Galaxy         7:28.8 +33:49  0.9 13.7 Gem  NGC 2389 group
+H 3.901   NGC2389 Galaxy         7:29.1 +33:51  2.1 12.8 Gem  NGC 2389 group
+H 3.902   NGC2578 Galaxy         8:21.4 -13:19  2.4 12.4 Pup 
+H 3.903   NGC4034 Galaxy        12:01.5 +69:19  1.6 13.5 Dra 
+H 3.904   NGC4120 Galaxy        12:08.5 +69:33  1.6 13.5 Dra 
+H 3.905   NGC3961 Galaxy        11:55.0 +69:20  1.3 13.5 Dra 
+H 3.906   NGC4693 Galaxy        12:47.1 +71:12  2.2 13.4 Dra 
+H 3.907   NGC4749 Galaxy        12:51.2 +71:38  1.6 13.5 Dra 
+H 3.908   NGC4857 Galaxy        12:57.2 +70:12  1.2 13.8 Dra 
+H 3.909   NGC5034 Galaxy        13:12.2 +70:39   .9 13.2 UMi 
+H 3.910   NGC3188 Galaxy        10:19.7 +57:25  1.1 13.7 UMa 
+H 3.911   NGC3220 Galaxy        10:23.7 +57:02  1.2 13.0 UMa 
+H 3.912   NGC3284 Single star   10:36.0 +58:32           UMa 
+H 3.913   NGC3408 Galaxy        10:52.2 +58:26   .8 13.4 UMa 
+H 3.914   NGC3440 Galaxy        10:53.9 +57:07  2.1 13.2 UMa  NGC 3445 group
+H 3.915   NGC3530 Galaxy        11:08.7 +57:14   .6 13.8 UMa 
+H 3.916   NGC3102 Galaxy        10:04.6 +60:07   .9 13.3 UMa 
+H 3.917   NGC3286 Galaxy        10:36.3 +58:37   .8 13.6 UMa 
+H 3.918   NGC3288 Galaxy        10:36.4 +58:33  1.0 14.0 UMa 
+H 3.919   NGC3407 Galaxy        10:52.3 +61:23  1.4 13.6 UMa 
+H 3.920   NGC3543 Galaxy        11:10.8 +61:22  1.3 14.1 UMa 
+H 3.921   NGC3589 Galaxy        11:15.2 +60:42  1.6 13.8 UMa 
+H 3.922   NGC3671 Galaxy        11:25.8 +60:29  NIU 14.6 UMa 
+H 3.923   NGC5328 Galaxy        13:52.9 -28:29  1.7 11.8 Hya 
+H 3.924   NGC5592 Galaxy        14:23.9 -28:41  1.6 12.9 Hya 
+H 3.925   NGC5118 Galaxy        13:23.5 + 6:23   .8 13.7 Vir 
+H 3.926   NGC5224 Galaxy        13:35.2 + 6:28   .7 14.0 Vir 
+H 3.927   NGC5599 Galaxy        14:23.7 + 6:34  1.4 13.6 Vir 
+H 3.928   NGC5227 Galaxy        13:35.3 + 1:25  1.5 13.1 Vir 
+H 3.929   NGC5331 Galaxy        13:52.4 + 2:06  1.3 14.1 Vir  Double system
+H 3.930   NGC7165 Galaxy        21:59.5 -16:31  1.0 13.5 Aqr 
+H 3.931   NGC7230 Galaxy        22:14.3 -17:04  1.1 13.5 Aqr 
+H 3.932   NGC7246 Galaxy        22:17.5 -15:32  1.8 14.6 Aqr 
+H 3.933   NGC7251 Galaxy        22:20.4 -15:46  1.8 11.8 Aqr 
+H 3.934   NGC3080 Galaxy         9:59.9 +13:03   .8 13.4 Leo 
+H 3.935   NGC3734 Galaxy        11:34.7 -14:06  1.4 13.7 Crt 
+H 3.936   NGC7076 Nebula        21:26.3 +62:53  2.0 13.2 Cep 
+H 3.937   NGC4972 Nonexistent   13:04.2 +75:18           UMi 
+H 3.938   NGC4363 Galaxy        12:23.5 +74:57  1.4 13.5 Dra 
+H 3.939   NGC4572 Galaxy        12:35.9 +74:15  1.6 14.1 Dra 
+H 3.940   NGC3890 Galaxy        11:49.4 +74:20   .9 13.2 Dra 
+H 3.941   NGC4159 Galaxy        12:10.7 +76:09  1.4 13.4 Dra 
+H 3.942   NGC4331 Galaxy        12:22.4 +76:11  2.0 14.1 Dra 
+H 3.943   NGC5909 Galaxy        15:11.5 +75:22  1.0 13.7 UMi 
+H 3.944   NGC5912 Galaxy        15:11.7 +75:22  NIU 13.7 UMi 
+H 3.945   NGC6324 Galaxy        17:05.4 +75:25   .9 12.8 UMi 
+H 3.946   NGC5295 Galaxy        13:38.6 +79:27  NIU 13.8 Cam 
+H 3.947   NGC5452 Galaxy        13:54.5 +78:13  2.1 13.3 UMi 
+H 3.948   NGC5547 Galaxy        14:09.8 +78:36   .9 13.5 UMi 
+H 3.949   NGC5640 Galaxy        14:20.8 +80:06  NIU 14.4 Cam 
+H 3.950   NGC5712 Galaxy        14:29.7 +78:51  NIU 14.3 UMi 
+H 3.951   NGC6331 Galaxy        17:03.5 +78:38  NIU 14.4 UMi 
+H 3.952   NGC1633 Galaxy         4:40.0 + 7:21  1.1 13.5 Tau 
+H 3.953   NGC1634 Galaxy         4:40.0 + 7:20  0.5 14.1 Tau 
+H 3.954   NGC163 Galaxy         0:36.0 -10:07  1.4 12.8 Cet 
+H 3.955   NGC270 Galaxy         0:50.7 - 8:39  2.0 12.1 Cet 
+H 3.956   NGC1284 Galaxy         3:17.6 -10:18  2.0 12.1 Eri 
+H 3.957   NGC6500 Galaxy        17:56.0 +18:20  2.3 12.2 Her 
+H 3.958   NGC6501 Galaxy        17:56.1 +18:22  1.6 12.0 Her 
+H 3.959   NGC1331 Galaxy         3:26.5 -21:21  1.0 13.2 Eri 
+H 3.960   NGC1362 Galaxy         3:33.8 -20:17  1.3 12.5 Eri 
+H 3.961   NGC1377 Galaxy         3:36.7 -20:54  1.9 12.4 Eri 
+H 3.962   NGC1482 Galaxy         3:54.7 -20:30  2.2 12.1 Eri 
+H 3.963   NGC2938 Galaxy         9:38.3 +76:19  2.2 13.5 Dra 
+H 3.964   NGC3144 Galaxy        10:15.5 +74:13  1.3 13.4 Dra 
+H 3.965   NGC3155 Galaxy        10:23.0 +74:47  1.5 12.8 Dra 
+H 3.966   NGC3197 Galaxy        10:14.4 +77:49  1.3 13.5 Dra 
+H 3.967   NGC3465 Galaxy        10:59.3 +75:12  1.4 13.5 Dra 
+H 3.968   UGC6090 Galaxy        11:01.7 +75:13               
+H 3.968   NGC3500 Galaxy        11:01.7 +75:13      15 p Dra  Not in Uranometria
+H 3.969    AR37 Open cluster  11:32.5 +74:32           Dra 
+H 3.969   NGC3747 Nonexistent   11:37.5 +74:59           Dra 
+H 3.970   NGC3901 Galaxy        11:43.0 +77:24  1.7 13.7 Cam 
+H 3.971   NGC3939 Nonexistent   11:53.2 +75:07           Dra 
+H 3.972   NGC3471 Galaxy        10:59.1 +61:32  1.7 12.5 UMa 
+H 3.973   NGC6068 Galaxy        15:55.4 +79:00  1.0 12.8 UMi 
+H 3.974   NGC6251 Galaxy        16:32.6 +82:33  1.8 12.6 UMi 
+H 3.975   NGC6252 Galaxy        16:32.5 +82:36   .7 14.2 UMi 
+H 3.976   NGC5789 Galaxy        14:56.6 +30:13   .9 13.7 Boo 
+H 3.977   NGC2908 Galaxy         9:43.5 +79:41      14 p Dra  Not in Uranometria ?*
+H 3.978   NGC3057 Galaxy        10:05.6 +80:17  2.6 13.0 Dra 
+H 3.979   NGC3210 Galaxy        10:27.2 +79:51           Dra  HON 6; Not in Uranometria
+H 3.980   NGC3212 Galaxy        10:28.1 +79:47  1.6 13.1 Dra  HON 7
+H 3.981   NGC3215 Galaxy        10:29.0 +79:46  1.0 13.0 Dra  HON 8
+H 3.982   NGC2629 Galaxy         8:47.2 +72:59  2.3 12.3 UMa  HON 1
+H 3.983   NGC2641 Galaxy         8:48.1 +72:54  1.3 13.6 UMa  HON 2; compact                         
+H 3.984   NGC7810 Galaxy         0:02.4 +12:57  1.0 13.0 Peg  H.MS
+H 4.1   NGC7009 Planetary neb 21:04.2 -11:22  1.7  8.3 Aqr  "400" Saturn Nebula
+H 4.2   NGC2261 Nebula         6:39.2 + 8:44  2.0      Mon  Hubble's variable neb
+H 4.3   NGC2245 Nebula         6:32.7 +10:10  5.0      Mon 
+H 4.4   NGC3662 Galaxy        11:23.8 - 1:06  1.4 12.9 Leo  triple system
+H 4.5   NGC4517 Galaxy        12:32.8 + 0:07  9.9 10.4 Vir  = NGC4437
+H 4.6   NGC3423 Galaxy        10:51.2 + 5:50  3.9 11.1 Sex  = H 2.131 face on spiral
+H 4.7   NGC3507 Galaxy        11:03.5 +18:08  3.1 10.9 Leo 
+H 4.8   NGC4567 Galaxy        12:36.5 +11:15  3.0 11.3 Vir  Siamese Twins w NGC4568
+H 4.9   NGC4568 Galaxy        12:36.6 +11:14  4.6 10.8 Vir  Siamese Twins w NGC4567
+H 4.10   NGC3239 Galaxy        10:25.1 +17:10  5.5 11.3 Leo 
+H 4.11   NGC6369 Planetary neb 17:29.3 -23:46  1.1 11.4 Oph  "400" Little Ghost
+H 4.12   NGC6553 Globular clst 18:09.3 -25:54  8.1  8.3 Sgr  "400"
+H 4.13   NGC6894 Planetary neb 20:16.4 +30:34   .7 12.3 Cyg 
+H 4.14   NGC6772 Planetary neb 19:14.6 - 2:42  1.0 14.2 Aql 
+H 4.15   NGC16 Galaxy         0:09.1 +27:44  2.1 12.0 Peg  vF interacting pair
+H 4.16   NGC6905 Planetary neb 20:22.4 +20:07  1.7 11.1 Del  "400" Blue Flash Neb
+H 4.17   NGC1253 Galaxy         3:14.1 - 2:49  5.4 11.7 Eri 
+H 4.18   NGC7662 Planetary neb 23:25.9 +42:33   .1  8.3 And  "400" Blue Snowball
+H 4.19   NGC2170 Nebula         6:07.5 - 6:24  2.0      Mon 
+H 4.20   NGC2185 Nebula         6:11.1 - 6:13  3.0      Mon  "400"
+H 4.21   NGC1964 Galaxy         5:33.4 -21:57  6.2 10.8 Lep  "400"
+H 4.22   NGC2467 Clstr wth neb  7:52.6 -26:23 14.0  7.1 Pup 
+H 4.23   NGC936 Galaxy         2:27.6 - 1:09  5.2 10.1 Cet  "400" central bar
+H 4.24   NGC2023 Nebula         5:41.6 - 2:14 10.0      Ori 
+H 4.25   NGC2327 Nebula         7:04.3 -11:18  1.5      CMa 
+H 4.26   NGC1535 Planetary neb  4:14.2 -12:44   .7  9.6 Eri  "400"
+H 4.27   NGC3242 Planetary neb 10:24.8 -18:38 20.8  7.8 Hya  "400" Ghost of Jupiter
+H 4.28.1 NGC4038 Galaxy        12:01.9 -18:52  5.4 10.5 Crv  "400" Ringtail Galaxy
+H 4.28.2 NGC4039 Galaxy        12:01.9 -18:53  5.4 10.3 Crv 
+H 4.29   NGC3456 Galaxy        10:54.1 -16:02  1.6 12.4 Crt 
+H 4.30   NGC4861 Galaxy        12:59.0 +34:52  4.1 12.3 CVn 
+H 4.31   NGC7302 Galaxy        22:32.4 -14:07  2.1 12.2 Aqr 
+H 4.32   NGC1700 Galaxy         4:56.9 - 4:52  2.9 11.0 Eri  smooth
+H 4.33   NGC1999 Nebula         5:36.5 - 6:42 16.0      Ori  "400"
+H 4.34   NGC2022 Planetary neb  5:42.1 + 9:05   .3 11.9 Ori  "400"
+H 4.35   NGC2610 Planetary neb  8:33.4 -16:09   .6 12.8 Hya 
+H 4.36   NGC2071 Nebula         5:47.2 + 0:18  4.0      Ori 
+H 4.37   NGC6543 Planetary neb 17:58.6 +66:38  5.8  8.8 Dra  "400" Cat's eye neb.
+H 4.38   NGC2182 Nebula         6:09.5 - 6:20  3.0      Mon 
+H 4.39   NGC2438 Planetary neb  7:41.8 -14:44  1.1 11.0 Pup  "400"
+H 4.40   NGC4804 Nonexistent   12:55.9 -13:02           Crv  = NGC4802 (?)
+H 4.41   NGC6514 Clstr wth neb 18:02.3 -23:02 29.0  6.3 Sgr  = H 5.10, 5.11, 5.12 "400" M20
+H 4.42   NGC676 Galaxy         1:49.0 + 5:54  4.6  9.6 Psc  Brightest in chain
+H 4.43   NGC1186 Galaxy         3:05.5 +42:50  3.7 11.4 Per 
+H 4.44   NGC2167 Nonexistent    6:06.9 - 6:12           Mon 
+H 4.45   NGC2392 Planetary neb  7:29.2 +20:55   .7  9.2 Gem  "400" Eskimo nebula
+H 4.46   NGC5493 Galaxy        14:11.5 - 5:03  1.5 11.4 Vir 
+H 4.47   NGC4915 Galaxy        13:01.5 - 4:33  1.7 12.1 Vir 
+H 4.48   NGC3104 Galaxy        10:03.9 +40:45  3.3 13.1 LMi 
+H 4.49   NGC5507 Galaxy        14:13.3 - 3:09  1.5 12.5 Vir 
+H 4.50   NGC6229 Globular clst 16:47.0 +47:32  4.5  9.4 Her  "400"
+H 4.51   NGC6818 Planetary neb 19:44.0 -14:09   .3  9.3 Sgr  "400" Little Gem
+H 4.52   NGC7635 Nebula        23:20.7 +61:12 15.0  5.0 Cas  Bubble Nebula
+H 4.53   NGC1501 Planetary neb  4:07.0 +60:55   .9 11.5 Cam  "400"
+H 4.54   NGC4143 Galaxy        12:09.6 +42:32  2.9 10.7 CVn  "400"
+H 4.55   NGC2537 Galaxy         8:13.2 +46:00  1.7 11.7 Lyn  Bear Paw galaxy
+H 4.56   NGC4051 Galaxy        12:03.2 +44:32  5.5 10.2 UMa  "400" thick spiral arms
+H 4.57   NGC6301 Galaxy        17:08.6 +42:20  2.3 13.4 Her 
+H 4.58   NGC40 Planetary neb  0:13.0 +72:32   .3 10.7 Cep  "400"
+H 4.59   NGC3658 Galaxy        11:24.0 +38:34  1.8 12.2 UMa 
+H 4.60   NGC3310 Galaxy        10:38.7 +53:30  3.5 10.8 UMa  "400"
+H 4.61   NGC3992 Galaxy        11:57.6 +53:23  7.6  9.8 UMa  "400" M109
+H 4.62   NGC3982 Galaxy        11:56.5 +55:08  2.2 11.0 UMa   "400"
+H 4.63   NGC5204 Galaxy        13:29.6 +58:25  4.9 11.3 UMa  M101 group
+H 4.64   NGC2440 Planetary neb  7:41.9 -18:13   .5  9.4 Pup  "400"
+H 4.65   NGC2346 Planetary neb  7:09.4 - 0:48   .9      Mon 
+H 4.66   NGC2701 Galaxy         8:59.1 +53:46  1.8 12.3 UMa  bright center
+H 4.67   NGC3963 Galaxy        11:55.0 +58:30  2.7 11.9 UMa  symetrical arms 
+H 4.68   NGC2950 Galaxy         9:42.6 +58:51  3.2 11.0 UMa  "400"
+H 4.69   NGC1514 Planetary neb  4:09.2 +30:47  1.9 10.9 Tau 
+H 4.70   NGC5144 Galaxy        13:22.9 +70:31  1.2 13.1 UMi 
+H 4.71   NGC5856 Nonexistent   15:07.3 +18:27           Boo 
+H 4.72   NGC6888 Nebula        20:12.0 +38:21 20.0  5.0 Cyg  Crescent Nebula
+H 4.73   NGC6826 Planetary neb 19:44.8 +50:31  2.3  8.8 Cyg  "400" Blinking Planetary
+H 4.74   NGC7023 Clstr wth neb 21:00.5 +68:10 10.0  7.1 Cep 
+H 4.75   NGC7129 Clstr wth neb 21:41.3 +66:06  7.0 11.5 Cep 
+H 4.76   NGC6946 Galaxy        20:34.8 +60:09 11.0  8.9 Cep  "400" Nearby spiral
+H 4.77   NGC1325 Galaxy         3:24.4 -21:33  4.6 11.6 Eri 
+H 4.78   NGC4750 Galaxy        12:50.1 +72:52  2.1 11.2 Dra  Dark ring around nucl
+H 4.79   NGC3034 Galaxy         9:55.8 +69:41 11.2  8.4 UMa  "400" M82, HON 4
+H 5.1   NGC253 Galaxy         0:47.6 -25:17 25.1  7.1 Scl  "400" Sculptor galaxay
+H 5.2   NGC4536 Galaxy        12:34.5 + 2:11  6.4 10.6 Vir  "400"
+H 5.3   NGC4910 Nonexistent   13:01.4 + 1:40           Vir 
+H 5.4   NGC4123 Galaxy        12:08.2 + 2:53  4.5 11.2 Vir 
+H 5.5   NGC4293 Galaxy        12:21.2 +18:23  5.3 10.4 Com  "400"
+H 5.6   NGC5293 Galaxy        13:46.9 +16:16  1.6 13.1 Boo 
+H 5.7   NGC3346 Galaxy        10:43.7 +14:52  2.4 11.7 Leo 
+H 5.8   NGC3628 Galaxy        11:20.3 +13:36 14.0  9.5 Leo  "400" Leo group
+H 5.9   NGC6526 Nebula        18:02.6 -23:35 40.0  5.0 Sgr  Part of M8
+H 5.10   NGC6514 Clstr wth neb 18:02.3 -23:02 29.0  6.3 Sgr  = H 4.41, 5.11, 5.12 "400" M20
+H 5.11   NGC6514 Clstr wth neb 18:02.3 -23:02 29.0  6.3 Sgr  = H 4.41, 5.10, 5.12 "400" M20
+H 5.12   NGC6514 Clstr wth neb 18:02.3 -23:02 29.0  6.3 Sgr  = H 4.41, 5.10, 5.11 "400" M20
+H 5.13   NGC6533 Nebula        18:05.1 -24:53           Sgr  Part of M8
+H 5.14   NGC6992 Nebula        20:56.4 +31:43 60.0  5.0 Cyg  Veil, with NGC6995
+H 5.15   NGC6960 Nebula        20:45.7 +30:43 70.0  5.0 Cyg  Veil
+H 5.16   NGC68 Galaxy         0:18.3 +30:04  1.5 13.0 And 
+H 5.17   NGC598 Galaxy         1:33.9 +30:39 62.0  5.7 Tri  "400" M33 Pinwheel
+H 5.18   NGC205 Galaxy         0:40.4 +41:41 17.4  8.0 And  "400" M110 M31 group
+H 5.19   NGC891 Galaxy         2:22.6 +42:21 13.5 10.0 And  "400" NGC 1023 group
+H 5.20   NGC247 Galaxy         0:47.1 -20:46 20.0  8.9 Cet  "400"
+H 5.21   NGC2359 Nebula         7:18.6 -13:12  8.0      CMa  Duck Nebula
+H 5.22   NGC5170 Galaxy        13:29.8 -17:58  7.8 11.3 Vir 
+H 5.23   NGC3027 Galaxy         9:55.7 +72:12  4.6 11.8 UMa 
+H 5.24   NGC4565 Galaxy        12:36.3 +25:59 16.2  9.6 Com  "400" edge-on galaxy
+H 5.25   NGC246 Planetary neb  0:47.0 -11:53  0.4 10.9 Cet  "400"
+H 5.26   NGC3003 Galaxy         9:48.6 +33:25  5.9 11.7 LMi 
+H 5.27   NGC2264 Clstr wth neb  6:41.1 + 9:53 60.0  3.9 Mon  = H 8.5 "400" Xtms Tree
+H 5.28   NGC2024 Nebula         5:41.9 - 1:51 30.0      Ori  "400" Tank Track Neb
+H 5.29.1 NGC4395 Galaxy        12:25.8 +33:33 14.5 10.2 CVn 
+H 5.29.2 NGC4401 Nonexistent   12:25.9 +33:31           CVn 
+H 5.30   NGC1977 Nebula         5:35.5 - 4:52 20.0      Ori 
+H 5.31   NGC1980 Nebula         5:35.4 - 5:54 14.0      Ori  "400"
+H 5.32   NGC1788 Nebula         5:06.9 - 3:21  8.0      Ori  "400"
+H 5.33   NGC1908 Nonexistent    5:26.0 - 2:32           Ori 
+H 5.34   NGC1990 Nebula         5:36.2 - 1:12 50.0      Ori 
+H 5.35?   Sh2-276 Nebula         5:31   - 4.9  1200      Ori  Barnard's Loop
+H 5.36   NGC206 Knot in galax  0:40.6 +40:44  4.2      And  with M31
+H 5.37?  NGC7000 Nebula        20:58.8 +44:20  120  5.0 Cyg  "400" North American Nebula
+H 5.38   NGC1909 Nonexistent    5:25.9 - 8:08           Ori 
+H 5.39   NGC3511 Galaxy        11:03.4 -23:05  5.5 11.0 Crt 
+H 5.40   NGC3513 Galaxy        11:03.8 -23:15  2.9 11.5 Crt  S shaped spiral
+H 5.41   NGC4244 Galaxy        12:17.5 +37:49 17.0 10.4 CVn 
+H 5.42   NGC4631 Galaxy        12:42.1 +32:32 15.5  9.2 CVn  "400"
+H 5.43   NGC4258 Galaxy        12:19.0 +47:18 20.0  8.4 CVn  "400" M106
+H 5.44   NGC2403 Galaxy         7:36.9 +65:36 17.8  8.4 Cam  "400" in M81 group
+H 5.45   NGC3953 Galaxy        11:53.8 +52:20  6.0 10.1 UMa  "400" M109B
+H 5.46   NGC3556 Galaxy        11:11.5 +55:40  8.1 10.0 UMa  "400" M108
+H 5.47   NGC3079 Galaxy        10:02.0 +55:41  7.6 10.6 UMa  "400"
+H 5.48   NGC1097 Galaxy         2:46.3 -30:17  9.3  9.3 For 
+H 5.49   NGC1624 Clstr wth neb  4:40.4 +50:27  5.0 10.4 Per 
+H 5.50   NGC2997 Galaxy         9:45.6 -31:11 10.0  9.3 Ant 
+H 5.51   NGC4236 Galaxy        12:16.7 +69:28 21.0  9.6 Dra  spiral structure
+H 5.52   NGC3359 Galaxy        10:46.6 +63:13  7.2 10.6 UMa 
+H 6.1   NGC2420 Open cluster   7:38.5 +21:34 10.0  8.3 Gem  "400"
+H 6.2   NGC2304 Open cluster   6:55.0 +18:01  5.0 10.0 Gem  "400"
+H 6.3   NGC2269 Open cluster   6:43.9 + 4:34  4.0 10.0 Mon 
+H 6.4   NGC3055 Galaxy         9:55.3 + 4:16  2.2 12.1 Sex 
+H 6.5   NGC2194 Open cluster   6:13.8 +12:48 10.0  8.5 Ori  "400"
+H 6.6   NGC2355 Open cluster   7:16.9 +13:47  9.0  9.7 Gem  "400"
+H 6.6?  NGC2356 Nonexistent    7:17.1 +13:58           Gem  = H 7.6?
+H 6.7   NGC5053 Globular clst 13:16.4 +17:42 10.5  9.8 Com 
+H 6.8?  NGC5897 Globular clst 15:17.4 -21:01 12.6  8.6 Lib  = H 6.19 (?) "400"
+H 6.9   NGC5466 Globular clst 14:05.5 +28:32 11.0  9.1 Boo  "400"
+H 6.10   NGC6144 Globular clst 16:27.3 -26:02  9.3  9.1 Sco  "400"
+H 6.11   NGC6284 Globular clst 17:04.5 -24:46  5.6  9.0 Oph  "400"
+H 6.12   NGC6293 Globular clst 17:10.2 -26:35  7.9  8.2 Oph  "400"
+H 6.13   NGC6451 Open cluster  17:50.7 -30:13  7.0  8.2 Sco  "400" Tom Thumb clust
+H 6.14   NGC6802 Open cluster  19:30.6 +20:16  3.0  8.8 Vul  "400"
+H 6.15   NGC6698 Nonexistent   18:48.2 -25:55           Sgr 
+H 6.16?  NGC6839 Nonexistent   19:54.5 +17:54           Sge 
+H 6.16?  NGC6839 Nonexistent   19:54.5 +17:54           Sge 
+H 6.17   NGC2158 Open cluster   6:07.5 +24:06  5.0  8.6 Gem  "400" Edge of M35
+H 6.18   NGC2309 Open cluster   6:56.2 - 7:12  3.0 10.5 Mon 
+H 6.19   NGC5897 Globular clst 15:17.4 -21:01 12.6  8.6 Lib  = H 6.8 (?) "400"
+H 6.20   NGC288 Globular clst  0:52.8 -26:35 13.8  8.1 Scl  "400" loose globular
+H 6.21   NGC2266 Open cluster   6:43.2 +26:58  7.0  9.5 Gem  "400"
+H 6.22   NGC2548 Open cluster   8:13.8 - 5:48 54.0  5.8 Hya  "400" M48
+H 6.23   NGC6645 Open cluster  18:32.6 -16:54 10.0  8.5 Sgr  "400"
+H 6.24   NGC7044 Open cluster  21:12.9 +42:29  3.5 12.0 Cyg  "400"
+H 6.25   NGC1245 Open cluster   3:14.7 +47:15 10.0  8.4 Per  "400"
+H 6.26   NGC1605 Open cluster   4:35.0 +45:15  5.0 10.7 Per 
+H 6.27   NGC2301 Open cluster   6:51.8 + 0:28 12.0  6.0 Mon  "400"
+H 6.28   NGC2259 Open cluster   6:38.6 +10:53  5.0 10.8 Mon 
+H 6.29   NGC7245 Open cluster  22:15.3 +54:20  5.0  9.2 Lac 
+H 6.30   NGC7789 Open cluster  23:57.0 +56:44 16.0  6.7 Cas  "400"
+H 6.31   NGC663 Open cluster   1:46.0 +61:15 16.0  7.1 Cas  "400"
+H 6.32   NGC7086 Open cluster  21:30.5 +51:35  9.0  8.4 Cyg  "400"
+H 6.33   NGC869 Open cluster   2:19.0 +57:09 30.0  5.3 Per  "400" Double Cluster
+H 6.34   NGC884 Open cluster   2:22.4 +57:07 30.0  6.1 Per  "400" Double Cluster
+H 6.35   NGC136 Open cluster   0:31.5 +61:32  1.0      Cas  "400"
+H 6.36   NGC2432 Open cluster   7:40.9 -19:05  7.0 10.2 Pup 
+H 6.37   NGC2506 Open cluster   8:00.2 -10:47  7.0  7.6 Mon  "400"
+H 6.38   NGC6804 Planetary neb 19:31.6 + 9:13  1.1 12.0 Aql 
+H 6.39   NGC2571 Open cluster   8:18.9 -29:44 13.0  7.0 Pup  "400"
+H 6.40   NGC6171 Globular clst 16:32.5 -13:03 10.0  8.1 Oph  "400" M107
+H 6.41   NGC6412 Galaxy        17:29.6 +75:42  2.3 11.8 Dra 
+H 6.42   NGC6939 Open cluster  20:31.4 +60:38  8.0  7.8 Cep  "400"
+H 7.1   NGC1662 Open cluster   4:48.5 +10:56 20.0  6.4 Ori 
+H 7.2   NGC2244 Open cluster   6:32.4 + 4:52 24.0  4.8 Mon  "400" In Rosette nebula
+H 7.3   NGC1498 Nonexistent    4:00.5 -12:01           Eri 
+H 7.4   NGC1817 Open cluster   5:12.1 +16:42 16.0  7.7 Tau  "400"
+H 7.5   NGC2236 Open cluster   6:29.7 + 6:50  7.0  8.5 Mon 
+H 7.6   NGC2356 Nonexistent    7:17.1 +13:58           Gem  = H 6.6?
+H 7.7   NGC6520 Open cluster  18:03.4 -27:54  6.0  7.6 Sgr  "400" near B86
+H 7.8   NGC6940 Open cluster  20:34.6 +28:18 31.0  6.3 Vul  "400"
+H 7.9   NGC6830 Open cluster  19:51.0 +23:04 12.0  7.9 Vul  "400"
+H 7.10   NGC2482 Open cluster   7:54.9 -24:18 12.0  7.3 Pup  "400"
+H 7.11   NGC2539 Open cluster   8:10.7 -12:50 22.0  6.5 Pup  "400"
+H 7.12   NGC2360 Open cluster   7:17.8 -15:37 13.0  7.2 CMa  "400"
+H 7.13   NGC2204 Open cluster   6:15.7 -18:39 13.0  8.6 CMa  "400"
+H 7.14   NGC2318 Open cluster   6:59.5 -13:42           CMa 
+H 7.15   NGC2352 Nonexistent    7:13.6 -24:06           CMa 
+H 7.16   NGC2354 Open cluster   7:14.3 -25:44 20.0  6.5 CMa  "400"
+H 7.17   NGC2362 Clstr wth neb  7:18.8 -24:57  8.0  4.1 CMa  "400" Tau CMa
+H 7.18   NGC6823 Open cluster  19:43.1 +23:18 12.0  7.1 Vul  "400"
+H 7.19   NGC6755 Open cluster  19:07.8 + 4:14 15.0  7.5 Aql  "400"
+H 7.20   NGC2215 Open cluster   6:21.0 - 7:17 11.0  8.4 Mon  "400"
+H 7.21   NGC1758 Open cluster   5:04.4 +23:46           Tau 
+H 7.22   NGC2254 Open cluster   6:36.0 + 7:40  4.0  9.7 Mon 
+H 7.23   NGC2489 Open cluster   7:56.2 -30:04  8.0  7.9 Pup  "400"
+H 7.24   NGC2112 Open cluster   5:53.9 + 0:24 11.0  8.4 Ori 
+H 7.25   NGC2186 Open cluster   6:12.2 + 5:27  4.0  8.7 Ori  "400"
+H 7.26   NGC2225 Open cluster   6:26.6 - 9:39           Mon 
+H 7.27   NGC2349 Nonexistent    7:10.0 - 8:37           Mon 
+H 7.28   NGC2423 Open cluster   7:37.1 -13:52 19.0  6.7 Pup  "400"
+H 7.29   NGC5998 Nonexistent   15:49.4 -28:36           Sco 
+H 7.30   NGC6568 Open cluster  18:12.8 -21:36 12.0  8.6 Sgr  "400"
+H 7.31   NGC6583 Open cluster  18:15.8 -22:08  2.8 10.0 Sgr  "400"
+H 7.32   NGC752 Open cluster   1:57.8 +37:41 50.0  5.7 And  "400" 70 stars
+H 7.33   NGC1857 Open cluster   5:20.2 +39:21  6.0  7.0 Aur  "400"
+H 7.34   NGC1883 Open cluster   5:25.9 +46:33  3.0 12.0 Aur 
+H 7.35   NGC2224 Nonexistent    6:27.6 +12:38           Gem 
+H 7.36   NGC2270 Nonexistent    6:43.9 + 3:26           Mon 
+H 7.37   NGC2262 Open cluster   6:38.4 + 1:11  4.0 11.3 Mon 
+H 7.38   NGC2324 Open cluster   7:04.2 + 1:03  8.0  8.4 Mon  "400"
+H 7.39   NGC1907 Open cluster   5:28.0 +35:19  7.0  8.2 Aur  "400"
+H 7.40   NGC7128 Open cluster  21:44.0 +53:43  3.0  9.7 Cyg  "400"
+H 7.41   NGC7296 Open cluster  22:28.2 +52:17  4.0  9.7 Lac  "400"
+H 7.42   NGC457 Open cluster   1:19.1 +58:20 13.0  6.4 Cas  "400" Phi Cas not part
+H 7.43   NGC7419 Open cluster  22:54.3 +60:50  2.0 13.0 Cep 
+H 7.44   NGC7510 Open cluster  23:11.5 +60:34  4.0  7.9 Cep  "400"
+H 7.45   NGC436 Open cluster   1:15.6 +58:49  6.0  8.8 Cas  "400"
+H 7.46   NGC654 Open cluster   1:44.1 +61:53  5.0  6.5 Cas  "400"
+H 7.47   NGC1502 Open cluster   4:07.7 +62:20  8.0  5.7 Cam  "400"
+H 7.48   NGC559 Open cluster   1:29.5 +63:18  4.0  9.5 Cas  "400"
+H 7.49   NGC637 Open cluster   1:42.9 +64:00  4.0  8.2 Cas  "400"
+H 7.50   NGC7067 Open cluster  21:24.2 +48:01  3.0  9.7 Cyg 
+H 7.51   NGC7062 Open cluster  21:23.2 +46:23  7.0  8.3 Cyg  "400"
+H 7.52   NGC7082 Open cluster  21:29.4 +47:05 25.0  7.2 Cyg 
+H 7.53   NGC7209 Open cluster  22:05.2 +46:30 25.0  6.7 Lac  "400"
+H 7.54   NGC2253 Open cluster   6:42.4 +66:20           Cam 
+H 7.55   NGC7762 Open cluster  23:49.8 +68:02 11.0 10.0 Cep 
+H 7.56   NGC7790 Open cluster  23:58.4 +61:13 17.0  8.5 Cas  "400"
+H 7.57   NGC2192 Open cluster   6:15.2 +39:51  6.0 10.9 Aur 
+H 7.58   NGC2479 Open cluster   7:55.1 -17:43  7.0  9.6 Pup  "400"
+H 7.59   NGC6866 Open cluster  20:03.7 +44:00  7.0  7.6 Cyg  "400"
+H 7.60   NGC1513 Open cluster   4:10.0 +49:31  9.0  8.4 Per  "400"
+H 7.61   NGC1528 Open cluster   4:15.4 +51:14 24.0  6.4 Per  "400"
+H 7.62   NGC6756 Open cluster  19:08.7 + 4:41  4.0 10.6 Aql  "400"
+H 7.63   NGC2627 Open cluster   8:37.3 -29:57 11.0  8.4 Pyx  "400"
+H 7.64   NGC2567 Open cluster   8:18.6 -30:38 10.0  7.4 Pup  "400"
+H 7.65   NGC2401 Open cluster   7:29.4 -13:58  2.0 12.6 Pup 
+H 7.66   NGC7142 Open cluster  21:45.9 +65:48  4.0  9.3 Cep  "400"
+H 7.67   NGC2421 Open cluster   7:36.3 -20:37 10.0  8.3 Pup  "400"
+H 8.1   NGC2319 Nonexistent    7:01.1 + 3:04           Mon 
+H 8.1   NGC2509 Open cluster   8:00.7 -19:04  8.0  9.3 Pup  "400"
+H 8.2   NGC2063 Nonexistent    5:46.8 + 8:48           Ori 
+H 8.3   NGC2251 Open cluster   6:34.7 + 8:22 10.0  7.3 Mon  "400"
+H 8.4   NGC1896 Nonexistent    5:25.4 +20:10           Tau 
+H 8.5   NGC2264 Clstr wth neb  6:41.1 + 9:53 60.0  3.9 Mon  = H 2.27 "400" Xtms Tree
+H 8.6   NGC2180 Nonexistent    6:09.6 + 4:43           Ori 
+H 8.7   NGC1663 Open cluster   4:48.6 +13:10           Ori 
+H 8.8   NGC1647 Open cluster   4:46.0 +19:04 45.0  6.4 Tau  "400"
+H 8.9   NGC2234 Nonexistent    6:29.3 +16:41           Gem 
+H 8.10   NGC2678 Nonexistent    8:50.2 +11:20           Cnc 
+H 8.11   NGC2395 Open cluster   7:27.1 +13:35 12.0  8.0 Gem  "400"
+H 8.12   NGC6664 Open cluster  18:36.7 - 8:13 16.0  7.8 Sct  "400"
+H 8.13   NGC6728 Nonexistent   19:00.0 - 8:57           Aql 
+H 8.14   NGC6647 Open cluster  18:31.5 -17:21       8 p Sgr  Milky way starcloud
+H 8.15   NGC6604 Clstr wth neb 18:18.1 -12:14  4.0  6.5 Ser 
+H 8.16   NGC6834 Open cluster  19:52.2 +29:25  5.0  7.8 Cyg  "400"
+H 8.17   NGC6938 Nonexistent   20:34.8 +22:15           Vul 
+H 8.18   NGC6837 Open cluster  19:53.5 +11:41           Aql  Not in Uranometria
+H 8.19   NGC6840 Open cluster  19:55.3 +12:06           Aql  Not in Uranometria
+H 8.20   NGC6885 Open cluster  20:12.0 +26:29  7.0  8.1 Vul  "400"
+H 8.21   NGC6800 Open cluster  19:27.2 +25:08  5.0  NIU Vul 
+H 8.22   NGC6882 Open cluster  20:11.7 +26:33 18.0  8.1 Vul  "400"
+H 8.23   NGC6950 Nonexistent   20:41.2 +16:38           Del 
+H 8.24   NGC2169 Open cluster   6:08.4 +13:57  7.0  5.9 Ori  "400"
+H 8.25   NGC2232 Open cluster   6:26.6 - 4:45 30.0  3.9 Mon  "400"
+H 8.26   NGC2129 Open cluster   6:01.0 +23:18  7.0  6.7 Gem  "400"
+H 8.27   NGC2367 Open cluster   7:20.1 -21:56  4.0  7.9 CMa 
+H 8.28   NGC2026 Nonexistent    5:43.1 +20:07           Tau 
+H 8.29   NGC7826 Nonexistent    0:05.2 -20:44           Cet 
+H 8.30   NGC2527 Open cluster   8:05.3 -28:10 22.0  6.5 Pup  "400"
+H 8.31   NGC2286 Open cluster   6:47.6 - 3:10 15.0  7.5 Mon  "400"
+H 8.32   NGC2335 Open cluster   7:06.6 -10:05 12.0  7.2 Mon  "400"
+H 8.33   NGC2343 Open cluster   7:08.3 -10:39  7.0  6.7 Mon  "400"
+H 8.34   NGC2353 Open cluster   7:14.6 -10:18 20.0  7.1 Mon  "400"
+H 8.35   NGC2374 Open cluster   7:24.0 -13:16 19.0  8.0 CMa 
+H 8.36   NGC2396 Open cluster   7:28.1 -11:44 10.0  7.4 Pup 
+H 8.37   NGC2414 Open cluster   7:33.3 -15:27  4.0  7.9 Pup 
+H 8.38   NGC2422 Open cluster   7:36.6 -14:30 30.0  4.4 Pup  "400" M47
+H 8.39   NGC2302 Open cluster   6:51.9 - 7:04  3.0  8.9 Mon 
+H 8.40   NGC2331 Open cluster   7:07.2 +27:21 18.0  8.5 Gem 
+H 8.41   NGC1802 Nonexistent    5:10.2 +24:06           Tau 
+H 8.42   NGC1996 Nonexistent    5:38.2 +25:49           Tau 
+H 8.43   NGC1750 Open cluster   5:03.9 +23:39           Tau  "400"  P.O NGC 1746
+H 8.44   NGC2394 Nonexistent    7:28.6 + 7:02           CMi 
+H 8.45   NGC2358 Nonexistent    7:16.8 -17:03           CMa  "faint stars?"
+H 8.46   NGC2430 Nonexistent    7:39.4 -16:21           Pup 
+H 8.47   NGC2428 Nonexistent    7:39.2 -16:31           Pup 
+H 8.48   NGC2260 Nonexistent    6:38.1 - 1:28           Mon 
+H 8.49   NGC2240 Nonexistent    6:32.9 +35:12           Aur 
+H 8.50   NGC2252 Open cluster   6:35.0 + 5:23 20.0  7.7 Mon 
+H 8.51   NGC2306 Nonexistent    6:54.6 - 7:11           Mon 
+H 8.52   NGC2413 Nonexistent    7:33.3 -13:06           Pup 
+H 8.53   NGC6507 Open cluster  17:59.6 -17:24  6.0  9.6 Sgr 
+H 8.54   NGC6561 Nonexistent   18:10.5 -16:48           Sgr 
+H 8.55   NGC6596 Open cluster  18:17.5 -16:40 10.0  NIU Sgr 
+H 8.56   NGC6910 Open cluster  20:23.1 +40:47  8.0  7.4 Cyg  "400"
+H 8.57   NGC7024 Nonexistent   21:06.0 +41:30           Cyg 
+H 8.58   NGC6997 Open cluster  20:56.5 +44:38 15.0 10 p Cyg  Not in Uranometria
+H 8.59   NGC1664 Open cluster   4:51.1 +43:42 18.0  7.6 Aur  "400"
+H 8.60   NGC2311 Open cluster   6:57.8 - 4:35  6.0  9.6 Mon  "400"
+H 8.61   NGC1778 Open cluster   5:08.1 +37:03  7.0  7.7 Aur 
+H 8.62   NGC7708 Nonexistent   23:34.3 +72:55           Cep 
+H 8.63   NGC7234 Nonexistent   22:12.1 +56:58           Cep 
+H 8.64   NGC381 Open cluster   1:08.3 +61:35  6.0  9.3 Cas  "400"
+H 8.65   NGC659 Open cluster   1:44.2 +60:42  5.0  7.9 Cas  "400" 30 Stars
+H 8.66   NGC1027 Open cluster   2:42.7 +61:33 20.0  6.7 Cas  "400" 12 stars
+H 8.67   NGC7160 Open cluster  21:53.7 +62:36  7.0  6.1 Cep  "400"
+H 8.68   NGC2126 Open cluster   6:03.0 +49:54  6.0 10.2 Aur  "400"
+H 8.69   NGC7686 Open cluster  23:30.2 +49:08 14.0  5.6 And  "400"
+H 8.70   NGC1582 Open cluster   4:32.0 +43:51 37.0  7.0 Per 
+H 8.71   NGC2281 Open cluster   6:49.3 +41:04 15.0  5.4 Aur  "400"
+H 8.72   NGC6633 Open cluster  18:27.7 + 6:34 27.0  4.6 Oph  "400"
+H 8.73   NGC6828 Nonexistent   19:50.4 + 7:55           Aql 
+H 8.74   NGC7031 Open cluster  21:07.3 +50:50  5.0  9.1 Cyg 
+H 8.75   NGC7243 Open cluster  22:15.3 +49:53 21.0  6.4 Lac  "400"
+H 8.76   NGC6991 Open cluster  20:56.6 +47:25  5.0  NIU Cyg 
+H 8.77   NGC7380 Clstr wth neb 22:47.0 +58:06 25.0  7.2 Cep  "400"
+H 8.78   NGC225 Open cluster   0:43.4 +61:47 12.0  7.0 Cas  "400" W shaped
+H 8.79   NGC129 Open cluster   0:29.9 +60:14 21.0  6.5 Cas  "400"
+H 8.80   NGC1444 Open cluster   3:49.4 +52:40  4.0  6.6 Per  "400"
+H 8.81   NGC6793 Open cluster  19:23.2 +22:11  6.0  NIU Vul 
+H 8.82   NGC6989 Nonexistent   20:54.1 +45:17           Cyg 
+H 8.83   NGC6895 Nonexistent   20:16.4 +50:14           Cyg 
+H 8.84   NGC1348 Open cluster   3:33.8 +51:26  5.0      Per 
+H 8.85   NGC1545 Open cluster   4:20.9 +50:15 18.0  6.2 Per  "400"
+H 8.86   NGC6874 Nonexistent   20:07.8 +38:14           Cyg 
+H 8.87   NGC2425 Open cluster   7:38.3 -14:52  3.0      Pup 
+H 8.88   NGC1342 Open cluster   3:31.6 +37:20 14.0  6.7 Per  "400"

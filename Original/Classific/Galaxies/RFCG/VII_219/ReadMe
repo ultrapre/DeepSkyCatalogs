@@ -1,0 +1,135 @@
+VII/219             Revised Flat Galaxy Catalogue (RFGC)   (Karachentsev+, 1999)
+================================================================================
+The revised flat galaxy catalogue
+       Karachentsev I.D., Karachentseva V.E., Kudrya Y.N., Sharina M.E.,
+       Parnovsky S.L.
+      <Bull. Special Astrophys. Obs., 47, 5 (1999)>
+      =1999BSAO...47....5K
+================================================================================
+ADC_Keywords: Galaxy catalogs ; Morphology ; Magnitudes
+Keywords: galaxies: spiral - galaxies: catalogues -
+          galaxies: large-scale motions in the Universe
+
+Description:
+
+    The Flat Galaxy Catalog (FGC) is the result of a systematic search for
+    disk-like  edge-on galaxies with a diameter larger than a=40arcsec and
+    major-to-minor  axis ratio a/b>7 from Palomar Observatory and ESO/SERC
+    surveys; it contained 4455 objects covering about 56% of the whole sky
+    (Karachentsev et al., 1993AN....314...97K, see Cat. <VII/162>).
+
+    The main reasons for  preparing  a  new,   improved  and  supplemented
+    catalogue version were the following:
+
+    - a possibility of remeasuring the coordinates of flat galaxies with a
+      higher accuracy using the Digital Sky Survey;
+
+    - the inclusion the data about "red" galaxy diameters which were
+      absent earlier;
+
+    - a reduction the diameters measured on the J and R films of the
+      ESO/SERC to the diameter system of the POSS-I (near to a_25_ system)
+      that eliminated the difference in photometric depth between two parts
+      of the catalogue (Kudrya et al. 1997PAZh...23...15K);
+
+    - a calculation of total apparent magnitudes (with a standard error
+      about 0.25mag) for all flat galaxies basing on angular diameters,
+      surface brightnesses, and other parameter data (Kudrya et al.
+      1997PAZh...23..730K);
+
+    - a possibility to determine the Galaxy absorption values in the
+      region of each flat galaxy placing using new IR data (Schlegel et al.
+      1998ApJ...500..525S).
+
+    - a necessity to remove the faults noted during the work with the FGC
+      data.
+
+    The structural differences between old and new catalogue versions are:
+
+    - both the parts, FGC and FGCE, have been joined in the RFGC (Revised
+      Flat Galaxy Catalogue) where the galaxies are ranged according to
+      their Right Ascensions for the epoch J2000.0;
+
+    - the Addendum have been omitted;
+
+    - the Notes describing concrete object characteristics have been
+      included in the main corpus of the catalogue, some details were
+      omitted;
+
+    - the lists of identification of the FGC and the FGCE galaxies have
+      been omitted because these data are accessible now due to different
+      galaxy databases (NED, LEDA etc).
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName  Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe        80        .   This file
+rfgc.dat     164     4444   List of new Local Volume dwarf candidates
+--------------------------------------------------------------------------------
+
+See also:
+    VII/162 : Flat Galaxy Catalogue (Karachentsev+ 1993)
+    VII/119 : Catalogue of Principal Galaxies (PGC) (Paturel+ 1989)
+
+Byte-by-byte Description of file: rfgc.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4  I4    ---     RFGC    *[1,4236]?+ Galaxy number
+   7- 10  I4    ---     FGC(E)   ? FGC (Cat. <VII/162>) galaxy number
+      11  A1    ---   m_FGC(E)   [E] E when FGCE number
+  13- 17  I5    ---     PGC      ? PGC (Cat. <VII/119>) galaxy number
+  20- 21  I2    h       RAh      Right ascension (J2000.0)
+  23- 24  I2    min     RAm      Right ascension (J2000.0)
+  26- 29  F4.1  s       RAs      Right ascension (J2000.0)
+      31  A1    ---     DE-      Declination sign (J2000.0)
+  32- 33  I2    deg     DEd      Declination (J2000.0)
+  35- 36  I2    arcmin  DEm      Declination (J2000.0)
+  38- 39  I2    arcsec  DEs      Declination (J2000.0)
+  42- 43  I2    h       RA1950h  Right ascension (J1950.0)
+  45- 46  I2    min     RA1950m  Right ascension (J1950.0)
+  48- 51  F4.1  s       RA1950s  Right ascension (J1950.0)
+      53  A1    ---     DE1950-  Declination sign (J1950.0)
+  54- 55  I2    deg     DE1950d  Declination (J1950.0)
+  57- 58  I2    arcmin  DE1950m  Declination (J1950.0)
+  60- 61  I2    arcsec  DE1950s  Declination (J1950.0)
+  64- 69  F6.2  deg     GLON     Galactic longitude
+  72- 77  F6.2  deg     GLAT     Galactic latitude
+  79- 81  I3    deg     PA       Positional angle
+  83- 86  I4    ---     ---      ? RFGC Galaxy number again
+  88- 92  F5.2  arcmin  aO      *Major blue diameter
+  94- 97  F4.2  arcmin  bO      *Minor blue diameter
+  99-103  F5.2  arcmin  aE      *Major red diameter
+ 105-108  F4.2  arcmin  bE      *Minor red diameter
+ 110-113  F4.1  mag     Btot     Calculated total apparent magnitude
+ 115-118  F4.2  mag     AB       Galactic extinction in the B - band
+ 121-122  A2    ---     MType   *Morphological type of the galaxy
+     124  I1    ---     As      *[0,2] Index of apparent asymmetry
+                                        of galaxy shape
+ 126-128  A3    ---     SB      *[IV ] Index of the mean surface brightness
+ 130-131  I2    ---     N       *Number of significant neighbours
+ 133-164  A32   ---     Notes   *Notes about the galaxy or environment
+--------------------------------------------------------------------------------
+Note on RFGC: the galaxies having reduced diameters a(O) less than 0.6arcmin
+     are included in the catalogue without new RFGC number.
+Note on aO, bO: for FGCE galaxies the conversion from the ESO/SERC
+     diameter system (J) to the POSS-I one (O) have been made according to
+     the formulae: a(O) = 0.80788 a(J), b(O) = 0.7827 b(J);
+Note on aE, bE: for FGCE galaxies the conversion from the ESO/SERC
+     diameter system (R) to the POSS-I one (E) have been made according to
+     the formulae: a(E) = 0.8640 a(R),  b(E) = 0.9730 b(R);
+Note on MType: morphological type of spiral according to the Hubble
+     classification. Note that Sb = 3, Sc = 5 etc in number designation;
+Note on As: 0 means poorly defined, 2 = pronounced
+Note on SB: The index varies from I = high to IV = very low surface brightness
+Note on N: N is the number of significant neighbours with angular diameter in
+     the range from aO/2 to 2*aO in a circle of R=10*aO
+Note on Notes: Notes describing the galaxy morphological peculiarities
+     and/or the galaxy environment. The  non-significant companion galaxy
+     diameters and mutual distances are expressed in arcmin.
+--------------------------------------------------------------------------------
+
+Acknowledgements: Sharina Rita E. <sme@luna.sao.ru>
+================================================================================
+(End)                     Patricia Bauer, Francois Ochsenbein [CDS]  28-Jan-2000

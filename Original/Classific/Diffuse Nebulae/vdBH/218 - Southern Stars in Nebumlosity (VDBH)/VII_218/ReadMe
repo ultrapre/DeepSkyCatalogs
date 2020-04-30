@@ -1,0 +1,143 @@
+VII/218            Southern Stars embedded in nebulosity  (van den Bergh+, 1975)
+================================================================================
+Catalogue of southern stars embedded in nebulosity.
+     Van den Bergh S., Herbst W.
+    <Astron. J. 80, 208 (1975)>
+    =1975AJ.....80..208V
+================================================================================
+ADC_Keywords: Nebulae ; Milky Way
+
+Description:
+    A  survey of the Milky Way southward of the Palomar Sky Survey for the
+    identification of reflection nebulae was  carried  out  at  the  Cerro
+    Tololo Inter-American Observatory in Chile.  Plates in blue light were
+    obtained at  the Curtis Schmidt telescope covering  a strip of plus or
+    minus  six degrees of the galactic  equator.  Red sensitive plates for
+    comparison were  also obtained  with the  same telescope  covering the
+    same area near the galactic plane.  Observatory staff members and some
+    students of the University of Toronto,  Canada assisted in identifying
+    stars embedded  in nebulosity as  shown by the  plates.  Although this
+    catalogue  roughly complements the Catalogue  of Reflection Nebulae of
+    van  den Berg (1966AJ.....71..990V,  Cat.  <VII/21>),  the region here
+    surveyed is more narrowly confined to the galactic equator.
+
+
+File Summary:
+-------------------------------------------------------------------------------
+ FileName   Lrecl    Records    Explanations
+-------------------------------------------------------------------------------
+ReadMe         80          .    This file
+catalog.dat    71        136    The Catalogue (Table I of publication)
+notes.dat      80         47    Full notes of publication for Table I
+-------------------------------------------------------------------------------
+
+See also:
+    VII/21 : Catalogue of Reflection Nebulae (Van den Bergh, 1966)
+
+Nomenclature Notes:
+    Objects of this catalogue are frequently designated in the literature
+    with the acronym VDBH.
+
+
+Byte-by-byte Description of file: catalog.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units  Label     Explanations
+--------------------------------------------------------------------------------
+   1-  2  I2     ---    BHe       [1,93] BHe id number
+   3-  7  A5     ---  m_BHe       BHe components as (a,b,c)
+  12- 19  A8     ---    IDs       Alternate designation
+  22- 23  I2     h      RAh       Right Ascension B1950 (hours)
+  25- 28  F4.1   min    RAm       Right Ascension B1950 (minutes)
+      31  A1     ---    DE-       Declination B1950 (sign)
+  32- 33  I2     deg    DEd       Declination B1950 (degrees)
+  35- 36  I2     arcmin DEm       Declination B1950 (minutes)
+  39- 42  A4     ---    Type      Type of nebula,                  see Note (1)
+      43  A1     ---  u_Type      Uncertainty flag (:) on Type
+  45- 47  A3     ---    Br        Brightness from blue plates,     see Note (2)
+      48  A1     ---  u_Br        Uncertainty flag (:) on Br
+  50- 51  A2     ---    Color     Coded reference to colors,       see Note (3)
+      52  A1     ---  u_Color     Uncertainty flag (:) on Color
+  54- 56  A3     ---    Abs       Absorption in field of nebula,   see Note (4)
+      57  A1     ---  u_Abs       Uncertainty flag (:) on Absorb
+  60- 62  F3.1   arcmin BDiam     ? Maximum diameter observed on blue plates
+      63  A1     ---  u_BDiam     Uncertainty flag (:) on BDiaMax
+  66- 68  F3.1   arcmin RDiam     ? Maximum diameter observed on red plates
+      69  A1     ---  u_RDiam     Uncertainty flag (:) on RDiaMax
+      71  A1     ---    Rem       [*] Note flag (*) detailed in file "notes.dat"
+--------------------------------------------------------------------------------
+Note (1): Types given are I, II, I-II, or pec.  These are defined as follows:
+       I: Nebulae in which the illuminating star is embedded in the nebulosity.
+      II: The illuminating star is situated outside the nebula.
+    I-II: This combination type was undefined in the original publication.
+     pec: Peculiar.
+Note (2): Surface brightness is coded as follows:
+     'vBr'=very bright; 'Br'=bright; 'M'=moderate; 'F'=faint; 'vF'=very faint.
+Note (3): Color types are coded:
+     'vB'=very blue;  'B'=blue;  'mB'=moderately blue;  'I'=intermediate;
+     'mR'=moderately red;  'R'=red;  'vR'=very red.
+Note (4): Absorption is coded:
+     'Str'=strong;   'Mod'=moderate;  'Wk'=weak.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: notes.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1- 2   I2     ---    BHe       BHe id number
+   3- 7   A5     ---  m_BHe       BHe components as (a,b,c)
+  10-79   A70   ---     Text      Text of note
+     80   A1    ---     Flag      '*' if note continues on next line
+--------------------------------------------------------------------------------
+
+Note to the electronic version: (by Raymond Bruton, pam99999@swbell.net
+    and Patrick Chevalley, pch@crosswinds.net):
+
+    The intended purpose of the electronic version of the BHe catalogue is
+    for use with the computer plotting of star charts. Astronomical
+    software, (Cartes du Ciel-Sky Charts) developed by the second editor
+    (Patrick Chevalley) was used to test dataset validity (see
+    http://www.astrosurf.org/astropc). Any errors in the dataset should be
+    reported to the editors. Any gross error in the original should
+    likewise be reported. As a check on errors the work of Herbst
+    (1975AJ.....80..212H) was consulted. When used with the northern
+    dataset of van den Berg (1966AJ.....71..990V, see Cat. <VII/21>) the
+    work of Racine (1968AJ.....73..233R) was likewise consulted as a check
+    for possible errors and misidentifications.
+
+    The indiscriminate comparison of the present work with the work of
+    van den Berg (1966AJ.....71..990V) is not recommended. When using the
+    northern and southern datasets for reflection nebulae together for
+    plots of surface distribution the differences are clearly evident.
+    This was also indicated in the original publication of van den Berg
+    and Herbst (1975AJ.....80..212H). For plots of the southern nebulae
+    further from the galactic plane than the present work a remedy was
+    sought and in part found. The catalogue of southern dark clouds of
+    Hartley et al. (1986A&AS...63...27HC, see Cat. <VII/191>) was used
+    because of prolific notes about association with bright nebulae.
+    Although this combination was useful the editors also used the
+    catalogue of Herbig and Bell (1988, see Cat. <V/73A> for cross checks
+    on position errors. The editors were motivated to produce the present
+    dataset in part due to the popularization of some BHe objects by
+    Slotegraaf (1998). Mr. Slotegraaf also encouraged the production of
+    the present dataset in private correspondence. This work would not
+    have been possible without the use of the NASA Astrophysics Data
+    System maintained at Harvard College, USA., for the obtaining of the
+    original paper of van den Berg and Herbst (1975AJ.....80..212H), and
+    closely related papers. The American Astronomical Society, and the
+    University Press, Chicago, USA, are thanked for making copyrighted
+    papers from the Astronomical Journal available to the NASA
+    Astrophysics Data System and indirectly to the editors.
+
+References:
+  Hartley M., Manchester R.N., Tritton S.B., Gross W.M. 1986,
+    Astron. Astrophy. Supp. Ser. 63, 27 (1986A&AS...63...27H), Cat. <VII/191>
+  Herbig, G.H., Bell, K.R., 1988, Lick Observatory Bulletin No. 1111
+    (Cat. V/73>)
+  Herbst, W. 1975, Astron. J. 80, 212 (1975AJ.....80..212H)
+  Slotegraaf, A. 1998 "Deepsky Observers Companion"
+    (http://members.xoom.com/auke/index.html)
+  van den Berg S., 1966, Astron. J. 71, 990 (1966AJ.....71..990V)
+    (Cat. <VII/21>)
+  van den Berg S., Herbst W., 1975, Astron. J. 80, 208 (1975AJ.....80..208V)
+================================================================================
+(End)     Raymond Bruton [Fort Worth], Patrick Chevalley [Geneva]    26-May-2000

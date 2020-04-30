@@ -1,0 +1,64 @@
+#Open Clusters
+#Num  NGC#  M-#  RA    Dec    Dim  mag  mag* N-* age/Myr  Notes
+#
+S1   869    -  02:19 +57.2   30  4.3p 6.6  200     5.6  h Persei
+S2   884    -  02:22 +57.1   30  4.4p 8.1  150     3.2  chi Persei
+S3      M45  03:47 +24.1  110  1.2  2.9  100    78    Pleiades
+S4  1912   38  05:29 +35.8   21  6.4  9.5  100   220
+S5  1960   36  05:36 +34.1   12  6.0  8.9   60    25
+S6  2099   37  05:52 +32.6   24  5.6  9.2  150   300
+S7  2168   35  05:52 +24.3   28  5.1  8.2  200   110
+S8  2323   50  06:09 - 8.4   16  5.9  7.9   80    78
+S9  2632   44  08:40 +20.0   95  3.1  6.3   50   660    Praesepe
+S10  2682   67  08:50 +11.8   30  6.9  9.7  200  3200
+S11  6633    -  18:28 + 6.6   27  4.6  7.6   30   660
+S12  6705   11  18:51 - 6.3   14  5.8  8.0  200   220
+#Extra key: mag*: Apparent magnitude of the brightest star; N-*: Number of stars; age/Myr: Age in million years; Notes: Common name
+##
+#
+#Gaseous Nebulae
+#Num  NGC#  M-#  RA    Dec    Dim      mag mag*  Type  Notes
+#
+G1  1952    1  05:35 +22.0   6x 4    8.4 15.9  d*    Crab Nebula
+G2  1976   42  05:35 - 5.5  66x60    2.9    -  d     Orion Nebula
+G3  6611   16  18:19 -13.8  35x28    6.6    -  d     Eagle Nebula
+G4  6618   17  18:21 -16.2  46x37    6.9    -  d     Omega Nebula
+G5  6720   57  18:54 +33.0   1x 1.4  9.7 14.8  p     Ring Nebula
+G6  6853   27  20:00 +22.7   7x 8    7.5 13.9  p     Dumbbell Nebula
+#Extra key: mag*: Apparent magnitude of the central star (if present); Type: d: diffuse nebula, p: planetary nebula
+#*: Actually, a supernova remnant.
+#
+#
+#Globular Clusters
+#Num  NGC#  M-#  RA    Dec    Dim  mag  Dist
+#
+K1  5272    3  13:42 +28.4   16  6.4  32
+K2  5904    5  15:19 + 2.1   17  5.8  25
+K3  6205   13  16:42 +36.5   17  5.9  23
+K4  6341   92  17:17 +43.1   11  6.5  25
+K5  6656   22  18:36 -23.9   24  5.1  10
+K6  7078   15  21:30 +12.2   12  6.4  31
+K7  7089    2  21:34 - 0.9   13  6.5  37
+Extra key: Dist: Distance in 1000 light years
+
+#
+#Bright Extragalactic Objects
+#Num  NGC#  M-#  RA    Dec    Dim     mag  Type       Notes
+#
+E1   205  110  00:40 +41.7   17x10  8.0  E6         L
+E2   221   32  00:43 +40.9    8x 6  8.2  E2         L
+E3   224   31  00:43 +41.3  178x63  3.5  Sb I-II    L, Andromeda Galaxy
+E4   598   33  01:34 +30.7   62x39  5.7  Sc II-III  L, Triangulum Galaxy
+E5  1068   77  02:43 - 0.0    7x 6  8.8  Sbp
+E6  2403    -  07:37 +65.6   18x11  8.4  Sc III
+E7  3031   81  09:56 +69.1   26x14  6.9  Sb I-II
+E8  3034   82  09:56 +69.7   11x 5  8.4  Ir
+E9  4258  106  12:19 +47.3   18x 8  8.3  Sb+p
+E10  4472   49  12:30 + 8.0    9x 7  8.4  E4         V
+E11  4486   87  12:31 +12.4    7x 7  8.6  E1         V, Virgo A
+E12  4594  104  12:40 -11.6    9x 4  8.3  Sb-        Sombrero Galaxy
+E13  4736   94  12:51 +41.1   11x 9  8.9  Sb-p II
+E14  4826   64  12:57 +21.7    9x 5  8.5  Sb-
+E15  5055   63  13:16 +42.0   12x 8  8.6  Sb+ II
+E16  5194   51  13:30 +47.2   11x 8  8.4  Sc I
+E17  5457  101  14:03 +54.4   27x26  7.7  Sc I

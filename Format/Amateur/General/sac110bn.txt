@@ -1,0 +1,111 @@
+  1    891  AND  Sb  02 22.6  +42 21  11.5  14.0x3.0      edge-on with dust lane
+  2   7662  AND  PN  23 25.9  +42 33   8.6   17"x14"      use high power for detail
+  3   6781  AQL  PN  19 18.5  +06 32  11.8  111"x109"     large, pale
+  4   7009  AQR  PN  21 04.2  -11 22   8.3   28"x23"      Saturn, small green oval
+  5   7293  AQR  PN  22 29.6  -20 48   6.3  960"x720"     Helix, large, diffuse
+  6    772  ARI  Sb  01 59.4  +19 00  11.5   8.0x5.0      diffuse spiral
+  7   1907  AUR  OC  05 28.0  +35 19   8.2     7.0        30* mags 9...
+  8   1931  AUR  OC  05 31.4  +34 15  11.3     3x3        haze around 4*
+  9   1501  CAM  PN  04 07.0  +60 55  12    55.8"x48"     faint, dark center
+ 10   2403  CAM  Sc  07 36.8  +65 37   9.5    17.8        visible in binocs
+ 11   2655  CAM  S   08 55.6  +78 13  11.5   6.5x5.8      stellar nucleus
+ 12    185  CAS  dE0 00 39.0  +48 20   9.7    12x10       distant companion to M31
+ 13    281  CAS  OC  00 52.8  +56 37   7.4     4.0        responds to UHC filter
+ 14    457  CAS  OC  01 19.1  +58 20   6.4    13.0        rich, 80*
+ 15    663  CAS  OC  01 46.0  +61 15   7.1    16.0        NGC's 654 + 659 nearby
+ 16   7789  CAS  OC  23 57.0  +56 44   6.7    16.0        very rich, many dim*
+ 17   5128  CEN  SOp 13 25.5  -43 01   8.0    18x15       equatorial dust lane
+ 18   5139  CEN  GC  13 26.8  -47 29   3.7    36          omega Centauri!
+ 19     40  CEP  PN  00 13.0  +72 32  10.7   60"x40"      central* 11.6mag
+ 20   6939  CEP  OC  20 31.4  +60 38   7.8     8.0        rich, 80*, near NGC 6946
+ 21   6946  CEP  Sc  20 34.8  +60 09  10.5    14          diffuse, face-on
+ 22   7129  CEP  RN  21 41.3  +66 06  11.5     7x7        faint reflection neby
+ 23    246  CET  PN  00 47.1  -11 53   8.5  240"x210"     low surface brightness
+ 24    936  CET  SBa 02 27.7  -01 09  11     5.6x4.5      near M77
+ 25   2359  CMA  EN  07 17.8  -13 13   --      8.0        Duck, UHC filter helps
+ 26   4274  COM  Sb  12 19.9  +29 37  11.1   7.3x2.7      many other NGC's near
+ 27   4414  COM  SC  12 26.4  +31 14  10.9   4.8x3.2      stellar nucleus
+ 28   4494  COM  E1  12 31.3  +25 47  10.7   4.5x4.3      small, compact
+ 29   4559  COM  SC  12 35.9  +27 58  10.7  13.0x5.2      coarse structure
+ 30   4565  COM  Sb  12 36.3  +26 00  10.3  15.5x1.9      superb edge-on, dust lane
+ 31   4725  COM  Sb  12 50.4  +25 33  10.2  12.0x9.0      bright, large spiral
+ 32   4361  CRV  PN  12 24.5  -18 48  10.3     80"        small, bright
+ 33   4111  CVN  S0  12 07.1  +43 05  11.4   4.3x0.8      bright lens shape
+ 34   4214  CVN  Ir  12 15.7  +36 20  10.3    11x9.0      large irregular
+ 35   4244  CVN  S   12 17.5  +37 49  10.8  18.5x2.3      huge edge-on
+ 36   4449  CVN  Ir  12 28.2  +44 06  10     6.0x4,5      bizarre rectangular shape
+ 37   4490  CVN  Sc  12 30.6  +41 39  10.1   7.0x3.5      bright spiral
+ 38   4631  CVN  Sc  12 42.1  +32 33   9.8  17.0x3.5      huge edge-on
+ 39   4656  CVN  Sc  12 43.9  +32 11  10.6  22.0x3.0      companion is NGC 4657
+ 40   5005  CVN  Sb  13 11.0  +37 03  10.6   6.3x3.0      near Alpha CVn
+ 41   5033  CVN  Sb  13 13.5  +36 36  10.9  11.5x5.5      near NGC 5005
+ 42   6819  CYG  OC  19 41.3  +40 11   7.3     5.0        rich, 150*
+ 43   6826  CYG  PN  19 44.8  +50 31   8.8   27"x24"      Blinking PN, 10mag*
+ 44   6960  CYG  EN  20 45.6  +30 43   --     70x6        Veil, west half
+ 45   6992  CYG  EN  20 56.3  +31 42   --     60x8        Veil, east, use UHC
+ 46   7000  CYG  EN  20 58.8  +44 20   --    120x100      North Am., low power
+ 47   7027  CYG  PN  21 07.1  +42 14   9.6   18"x11"      proto-planetary, unique
+ 48   5907  DRA  Sb  15 15.9  +56 19  11.4  12.8x1.8      fine edge-on, dust lane
+ 49   6503  DRA  Sb  17 49.4  +70 09  11.5     8x2.6      bright, elongated
+ 50   6543  DRA  PN  17 58.6  +66 38   8.3   22"x16"      11th mag central*
+ 51   1232  ERI  Sc  03 09.7  -20 34  10.5     8x7        face-on spiral
+ 52   1535  ERI  PN  04 14.2  -12 44  10.4   20"x17"      bright bluish disk
+ 53   2158  GEM  OC  06 07.5  +24 06   8.6     5.0        near M35, compact
+ 54   2392  GEM  PN  07 29.2  +20 55   8.6   47"x43"      Eskimo, use high power
+ 55   6207  HER  Sc  16 43.1  +36 50  12.5   3.3x1.2      no definite nucleus
+ 56   6210  HER  PN  16 44.5  +23 49   9.7   20"x13"      small, bluish
+ 57   3242  HYA  PN  10 24.8  -18 38   8.6   40"x35"      Ghost of Jupiter
+ 58   7209  LAC  OC  22 05.2  +46 30   6.7    25.0        50*
+ 59   7243  LAC  OC  22 15.3  +49 53   6.4    21.0        40*
+ 60   2903  LEO  Sb  09 32.2  +21 29  10    13.3x6.0      bright, elongated
+ 61   3384  LEO  E7  10 48.3  +12 38  10     5.4x2.8      in field of M105
+ 62   3521  LEO  Sc  11 05.8  -00 02  10.1  13.5x7.0      large, bright
+ 63   3607  LEO  E1  11 16.9  +18 03  10.2   4.5x4.0      other galxy's nearby
+ 64   3628  LEO  Sb  11 20.3  +13 36  11.5  15.5x4.3      edge-on, near M65 - M66
+ 65   3344  LMI  Sc  10 43.5  +24 55  11.1   7.5x7.0      diffuse face-on
+ 66   3432  LMI  Sc  10 52.5  +36 37  11.7   7.5x2.0      edge-on, faint streak
+ 67   2683  LYN  Sb  08 52.7  +33 25  11     9.2x2.6      bright edge-on
+ 68   2244  MON  OC  06 32.4  +04 52   4.8    24.0        Rosette, OC + neby
+ 69   2261  MON  EN  06 39.2  +08 44   --      2x1        Hubble's Neb, comet like
+ 70   6369  OPH  PN  17 29.3  -23 46  11     30"x29"      near NGC 6309
+ 71   6572  OPH  PN  18 12.1  +06 51   9     15"x12"      small, bright
+ 72   6633  OPH  OC  18 27.7  +06 34   4.6    27.0        large, sparse, bright
+ 73   1788  ORI  EN  05 06.9  -03 20   --      8x5        comet shaped
+ 74   1973  ORI  EN  05 35.1  -04 44   --      5x5        near M42
+ 75   2024  ORI  EN  05 42.0  -01 50   --     30x30       put Zeta out of field
+ 76   2022  ORI  PN  05 42.1  +09 05  12.8   28"x27"      small, annular
+ 77   2194  ORI  OC  06 13.8  +12 48   8.5    10.0        rich with faint stars
+ 78   7331  PEG  Sb  22 37.1  +34 25  10.4  11.4x4.0      elongated in PA 171 deg
+ 79    869  PER  OC  02 19.0  +57 09   4.3    30.0        Double Cluster w/NGC 884
+ 80    884  PER  OC  02 22.4  +57 07   4.4    30.0        350*, use low power
+ 81   1023  PER  E7p 02 40.5  +39 03  11       9x4        lens shaped
+ 82   1491  PER  EN  04 03.3  +51 18   --      3x3        small, fairly bright
+ 83   2438  PUP  PN  07 41.8  -14 44  11       65"        on N edge of M46
+ 84   2440  PUP  PN  07 41.9  -18 13  11.5   54"x20"      almost stellar
+ 85   2539  PUP  OC  08 10.7  -12 50   6.5    22.0        rich, near M46 + M47
+ 86    253  SCL  Scp 00 47.5  -25 18   7.1    25x7        large
+ 87   6712  SCT  GC  18 53.1  -08 42   8.2     7.2        PN IC 1295 in field
+ 88   3115  SEX  E6  10 05.2  -07 43  10.1   8.3x3.2      Spindle, lens-shaped
+ 89   6445  SGR  PN  17 49.2  -20 01  13     35"x30"      annular, near M23
+ 90   6520  SGR  OC  18 03.4  -27 54   7.6     6.0        60*, compact, near B86
+ 91   6818  SGR  PN  19 44.0  -14 09  10     22"x15"      annular, near NGC 6822
+ 92   2841  UMA  Sb  09 22.0  +50 59  10.5   7.4x3.5      bright edge-on
+ 93   3079  UMA  Sb  10 02.0  +55 41  11.2   8.7x1.6      elongated in PA 165 deg
+ 94   3077  UMA  E2p 10 03.3  +68 44  10.7   6.0x4.5      bright core
+ 95   3184  UMA  Sc  10 18.3  +41 25  10.4   8.5x7.8      diffuse face-on
+ 96   3675  UMA  Sb  11 26.1  +43 35  10.4   6.8x3.5      in field of 56 UMA
+ 97   3877  UMA  Sc  11 46.1  +47 30  11.8   5.6x1.2      elongated in PA 35 deg
+ 98   3941  UMA  E3  11 52.9  +36 59  11.3   3.6x2.5      small, bright
+ 99   4026  UMA  E8  11 59.4  +50 58  11.5   4.5x1.1      lens-shaped
+100   4088  UMA  Sb  12 05.6  +50 33  11.2   5.9x2.2      near NGC 4085
+101   4605  UMA  Scp 12 40.0  +61 37  10.8   7.0x2.5      bright edge-on
+102   4216  VIR  Sb  12 15.9  +13 09  11.2   8.5x1.7      near NGC's 4206 + 4222
+103   4388  VIR  SBc 12 25.8  +12 40  12.2   6.2x1.7      near M84 + M86
+104   4438  VIR  Sap 12 27.8  +13 01  12     9.7x3.9      pair with NGC 4435
+105   4526  VIR  E7  12 34.1  +07 43  10.6   7.0x2.7      betwn 2* of 7th mag
+106   4535  VIR  SBc 12 34.4  +08 13  11.1   7.8x7.0      near M49
+107   4567  VIR  Sb  12 36.6  +11 16  12.5   3.0x2.5      Siamese Twins, galxy pair
+108   4699  VIR  Sa  12 49.1  -08 40  10.5   3.5x2.7      small & bright
+109   4762  VIR  SO  12 53.0  +11 14  11.1   9.0x2.0      flattest galaxy known
+110   5746  VIR  Sb  14 45.0  +01 49  12.3   7.4x1.1      edge-on, near* 109 VIR
+111   6940  VUL  OC  20 34.6  +28 18   6.3    31.0        rich, 60*

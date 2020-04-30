@@ -1,0 +1,140 @@
+VII/210    A Catalogue of Galactic Supernova Remnants    (Green, 1996)
+================================================================================
+A Catalogue of Galactic Supernova Remnants, 1996 August version
+   Green D.A.
+   <in Supernovae and Supernova Remnants, the
+       proceedings IAU Colloquium 145, eds McCray R. & Wang Z.,
+       Cambridge University Press, p. 419 (1996)>
+    =1996IAUCo.145..419G
+================================================================================
+ADC_Keywords:  Supernova remnants ; Milky Way ; Nonstellar objects
+
+Abstract:
+    This catalog of known Galactic supernova remnants (SNRs) is an updated
+    version (Version VI,  August 1996)  of the  catalogs of  Galactic SNRs
+    presented in detail in  Green (Version  I 1984,  Version II  1988), in
+    summary  form in Green (Version III 1991, Version IV 1996), and on the
+    Web  (Version V, July 1995). (Note that Version IV, although published
+    in 1996, was producted in 1993.)
+
+    This August 1996 version of the catalog contains 215 SNRs, which is 21
+    more than listed in the  previous  version.  The  basic  summary  data
+    included in this catalog for each SNR are its Galactic coordinates, RA
+    and Dec  (B1950.0), angular size (in arcmin),  type, flux density at 1
+    GHz,  spectral index, and any other  names. Notes on these parameters,
+    on possible remnants not included, and questionable SNRs listed in the
+    catalog  are given in the documentation  file (snrs.doc). It should be
+    noted  that there  are serious  selection effects  which apply  to the
+    identification  of Galactic SNRs (see Green  1991), so that great care
+    should be taken if these data are used in statistical studies.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName Lrecl  Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe      80        .    This file
+snrs.doc    75      505    original documentation to the catalog
+snrs.dat    86      215    Supernova remnants catalog
+--------------------------------------------------------------------------------
+
+See also:
+  VII/187 : the July 1995 version which was superseded by this catalog
+  http://www.mrao.cam.ac.uk/surveys/snrs/ : the on-line version
+
+Byte-by-byte Description of file: snrs.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   2-  6  F5.1  deg     GLON     *Galactic longitude l
+   8- 12  F5.1  deg     GLAT     *Galactic latitude b
+  15- 16  I2    h       RAh      *Right Ascension B1950 hours
+  18- 19  I2    min     RAm      *Right Ascension B1950 minutes
+  21- 22  I2    s       RAs      *Right Ascension B1950 seconds
+      25  A1    ---     DE-      *Declination sign
+  26- 27  I2    deg     DEd      *Declination B1950 degrees
+  29- 30  I2    arcmin  DEm      *Declination B1950 arcminutes
+  33- 39  A7    arcmin2 Ang_Size *[0-9.x? ] Angular Size of remnant
+  42- 43  A2    ---     type     *[CFS? ] Type of remnant
+      45  A1    ---   l_S(1GHz)   [>] Limit flag on S(1GHz)
+  46- 51  F6.1  Jy      S(1GHz)  *? Flux Density at 1 GHz
+      52  A1    ---   u_S(1GHz)  [?] Uncertainty flag on S(1GHz)
+  54- 57  F4.2  ---     SI       *?  Spectral Index of integrated radio emission
+  58- 59  A2    ---     u_SI     *[?v ] Uncertainty and variability flag on SI
+  61- 86  A26   ---     alt      *Other names commonly used
+--------------------------------------------------------------------------------
+Note on GLON, GLAT:
+  Galactic Coordinates are the source centroid quoted to the nearest
+  tenth of a degree.
+
+Note on RAh, RAm, RAs, DE-, DEd, DEm:
+  The accuracy of the quoted values depends on the size of the
+  remnant. For small remnants they are to the nearest few seconds of
+  time and the nearest minute of arc for RA and DEC respectively. For
+  the larger remnants they are rounded to coarser values. They are in
+  every case sufficient to specify a point within the boundary of the
+  remnant. These coordinates are deduced from radio maps rather than
+  from X-ray or optical observations, and are B1950.0.
+
+Note on Ang_Size:
+  Usually taken from the highest resolution radio map available,
+  although for some barely resolved sources that are thought to be SNRs
+  the only available size is that from Gaussian models after
+  deconvolution with the observed beam size.  The boundary of
+  most remnants approximates reasonably well to a circle or an ellipse; a
+  single value is quoted for the angular size of the more nearly circular
+  remnants, which is the diameter of a circle with an area equal to that of
+  the remnant, but for elongated remnants the product of two values is
+  quoted, and these are the major and minor axes of the remnant boundary
+  modeled as an ellipse. In a few cases an ellipse is not a satisfactory
+  description of the boundary of the object (refer to the description of the
+  individual object given in its catalogue entry), although an angular size
+  is still quoted for information. For `filled-centre' remnants the size
+  quoted is for the largest extent of the observed radio emission, not, as
+  at times has been used, the half-width of the centrally brightened peak.
+
+Note on S(1GHz):
+  The flux density of the remnant at 1 GHz in Jansky. This is not a
+  measured value, but that deduced from the observed radio frequency
+  spectrum of the source. The frequency of 1 GHz is chosen because flux
+  density measurements at frequencies both above and below this value
+  are usually available.
+
+Note on SI, u_SI:
+  The spectral index of the integrated radio emission from the remnant
+  is either a value quoted from the literature, or one deduced from the
+  available integrated flux densities of the remnant. For several SNRs a
+  simple spectral model is not adequate to describe their radio emission
+  because the spectral index varies across the face of the remnant or
+  that the integrated spectrum is curved, and in these cases the spectral
+  index includes the 'v' in u_SI. In some cases where the remnant is highly
+  confused with thermal emission, the spectral index is given as '?' since
+  no value can be deduced with any confidence.
+
+Note on type:
+  S  remnant shows a shell
+  F  remnant shows a filled center ('filled centre')
+  C  remnant shows a composite or combination radio structure
+  S?, C?, F? if there is some uncertainty
+  ?  object is conventionally considered a SNR although its nature is
+     poorly known or not well understood.
+
+Note on alt:
+  Other names commonly used for the object. These are given
+  in parentheses if the remnant is only part of the source.
+  For some objects, notably the Crab Nebula, not all common names
+  are given.
+--------------------------------------------------------------------------------
+
+Remarks:
+  The on-line version on the WWW is searchable and contains much more
+  information on the individual objects.
+
+References:
+ Green, D.A., MNRAS, 209, 449 (1984) =1984MNRAS.209..449G
+ Green, D.A., ApSS, 148, 3, (1988)   =1988APSS..148....3G
+ Green, D.A., PASP, 103, 209 (1991)  =1991PASP..103..209G
+ Green D.A., 1996, in Supernovae and Supernova Remnants, (the
+       proceedings IAU Colloquium 145), eds McCray R. & Wang Z.,
+       (Cambridge University Press), p419 (Paper IV).
+================================================================================
+(End)                               J. Weiland [SSDOO/ADC]           13-Jul-1998

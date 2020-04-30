@@ -1,0 +1,1406 @@
+﻿RAh,RAm,RAs,DE-,DEd,DEm,ESO,Text
+0,1,28,-,51,40.3,193- G  13,S comp 0.5 nf
+0,2,20,-,45,45.9,241- G  13,connected w S comp 0.6 sf
+0,3,12,-,40,3.5,293-IG  32,"incl 2 S comp, in group"
+0,3,27,-,44,5.6,241- G  15,L in group
+0,3,40,-,40,29.6,293-IG  33,in group
+0,3,48,-,41,46.3,293-IG  34,"incl 2 vS comps sp, nf; in group w IG 37, S comp 1.2 f"
+0,4,34,-,41,38.1,293-IG  37,"star imp, sev S comps; in group w IG 34"
+0,4,49,-,64,49.3,78- G  16,connected? w S comp sp
+0,7,23,-,49,14.0,193- G  33,in cl
+0,7,23,-,64,39.0,78- G  17,distant cl in backgr
+0,9,18,-,24,38.5,472- G  17,image distorted by calibration spots
+0,9,43,-,23,46.8,472- G  19,image distorted by calibration spots
+0,10,31,-,24,29.6,472- G  20,image distorted by calibration spots; diameters
+0,10,31,-,24,29.6,472- G  20,measured on adj plate
+0,10,48,-,26,52.3,472-IG  21,B starlike centre in 1st obj
+0,12,9,-,39,53.6,293-IG  48,"arms term in 2 S comps n, s ; in group"
+0,12,34,-,24,58.2,473- G   3,image distorted by calibration spots
+0,12,35,-,35,25.3,350-IG   3,in cl
+0,12,55,-,48,37.1,193-IG  40,vF bridge to S comp 1.2 s
+0,13,33,-,56,21.3,149-IG  25,S comp at tip of arm
+0,15,34,-,34,9.1,350- G   7,B comp 2.0 sp
+0,16,33,-,23,12.9,473- G  10,S comp 3.6 np = NGC 65
+0,17,13,-,51,32.7,194- G   4,L in group
+0,17,56,-,49,31.7,194-IG   5,in G 06 cl
+0,19,5,-,40,39.9,294- G   5,in group w G 04
+0,19,5,-,48,54.2,194-IG  12,broad ext southw
+0,19,54,-,32,32.9,410- G   9,in field 350
+0,21,33,-,62,32.9,78-IG  23,con w starlike obj 0.7 np
+0,23,2,-,69,5.0,50-IG  11,close pair connected by F bridge to 3rd member
+0,25,0,-,40,52.8,294-IG  11,in group
+0,25,20,-,38,57.7,294-IG  13,L in group
+0,25,29,-,50,51.6,194-IG  18,2 S comp 1.3 np
+0,25,52,-,48,56.3,194-IG  19,plume westw from 2nd comp
+0,26,12,-,41,11.2,294-IG  14,in cl
+0,27,19,-,51,47.7,194- G  21,cz=3312:40(ES)?
+0,28,9,-,34,39.3,350- G  24,in foreground of dist galaxy cluster
+0,28,44,-,41,38.5,294- G  19,starlike object nf on tip of arm
+0,28,59,-,33,38.8,350- G  29,in cl
+0,29,33,-,49,58.2,194-IG  25,eF bridge incl S comp 1.8 s and 3.2 s
+0,29,46,-,64,40.0,79- G   2,2 S comps 0.5 sf
+0,30,13,-,45,30.5,242- G  12,contact w S comp s
+0,32,44,-,33,39.1,350- G  36,incl S comp f
+0,34,52,-,20,12.7,540- G   6,cz=3460(5D)
+0,35,15,-,33,59.5,350- G  40,vF spir arms inside knotty ring; 2 S comps 1.0 nf
+0,36,51,-,19,11.6,540- G   9,NGC RA 2.6 m off
+0,38,33,-,63,43.1,79- G   5,disturbed? sev S objs near
+0,41,7,-,50,27.5,194- G  31,cz=8900:250(2C)
+0,42,7,-,51,28.6,194- G  33,"L in cl, or in foreground?"
+0,44,31,-,41,53.3,295-IG   4,eF streamer? terminating in S comp nf
+0,47,38,-,47,39.6,195-IG   4,L in group
+0,50,17,-,31,28.6,411- G  25,S and F comp 3.4 np
+0,51,11,-,47,38.9,195-IG  11,star between
+0,51,28,-,45,27.4,243- G   8,IC Dec off 10'
+0,52,37,-,23,47.8,474- G  43,in G 42 group
+0,54,45,-,53,11.6,151- G  13,sev S comps
+0,54,50,-,63,45.1,79-IG  13,B nucl reg in knotty ring;
+0,54,50,-,63,45.1,79-IG  13,interacting w S E or compact 0.8 sp
+0,54,52,-,43,59.8,243- G  15,S comp 0.2 sp
+0,56,12,-,51,4.0,195- G  20,"incl 2 S comp n,s"
+0,56,30,-,19,0.8,541- G   4,"NGC pos 0.4 m, 19' off, cf. G 08"
+0,56,43,-,68,45.6,51-IG   8,"patchy, chaotic spiral; in group"
+0,57,41,-,18,53.8,541- G   8,"NGC pos 0.8 m, 12' off, cf. G 04"
+0,57,47,-,33,58.7,351- G  30,"discovered by Harlow Shapley, Boyden Observatory, South"
+0,57,47,-,33,58.7,351- G  30,"Africa, in 1937."
+0,58,21,-,31,12.0,412- G   2,S comp 0.8 f
+0,58,34,-,50,48.6,195-IG  22,bridges con sev S comp
+0,58,42,-,26,19.7,475- G   5,S bar-like comp attached to s arm
+0,59,9,-,23,32.1,475- G   6,NGC RA 0.7 min off
+0,59,10,-,23,31.3,475- *   7,NGC RA 0.8 min off
+1,0,13,-,39,20.3,295- G  29,"2 S comps 1.0 s, 0.5 sf"
+1,0,34,-,47,27.3,243-IG  19,"""cigar"" through ring"
+1,2,6,-,51,18.0,195- G  28,in G 27 group
+1,2,32,-,64,23.4,79- G  16,S knot attached
+1,2,45,-,57,38.7,113-IG   9,interacting w 3 S comps
+1,3,27,-,56,36.0,151- G  23,redshift based on G?
+1,4,8,-,20,36.0,541- G  19,"NGC pos 3.8 m, 19' off"
+1,5,20,-,17,46.4,541-IG  23,"VV 114; p w G 22, in cl"
+1,5,49,-,49,57.9,195- C  31,comet West - Kohoutek - Ikemura
+1,5,57,-,46,21.6,243- G  34,IC Dec off 10'
+1,7,3,-,39,2.2,296- G   3,S comp 0.7 sp
+1,9,50,-,61,47.5,113- G  22,nom val of Dec off 5'
+1,10,29,-,58,28.4,113- G  24,in G 23 group
+1,10,48,-,58,32.8,113- G  25,in G 23 group
+1,12,8,-,70,6.7,51- G  25,"nearest to nominal position X =+92. , Y = - 4."
+1,12,9,-,31,26.7,412- G  21,in cl
+1,12,19,-,55,17.1,151- G  35,filaments perpendicular to major axis; eruptive?
+1,15,1,-,34,6.2,352- G  33,NGC Dec 28' off
+1,15,15,-,61,43.7,113- G  33,2 S comps sf
+1,15,56,-,44,43.6,244- G  12,2nd ref to rad vel in main catalog is Ag;
+1,15,56,-,44,43.6,244- G  12,cz=6700:10(2C); Dec off 13'
+1,16,52,-,37,4.2,352-IG  42,"sf of 2, in cl"
+1,17,13,-,51,13.6,196- G   2,IC Dec off 19'
+1,17,43,-,41,29.9,296-IG  11,sev B conds; in G 13 group
+1,19,5,-,54,47.6,151- G  41,interact? w comp 1.0 nf
+1,21,40,-,38,16.3,296-IG  17,in cl
+1,21,51,-,59,3.9,113-IG  45,vB centre or star? Inv S comp 0.4 sf
+1,22,58,-,38,19.7,296- G  25,in cl
+1,23,0,-,20,28.9,542- G  11,NGC Dec 16' off
+1,23,22,-,68,52.7,52-IG   1,mean velocity
+1,23,36,-,37,35.6,296- G  29,in cl
+1,24,44,-,20,17.7,542- G  12,NGC RA 1.8 min off
+1,24,45,-,18,54.8,542- G  13,NGC Dec 28' off
+1,24,54,-,31,3.2,413- G?  6,not vis on PSS prints
+1,25,57,-,35,55.7,353- G   4,IC Dec off 5'
+1,26,24,-,52,53.8,152-IG   3,Mean of 3700 and 3200 for the nuclei
+1,27,40,-,61,43.3,113- G  50,compact E 1.2 sp
+1,28,41,-,51,23.9,196- G  11,S comp 0.7 sf
+1,29,10,-,31,49.9,413-IG? 10,not vis on PSS prints
+1,30,4,-,54,7.1,152- G   7,"2 S comps 0.7 nf, 1.2 sp"
+1,30,14,-,54,49.5,152- G   8,redshift based on H?
+1,31,17,-,56,18.8,152- G  11,"2 S comps f, in group of 3"
+1,31,46,-,39,20.9,297-IG   1,in group
+1,35,56,-,61,7.1,114-IG   1,vF ext to S comp 1.1 sp
+1,36,45,-,42,50.3,244- G  43,redshift based on 5175
+1,36,53,-,50,3.0,196-IG  14,star between
+1,36,55,-,43,37.3,244- G? 46,p w G 47
+1,37,21,-,51,14.8,196-IG  15,S comp 0.8 sf
+1,40,16,-,45,37.7,245-IG   2,streamer tow star? 0.8 n
+1,41,13,-,33,43.6,353- G  37,vF bridge to S comp 0.5 f
+1,42,58,-,43,50.9,245- G   5,associated? w G 07
+1,47,34,-,27,42.8,414- G   5,NGC RA 0.9 min off
+1,49,3,-,44,41.5,245- G   7,associated? w G 05
+1,50,27,-,36,21.2,354-IG   8,interacting w IG 07
+1,51,16,-,49,48.3,197- G  10,"abs lane? perpendicular to major axis, like Cen A"
+1,53,26,-,30,10.0,414- G  11,IC RA 4.4 min off
+1,53,52,-,54,7.6,152-IG  35,2 S comps inv
+1,54,12,-,50,13.7,197-IG  13,interacting? w IG 14
+1,54,19,-,50,14.0,197-IG  14,interacting? w IG 13
+1,54,42,-,44,13.0,245- G  10,sev S comps
+1,55,11,-,32,13.8,414- G  15,IC notes ?PD 123 deg which brings it close to IC 1759
+1,56,28,-,61,45.1,114- G  17,S comp s on tip of arm
+1,56,46,-,56,29.5,153-IG   4,"B in grp, sev S comp"
+1,57,21,-,56,40.8,153-IG   5,e dif bridge to S comp 1.2 sp
+1,58,7,-,34,33.5,354- G  25,p w G 26
+1,58,35,-,56,26.5,153-IG   9,in IG 04 group
+1,58,45,-,56,16.1,153-IG  10,in IG 04 group
+2,1,11,-,69,41.3,52-IG  17,cz=7800:40(2C) west; cz=8300:10(2C) east        km/s
+2,1,54,-,61,28.3,114- G  22,S comp 1.5 nf
+2,2,18,-,51,46.4,197-IG  20,"con? w compact 1.4 sf, eF bridge to dif comp 1.9 np"
+2,3,7,-,55,27.3,153-IG  16,"S comp 1.0 sf, in G 17 group"
+2,3,42,-,60,1.0,114- G  25,B comp 3.1 sf
+2,4,50,-,55,27.0,153-IG  21,in G 17 group
+2,4,53,-,71,21.2,52- G  20,S E 3.5 f
+2,4,54,-,62,12.0,114- G  27,associated? w G 29
+2,7,13,-,23,18.7,478- C   8,dimensions refer to trail of nucleus
+2,7,56,-,69,35.5,52-IG  22,"connected w 2 S comps n, nf"
+2,9,22,-,40,31.5,298- G  17,pos on B member
+2,12,31,-,54,55.1,153- G  29,S comp 2.2n
+2,13,44,-,23,32.2,478- G  18,NGC Dec 7' off
+2,14,3,-,26,10.9,478- G  19,streamers from starlike centre
+2,14,53,-,48,3.1,198- G   1,in field 197
+2,15,53,-,46,51.1,246-IG   6,interacting w S comp 0.4 sf
+2,16,45,-,52,14.3,198-IG   3,connecting arm to S comp 0.6 np
+2,19,19,-,27,29.1,415- G  21,in field 478
+2,20,22,-,59,22.9,115- G   6,contact w S comp sp
+2,20,33,-,58,50.2,115-IG   7,vF bridge? to S comp 1.2 n
+2,20,43,-,20,56.2,545- G  10,in G 11 group
+2,23,14,-,40,39.2,299-IG   1,long spiral arm
+2,23,32,-,42,18.9,299-IG   2,connected? w starlike obj 0.7 s
+2,23,38,-,19,55.0,545- G? 15,vis on PSS
+2,23,42,-,24,56.3,479- G   2,in cl
+2,24,6,-,24,31.0,479- G   4,MCG-4-6-41
+2,26,43,-,57,35.2,115- G  12,contact w S comp n
+2,27,41,-,55,2.6,153-IG  35,in IG 36 group
+2,28,19,-,49,39.0,198-IG  17,in group w G 16
+2,29,6,-,17,52.4,545- G  28,B in cl
+2,29,52,-,17,26.2,545- G  31,in field 614
+2,30,42,-,52,43.5,154-IG   2,interaction w distorted comp 1.5 nf
+2,33,44,-,17,28.9,545- G  38,S comp 1.2 np;  in field 615
+2,35,49,-,50,39.2,198-IG  23,in cl
+2,36,52,-,27,39.6,416- G   6,IC 1826 RA 0.7 min off
+2,40,32,-,52,6.9,198- G  27,S comp 0.6 n
+2,40,56,-,60,6.6,115-IG  25,in G 28 group
+2,41,27,-,29,50.5,416- G  11,"F dif env, in cl"
+2,41,46,-,28,10.7,416-**  14,IC RA 1.0 min off; cf. G 15
+2,43,26,-,28,10.2,416- G  15,IC RA 0.6 min off; cf. ** 14
+2,44,57,-,22,25.0,546- G  19,cf. G 20
+2,44,59,-,53,45.1,154-IG  14,S comp 3.3 sf
+2,45,9,-,22,28.5,546- G  20,cf. G 19
+2,45,27,-,42,20.8,299- G  16,associated? w compact 0.5 sf
+2,45,30,-,70,47.3,53- G  14,compact 0.8 sf
+2,45,39,-,79,20.3,14- G   5,eF streamer? towards F comp 1.7 s
+2,46,48,-,28,45.0,416- G  26,"connected? w 2 S comps 1.3 np, 1.2 n"
+2,47,46,-,71,39.3,53-IG  17,in cl
+2,49,24,-,25,54.3,480- G   7,NGC RA 0.8 min off
+2,49,25,-,55,10.8,154- G  19,cz=5600:40(2C); cz=5531:200(9C); Dec of RC2 off 5'
+2,51,0,-,58,9.1,116- G   1,near edge of plate
+2,56,56,-,36,48.6,356-IG  24,jet ext tow vS object 0.7 s
+3,0,24,-,23,3.8,480- G  23,cz=1334(5D)
+3,0,51,-,22,24.7,547- G   2,VV 346 b = Arp 108
+3,0,53,-,22,24.1,547- G   3,VV 346 a = Arp 108
+3,1,49,-,50,41.4,199-IG  12,"""cigar"" through ring, L in group"
+3,2,9,-,52,18.0,199-IG  13,cz=10500:10(2C) = redshift of 2nd companion (see also
+3,2,9,-,52,18.0,199-IG  13,ref 9C)
+3,2,19,-,61,21.6,116-IG   6,in group w IG 07
+3,2,21,-,52,18.7,199- G  14,p w IG 14
+3,2,22,-,61,20.0,116-IG   7,in group w IG 06
+3,2,27,-,47,16.1,247- G? 16,in field 248
+3,4,35,-,25,54.7,480- G  31,NGC RA 1.0 min off
+3,6,14,-,23,14.8,480-IG  36,"ARP 334; S comp 1.2 np, in cl"
+3,7,47,-,20,47.3,547- G  16,Arp 41 = N 1232 A
+3,11,48,-,57,32.6,116- G  12,S comp superimp?
+3,13,0,-,41,16.0,300- ?  21,RA of N 1291 off 2.5 min
+3,16,9,-,54,32.3,155- G  14,cz=8452:200(9C)
+3,16,20,-,54,33.8,155-IG  16,star superimp? In G 14 group
+3,18,14,-,51,13.7,200-IG   4,cz=9360:100(6B)
+3,18,19,-,18,53.7,547- G  32,"NGC position 0.5 min, 10' off"
+3,18,34,-,45,26.0,248-IG   7,in cl
+3,18,39,-,52,22.0,200- G   7,"2 conds, or star superimp?"
+3,19,16,-,54,28.5,155- G  20,cz=8337:100(9C)
+3,19,31,-,66,52.9,83- G   1,RC2 RA off 10 m
+3,19,36,-,69,8.1,54-IG   7,ext? tow S comp 0.6 sp
+3,20,12,-,51,50.1,200-IG   9,cz=17440:100(6B)
+3,20,26,-,53,9.8,155-IG  21,in cl
+3,22,0,-,37,41.1,301-IG  11,"dif env, in cl"
+3,22,48,-,58,5.3,116-IG  17,comp 0.3 sp
+3,23,13,-,36,32.4,357-IG  28,in G 22 group
+3,23,18,-,50,46.8,200- G  14,IC Dec off 2'
+3,23,24,-,36,33.5,357- G  29,in G 22 group
+3,23,29,-,49,25.9,200- G  16,cz=11426:100(9C)
+3,24,2,-,33,4.2,358- G   1,IC RA 0.6 min off
+3,24,4,-,21,30.6,548- G  18,cz=1471(5D)
+3,24,51,-,34,25.7,358-IG   3,Ka
+3,25,13,-,48,52.6,200- G  25,starlike object 0.8 p
+3,25,35,-,36,55.6,358-IG   7,one-armed
+3,26,17,-,31,14.4,418- G   5,"N 1340 Dec 10' off, N 1344 RA 0.4 m off"
+3,27,52,-,28,56.7,418- G   7,in cl
+3,27,58,-,52,47.4,155- G  39,cz=11354:100(9C)
+3,29,3,-,53,26.4,155- G  41,cz=13730:100(9C)
+3,29,11,-,50,28.7,200-IG  31,"contact w S comp s, sf"
+3,29,18,-,48,8.9,200- G  33,cz=6679:200(9C)
+3,30,6,-,52,4.4,200- G  36,cz=994:100(9C)
+3,31,20,-,18,26.1,548- ?  37,not vis on PSS
+3,32,12,-,45,17.5,249- *?  3,vF bridges? to 3 S objects 1.2 n
+3,32,37,-,51,29.3,200- G  42,interacting? w S pec 1.0 nf
+3,33,9,-,66,17.7,83- G   7,sev e dif objs near
+3,33,50,-,55,15.5,155- G  54,cz=10200:100(9C)
+3,34,24,-,47,51.9,200-IG  46,interacting w S comp 0.8 sp
+3,34,36,-,35,27.5,358- G  29,in cl
+3,35,11,-,83,50.9,4- G   1,in field 003
+3,35,48,-,53,22.5,156-IG   3,ID?
+3,35,53,-,36,18.6,358- G  40,NGC Dec off 1 deg
+3,36,4,-,51,24.8,200- G  53,ID? cf. 200- G 54
+3,37,14,-,33,41.6,358-IG  47,star superimposed
+3,38,14,-,37,57.3,301-IG  22,incl B comp 0.7 p ; in G 23 group
+3,38,15,-,35,46.9,358- G  49,"in cl, nominal value of RA off 0.5 min"
+3,38,28,-,31,50.8,419- G   1,in field 418
+3,39,51,-,21,24.2,548- G  81,B star 0.7 np
+3,39,54,-,54,10.2,156-IG   7,2 streamers at right angles to each other
+3,40,8,-,22,54.8,482- G  36,star superimp sf; in cl
+3,40,27,-,47,22.8,249- G  14,S E 16' nf
+3,40,29,-,51,7.0,200- G  55,cz=11177:100(9C)
+3,40,41,-,41,18.2,302- G   1,in field 301
+3,41,42,-,53,47.7,156- G   8,cz=17291(9M)
+3,42,29,-,24,16.1,482- G  40,in cl
+3,42,48,-,18,25.4,549- G  10,"N 1430 ? star at 03 41 10 -18 23.0, N 1442 Dec 1 deg"
+3,42,48,-,18,25.4,549- G  10,"off, N 1458 ? star at 03 44 48 -18 21.9"
+3,43,7,-,18,47.4,549- G  12,"N 1455 RA 0.7 m off, wrong description"
+3,43,37,-,18,50.1,549- G  14,cf. G 11
+3,45,56,-,54,44.4,156- G  13,eF bridge to S comp 1.6 sp
+3,46,15,-,36,51.2,358- G  67,spiral arm terminating in starlike object nf
+3,48,57,-,50,27.1,201-IG   4,L in group
+3,49,10,-,38,25.2,302-IG  13,in cl
+3,49,53,-,74,8.3,31-IG  22,background disturbed by halo around calibration marks
+3,50,16,-,44,5.3,249-IG  23,"eF bridges? to 2S comp 1.5 sf, 2.0 sf"
+3,51,9,-,43,32.7,249-IG  25,"B, or star superimp?"
+3,51,16,-,47,37.5,201- G   7,cz=810:200(9C)
+3,53,9,-,45,7.0,249-IG  28,streamers or v narrow spiral arms
+3,56,9,-,66,11.0,83- G  13,S comp 0.4 sf
+3,57,39,-,54,12.0,156- G  22,connected w S comp 0.4 nf
+3,57,43,-,59,11.2,117- G  17,star superimposed
+3,59,4,-,52,42.8,156- G  27,in cl
+4,1,36,-,34,38.1,359- G  15,asym F env
+4,1,54,-,43,32.2,250- G   3,2 eF arms; p w G 04
+4,1,58,-,41,42.1,302- G  29,in cl
+4,2,16,-,43,29.2,250- G   4,p w G 03; interacting w S comps 0.9 nf; poor vis due to
+4,2,16,-,43,29.2,250- G   4,pos v near edge of plate 1735
+4,2,48,-,19,24.3,550- G   4,fits IC pos but too faint
+4,4,23,-,67,1.1,84-IG   2,bridge? to eS comp 0.6 sf
+4,4,51,-,52,48.2,156- G  38,cz=720:200(9C)
+4,5,52,-,17,19.5,550- G   9,in field 619
+4,7,34,-,61,23.9,118-IG   4,interacting? w S comp 0.8 sf
+4,7,39,-,24,38.0,483- ?  10,not vis on PSS but is seen on two QBS plates
+4,7,48,-,56,7.5,157- G   1,ID?
+4,8,2,-,67,28.2,84-IG   5,S comp attached n
+4,8,42,-,47,27.7,250- G   9,interacting w S comp 0.9 nf; v near plate edge - descr
+4,8,42,-,47,27.7,250- G   9,refers to adjacent plate
+4,10,4,-,32,58.6,359-IG  26,interacting w G 27
+4,10,9,-,33,0.0,359- G  27,"interacting w IG 26, sev S comps"
+4,10,27,-,29,11.2,420-IG  10,in cl
+4,10,49,-,50,23.4,201-IG  25,interact? w compact 0.6 sp
+4,11,0,-,55,10.6,157-IG   8,star-like obj 1.4 sp
+4,11,4,-,32,40.7,359- G  30,in G 27 group; IC RA 0.7 min off
+4,11,44,-,57,51.8,118- G  10,cz=1169:200(9C)
+4,12,1,-,82,24.8,15- G   8,or star?
+4,12,12,-,38,13.4,303- G   5,sev compacts near
+4,13,9,-,28,36.4,420-IG  14,sev B knots
+4,13,31,-,59,5.2,118-IG  14,"star? superimp, 2 S comps 3' sf"
+4,13,58,-,51,4.2,201-IG  26,eruptive?
+4,14,22,-,52,43.6,157-IG  14,rad vel in main cat. is (N); cz=13261:100(9C) is (S)
+4,14,58,-,17,58.7,550- G  18,fits NGC pos but no cluster
+4,15,35,-,60,19.7,118- G  16,cz=886:(9C)
+4,16,49,-,50,28.7,202-IG   6,in cl
+4,16,50,-,56,3.3,157- G  18,S comp 1.8 f
+4,17,21,-,60,18.2,118-IG  18,v dif con? w S comp 1.7 sf
+4,17,37,-,72,30.7,55- G  19,in field 032
+4,17,55,-,39,17.4,303-IG  11,in cl
+4,18,30,-,31,50.6,420- G  17,IC Dec 16' off
+4,18,43,-,45,9.0,250- G  17,NGC RA off 1 min
+4,18,53,-,55,3.4,157- G  20,many ** imp
+4,20,27,-,24,51.1,484-IG? 12,in cluster
+4,20,33,-,43,44.7,250- G  19,NGC 1570 Dec off 10 min
+4,20,44,-,38,40.5,303-IG  13,L in group
+4,21,22,-,27,19.9,484- G  13,in cluster
+4,21,26,-,56,27.1,157-IG  24,rad vel in main cat for (A); cz=12813:100(9C) for (B)
+4,22,30,-,51,42.8,202- G  14,cz=6141:100(9C)
+4,25,2,-,53,15.7,157-IG  28,S comp 0.5 p
+4,25,22,-,53,17.9,157- G  29,S comp 1.8 p
+4,25,51,-,33,43.9,360-IG  11,vF spiral arm to S comp 1.3 sp
+4,26,48,-,55,10.0,157- G  32,cz=1900:200(9C) (A); cz=1519:200(9C) (B);
+4,26,48,-,55,10.0,157- G  32,knotty str in west part
+4,27,39,-,27,31.0,421-IG   2,sev B conds off centre
+4,28,40,-,53,55.3,157- G  36,S comp at tip of np arm
+4,30,17,-,54,31.4,157- G  38,rad vel in main cat for (B); cz=1000:(9C) for (A)
+4,31,34,-,43,42.8,251- G  11,in G 10 group
+4,33,22,-,41,6.2,303-IG  25,in field 304
+4,34,9,-,54,25.1,157- G  43,conn w S comp 0.6 sp
+4,35,21,-,58,57.8,118- G  31,member? of LMC
+4,35,42,-,25,47.6,485- G   2,vis on PSS
+4,37,26,-,65,26.0,84-IG  29,2nd and 3rd of 3
+4,38,5,-,64,12.6,84-IG  31,np of G 33
+4,38,29,-,36,58.3,361-IG   4,in cl
+4,38,30,-,68,46.2,55-SC  32,10 deg err in NGC for N 1649
+4,39,27,-,58,50.5,118- G  34,cz=1137:200(9C)
+4,39,33,-,52,51.1,157-IG  50,connected w S comp 1.0 nf
+4,40,4,-,49,11.5,202-IG  51,in cl
+4,40,40,-,45,31.0,251-IG  25,in cl
+4,41,21,-,21,10.8,551- G  32,"vF arms, in cl"
+4,41,41,-,63,0.4,84- G  35,stars superimp
+4,41,59,-,62,33.5,84- G  36,stars superimp
+4,42,39,-,67,14.7,84- G  37,B nucleus or star superimp
+4,42,47,-,57,45.2,118-IG  38,e dif bridge? to starlike object 1.5 sp
+4,43,36,-,17,45.9,551- G  33,in field 552
+4,44,29,-,62,47.8,84- G  40,stars or S comp superimp
+4,44,55,-,59,20.3,118- G  43,cz=1376:200(9C)
+4,45,12,-,50,43.8,202- G  56,in field 203
+4,45,24,-,63,28.9,84-IG  41,or interacting pair w oppositely directed tails
+4,45,25,-,17,31.3,552- G   5,"star? superimp n, in cl"
+4,45,38,-,62,42.5,84- G  42,complex arm pattern
+4,46,49,-,51,56.8,203- G   3,"PKS pos off 15 s, 0.2'"
+4,47,0,-,62,27.9,119- G   2,"strong absorption band, S comp 0.5 n"
+4,47,22,-,59,30.2,119- G   3,member? of N 1672
+4,47,35,-,59,30.2,119- G   4,member? of N 1672
+4,48,36,-,68,19.7,56-SC   4,nom val of Dec off 10'
+4,49,14,-,29,44.1,422- G   2,S comp 0.2 np
+4,50,28,-,42,29.1,304- G  27,S comp f at tip of long arm
+4,50,37,-,59,19.0,119-IG  15,e narrow bridge to compact 0.8 nf
+4,51,36,-,45,33.9,251- G  39,in cl
+4,51,39,-,45,33.6,251-IG  40,in cl
+4,52,15,-,60,28.4,119-IG  20,eF bridge? to compact 1.0 n
+4,53,6,-,53,26.5,158- G  13,"multiple nuclei, or superimp stars?"
+4,53,7,-,68,8.0,56-EN  16,nominal val of RA off 1.0 m
+4,53,14,-,20,39.0,552- G  21,NGC RA 1.6 min off
+4,54,29,-,69,17.3,56-SC  22,pos on B star
+4,54,43,-,56,18.8,158- G  15,or stars superimp?
+4,55,12,-,59,39.2,119- G  22,S comp? 0.9sf
+4,56,40,-,50,57.9,203-IG  14,"connected w S comp sp, in cl"
+4,57,21,-,64,48.1,85-IG  22,stars inv; 3rd comp 1.4 s
+4,58,30,-,63,22.3,85- G  27,NGC Dec off 9'
+4,58,58,-,68,53.9,56-**  38,cf. SC 40
+4,59,20,-,69,17.4,56-SC  40,"nominal pos of NGC off 0.5 m, 21', cf. ** 38"
+4,59,52,-,34,6.2,361-IG  25,strongly interact w S comp n; S interacting pair 3' f
+5,0,6,-,34,6.1,362- G   1,in group
+5,0,11,-,59,6.7,119-IG  28,S comp 0.8 nf
+5,1,33,-,65,53.6,85-SC  31,NGC RA off 1.5 min
+5,1,40,-,19,8.3,552- G  60,in cl
+5,5,22,-,79,3.9,15- G  16,incl F ext to S comp 1.0 np
+5,5,59,-,37,34.6,305- G   8,"dif outer arms, L of 3"
+5,6,35,-,55,43.9,158- G  19,S comp 0.6 s
+5,6,52,-,70,32.6,56-SC  65,nom val of Dec off 5'
+5,7,19,-,61,15.2,119-IG  37,RA of RC2 off 2.7 min
+5,7,53,-,61,25.8,119- G  38,"RC2 off 0.6 min, 5'"
+5,8,24,-,58,59.5,119-IG  39,S comp on tip of n arm
+5,9,14,-,60,17.3,119-IG  41,bridge to compact f
+5,13,20,-,26,31.5,486- G  39,vis on PSS
+5,15,6,-,54,9.5,159- G   3,B in group
+5,16,5,-,54,7.2,159- G   4,in G 03 group
+5,17,33,-,37,11.6,362- G  15,in cl
+5,17,42,-,25,6.9,486- G  53,IC 408 RA 1.8 min off
+5,19,26,-,66,44.0,85-SC  70,NGC Dec off 5'
+5,19,29,-,66,47.3,85-SC  71,NGC Dec off 4'
+5,19,46,-,61,18.5,119-IG  54,in cl
+5,19,48,-,61,20.7,119-IG  55,"in cl, bridge to S comp 1.3 np"
+5,20,21,-,61,27.1,119-IG  57,interaction? w starlike object 1.0 np
+5,21,37,-,65,50.4,85-SC  76,NGC Dec off 5'
+5,21,53,-,69,59.7,56-SC 108,pos on globular sf of OC
+5,23,47,-,48,37.8,204- G   7,redshift based on G? 5175?
+5,24,0,-,69,48.0,56- G 115,the Large Magellanic Cloud; opt centre defined by
+5,24,0,-,69,48.0,56- G 115,the symmetry of the bar; D = degrees
+5,26,28,-,63,48.1,85- G  87,similar to N 5128 = Cen A
+5,29,45,-,23,10.8,487- G  19,"IC 2129 pos 0.5 m, 5' off"
+5,31,15,-,21,58.7,554- G  10,cz=1498(5D)
+5,31,28,-,36,26.0,363- G   7,or sev S comps; 10 deg err in IC 2136
+5,31,56,-,23,20.5,487- G  24,IC coordinates OK but descr does not fit this object
+5,32,17,-,23,33.9,487- G  27,IC 2138 coordinates OK but descr does not fit thi s
+5,32,17,-,23,33.9,487- G  27,"object, IC 2132 descr fits but Dec 12' off,"
+5,32,27,-,48,27.9,204-IG  17,long tail terminating? at 3rd comp 0.7 nf
+5,32,28,-,69,16.6,56-SC 147,nom val of Dec off 11'
+5,33,0,-,33,20.3,363- G   9,in cl
+5,33,13,-,17,50.8,554- G  14,not IC 2139 = triple star at 053304-1757.9
+5,33,49,-,86,25.6,4- G  19,in field 003
+5,35,1,-,70,5.7,56-SC 155,nom val of Dec is -69 05
+5,35,46,-,42,26.3,306- G  12,contact? w S comp n
+5,36,21,-,69,40.7,56-*N 166,nom val of Dec off by 10'
+5,40,5,-,66,54.0,86-SC  20,nom value of RA off 1.1 m
+5,40,53,-,34,1.9,363-**  16,"NGC position 1.2 min, 3' off"
+5,41,34,-,30,31.0,424- G  13,IC RA 4.3 min off
+5,42,32,-,68,56.4,57-SC  26,Dec of NGC off 33'
+5,43,19,-,55,33.2,159- G  26,S comp 1.5 s
+5,45,31,-,54,2.4,159- G  28,L in group
+5,45,49,-,45,29.8,253-IG  26,strongly interacting
+5,47,2,-,25,27.2,488- G  32,in cl
+5,47,8,-,47,46.5,205-IG   3,long filaments terminating in S comp 1.1 np
+5,47,39,-,33,4.6,363- G  31,in cl
+5,48,3,-,33,2.6,363- G  32,in field 364
+5,50,12,-,53,35.2,160- G   2,S comp 1.2 nf
+5,50,31,-,34,21.5,364- G   7,"disturbed, incl S comp f, in cl"
+5,50,53,-,59,3.4,120- G  16,"L in group, S comp 0.8 n"
+5,53,11,-,39,46.6,307-IG   2,"dumbell shape, contact w elong comp n"
+5,53,14,-,39,48.4,307-IG   3,"S comp 0.3s, in IG 02 group"
+5,54,15,-,56,41.3,160- G   4,S comp 1.2 sf
+5,55,23,-,49,48.5,205-IG   8,star superimp
+5,55,27,-,18,35.8,555- G  14,2 F arms ext far outside 2 S inner arms
+5,56,31,-,34,53.5,364- G  19,"spiral arm ext to N 0.7 sf, in cl"
+5,57,44,-,67,15.9,86-SC  42,nom value of RA off 1.1 m
+5,58,43,-,52,24.5,205- G  14,in cl
+5,59,0,-,60,4.4,120- G  26,interacting? w spir 0.9 sf
+5,59,29,-,27,31.0,488- G  56,in field 425
+6,0,45,-,60,18.2,121- G   1,in  field 120
+6,2,59,-,26,43.4,489-SC   1,in field 488
+6,6,0,-,49,28.9,205-IG  20,connected? w sev S comps
+6,6,2,-,23,59.0,489- G   7,B starlike object in F asym ring
+6,6,57,-,33,54.5,364- G  33,in cl
+6,9,8,-,49,48.2,205-IG  28,two rings tangent to each other at B centre
+6,9,14,-,47,39.9,205-IG  30,interacting? w G 29
+6,9,30,-,44,59.4,254- G  31,"2 S comps 0.9 nf, 2.0 nf"
+6,9,56,-,53,56.5,160-IG  17,includes S comp f
+6,10,8,-,62,31.6,86- G  63,nom value of RA off 1.0 m
+6,12,2,-,43,41.4,254- G  40,p w G 39
+6,12,6,-,37,39.6,307-IG  25,broad ext southw; L in group
+6,14,14,-,21,21.2,556-IG   8,F surrounding env
+6,15,59,-,60,7.3,121-IG  21,sev S comps
+6,19,40,-,27,12.5,489- G  42,cz=1243(5D)
+6,19,40,-,57,28.3,161- G   1,"nf of 3, S comp 1.5 sf"
+6,20,3,-,48,26.0,206-IG   9,in cl
+6,20,59,-,59,42.8,121- G  26,S comp 1.6 sp
+6,22,40,-,57,1.2,161-IG   2,in cl
+6,25,0,-,25,21.0,490-PN?  1,eF env surr neb shell
+6,26,33,-,63,48.6,87- G  21,"3 S comps 1.0 np, 0.6 nf, 1.0 nf"
+6,26,45,-,62,32.5,121- G  33,in field 87
+6,26,56,-,48,49.8,206-IG  12,4 or 5 radial filaments? ext 1' southw
+6,31,23,-,55,7.5,161- G  15,in cl
+6,32,5,-,25,38.4,490- G? 15,B knotty ring around dif centre
+6,32,14,-,64,9.9,87- G  27,connected? w S comp 0.6 sf
+6,34,21,-,55,7.8,161- G  16,redshift based on 5175
+6,34,36,-,55,8.5,161-IG  18,p w G 16
+6,35,43,-,37,22.4,366- G   1,in field 365
+6,36,19,-,55,19.0,161- G  19,S comp 0.7 sf
+6,37,44,-,27,11.8,490- G? 22,B star 0.2 sf
+6,38,6,-,27,20.8,490- N? 25,B star 0.3 sp
+6,38,21,-,27,2.9,490- G  28,S comp 0.7 nf
+6,42,12,-,40,55.9,308- G  26,"disturbed, contact w S comp np, in cl"
+6,42,14,-,17,52.8,557- G  12,"IC pos 0.8 min, 16' off; cf. G 13"
+6,42,50,-,27,35.2,427- G   2,cz=1662(5D)
+6,43,6,-,55,51.4,161- G  23,"dist, sev S comps"
+6,43,14,-,56,38.2,161-IG  24,contact w S comp f
+6,43,41,-,18,9.4,557- G  13,"IC pos 0.7 min, 31' off; cf. G12"
+6,43,53,-,31,10.5,427- G   6,in cl
+6,43,55,-,20,42.2,557-SC  14,OCl-597
+6,44,25,-,74,11.1,34-IG  11,outer arms form shell structure; in group of 4
+6,45,23,-,26,40.8,490- G  47,in group w IG 49
+6,45,39,-,26,41.4,490-IG  48,in group w G 47
+6,45,42,-,26,41.8,490-IG  49,in group w G 47
+6,48,24,-,48,25.7,207-IG   4,in cl
+6,49,23,-,55,45.9,161-IG  27,in cl
+6,49,36,-,57,3.5,161- G  28,S comp 0.4 np
+6,51,52,-,58,49.7,122-IG   8,dif ext southw
+6,53,14,-,29,3.5,427-PN  19,B-R=1.3 FW
+6,57,6,-,29,13.2,427- G  23,in cl
+6,57,28,-,39,36.1,309- G  13,in cl
+6,57,49,-,50,22.6,207-IG  12,interacting w S comp 0.5 s
+7,3,30,-,58,37.5,122-IG  12,eF bridge to compact 0.9 nf
+7,6,19,-,23,42.9,491- G  19,starlike centre or star?
+7,6,19,-,40,15.7,309- G? 20,or star?
+7,7,41,-,44,2.7,256- G  16,incl sev S comps
+7,13,24,-,30,35.5,428-SC  10,OCl Dec off 30'
+7,14,33,-,29,14.0,428- G  14,"PK 241-7 1, not planetary"
+7,18,35,-,55,13.5,162- G  21,S comp on tip of n arm
+7,21,11,-,47,28.1,257- G  12,in cl
+7,21,30,-,68,54.3,58- G  30,"2 S comps nf, sp"
+7,22,4,-,68,44.9,58- G  31,"nom val of RA off 0.7 m, in field 059"
+7,25,56,-,51,16.1,208- G  15,"L in group, S comp 1.3 s"
+7,26,13,-,17,51.5,559-PN  12,"Sa position 11s, 0.9' off"
+7,27,31,-,62,15.5,123- G  11,"nominal value of Dec off 5', in cl"
+7,27,42,-,62,14.8,123- G  12,in cl
+7,28,51,-,66,47.5,88- G  17,interacting? w G 18
+7,36,33,-,69,25.0,59- G   8,in foreground?
+7,41,47,-,22,37.5,493- G?  5,fuzzy env
+7,42,21,-,65,11.9,89- G   1,L in group
+7,45,12,-,25,44.8,493- G  10,nominal value of Dec off 14'
+7,46,1,-,25,6.4,493-PN? 13,in F circular env
+7,46,11,-,38,46.2,311- G  13,F comp 0.7 np
+7,48,15,-,26,22.8,493- G  21,nominal value of Dec off 16'
+7,48,30,-,66,57.0,89-IG   4,star? superimp
+7,49,17,-,26,39.4,493-N*? 23,F neb env
+7,52,13,-,39,41.6,311-PN  18,B-R=4.4 FW
+7,56,1,-,78,58.5,17-IG   8,"F, in cl"
+7,57,10,-,22,33.3,561-SC   5,in field 494
+8,2,55,-,28,0.2,430-SC  15,N 2520 RA off 2.3 min
+8,3,41,-,48,14.8,209-PN  15,B-R=2.6 FW
+8,3,45,-,25,50.1,494- G  24,"Fi position off 1.1 min, 10'"
+8,4,7,-,27,23.0,494- G  26,F dif arms
+8,7,0,-,18,32.9,561- G  17,listed as planetary by CG
+8,7,2,-,61,37.2,124-IG  12,in G 14 group
+8,8,6,-,65,11.2,89- G  11,con? w S comp 0.6 np
+8,15,1,-,27,18.1,494- G  41,in field 495
+8,15,19,-,24,31.7,494- G  42,in field 495
+8,18,59,-,36,3.4,370-*N   8,"= No-238, planetary?"
+8,21,27,-,36,10.4,370-SC  11,"nominal position 0.9 min, 10' off"
+8,31,11,-,22,48.1,495- G  18,cz=1444(5D)
+8,32,30,-,47,6.3,259-PN  10,"B-R=2.3 FW, star alm at centre"
+8,34,7,-,26,14.1,495- G  21,MCG-4-21-5 ?
+8,35,5,-,20,45.9,563- G   3,image blurred by calibration spots
+8,35,47,-,39,24.1,313-SC   7,nominal value of Dec off 5'
+8,36,23,-,29,30.9,431- G  23,DB Dec 30' off
+8,38,39,-,32,11.8,432-PN   1,PK RA 0.7 m off
+8,39,2,-,32,52.4,371- G   5,DB Dec 16' off
+8,40,42,-,19,52.3,563- G  14,in cl
+8,42,28,-,67,54.2,60- G  12,interacting? w compact 0.4 p
+8,43,48,-,31,46.2,432-**   9,"nominal position 0.5 m, 11' off"
+8,44,36,-,47,30.8,260-SC   6,"nominal position off 1.6 min, 6'; in field 210"
+8,46,20,-,46,51.4,260-SC   7,"nominal position off 1.1 min, 12'"
+8,47,19,-,70,1.7,60-IG  14,interacting w S comp nf
+8,48,19,-,32,29.5,371- G? 19,in field 432
+8,50,1,-,50,4.0,211-SC   3,B star 16m
+8,56,4,-,67,40.6,60- G  18,S comp 4.4 np
+8,58,11,-,25,40.4,497- G   1,in field 496
+9,2,58,-,67,46.0,60- G  25,"2 S comps 3.1 n, 4.8 nf"
+9,5,28,-,23,25.1,497- G  14,"2 S comps 0.7p, 0.6s"
+9,14,12,-,49,48.0,211-SC   7,cf. SC 08
+9,15,0,-,49,30.0,211-SC   8,cf. SC 07
+9,15,3,-,50,4.5,211-SC   9,"B star 18m, in field 212"
+9,22,32,-,51,26.8,212-SC   5,nominal value of Dec off 4'
+9,26,12,-,60,33.1,126- G  13,in G 14 group
+9,28,11,-,52,33.6,166-SC  16,"nominal coordinates off 0.6 min, 4'"
+9,29,48,-,56,4.3,166-PN  21,nominal Dec off 4'
+9,33,36,-,46,35.8,261-**  10,NGC Dec off 7'
+9,35,48,-,29,55.3,434- G  16,"NGC position 3.5 m, 6' off"
+9,41,28,-,32,30.6,373- G  20,B star 0.3 s
+9,42,24,-,31,33.6,434- G  31,p w G 33
+9,42,38,-,19,29.7,566-IG   7,Arp-252a; interacting w IG 08
+9,42,39,-,19,28.9,566-IG   8,Arp-252b
+9,46,42,-,36,5.5,374- G  48,in field 373 but not visible on displaced plate 1815
+9,47,15,-,32,36.5,374- G  49,in field 373 but not visible on displaced plate 1815
+9,47,52,-,32,39.1,374- G  50,in field 373 but not visible on displaced plate 1815
+9,50,6,-,29,12.1,435- G   3,in cl
+9,52,52,-,50,40.7,213-SC   4,nominal value of Dec off 12'
+9,54,9,-,25,51.4,499- G  23,S double system 2.6 n
+9,54,25,-,46,47.8,262-SC  11,nominal RA of OCl off 0.8 min
+9,54,32,-,38,52.0,316-IG   5,one-armed or comp np?
+9,56,3,-,24,56.0,499- G  26,B star 3' np
+9,56,50,-,26,53.3,499- G  29,IC Dec 4' off
+9,58,25,-,34,58.1,374-IG  18,in cl
+9,58,28,-,31,25.3,435- G  30,RA of NGC 3103 off 0.8 min
+9,59,53,-,42,30.4,262- G  14,in group
+9,59,57,-,49,19.7,213-SC   5,nominal value of Dec off 4'
+10,1,45,-,34,33.9,374- G  27,in cl
+10,3,42,-,43,52.4,263-IG   1,in IG 03 group
+10,3,44,-,44,7.1,263-PN   2,in IG 03 group
+10,3,50,-,43,59.0,263-IG   3,"bridge, tails, L in group"
+10,3,53,-,33,38.5,374-IG  32,NGC RA 0.5 min off
+10,4,35,-,40,52.5,316- G  26,"interacting w compact s, in cl"
+10,4,50,-,26,8.4,500- G   1,in field 499
+10,4,57,-,42,48.9,263- G   6,in cl
+10,4,57,-,42,50.0,263- G   7,in cl
+10,4,59,-,26,13.7,500- G   2,in field 499
+10,6,57,-,38,9.8,316-IG  32,"disturbed ring, interacting w G 33, in cl"
+10,7,31,-,66,46.9,92-IG  12,L in group
+10,8,52,-,66,45.5,92- G  13,RA of RC2 off 1m
+10,8,54,-,39,26.8,316- G  44,S comp 3.5 sp
+10,9,28,-,31,23.7,435- G  51,fits description of NGC but Dec off 30'
+10,10,25,-,34,28.9,374- G  42,in cl
+10,10,29,-,44,59.4,263-IG  16,outer arms form ecc ring
+10,10,40,-,26,34.6,500-IG  11,double star 0.4 n
+10,13,14,-,20,23.8,567- G  31,NGC RA 1.3 min off
+10,13,52,-,41,18.4,317-IG   7,L in group
+10,17,15,-,26,26.8,500- G  24,NGC RA 1.0 min off
+10,17,17,-,17,29.9,567- G  48,in field 638
+10,17,46,-,21,28.2,567- G  53,in cl
+10,18,1,-,28,37.4,436-IG  11,incl S comp nf at tip of arm
+10,25,43,-,43,39.0,263-IG  38,"2 long arms disturbed, star superimp"
+10,26,1,-,31,15.8,436- G  25,MCG-5-25-4; cf. G 27
+10,26,24,-,50,32.7,214-IG?  9,in group
+10,26,36,-,31,21.2,436- G  27,"MCG-5-25-5; IC position off 0.6 min, 6'; cf. G 25"
+10,26,54,-,44,24.0,263- G  40,in cl
+10,26,58,-,43,54.3,263-IG  42,"star superimp, in cl"
+10,27,5,-,43,50.9,263-IG  43,"distorted ext eastw, star superimp, in cl"
+10,27,14,-,26,4.3,500- G  46,in field 501
+10,27,33,-,38,5.5,317- G  38,"S comp 0.6 np, in cl"
+10,28,25,-,46,0.8,263- G  47,in G 48 group
+10,29,4,-,45,59.6,263- G  48,L in group
+10,29,4,-,46,1.6,263-IG  49,"bar joining two knots, in G 48 group"
+10,32,18,-,28,19.7,436-IG  42,in cl
+10,32,22,-,29,4.2,436- G  43,F disturbed env
+10,32,26,-,27,31.2,501- G  19,in field 436
+10,32,29,-,28,9.6,437- G   1,in field 436
+10,32,58,-,43,26.0,264- G   7,NGC RA off 10 min
+10,34,52,-,27,25.5,501-IG  46,in cl
+10,34,58,-,26,55.9,501- G  48,NGC Dec 34' off; MCG-4-25-42
+10,35,3,-,25,3.5,501- G  50,star superimposed
+10,35,28,-,58,21.8,128-EN   6,OCl-819
+10,35,43,-,24,50.1,501-IG  61,in cl
+10,37,3,-,23,29.6,501- G  69,"fits IC descr but pos 3.0 min, 10' off"
+10,38,35,-,46,55.4,264- G  33,in G 29 group
+10,39,2,-,23,7.3,501- G  79,"NGC pos 2.2 min, 11' off"
+10,41,17,-,28,24.1,437- G? 53,in cluster
+10,42,35,-,21,53.4,569-IG?  2,star superimp?
+10,44,13,-,42,5.5,318-IG  10,in cl
+10,46,0,-,24,53.8,501- G 100,spiral arms forming alm complete ring
+10,51,33,-,37,56.8,318- G  22,S comp f on tip of arm
+10,52,29,-,48,30.9,215-RN   4,star at centre
+10,54,36,-,32,53.6,376-IG  27,"incl starlike objects nf, np"
+11,3,47,-,17,59.3,570- G   3,"NGC pos 0.7 min, 19' off"
+11,4,50,-,19,12.1,570- G   6,I 2624 Dec 5' off; N 3497 RA 5.9 min off; N 3525
+11,4,50,-,19,12.1,570- G   6,RA 0.9 min off
+11,5,20,-,19,45.1,570-IG   8,NGC RA off 2 min
+11,9,1,-,18,1.0,570- G  11,N 3544 RA 2.0 min off
+11,9,36,-,47,38.8,215-IG  33,in cl
+11,9,45,-,47,38.5,215- G  34,in cl
+11,9,46,-,23,57.8,502- G  23,possibly in foreground of distant cluster
+11,11,36,-,47,40.6,215-PN  35,star 13m at centre
+11,14,45,-,79,7.6,19- G?  6,near ghost image of bright star
+11,17,34,-,64,56.8,93-SC?  8,3 stars in foreground
+11,17,54,-,52,23.0,216-*N   6,no neb on QBS plate 816
+11,18,5,-,25,38.1,503- G  14,also vis on PSS
+11,22,26,-,76,53.1,38- G  12,star superimp
+11,24,37,-,28,42.2,439- G   8,IC RA 5.2 m off
+11,24,55,-,28,59.0,439- G   9,Tololo 1124-289
+11,33,25,-,37,43.2,320- G   8,p w G 06
+11,35,33,-,63,4.6,94-SC   4,"Part of L system of stars in em neb, nominal position"
+11,35,33,-,63,4.6,94-SC   4,off more than 10'
+11,36,25,-,46,24.1,266- G  11,S comp 0.4 s
+11,36,33,-,37,27.7,378- G  14,Tololo 1136-374
+11,38,31,-,46,17.5,266- G  16,IC Dec off 6'
+11,40,42,-,25,34.6,504- G  12,in cluster
+11,43,18,-,44,8.1,266- G  24,in G 22 group
+11,46,51,-,50,9.5,217- G   4,p w G 05
+11,47,16,-,62,25.3,130-SNR  1,nom val of RA off 1.0 m
+11,47,54,-,38,22.2,320- G  27,"disturbed, in G 26 group"
+11,49,58,-,42,0.9,320-PN  28,star at centre of ring neb
+11,53,34,-,19,37.0,572- G  20,VV
+11,54,55,-,19,20.7,572- G  25,ID?
+11,56,25,-,18,44.9,572- G  34,cz=1016:47(4B)
+11,56,57,-,18,59.1,572- G  37,cz=1563:58(4B); VV-66
+11,59,2,-,53,4.8,171-IG   5,interacting w S comp 0.9 np
+11,59,19,-,18,35.2,572-IG  47,"VV-245a, long tail, n part of ""the antennae"", in cl"
+11,59,20,-,18,36.4,572-IG  48,"VV-245b, long tail, s part of ""the antennae"", in cl"
+12,1,52,-,18,14.3,572-IG  50,cz=14508:72(4B); VV-269
+12,3,17,-,62,22.3,130-SC   4,nom value of Dec off 6'
+12,4,3,-,47,4.0,267-IG  17,interacting w S comp 0.2 sf
+12,4,4,-,19,20.7,573- G   1,in field 572
+12,5,9,-,59,0.8,130-SC   6,nom value of Dec off 12'
+12,7,0,-,62,42.6,95-SC   2,"nominal coordinates off 0.7 min, 7'"
+12,7,39,-,29,48.1,441- G  14,"in cl; I 3026 position off 0.4 min, 9'"
+12,7,41,-,59,13.8,130-SC   8,nom value of RA off 3.4 m
+12,8,4,-,27,32.6,441- G? 15,in G 16 group
+12,11,13,-,37,57.2,321- G  14,connected?  w S comp 2.0 n
+12,11,15,-,46,59.7,267- G  29,in G 30 group
+12,11,37,-,43,29.0,267- G  31,"nominal coordinates off 0.6 min, 5'"
+12,13,17,-,37,48.9,321- G  18,in G 16 group
+12,14,16,-,58,8.4,130-SC  11,nom value of RA off 1.1 m
+12,14,21,-,25,55.9,505-IG  30,interacting w IG 31
+12,17,19,-,39,23.3,321- G? 20,L in group
+12,19,18,-,43,3.4,267-IG  41,S E 1.3 f
+12,25,14,-,29,49.3,441- G  30,NGC RA off 1.3 min
+12,28,23,-,45,20.5,268- G  13,sev S comps
+12,29,9,-,51,28.3,218- G   8,star superimp?
+12,32,45,-,32,15.1,442-IG   8,in cluster
+12,35,53,-,50,52.6,218-SC  10,obscured by interstellar matter
+12,36,49,-,26,28.0,506-SC  30,GCl-20
+12,38,23,-,25,41.2,506-IG  35,in group of 5
+12,40,19,-,42,38.3,268- G  34,sev S comps
+12,41,23,-,33,55.8,381- G  12,in cl
+12,41,36,-,40,27.5,322- G  67,interact w S comp 1.8 f
+12,41,42,-,52,24.4,218-    15,B mag = 9 ; 1 m fainter on QBS plate 798
+12,42,5,-,40,26.5,322-IG  69,two filaments in opposite directions to centre
+12,42,19,-,40,44.4,322- G  71,NGC Dec off 6'
+12,44,10,-,41,13.4,322- G  77,nominal value of RA off 0.8 m
+12,44,36,-,40,57.9,322- G  81,nominal value of RA off 0.9 m
+12,44,46,-,53,16.7,172- G? 10,em neb?
+12,45,18,-,40,32.8,322- G  87,nominal value of RA off 0.9 m
+12,45,31,-,63,33.7,95-PN  17,nominal value of RA off 0.9 m
+12,45,36,-,41,26.5,322- G  88,nominal value of RA off 0.9 m
+12,45,41,-,40,39.8,322- G  90,nominal value of RA off 0.9 m
+12,48,14,-,20,6.1,575- G   6,S comp 0.8 p at tip of long arm
+12,48,55,-,25,49.1,507- G  26,v blue on PSS
+12,49,14,-,40,52.5,323- G  17,NGC RA off 1.2 min
+12,49,17,-,41,11.3,323- G  19,S comp 2.5 f
+12,50,4,-,41,4.0,323- G  28,interact? w S comp 0.8 n
+12,50,15,-,26,25.5,507- G  35,in cl
+12,50,36,-,48,28.7,219- G   4,RA of NGC off 1.8 min
+12,50,52,-,26,23.4,507- G  39,in cl
+12,50,53,-,22,38.7,507-PN  40,pos on vF star between two filaments; 3 stars 9-10 mag
+12,51,43,-,28,10.3,443-IG   5,"jet n, in cl"
+12,51,58,-,39,34.9,323- G  41,in cl
+12,52,14,-,40,42.0,323- G  42,in cl
+12,52,38,-,49,48.0,219- G   8,S comp 0.7 s
+12,54,23,-,46,6.5,269- G  15,S comp 3.0 np
+12,55,0,-,39,29.4,323- G  51,1 deg error in NGC Dec
+12,55,17,-,45,59.6,269- G  19,"disturbed by S comp 1.2 np, S comp 1.7 sp"
+12,56,30,-,40,41.5,323- G  54,in cl
+12,57,3,-,29,19.8,443- G  21,Tololo 1256-293?
+12,58,48,-,32,1.2,443- G  32,IC RA 1.1 m off
+12,59,29,-,49,12.2,219- G  22,S comp 0.3 s
+13,2,34,-,35,4.2,382- G   5,5 min error in IC RA
+13,2,58,-,49,3.5,219- G  25,"star superimp, or 2 nuclei?"
+13,3,3,-,28,9.2,443- G  61,Tololo 1303-281
+13,3,34,-,49,33.7,219- G  27,in G 24 group
+13,6,44,-,22,12.8,575- G  65,"NGC pos 0.4 min, 4' off"
+13,7,5,-,23,7.1,508- G  18,50' error in NGC 4994 Dec
+13,7,9,-,42,56.8,269-IG  56,sev S comps
+13,10,35,-,43,7.1,269- G  70,"contact w S comp 0.5 f, nominal value of Dec off 5'"
+13,10,41,-,43,15.7,269- G  72,cz=6555:50(73)?
+13,14,56,-,31,50.3,444- G   5,IC RA 1.0 m off
+13,15,34,-,35,11.7,382- G  35,S comp 1.2 np
+13,15,42,-,31,22.1,444- G   6,IC RA 0.8 m off
+13,16,3,-,34,20.8,382- G  38,S comp 0.8 sf
+13,16,55,-,27,10.0,508- G  47,IC 4222 is probably the double star at the IC place
+13,18,3,-,77,29.2,40-IG   8,in G 07 group
+13,18,23,-,43,27.5,270-IG   4,L in group
+13,19,47,-,52,29.0,220- G   6,"star superimp, s of 2"
+13,21,19,-,39,27.5,324- G  17,S comp 0.2 np
+13,22,3,-,30,2.8,444- G  27,IC RA 0.9 m off
+13,22,33,-,42,45.4,270-IG   9,abs lane inclined 80 deg to major axis
+13,22,44,-,37,0.9,382- G  62,nominal value of Dec off 5'
+13,22,45,-,37,20.7,382-PN  63,nominal value of Dec off 9'
+13,24,20,-,27,41.8,444- G  39,Tololo 1324-276
+13,24,54,-,43,10.3,270- G  12,cond at tip of f arm
+13,25,29,-,37,54.5,324- G  26,"vF dif env, associated? w G 23"
+13,27,14,-,27,12.3,509- G  32,in cl
+13,28,32,-,43,16.1,270-IG  16,in group
+13,30,0,-,65,43.2,96-PN  16,PK 307 -3 1
+13,31,54,-,23,25.5,509-IG  64,in cl
+13,32,15,-,33,13.6,383-IG  28,in cl
+13,32,18,-,33,13.7,383-IG  29,in cl
+13,32,34,-,33,56.1,383- G  33,in cl
+13,33,2,-,34,2.4,383- G  35,"X-ray source, in cl"
+13,33,44,-,49,43.7,220-IG  20,"interacting? w G 21, in G 23 group"
+13,34,8,-,49,32.1,220- G  22,in G 23 group
+13,34,17,-,32,40.2,383-IG  43,in cl
+13,34,36,-,32,45.1,383- G  44,Tololo 1334-327
+13,35,21,-,17,37.7,577- G  14,cz=1511(5D)
+13,36,35,-,33,56.0,383- G  55,in cl
+13,36,42,-,31,51.2,445- G   3,in cl
+13,37,32,-,48,5.4,220- G  30,in G 33 group
+13,39,45,-,31,52.5,445- G  16,in cl
+13,39,56,-,47,55.1,220- G  33,like Cen A
+13,40,11,-,44,36.5,270- G  26,interacting w S comp 0.3 nf
+13,42,0,-,24,13.0,509- G?105,"like a planetary nebula w a B central star, also vis on"
+13,42,0,-,24,13.0,509- G?105,"PSS, in cl"
+13,42,1,-,41,36.5,325- G  11,compact np
+13,44,25,-,28,4.9,445- G  27,I 4330 RA off 2 min
+13,45,24,-,30,19.7,445- G  37,redshift?
+13,46,14,-,30,2.9,445- G  46,cz=4487:37(5E)
+13,47,34,-,30,52.1,445- G  53,in cl
+13,47,48,-,48,48.5,221-IG  10,in cl
+13,49,17,-,38,9.3,325- G  33,S comp 0.3 p
+13,51,37,-,26,19.8,510- G  11,VV 351a
+13,51,45,-,26,18.6,510- G  12,VV 351b
+13,53,7,-,30,5.8,445- G  78,"I 953 RA off 1 min, I 955 and I 957 position off 6',"
+13,53,7,-,30,5.8,445- G  78,probably stars all three
+13,54,25,-,39,41.5,325-*N  35,IC Dec off 5'
+13,54,46,-,43,41.2,271- G   8,S comp 3.6 nf
+13,55,12,-,27,33.1,510- G  30,in field 445
+13,55,35,-,43,43.2,271- G   9,S comp 2.3 nf
+13,56,59,-,37,37.3,325- G  43,ghost image of B star superimp
+13,57,37,-,23,3.9,510-IG  36,S comp 0.8 sp
+13,58,26,-,32,49.3,384- G  32,Tololo 1358-328
+14,0,8,-,38,14.2,325- G  45,S comp 3.0 nf
+14,4,31,-,25,5.3,510- G  68,in cl
+14,5,7,-,33,4.7,384- G  58,"NGC position 2.6 m, 19' off"
+14,6,57,-,26,59.6,511- G   1,in field 510
+14,6,58,-,26,27.7,511- G   2,in field 510
+14,8,3,-,23,12.0,511- G   5,prob inv irr comp n
+14,8,5,-,39,52.2,326-IG   6,in cl
+14,9,58,-,28,32.7,446- G  28,in group
+14,11,32,-,41,50.4,326- G  13,nominal value of Dec off 14'
+14,11,54,-,43,43.8,271-IG  25,"interacting w IG 24, S comp 2.8 sf"
+14,12,40,-,47,53.0,221- G  34,S comp 2.5 np
+14,16,1,-,18,54.6,579- G  15,NGC RA 1.3 min off
+14,16,32,-,20,43.3,579- G  18,in cluster
+14,20,3,-,30,52.4,446-IG  56,B in dist cluster
+14,20,22,-,34,53.1,385- G  18,"IC position 1.6 m, 5' off"
+14,22,17,-,42,18.4,326- G  21,* superimp?
+14,25,11,-,41,43.1,326- G  23,in cl
+14,25,43,-,39,19.7,326- G  25,nominal value of RA off 1.0 min
+14,26,13,-,51,41.6,222- G   8,in group of 3
+14,26,19,-,33,13.9,385- G  30,IC Dec 9' off
+14,27,6,-,43,20.3,272- G  11,IC RA off 1.1 min
+14,31,14,-,37,15.7,385- G  45,S comp 0.8 sf
+14,32,19,-,38,42.9,327-IG   2,in group
+14,34,57,-,39,17.4,327- G   3,nominal value of RA off 1.0 m
+14,36,33,-,62,25.8,134-SNR 11,"RA of BMT off 2.6 min, Dec off 11'"
+14,37,58,-,56,2.3,176-PN   1,nominal value of RA off 2.1 min
+14,41,4,-,49,11.5,222- G  15,pos of B star
+14,41,8,-,18,16.3,580- G  14,NGC RA 1.3 min off; MCG-3-38
+14,42,4,-,23,34.9,512- G  20,CG: planetary
+14,44,52,-,39,30.0,327-IG  18,interacting w IG 19
+14,44,56,-,39,29.3,327-IG  19,interacting w IG 18
+14,46,18,-,20,10.2,580- G  39,NGC 6' off
+14,48,10,-,18,16.0,580-IG  43,streamer ext 0.9 n from starlike object 0.2 sf
+14,48,22,-,20,14.2,580- G  45,S comp 4.5 n
+14,48,57,-,49,29.1,223- G   2,3 stars superimposed
+14,49,38,-,42,6.7,327-IG  26,in cl
+14,52,27,-,23,52.4,513- G?  5,"vF disclike env, vis on PSS; in cl"
+14,54,40,-,37,40.6,327- G  34,in cl
+14,55,45,-,28,30.3,448- G  10,S comp 0.5 np
+14,58,14,-,48,9.2,223-PN  10,B-R=2.2 FW
+14,59,31,-,72,25.2,67- G   5,star superimp
+15,0,54,-,32,52.5,387-SC   1,also NGC 5834
+15,1,51,-,43,18.9,273- G  15,L in group
+15,4,39,-,61,32.6,135-PN   4,B-R=4.5 (ESO 1984)
+15,5,8,-,25,35.0,513- G? 19,vis on PSS
+15,5,24,-,23,3.0,513- ?  20,CG: planetary; only faint galaxies near this pos
+15,6,25,-,40,44.3,328- G? 27,in cl
+15,9,20,-,35,41.0,387-IG   9,"arms terminating in 2 S comps n, s"
+15,10,59,-,32,30.4,449-**?  2,in field 387
+15,14,19,-,42,26.4,328- G? 40,starlike centre in F dif ring
+15,14,45,-,24,11.4,514- G   1,in cluster
+15,39,25,-,22,30.6,583- G   4,in field 515
+15,47,32,-,23,25.4,515- G? 11,"starlike centre in vF asym ring, vis on blue PSS"
+15,48,47,-,37,30.0,389- G   1,"vis only on QBS plate 971 (X=-139.0, Y=+126.9)"
+15,49,49,-,41,41.5,330-PN   2,B-R=3.1 FW
+15,51,0,-,24,45.8,515- G? 16,vis on PSS; near galaxy cl
+15,51,29,-,37,27.5,389- G   2,L in group; vis only on QBS plate 971
+15,51,29,-,37,27.5,389- G   2,"(X=-110.3, Y=+128.4)"
+15,54,50,-,25,46.3,515- G? 17,vis on PSS
+15,55,37,-,31,51.8,451- G   2,CG: planetary
+15,58,15,-,61,38.2,136- G  12,con? w S comp 2' sf
+15,58,40,-,63,58.6,100- G   8,interacting w S comp 1.0 sp
+16,7,52,-,60,39.4,136- G  24,S comp 1' sp
+16,9,27,-,60,52.6,137-IG   3,in cluster
+16,10,43,-,60,46.9,137- G   6,interacting? w S comp 1.2 nf
+16,13,7,-,22,39.6,516- G  10,more likely a small group of F stars at the IC position
+16,13,7,-,22,39.6,516- G  10,RA=16h 15.3m Dec=-22d 40m
+16,14,4,-,22,51.2,516-SC  11,GCl-39
+16,16,39,-,60,22.1,137- G  18,L in group
+16,21,8,-,34,8.2,390- G   5,"B-V=2.9, z=0.017778 FW"
+16,24,15,-,66,23.5,100- G  26,interaction?
+16,26,36,-,82,13.7,23-IG   1,connected? w S comp 0.6 sf
+16,30,31,-,43,56.5,276-SC   5,at position of 5.1 V mag star SAO 226900
+16,30,48,-,49,40.1,226-SC  16,pos on conc of stars = s part of L complex
+16,31,1,-,57,58.5,137- G  34,B nucl cond in amorphous disk
+16,33,7,-,73,8.8,43- G   3,RA of NGC off 0.8 min
+16,36,21,-,48,33.9,226-EN  19,incl wavy ionization front
+16,38,31,-,27,53.0,452-PN  12,not vis on finding chart
+16,39,55,-,30,26.5,453- G   1,in field 452
+16,42,56,-,69,3.1,69- G   9,"crossing arm, disturbed?"
+16,43,8,-,57,20.0,179-IG  13,common envelope
+16,43,45,-,82,23.1,23-IG   5,connected? w starlike object 0.6 sf
+16,51,15,-,40,37.7,332-SC   8,"nom position off 0.8 min, 7'"
+16,51,39,-,40,52.0,332-SC   9,OCl-998 Dec off 7'
+16,52,10,-,74,17.0,43-IG  10,"interaction w comps 1.6 nf, 1.0 sp"
+16,52,33,-,40,42.1,332-SC? 11,nominal value of RA off 0.5 min
+16,52,42,-,40,35.3,332-SC  12,OCl-999 RA off 0.8 min
+16,53,12,-,40,30.3,332-SC? 13,concentration of stars in L complex; nominal value of
+16,53,12,-,40,30.3,332-SC? 13,Dec off 5'
+16,54,16,-,45,51.6,277-SC  20,nominal value of Dec off 9'
+16,54,37,-,60,8.5,138- G  10,HI vel V= +1146 km obs at Parkes
+17,5,16,-,74,4.7,44-IG   2,interacting w starlike obj 0.5 s
+17,6,19,-,77,28.5,44- G   3,partly obscured by galactic matter
+17,8,12,-,77,25.9,44- G   5,partly obscured by galactic matter; S comp 2.5 np
+17,10,14,-,66,12.0,101-IG  24,interacting w S comp 0.7 f
+17,10,28,-,73,5.5,44- G   9,S comp? superimp
+17,12,44,-,39,22.2,333-SC   1,NGC RA off 1.6 min
+17,15,24,-,78,40.6,24-RN   3,associated w HD 155578
+17,17,8,-,80,8.9,24- G   5,RA of IC off 10m
+17,18,36,-,57,10.2,180-N*   8,B mag = 8; at least 2 m fainter on QBS plate no.  321
+17,18,55,-,70,25.4,70-IG   9,distorted
+17,24,29,-,62,24.3,138-IG  29,asym(R) or shell
+17,24,45,-,62,26.5,138-IG  30,broad dif bridge
+17,30,32,-,47,3.4,278-N*  11,"B mag = 8, F star only on QBS plate 606"
+17,31,49,-,59,30.8,139- G  10,"nominal coordinates of IC off 0.9 min, 2'"
+17,34,56,-,37,41.5,334-SC   3,nominal value of Dec off 10'
+17,35,47,-,23,52.4,520-PN  12,nominal position off 20'
+17,38,46,-,61,39.5,139- G  19,"2 S comps f, p"
+17,40,29,-,21,8.6,589-PN   1,in field 588
+17,40,55,-,79,0.9,24-IG   9,disturbed by S comp 0.7 np
+17,45,0,-,24,45.8,520-SC  27,nom RA off 0.4 min
+17,45,40,-,28,0.1,455-PN  43,PK RA 0.6 m off
+17,47,2,-,25,33.8,521-*N   1,vis on PSS
+17,54,8,-,18,58.8,589-SC  22,OCl-30
+18,0,32,-,26,5.3,521-SC  16,not vis on QBS plate; detected on IR plate by Terzan
+18,0,53,-,23,22.1,521-*N  18,sep from L complex by dust lane
+18,3,29,-,23,57.9,521-N*  26,"IC pos 1.4m, 5' off"
+18,4,20,-,23,18.2,521-SC  29,OCl Dec 1 deg off
+18,4,30,-,52,6.8,229- G   7,dwarf comp 0.7 sf
+18,4,31,-,52,4.4,229- G   8,S comp 1.0 sf
+18,5,12,-,26,16.9,521- ?  31,pos not descr corresponds to an absorption region
+18,5,12,-,26,16.9,521- ?  31,of elliptical shape
+18,5,51,-,85,25.1,10-IG   1,NGC RA off 4 min
+18,6,6,-,23,26.7,521-N*  33,IC 4681 RA 0.8m off
+18,6,9,-,25,7.5,521- ?  35,"MCo: PN of diameter 10"""
+18,6,18,-,85,25.3,10-IG   2,"interacting w IG 01, nominal value of RA off 4 min"
+18,9,19,-,57,44.8,140- G   9,2 starlike objects in s arm of I 4687
+18,9,20,-,57,44.4,140-IG  10,long arm
+18,11,48,-,22,45.0,522- ?   9,MCo: planetary
+18,12,30,-,49,46.7,229-IG  11,"S comp nf, in group"
+18,12,40,-,82,25.1,24- G  13,S comp on tip of p arm
+18,13,3,-,54,35.1,182-IG   8,S comp 1.4 np
+18,13,19,-,18,16.9,590-SC  13,"another S conc of stars at 18 13 38, -18 19.5"
+18,14,7,-,19,53.1,590-SC  15,I 4690 RA 6.6 m off
+18,14,22,-,54,42.8,182-IG  10,eF bridges to S comps 2.5 nf and 2.9 sf
+18,17,38,-,61,53.6,140- G  18,vS comp 1.4 sp
+18,18,40,-,56,30.7,182- G  13,bridge(s?) to S comp 1.2 n (and 1.6 p)
+18,19,52,-,63,36.6,103- G  17,interacting w dif comp n
+18,20,5,-,56,23.8,182- G  14,IC Dec off 10'
+18,22,16,-,71,43.5,71- G  12,in group
+18,23,36,-,51,29.5,230-IG   4,in group
+18,26,0,-,23,53.3,522-PN? 29,prob vis on PSS
+18,28,50,-,19,9.1,591-SC   6,OCl-38
+18,30,3,-,58,32.2,140- G  27,E 2.2 s
+18,30,11,-,26,3.9,522- N  34,clearly vis on PSS
+18,30,53,-,22,41.2,523-PN   1,in field 522
+18,32,38,-,72,12.0,71- G  17,in group
+18,33,30,-,61,8.8,140-IG  30,eF bridge? to eS object 1.1 s
+18,34,48,-,52,44.2,183-IG   4,interaction?
+18,36,13,-,63,42.2,103- G  43,S comp 0.7 nf
+18,36,25,-,55,7.2,183-IG   7,sev S comps in irr envelope
+18,36,55,-,63,59.8,103- G  47,nom value of RA off 0.9 min
+18,37,5,-,63,54.6,103- G  48,nominal value of RA off 0.9 min
+18,37,10,-,63,16.3,103- G  50,S comp  0.3 s
+18,39,4,-,20,32.1,591-PN? 13,CG position 4' off
+18,40,15,-,62,24.9,140- G  43,Seyfert 1 type
+18,40,58,-,63,8.3,103-IG  60,in cluster
+18,42,38,-,57,44.9,141- G   3,interacting? w S comp 1.4 sp
+18,43,40,-,63,18.3,104-IG  15,long filaments towards G 14
+18,44,5,-,53,35.8,183- G  12,L in group
+18,46,11,-,19,37.7,592- G   1,CG suggest planetary
+18,48,5,-,63,19.3,104- G  20,"in cl, IC Dec off 9'"
+18,48,6,-,79,33.8,25-IG   3,in G 04 group
+18,48,18,-,56,5.8,183-IG  22,in chain w IG 23
+18,48,26,-,56,2.8,183-IG  23,in chain w IG 22
+18,50,50,-,60,13.4,141-IG  10,S comp on tip of s arm
+18,54,11,-,69,55.6,72-IG   7,star superimp
+18,57,15,-,57,36.2,141- G  20,cz=5900:10(2C) based on H K G 5175
+18,57,20,-,63,7.1,104- G  30,in cl
+19,0,40,-,58,39.3,141- G  23,IC Dec off 10'
+19,2,19,-,65,32.4,104- G  36,in Se 132/2
+19,2,35,-,65,30.4,104- G  37,in Se 132/2
+19,2,38,-,25,28.5,524- G?  6,"this star? appears very red on PSS, like a double-shell"
+19,2,38,-,25,28.5,524- G?  6,planetary
+19,4,31,-,63,32.7,104-IG  39,in G 42 group
+19,4,56,-,64,35.8,104- G  40,connected? w S comp 1.8 p
+19,7,30,-,64,3.8,104-IG  45,stars superimp
+19,8,27,-,60,28.2,141-IG  32,S comp 1.2 nf
+19,9,39,-,19,30.2,593- G   5,in cluster
+19,11,11,-,54,45.0,184-IG  46,interacting w S comp 1.4 n
+19,11,14,-,50,44.7,231- G  28,cz=4500:90(2C) based on H K G 5175
+19,13,57,-,60,35.5,141-IG  48,interact w IG 50; in group
+19,14,12,-,60,35.3,141-IG  49,interact w IG 50; in group
+19,14,14,-,60,38.2,141-IG  50,interacting w IG 48 and IG 49
+19,15,58,-,60,29.0,141- G  54,in group
+19,16,57,-,58,45.9,141- G  55,S comp? on tip of sp arm
+19,20,52,-,71,33.9,72-**  15,"SAO stars 257685, 257686"
+19,21,6,-,62,13.2,142- ?   2,real?
+19,21,59,-,61,27.0,142- ?   5,real?
+19,23,39,-,27,31.3,525- G   5,in field 460
+19,23,55,-,26,48.5,525- G?  6,vis on PSS
+19,24,14,-,58,53.5,142- G  10,"fits descr of IC, but nominal pos indicates other"
+19,24,14,-,58,53.5,142- G  10,side of G 12
+19,24,16,-,37,34.8,338-IG   3,eF bridge? to starlike obj 1.0 sf
+19,24,57,-,58,59.0,142-IG  14,in G 12 group
+19,29,7,-,62,31.8,105-IG   5,stars? impos
+19,29,11,-,29,29.6,460- G  10,also denoted as PN PK 9-21 1
+19,29,19,-,64,28.6,105- G   6,E 0.8 p
+19,31,38,-,61,8.3,142- G  25,"compact 2.9' n, IC Dec off 11'"
+19,32,10,-,44,4.9,283-IG  10,eF bridge? to S comp 1.9 s
+19,32,48,-,65,55.5,105-IG  11,star? impos; sev S comps around
+19,33,25,-,37,40.0,338- G  14,1 deg error in NGC Dec
+19,33,36,-,42,24.5,338- G  15,compact E 3.4 f
+19,33,47,-,52,11.2,232- G  12,sev S comps involved
+19,33,55,-,47,41.9,232-IG  13,connected w sev S comps
+19,34,30,-,58,19.7,142-IG  28,in cl
+19,34,37,-,49,27.0,232-IG  15,"+ compact, or imp star?"
+19,34,37,-,58,20.5,142-IG  29,in cl
+19,39,17,-,51,55.6,232-IG  18,sev S comps; in cluster
+19,39,30,-,60,46.2,142- G  36,RA of IC off 0.9 m
+19,40,4,-,52,1.6,232-IG  20,comp 0.6 s ; in cluster
+19,40,56,-,28,31.3,460- G  30,NGC Dec 9' off
+19,41,34,-,54,13.7,185-IG  17,in group
+19,42,6,-,50,25.0,232- G  23,nf of 2
+19,42,15,-,32,28.4,398- G  30,in field 460
+19,43,9,-,51,58.2,232-IG  25,compact 0.5 np ; in cl
+19,43,35,-,23,15.5,526-PN   3,MCG-4-46
+19,45,59,-,43,48.0,283-IG  18,vF bridge to S comp 0.9 s
+19,46,34,-,51,28.4,233- G   2,"L in group, S comp 0.4 nf"
+19,50,12,-,42,51.0,284- G   1,interact? w S comp 1.0 n
+19,50,40,-,38,7.0,339-IG   4,in cl
+19,50,47,-,58,51.8,142- G  51,S comp sf
+19,50,47,-,62,4.0,142- G  52,"compact? sf, S comp 0.9 sf"
+19,54,25,-,49,6.3,233-IG  12,2 stars superimp
+19,56,11,-,55,30.7,185- G  43,S comp 1.5 sp
+19,57,19,-,42,5.8,339- G  21,contact w S comp sp
+19,57,22,-,47,12.5,284-IG   8,open spir strongly interact w Irr 1.4 nf and w SO
+19,57,22,-,47,12.5,284-IG   8,0.8 sp; S comp 1.9 sp
+19,57,30,-,53,6.2,185-IG  47,bridge between two compacts
+19,57,39,-,58,49.6,143-IG   2,"con? w compact 0.6 n, in group"
+19,58,47,-,56,13.7,185- G  52,strong absorption band
+19,59,33,-,55,7.2,185- G  55,"B centre, or * superimp"
+19,59,34,-,54,59.2,185- G  56,irr centre; sev S comps around
+20,0,53,-,60,18.4,143-IG   5,dif bridge over compact to S comp 1.2 sf
+20,2,2,-,51,0.7,233-IG  24,"cz=9900(2C) H? at RA=200203, Dec=-510116"
+20,2,2,-,51,0.7,233-IG  24,"cz=12100(2C) at RA=200203, Dec=-510028"
+20,2,50,-,48,31.1,233- G  28,IC RA only 4 s off
+20,2,50,-,56,32.1,185- G  63,S comp 2.1 sf
+20,2,54,-,40,20.5,339- G  32,NGC RA off 5 min
+20,2,54,-,42,54.5,284- G  16,"compact 0.6 nf, S comp 1.9 np"
+20,2,55,-,60,53.0,143- G   8,compact 1.4 sf
+20,3,8,-,22,4.0,595-SC  13,GCl-116
+20,3,50,-,43,46.6,284- G  18,nom value of RA off 0.8
+20,4,28,-,56,18.4,185- G  70,S comp 1.6 np
+20,4,45,-,66,21.8,105- G  26,S comp 1.3 f
+20,5,38,-,55,51.4,186- G   3,"fits descr of IC but RA off 1.2 min, cf. G 05"
+20,5,41,-,46,29.8,284- G  20,"2 S comps 2.5 sp, 1.6 nf"
+20,7,59,-,45,44.5,284- G  23,nominal value of RA off 2.2 min
+20,9,24,-,53,39.1,186- G  14,"nominal position off 0.9 m, 6'"
+20,9,40,-,46,18.7,284- G  28,"interact w S comp 1.1 f; 2 more comps sp, sf"
+20,9,48,-,71,8.6,73- G  27,"nom value of RA off 0.9 min, cf. G 30"
+20,9,55,-,79,11.0,25-SC  18,"nominal pos off 5.5 m, 17'"
+20,10,6,-,44,58.1,284- G  29,"sp part bent northw, S comp (one of sev) 3.2 np"
+20,10,24,-,44,40.7,284- G  31,redshift?
+20,11,25,-,71,17.0,73- G  30,"nom coordinates off 0.7 min, 8'; fits descr"
+20,11,25,-,71,17.0,73- G  30,better than G 27
+20,11,35,-,45,30.2,284- ?  34,reg apparently devoid of galaxies larger than 1'
+20,11,42,-,70,55.3,73-IG  32,"n arm ext into plume, disturbed by IG 33, in Se 137/3,"
+20,11,42,-,70,55.3,73-IG  32,in cl
+20,11,44,-,70,54.2,73-IG  33,"in Se 137/3, in cl"
+20,12,50,-,44,27.3,284-IG  41,"tail, in cl"
+20,13,3,-,47,7.2,284- G  44,"connected? w S comp 1.5 n, S ring galaxy 5.9 nf"
+20,13,6,-,71,0.8,73-IG  35,in cl
+20,13,16,-,46,41.2,284-IG  45,connected: w 2 S comps 2' sp
+20,13,23,-,71,0.6,73-IG  36,in cl
+20,13,34,-,52,26.1,233- G  52,in group
+20,14,16,-,71,1.0,73-IG  37,in cl
+20,14,26,-,71,0.3,73-IG  38,in cl
+20,15,1,-,41,12.4,340- G  11,"IC position off 0.6 min, 33'"
+20,15,7,-,71,9.9,73-IG  39,interacting w S comp 0.3 s
+20,16,1,-,27,33.6,527- G  18,in field 462
+20,16,22,-,39,26.7,340-IG  17,"distorted F arms, L in group, Ag RA off 2.6 min"
+20,18,9,-,40,32.0,340- G  18,in cl
+20,18,14,-,48,9.9,234- G   9,"S comp 1.2 np, in G 11 group"
+20,19,4,-,59,16.0,143- G  23,in group w G 25
+20,19,8,-,46,59.6,285- G   3,Dec of Se off 5'
+20,19,33,-,44,26.0,285- G   4,S comp 1.6 p
+20,20,42,-,50,35.7,234- G  22,in cl
+20,20,52,-,53,0.3,186- G  40,in cl
+20,21,13,-,20,19.5,596- G  30,in cl
+20,22,19,-,30,2.1,462- ?  18,IC 5007 Dec 10' off
+20,22,45,-,41,5.7,340- G  29,B spir arms + sev conds between
+20,23,18,-,39,14.7,340-IG  30,contact w sev S comps
+20,24,30,-,44,46.5,285-IG  14,long streamer to *like obj 1.1 sp
+20,24,31,-,43,5.3,285-IG  15,L 2 of 4
+20,24,42,-,52,0.6,234-IG  33,in G 32 group
+20,25,5,-,38,40.9,340- G? 34,in cl
+20,25,21,-,36,11.6,400- G  29,in cluster
+20,25,40,-,83,12.8,11- G?  1,in F ring or tightly wound spiral
+20,27,36,-,19,21.5,596- G  49,like a planetary
+20,27,38,-,53,43.4,186-IG  56,in IG 59 group
+20,27,52,-,25,31.9,528- G  13,p w G 14
+20,28,6,-,53,56.7,186-IG  57,in IG 59 group
+20,28,17,-,53,48.2,186-IG  58,"connected? w compact 1.7 f, in IG 59 group"
+20,28,17,-,53,54.8,186-IG  59,star superimp?
+20,29,27,-,57,39.6,143-IG  31,in cl
+20,29,37,-,28,27.4,462-IG  34,streamers
+20,30,3,-,31,28.2,463- G   1,in field 462
+20,30,54,-,47,50.4,234-IG  48,in cl
+20,31,42,-,50,2.2,234-IG  49,connected? w compact E nf
+20,31,47,-,57,55.0,143-IG  32,in cl
+20,32,53,-,53,37.0,186-IG  68,in IG 66 group
+20,34,39,-,52,17.1,234- G  59,cz=3800:90(2C) based on H K 5175
+20,36,37,-,51,36.4,234-IG  63,con w compact n
+20,37,57,-,40,8.4,341-IG   3,in cl
+20,37,59,-,20,59.4,597-IG  25,in cl
+20,38,56,-,73,39.4,47-IG  11,in cluster
+20,39,12,-,24,23.6,528-IG  33,two B bodies w oppositely directed tails
+20,39,46,-,42,32.7,285-IG  47,S comp 0.2 sp
+20,40,11,-,30,2.0,463- G  20,IC 5046 RA 0.5 min off
+20,40,31,-,29,53.1,463- G  21,IC 5047 RA 1.3 min off
+20,41,13,-,41,8.1,341- G? 10,dif ext env
+20,42,16,-,38,21.5,341- G  11,in G 15 cl
+20,42,23,-,38,24.8,341-IG  12,"dif ext env, in G 15 cl"
+20,45,58,-,39,24.5,341-IG  16,S comp on tip of n arm
+20,46,7,-,39,1.0,341- G  17,in cl
+20,46,24,-,50,19.2,235-IG   4,interact w S comp 0.8 p
+20,47,24,-,19,36.8,597- G  41,F thin arms around stellar centre
+20,48,39,-,48,57.9,235- G   8,S comp 1.9 n
+20,48,44,-,30,2.2,463- G  30,"fits IC description, but RA 1.5 min off"
+20,49,8,-,52,21.2,235- G   9,cz=1500:40(2C) ? based on H K
+20,50,9,-,42,59.9,286-IG   8,in cl
+20,50,49,-,39,39.3,341- G? 20,dif ext env
+20,53,11,-,55,54.7,187-IG  35,connected w compact? n
+20,54,12,-,46,45.7,286-IG  15,jet pointing westw
+20,55,9,-,42,50.6,286-IG  19,"spir w multiple nuclei (superimp stars?), or compact"
+20,55,9,-,42,50.6,286-IG  19,group w spir streamers?
+20,55,24,-,60,51.7,144-IG  11,S... connected w compacts 1.0 sf and 0.8 nf
+20,56,12,-,42,58.1,286-IG  20,in cl
+20,56,13,-,72,50.3,47- G  19,S comp 2.2 sp
+20,56,19,-,49,31.7,235-IG  29,interact w S comp 0.3 n
+20,57,1,-,65,9.7,107- G   2,"*? superimp, sev S comps"
+20,57,20,-,52,25.2,235- G  32,in cluster
+20,58,26,-,50,20.1,235-IG  36,2 S comp attached
+20,58,28,-,38,16.8,341- G  30,S comp near tip of s arm
+20,58,58,-,34,10.9,401- G  29,S comp on tip of s arm
+20,59,25,-,28,22.3,464- G  16,in cl
+20,59,43,-,38,10.9,341-IG  31,in cluster
+21,0,53,-,43,47.4,286- G  35,compact comp 0.6 p
+21,1,8,-,48,1.9,235-IG  48,B comp 0.7 np
+21,1,18,-,52,1.3,235- G  50,redshift based on G
+21,2,13,-,44,16.7,286-IG  43,in cl
+21,2,23,-,56,27.0,187- G  49,nominal value of RA off 0.6 min
+21,2,33,-,43,51.6,286-IG  45,dif region of matter s
+21,2,49,-,25,26.4,529- G  20,"S comp 0.4 sf, in cl"
+21,3,3,-,48,19.3,235- G  58,in G 55 group
+21,3,24,-,47,23.3,286- G  49,cz=8100:250(2C) based on H 5175
+21,3,31,-,24,36.9,529- G  22,NGC RA 0.8 m off
+21,3,44,-,45,5.2,286-IG  54,in cl
+21,3,49,-,47,45.4,235-IG  61,cz=5100:10(2C) based on H-alfa 5007 em D A
+21,4,9,-,52,15.6,235-IG  62,"bridge? to S comp 2.2 s, in cluster"
+21,4,59,-,33,25.5,402-IG   9,connected w IG 10
+21,5,26,-,38,46.1,342- G   7,"interacting w 2 S comps nf, np"
+21,5,35,-,40,3.3,342-IG  10,incl compact E sf
+21,5,38,-,48,53.5,235-IG  64,"S comp att, in cl"
+21,5,46,-,53,9.5,187- G  54,"N 1.8 nf, in group w G 55"
+21,6,5,-,62,48.2,107-IG   9,"* superimp, interacting w S comp 0.5 nf"
+21,6,32,-,45,38.1,286-IG  62,in G 63 group?
+21,7,13,-,64,13.8,107- G  13,30' error in N 7021 Dec
+21,7,17,-,45,47.6,286-IG  65,in G 63 group?
+21,7,32,-,46,16.1,286-IG  67,in group
+21,8,15,-,45,27.5,286-IG  73,interaction? w S comp 0.5 s
+21,8,18,-,47,33.1,235-IG  71,"in chaotic region, in cluster"
+21,9,17,-,27,51.6,464-IG  28,irr arm connecting object w starlike centre and F
+21,9,17,-,27,51.6,464-IG  28,ring
+21,11,46,-,47,25.7,286- G  79,cz=6500:360(2C) based on G H 5175
+21,12,12,-,46,59.3,286- G  80,star imp
+21,12,50,-,42,54.8,286-IG  84,jet? connecting S comp 0.6 sf
+21,13,32,-,60,9.4,145-IG   2,stars superimposed? or triple chain in envelope?
+21,13,56,-,59,5.0,145-IG   3,sf comp = compact or star?
+21,16,17,-,52,27.0,236-IG   2,eruptive?
+21,16,33,-,51,16.2,236- G   3,interacting? w S comp 0.8 np
+21,16,34,-,68,14.1,75- G   2,eF bridge? to S comp 1.3 sf
+21,16,43,-,20,38.9,599- G   6,dif irr env
+21,17,58,-,46,21.9,287- G   9,"nominal position off 1.5 m, 9'"
+21,19,0,-,69,54.0,75- G   6,S comp 1.4 np
+21,19,56,-,45,59.2,287- G  13,in foregrund?
+21,22,20,-,42,54.7,287- G  19,in cl
+21,23,5,-,42,34.7,287- G  25,in G 22 group
+21,24,10,-,38,4.4,342-IG  49,in G 50 group?
+21,24,26,-,51,32.6,236-IG  15,2 S comps attached
+21,25,6,-,20,38.8,599- G  14,S comp w tail 0.6 nf
+21,25,6,-,53,20.5,188-IG   8,star superimp
+21,26,58,-,60,13.3,145-IG   7,"complex spiral structure, crossing arms"
+21,28,1,-,68,8.9,75- G  12,connected w S comp s
+21,28,12,-,43,28.7,287-IG  32,superimp on distant galaxy cluster
+21,29,51,-,20,6.3,599-IG  19,in cl
+21,30,8,-,38,36.3,343-IG   5,"F knotty env, in cl"
+21,31,4,-,36,52.5,403- G   8,IC RA off 1.9 min NGC Dec off 7'
+21,31,40,-,40,56.6,343- G   9,"S comp 0.9 s, in G 08 group"
+21,31,59,-,50,9.5,236-IG  22,also interact? w S comp 0.5 s
+21,32,9,-,50,9.6,236-IG  23,1 or 2 S comp attached; star(s)? superimp
+21,32,19,-,66,42.1,107- G  38,L in group
+21,32,36,-,53,44.1,188-IG  11,star? between
+21,33,5,-,38,46.1,343-IG  13,in cl
+21,34,57,-,42,59.2,287-IG  41,"cf. G 42, F star superimp, nominal position off"
+21,34,57,-,42,59.2,287-IG  41,"0.8m, 13'"
+21,34,58,-,42,49.8,287- G  42,nominal value of RA off 0.8 m
+21,35,20,-,63,30.8,107- G  42,"2 ""wisps"" att to n end of major axis"
+21,36,46,-,48,47.7,236- G  30,interact? w S comp 1.0 sp
+21,37,27,-,64,8.3,107- G  46,"interacting? w S comp 1.2 n, 30' error in IC Dec"
+21,37,32,-,23,24.4,531-SC  21,GC1-122
+21,37,45,-,71,36.7,75- G  20,nominal value of RA off 2.0 min
+21,38,26,-,53,0.0,188- G  16,S comp 2.3 np
+21,39,13,-,52,55.7,188- G  17,star superimp
+21,39,25,-,51,31.0,236- G  34,ext? to dif comp 2.7 f
+21,39,40,-,52,55.0,188-IG  18,p w G 17
+21,41,54,-,51,55.7,236-IG  38,in cl
+21,42,6,-,46,10.5,287- G  57,in field 288
+21,42,40,-,48,30.3,236- G  42,interacting? w S comp 0.6 s
+21,42,59,-,60,35.1,145-IG  14,S compact comp
+21,43,2,-,46,45.1,288-IG   1,contact w IG 02
+21,43,3,-,46,44.8,288-IG   2,"contact w IG 01, connecting arm to S comp 0.6 nf"
+21,43,51,-,21,29.0,600-SC  11,MCG-4-51-13 = A 2143-21
+21,44,9,-,36,1.7,403-IG  26,star superimp
+21,44,56,-,70,56.2,75-IG  25,interacting w compact 0.5 s
+21,45,20,-,35,11.1,403- G  32,NGC Dec off 30'
+21,46,16,-,57,46.7,145-IG  19,S comp on tip of arm?
+21,46,46,-,35,6.6,403-IG  35,in cl
+21,47,11,-,55,59.2,189-IG   4,in G 07 cluster
+21,47,33,-,54,47.2,189- G   5,S comp sp on tip of arm
+21,47,50,-,48,56.6,237- G   5,many S comps
+21,48,49,-,55,48.3,189- G   7,"L in cl, or in foreground? 1 deg err in NGC 7140 Dec,"
+21,48,49,-,55,48.3,189- G   7,star superimp
+21,48,54,-,54,38.1,189- G   8,S comp 0.3 p
+21,50,30,-,26,48.8,532- G?  2,vis on PSS
+21,50,44,-,45,19.0,288-IG  18,in G 15 group
+21,52,16,-,56,20.9,189-IG  13,in group of 4
+21,52,21,-,43,29.3,288- G  20,in G 21 group
+21,52,55,-,49,45.5,237- G  16,cz=1800:10(2C) based on H K 5175 G
+21,53,53,-,49,17.1,237- G  18,nominal value of RA off 0.9 min
+21,54,9,-,28,51.5,466- G  18,in cl
+21,55,19,-,27,37.9,466- G  24,cf. G 27
+21,55,27,-,62,53.7,108-IG   8,compact comp (superimposed star?) on tip of arm
+21,56,7,-,27,39.2,466- G  27,cf. G 24
+21,56,11,-,44,6.4,288- G  25,in G 27 group
+21,56,24,-,84,21.1,11- G   6,vF ext env
+21,56,35,-,48,5.1,237-IG  23,star superimp?
+21,57,0,-,70,58.5,75-IG  48,connected? w compact? sp
+21,58,28,-,42,41.7,288- G  30,interacting? w G 32
+21,59,12,-,32,14.0,466-IG  40,in cl
+21,59,26,-,51,32.3,237- G  27,a great number of S conds
+21,59,36,-,19,9.4,601- G   8,sev S comps
+21,59,38,-,47,56.3,237- G  28,nom value of RA off 0.7 min
+22,0,24,-,70,22.7,75- G  52,S comp 0.7 nf
+22,2,42,-,50,21.8,237- G  36,compact E 1.1 nf
+22,2,57,-,44,29.2,288-IG  39,eF bridge to S comp 0.7 n
+22,3,24,-,28,12.2,467- G   3,in cl
+22,3,36,-,21,19.0,601-IG  18,Arp 325
+22,3,39,-,31,30.4,467- G   4,N 7202 may be the star at 22 03 50 -31 27.8
+22,3,51,-,31,24.4,467- G   7,N 7202 may be the star at 22 03 50 -31 27.8
+22,4,1,-,31,17.7,467-IG   8,B in group
+22,4,34,-,73,37.6,48- G  17,sev S comps around
+22,4,48,-,52,57.5,189-IG  25,L in group of 4 or 5
+22,5,33,-,29,17.8,467- G  10,in cl
+22,6,17,-,28,3.3,467- G  12,"inv S comp 0.6 nf, p w G 13, in cl"
+22,6,21,-,27,24.8,532- G  22,in cl
+22,8,10,-,46,52.7,288-IG  47,connected w S comp 0.3 sp
+22,8,12,-,72,48.9,48- G  18,interaction?
+22,8,43,-,45,50.3,288- G  49,4 S comps within 16'; in G 46 group?
+22,8,44,-,71,21.0,76- G   4,in group
+22,9,1,-,28,12.5,467- G  19,in cl
+22,9,3,-,54,32.8,189- G  28,in G 31 group
+22,9,11,-,48,53.1,237- G? 45,3 close stars superimp
+22,9,44,-,53,29.0,189- G  29,B comp 2.5 f
+22,9,47,-,38,25.2,344- G  13,p w G 14
+22,10,8,-,53,14.2,189-IG  30,jet? ext 0.8 southwest
+22,10,40,-,26,56.1,533- G   1,in field 532
+22,10,59,-,24,35.1,533-IG   2,in field 532
+22,11,36,-,65,48.0,108-IG  21,"arm appears wrapped around ""bar"""
+22,12,33,-,46,6.0,289-IG   7,"in G 01 group, in Se 151/2 group"
+22,12,44,-,46,5.8,289-IG   8,"in G 01 group, in Se 151/2 group"
+22,12,48,-,46,1.8,289- G   9,in Se 151/2 group
+22,13,13,-,37,5.5,405- G   5,"RA of IC 5184 off 0.7 m, also IC 5183 if 1 deg"
+22,13,13,-,37,5.5,405- G   5,err in Dec
+22,14,5,-,48,43.5,237- G  50,in cl
+22,16,51,-,80,29.2,27-IG   7,in cl
+22,17,45,-,49,1.6,238- G   2,L in group
+22,17,46,-,48,37.6,238- G   3,disturbed? by S comp 1.1 nf
+22,17,54,-,46,17.2,289- G  18,B knot 1.4 sf
+22,19,25,-,48,39.4,238- G   5,in G 04 group
+22,19,26,-,60,2.4,146-IG  21,comp or tip of arm
+22,19,55,-,27,36.5,467- G  47,"IC pos 1.0 m, 7' off"
+22,20,13,-,38,14.9,345- G   4,contact w S comp? sf
+22,20,16,-,29,12.5,467- G  50,p w G 51
+22,20,35,-,38,17.5,345- G   6,S comp 1.1 nf
+22,21,10,-,54,54.4,190-IG   4,star superimp
+22,21,29,-,62,54.3,108-IG  30,"asym arm points towards compact comp, or star?"
+22,22,36,-,63,32.4,109- G   1,in group
+22,22,38,-,27,57.4,467-IG  56,in group
+22,22,44,-,25,54.0,533- G  25,"fits IC descr but pos 6.0m, 17' off; cf. G 39"
+22,22,48,-,17,29.8,602- G  19,in field 674
+22,22,51,-,31,27.3,467-IG  57,NGC RA 1.0 m off
+22,22,53,-,47,58.2,238- G  10,in foreground
+22,23,10,-,24,59.1,533- G  27,poss S comp superimp
+22,25,52,-,25,5.8,533-IG  32,v long arm
+22,27,29,-,46,15.0,289- G  31,IC RA off 1.0 min
+22,27,53,-,17,49.8,602- G  23,NGC RA 1.4m off
+22,28,17,-,25,36.0,533- G  39,IC pos OK but cf. G 25
+22,28,59,-,42,0.4,345-IG  20,incl S comp nf on tip of arm
+22,29,45,-,73,56.4,48-IG  26,tail?
+22,30,30,-,37,37.0,345-IG  22,"incl 2 S comp n, s on tip of arms"
+22,30,37,-,64,57.4,109- G   8,S comp 2.9 p
+22,30,45,-,48,16.9,238- G  16,in cluster
+22,30,57,-,41,11.5,345- G  26,sev S comps
+22,30,59,-,42,34.7,289-IG  38,in G 40 group
+22,31,38,-,43,33.8,289-IG  41,"2 S comps sf, in group"
+22,31,53,-,22,44.6,533- G  49,S double system 0.7 s
+22,33,0,-,26,18.6,533- G  53,cz=1694(5D)
+22,33,22,-,61,39.6,147-IG   3,bridge and streamer
+22,34,9,-,20,4.0,602- G  30,image blurred by halo around calibration marks
+22,34,35,-,44,6.0,289-IG  43,e dif bridge? to S comp 1.9 sf
+22,34,59,-,37,29.4,405- G  33,RA of NGC 7334 off 1 min
+22,36,29,-,26,6.2,534- G  12,"2 S comps 0.4 s, 0.7 s"
+22,38,32,-,22,3.4,603- G   4,1 deg error in NGC Dec
+22,38,44,-,24,27.2,534-IG  16,interacting w S comp 0.2 p
+22,38,55,-,46,21.3,290- G   1,"superimp star, or vB centre?"
+22,39,31,-,30,19.2,468- G  23,IC RA 2.4 min off
+22,40,5,-,21,25.7,603- G   6,p w G 07
+22,40,37,-,45,35.3,290- G   6,sev S comps (background?)
+22,41,20,-,45,23.0,290-IG   9,in group
+22,42,32,-,22,59.6,534- G  24,"NGC pos off 3.7 m, 9'"
+22,42,32,-,44,39.1,290-IG  10,con arm w compact 1.0 s
+22,44,0,-,65,19.3,109-IG  22,B in group
+22,44,42,-,52,6.1,238-IG  27,arm ext?  starlike object 0.8 s
+22,45,10,-,47,30.0,290- G  13,S comp? 1.3 np
+22,45,11,-,66,59.1,109-IG  23,B in group
+22,45,58,-,45,41.4,290-IG  14,2 S comp attached
+22,46,26,-,19,57.1,603- G  16,cf. G 17
+22,47,14,-,89,23.7,1-IG   9,interacting w IG 08
+22,47,27,-,19,59.3,603- G  17,cf. G 16; NGC RA 1.1 m off
+22,47,34,-,44,4.7,290-IG  18,e dif arm con S com 1.2 nf
+22,47,35,-,45,26.9,290-IG  19,1st and 2nd of 3
+22,48,54,-,67,41.1,76- G  29,F bridge? to starlike object 0.9 f
+22,49,8,-,20,52.4,603- G  22,cz=3015(5D)
+22,49,28,-,54,18.4,191-IG   1,in field 190
+22,49,48,-,17,27.1,603-IG  23,in field 675
+22,51,27,-,45,36.8,290- G  22,NGC RA off 0.6 m
+22,51,41,-,47,34.4,239-IG   3,"filaments? ext 0.7 n, eruptive?"
+22,53,2,-,42,32.9,290-IG  25,B in group
+22,53,54,-,37,2.4,406- G  27,in cl
+22,55,5,-,45,4.2,290-IG  30,v dif region northw
+22,56,13,-,44,23.4,290-IG  31,v dif plume southw
+22,56,14,-,30,45.7,469- G   7,S comp n at tip of arm
+22,58,29,-,59,54.4,147-IG  19,"spirals, distorted arms, long eF streamer"
+22,59,44,-,42,59.3,290-IG  36,vF bridge to S comp 1.2 nf
+22,59,44,-,69,28.8,77-IG   1,"sev S comps nf, nom val of Dec off 10'"
+23,1,53,-,43,51.3,290- G  44,S comp 1.7 f
+23,2,22,-,43,22.2,290- G  45,disturbed? B in group
+23,2,37,-,43,15.3,290-IG  46,eF bridge over middle comp
+23,2,52,-,51,57.0,239-IG  10,in cl
+23,3,4,-,44,37.8,290- G  49,in v distant cl
+23,3,57,-,44,31.3,290-IG  50,1 or 2 S comps f
+23,4,44,-,28,5.2,469-IG  14,F irr env
+23,4,52,-,49,1.2,239-IG  12,sev S comps attached
+23,7,40,-,22,0.5,604-**   5,NGC RA 0.5 m off
+23,8,34,-,32,43.5,407-IG   8,"in cl, IC Dec off 5'"
+23,11,18,-,37,28.9,347- G   1,in field 407
+23,12,56,-,51,18.6,239-IG  18,"rad vel in main cat at RA=231256, Dec=-511857"
+23,12,56,-,51,18.6,239-IG  18,"cz=16100:160(2C) at RA=231257, Dec=-511810"
+23,14,6,-,66,45.3,110-IG   7,eF bridge to S comp 0.9 n
+23,16,10,-,42,30.7,347- G  33,in field 291 but not visible on displaced plate 1108
+23,16,36,-,42,31.8,347- G  34,in field 291 but not visible on displaced plate 1108
+23,16,36,-,42,33.0,347- ?  35,in field 291 but not visible on displaced plate 1108
+23,16,37,-,64,50.6,110- G   9,IC RA off 1.1m
+23,18,23,-,58,21.3,148-IG   7,interacting systems?
+23,21,24,-,68,38.3,77- G  16,"incl compact 0.3 p, in cl"
+23,21,54,-,19,20.1,605-IG   5,in cluster
+23,24,15,-,26,11.8,536-AC?  5,moving obj; not vis on PSS
+23,25,4,-,47,39.4,240- G   3,redshift based on 5175 G
+23,25,24,-,68,2.1,77- G  21,nom val of RA off 1.0 m
+23,25,33,-,68,2.2,77- G  22,nominal value of RA off 1.0 m
+23,27,28,-,31,24.2,470- G  14,in cl
+23,30,18,-,51,58.4,240- G   6,cz=2700:10(2C) based on H K G
+23,30,49,-,38,52.4,347- G  22,in cl
+23,32,2,-,48,30.8,240- G   7,contact w S comp sp
+23,32,6,-,36,18.5,408- G? 10,"comp of G 09, or in background?"
+23,32,7,-,66,57.4,110- G  13,S comp 1.2 nf
+23,34,29,-,37,59.5,347- G  30,nominal value of Dec off 6'
+23,35,3,-,47,46.9,240- G  10,in G 11 group
+23,36,2,-,56,45.3,192-IG  11,S comp 0.8 sf; p w G 12
+23,36,44,-,42,21.1,348- G   1,in field 347
+23,37,27,-,44,44.3,292- G   8,in G 09 group
+23,37,44,-,44,47.6,292- G   9,L in group
+23,38,10,-,20,47.2,606- G   2,"NGC position 0.6m, 17' off, in cl"
+23,38,41,-,58,25.1,148-IGA 21,sev S comps around
+23,39,44,-,34,29.4,408-IG  18,jet ext 0.6 s
+23,39,47,-,66,14.1,110- G  22,connected? w G 23
+23,39,56,-,45,10.9,292- G  14,nominal value of Dec off 16'
+23,40,27,-,72,50.9,28- G   1,follows overlap with field 049 in RA 23h27m to 23h39m
+23,41,33,-,43,13.4,292- G  16,in cl
+23,42,9,-,49,23.4,240-IG  16,eruptive? In cl
+23,43,2,-,63,35.2,110-IG  25,connected w S comp n
+23,43,53,-,70,39.6,77- G  31,L in group
+23,46,57,-,46,34.8,241- G   1,also in field 292
+23,47,0,-,46,17.3,241- G   2,also in field 292
+23,47,6,-,43,55.1,241- G   3,also in field 292
+23,49,8,-,26,7.7,472- G   1,image distorted by calibration spots
+23,49,29,-,26,8.3,472- G   2,image distorted by calibration spots
+23,49,39,-,25,41.1,472- G   4,image distorted by calibration spots
+23,49,53,-,18,42.1,606- G  17,in field 538
+23,49,56,-,20,19.2,606- G  18,in field 538
+23,50,45,-,30,25.8,471-IG  37,in cluster
+23,50,47,-,41,5.3,293-IG   8,in cl; RC2 Dec off 6'
+23,51,21,-,42,43.7,241- G   4,also in field 292
+23,53,21,-,44,0.2,241- G   5,also in field 292
+23,53,27,-,41,10.2,293-IG  14,in cl
+23,53,40,-,43,42.3,241- G   6,also in field 292
+23,53,44,-,44,29.2,241- G   7,also in field 292
+23,54,19,-,38,29.5,293-IG  19,in cl
+23,54,36,-,37,16.8,349- G  11,IC RA 0.4 min off
+23,55,1,-,46,26.1,241- G   8,also in field 292
+23,55,38,-,45,6.5,241-IG   9,also in field 292
+23,57,33,-,77,37.1,12-IG  11,star superimposed?
+23,58,29,-,43,36.5,241- G  10,also in field 292
+23,58,40,-,44,17.4,241- G  11,also in field 292
+23,59,30,-,28,51.7,409- G   5,in cluster

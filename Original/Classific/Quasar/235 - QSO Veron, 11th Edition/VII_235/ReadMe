@@ -1,0 +1,179 @@
+VII/235            Quasars and Active Galactic Nuclei (11th Ed.)  (Veron+, 2003)
+================================================================================
+Quasars and Active Galactic Nuclei (11th Ed.)
+     Veron-Cetty M.P., Veron P.
+    <Astron. Astrophys. 412, 399 (2003)>
+    =2003A&A...412..399V
+================================================================================
+ADC_Keywords: QSOs ; Active gal. nuclei ; BL Lac objects ;
+
+Description:
+    This catalogue is an update of the previous versions. The recent
+    release of the final release of the 2dF quasar catalogue and of the
+    first part of the SLOAN catalogue, almost doubling the number of known
+    QSOs, led us to prepare an updated version of our Catalogue of quasars
+    and active nuclei, which now contains 48921 quasars, 876 BL Lac
+    objects and 15069 active galaxies (including 11777 Seyfert 1). Like
+    the tenth edition, it includes position and redshift as well as
+    photometry (U, B, V) and 6 and 11 cm flux densities when available.
+
+    The  present edition this catalogue contains the quasars with measured
+    redshift known prior to August 1st, 2003.
+
+Version history:
+    (1) Veron-Cetty M.P., Veron P., 1984, ESO Scientific Report 1
+    (2) Veron-Cetty M.P., Veron P., 1985, ESO Scientific Report 4
+    (3) Veron-Cetty M.P., Veron P., 1987, ESO Scientific Report 5
+        (Catalogue <VII/93>)
+    (4) Veron-Cetty M.P., Veron P., 1989, ESO Scientific Report 7
+        (Catalogue <VII/126>)
+    (5) Veron-Cetty M.P., Veron P., 1991, ESO Scientific Report 10
+        (Catalogue <VII/146>)
+    (6) Veron-Cetty M.P., Veron P., 1993, ESO Scientific Report 13
+        (Catalogue <VII/166>)
+    (7) Veron-Cetty M.P., Veron P., 1996, ESO Scientific Report 17
+        (Catalogue <VII/188>)
+    (8) Veron-Cetty M.P., Veron P., 1998, ESO Scientific Report 18
+        (Catalogue <VII/207>)
+    (9) Veron-Cetty M.P., Veron P., 2000, ESO Scientific Report 19
+        (Catalogue <VII/215>)
+   (10) Veron-Cetty M.P., Veron P., 2001, Astron. Astrophys. 374, 92
+        (Catalogue <VII/224>)
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl    Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe          80          .    This file
+table1.dat     142      48921    Quasars (brighter than absolute magnitude -23)
+                                  (table_QSO in the paper)
+table2.dat     142        876    Confirmed, probable or possible BL Lac objects
+                                  (table_BL in the paper)
+table3.dat     142      15069    Active galaxies (fainter than -23)
+                                  (table_AGN in the paper)
+table4.dat     130         76    Rejected quasars
+                                  (table_reject in the paper)
+refs.dat        90       4881    References to tables 1 to 4
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table1.dat table2.dat table3.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+       2  A1     ---    notRadio  [*] '*' if not detected in radio (1)
+   3- 19  A17    ---     Name     Most common name of the object
+  22- 23  I2     h       RAh      Right Ascension J2000 (hours) (see also n_RAh)
+  25- 26  I2     min     RAm      Right Ascension J2000 (minutes)
+  28- 31  F4.1   s       RAs      Right Ascension J2000 (seconds)
+      33  A1     ---     DE-      Declination J2000 (sign)
+  34- 35  I2     deg     DEd      Declination J2000 (degrees)
+  37- 38  I2     arcmin  DEm      Declination J2000 (minutes)
+  40- 41  I2     arcsec  DEs      Declination J2000 (seconds)
+      43  A1     ---   n_RAh      [AOR] Approximative/Optical/Radio position (2)
+  46- 51  F6.3   Jy      F6cm     ? 6cm (5GHz) flux
+  53- 56  I4     ---   r_F6cm     [1,2377]? Reference of 6cm Flux
+  59- 63  F5.2   Jy      F11cm    ? 11cm (2.7GHz) flux (Jy)
+  65- 68  I4     ---   r_F11cm    [1,2377]? Reference of 11cm flux
+      70  A1     ---   l_z        [>*] limit or method flag on z (4)
+  71- 75  F5.3   ---     z        ? redshift
+  77- 80  A4     ---     Sp       [S0-9?HPBLbhin. ] Spectrum classification (3)
+      82  A1     ---   n_Vmag     [*RIO] Photographic(*), red(R), infra-red
+                                   (I) or photographic O- or J- plates(O)
+  83- 87  F5.2   mag     Vmag     ? magnitude, V or other (see n_Vmag)
+  89- 93  F5.2   mag     B-V      ? colour index
+  95- 99  F5.2   mag     U-B      ? colour index
+ 101-105  F5.1   mag     Mabs     ? Absolute magnitude
+ 107-110  I4     ---     FC       [1,2377]? Reference of the Finding Chart
+ 112-115  I4     ---   r_Vmag     [1,2377]? Reference of the Photometry
+ 117-120  I4     ---   r_z        [1,2377]? Reference of the redshift
+ 123-124  I2     h       RA1950h  Right Ascension B1950 (hours)
+ 126-127  I2     min     RA1950m  Right Ascension B1950 (minutes)
+ 129-132  F4.1   s       RA1950s  Right Ascension B1950 (seconds)
+     134  A1     ---     DE1950-  Declination B1950 (sign)
+ 135-136  I2     deg     DE1950d  Declination B1950 (degrees)
+ 138-139  I2     arcmin  DE1950m  Declination B1950 (minutes)
+ 141-142  I2     arcsec  DE1950s  Declination B1950 (seconds)
+--------------------------------------------------------------------------------
+Note (1): this flag is blank if the object has been detected as a
+    radio source, and is '*' if not.
+Note (2): this flag related to the position takes the values:
+     'O' for an Optical position with an accuracy better than 1arcsec
+     'R' for a Radio position with an accuracy better than 1arcsec
+     'A' for an approximative position
+Note (3): the classification of the object is
+     S1 : Seyfert 1 spectrum
+     S1h: broad polarized Balmer lines detected
+     S1i: broad Paschen lines observed in the infrared
+     S1n: narrow-line Seyfert 1
+     S1.0, S1.2, S1.5, S1.8, S1.9: intermediate Seyfert galaxies
+     S2 : Seyfert 2 spectrum
+     S3 : Seyfert 3 or liner
+     S3b: Seyfert 3 or liner with broad Balmer lines
+     S3h: Seyfert 3 or liner with broad polarized Balmer lines detected
+     S  : unclassified Seyfert
+     S? : possibly a Seyfert
+     H2 : nuclear HII region
+     HP : high optical polarization (>3%)
+     BL : confirmed BL Lac object
+Note (4): n_z may indicate a lower limit on z, or
+     '*', if the redshift is measured by slitless spectroscopy.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table4.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+       2  A1     ---    notRadio  [*] '*' if not detected in radio (1)
+   3- 19  A17    ---     Name     Most common name of the object
+  24- 25  I2     h       RAh      Right Ascension J2000 (hours)
+  27- 28  I2     min     RAm      Right Ascension J2000 (minutes)
+  30- 33  F4.1   s       RAs      Right Ascension J2000 (seconds)
+      35  A1     ---     DE-      Declination J2000 (sign)
+  36- 37  I2     deg     DEd      Declination J2000 (degrees)
+  39- 40  I2     arcmin  DEm      Declination J2000 (minutes)
+  42- 43  I2     arcsec  DEs      Declination J2000 (seconds)
+      45  A1     ---   n_RAh      [OAR] Approximative/Optical/Radio position
+      50  A1     ---   n_z        [*] '*' for z measured by slitless
+                                  spectroscopy
+  51- 55  F5.3   ---     z        ? Original redshift
+  58- 59  A2     ---     Sp       [QG?BL ] Original classification
+      62  A1     ---   n_Vmag     [*RIO] Photographic(*), red(R), infra-red(I)
+                                         or photographic O- or J- plates(O)
+  63- 67  F5.2   mag     Vmag     ? V (or photographic, see n_Vmag) magnitude
+  70- 74  F5.2   mag     B-V      ? colour index
+  77- 81  F5.2   mag     U-B      ? colour index
+  84- 87  I4     ---     FC       [1,2377]? Reference of Finding Chart
+  89- 92  I4     ---   r_Vmag     [1,2377]? Reference of the Photometry
+  94- 97  I4     ---   r_Sp       [1,2377]? Reference of Sp
+ 101-102  A2     ---     Sp2      [QG*? ] New classification
+ 105-108  I4     ---   r_Sp2      [1,2377]? Reference of New classification
+ 111-112  I2     h       RA1950h  Right Ascension B1950 (hours)
+ 114-115  I2     min     RA1950m  Right Ascension B1950 (minutes)
+ 117-120  F4.1   s       RA1950s  Right Ascension B1950 (seconds)
+     122  A1     ---     DE1950-  Declination B1950 (sign)
+ 123-124  I2     deg     DE1950d  Declination B1950 (degrees)
+ 126-127  I2     arcmin  DE1950m  Declination B1950 (minutes)
+ 129-130  I2     arcsec  DE1950s  Declination B1950 (seconds)
+--------------------------------------------------------------------------------
+Note (1): this flag is blank if the object has been detected as a
+    radio source, and is '*' if not.
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: refs.dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4  I4     ---     RefCode  [1,2377]+= Reference Number
+       6  A1     ---   f_RefCode  [=] indicates the presence of a bibcode
+   7- 90  A84    ---     Text    *Text of reference (may be on several lines);
+                                   the last line is the "bibcode"
+--------------------------------------------------------------------------------
+Note on Text: the last line of a reference is the "bibcode", a 19-digit code
+     referencing the reference used by SIMBAD, NED, and ADS.
+     When the text cannot fit on a single line, continuation lines are
+     used and the RefCode is repeated,
+--------------------------------------------------------------------------------
+
+Courtesy: Mira Veron <mira@obs-hp.fr>
+================================================================================
+(End)               Mira Veron [OHP],   Francois Ochsenbein [CDS]    26-Aug-2003

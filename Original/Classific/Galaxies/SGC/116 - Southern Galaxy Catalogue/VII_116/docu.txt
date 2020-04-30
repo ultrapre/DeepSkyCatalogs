@@ -1,0 +1,792 @@
+                          Southern Galaxy Catalogue
+         (Corwin, H. G., de Vaucouleurs, A., and de Vaucouleurs, G.)
+
+
+               Documentation for the Computer-Readable Version
+                    Harold Corwin, Jr., and Nancy G. Roman
+
+
+                        Doc. No. NSSDC/WDC-A-R&S 92-12
+                                  March 1993
+
+
+                 National Space Science Data Center (NSSDC)/
+          World Data Center A for Rockets and Satellites (WDC-A-R&S)
+                National Aeronautics and Space Administration
+                         Goddard Space Flight Center
+                          Greenbelt, Maryland 20771
+
+
+                                   Abstract
+
+   The "Southern Galaxy Catalogue" provides a finding list of galaxies
+    larger than about 1.5 to 2 arc minutes, south of declination -17
+    degrees. It includes, as far as possible, precise positions,
+    morphological types, luminosity classifications, and diameters. It is
+    essentially complete for log D>1.52.
+
+    1 - Introduction and Source Reference
+
+    1.1 - Introduction
+
+    The "Southern Galaxy Catalogue" (SGC) is intended to provide a finding
+    list of galaxies larger than about 1.5 to 2 arc minutes, south of
+    declination -17 degrees. It also provides, as far as possible, 1)
+    precise positions, 2) morphological types in the revised Hubble system
+    (de Vaucouleurs 1959, 1963; de Vaucouleurs, de Vaucouleurs, & Corwin,
+    1976, hereafter RC2), 3) luminosity classifications in the DDO system
+    (van den Bergh 1960a,b, 1966), and 4) diameters and axis ratios. The
+    catalogue is essentially complete for log D>1.52 (D> 3.03'), and the
+    50% completeness level is at log D = 1.42 (D = 2.06').  Only a few
+    objects smaller than one arc minute are included.  Since the catalogue
+    diameters refer to an isophote of about 27.5 blue magnitudes per square
+    arc second (B-mss), the equivalent 50% completeness level at the 25.0
+    B-mss isophote is D25 about 1.05'.  The two largest galaxies, the Large
+    and Small Magellanic Clouds, are not included.
+
+    The notes to the catalogue contain information on the appearance of the
+    galaxy and on the surrounding field.  Ring diameters were measured in
+    all galaxies where the rings could be seen clearly. The diameters of
+    lenses were also measured in many lenticulars.  The ring diameters
+    refer, as usual, to the ridge line of the brightness distribution, not
+    to the outer edges of the ring structures.  Distances between
+    components of the interacting galaxies are usually given, as are
+    distances to noteworthy companion galaxies and, sometimes, to
+    superposed or nearby stars. (Unless noted otherwise, all mea- surements
+    in the notes are in arc minutes.)
+
+    1.2 - Source Reference
+
+    "Southern Galaxy Catalogue" Corwin, Jr., H. G., de Vaucouleurs, A., and
+    de Vaucouleurs, G. 1985, The University of Texas Monographs in
+    Astronomy No.4, The Department of Astronomy, University of Texas at
+    Austin.
+
+
+    2 - Structure
+
+    2.1 - File Structure
+
+    The machine version of the "Southern Galaxy Catalogue" consists of two
+    files. Table 1 gives their machine-independent attributes.  The
+    information contained in this table is sufficient to describe the
+    indigenous characteristics of the machine-readable version of the
+    Southern Galaxy Catalogue to a computer. A copy of this document should
+    accompany any additional transmission of these files.
+
+                          Southern Galaxy Catalogue
+
+     File     Contents     Record    Logical Record    Total Number of
+                           Format            Length    Logical Records
+
+        1     Catalogue    Fixed Block          126               5472
+        2     Notes        Fixed Block           80               8172
+
+             Table 1: Summary Description of Catalogue Files
+
+    2.2    File Format
+
+    Table 2 gives a byte-by-byte description of the contents of the data
+    file.
+
+        Bytes     Unit     Format    Item
+                         
+        1 - 2     hour     I2        RA(1950)
+        4 - 5     min      I2        RA(1950)
+        7 - 8     sec      I2        RA(1950)
+       10 - 12    deg      I3        Dec(1950)
+       14 - 17    '        F4.1      Dec(1950)
+       19 - 20    hour     I2        RA(2000)
+       22 - 23    min      I2        RA(2000)
+       25 - 26    sec      I2        RA(2000)
+       28 - 30    deg      I3        Dec(2000)
+       32 - 35    '        F4.1      Dec(2000)
+       37 - 42    deg      F6.2      Galatic Longitude
+       44 - 49    deg      F6.2      Galatic Latitude
+       51 - 63             A13       RC2 name
+       65 - 74             A10       Field-EU
+       76 - 82             A7        Morphological type
+       84 - 87             F4.1      Weighted mean numerical type, T
+       89                  I1        No. estimates of T
+       91 - 94             F4.2      Total internal weight of T, w(T)
+       95 - 98             F4.1      Weighted mean luminosity class, L
+       100                 I1        No. estimates of L
+       102-104             F3.1      Total internal weight of L
+       106-109             F4.2      Log(D)
+       111-114             F4.2      Total internal weight of log(D)
+       116-119             F4.2      Mean log(R) = log(D/d) (axis ratio)
+       121-124             F4.2      Weight if R
+       126                 I1        No. independent estimates of R
+
+                               Table 2: Format
+
+
+    3 - Additional Information
+
+    3.1 - Abbreviations Used in the Format Table
+
+    1) T, n(T), and w(T) - Weighted mean numerical type T (the stage along
+    the revised Hubble sequence on the RC3 scale), the number of type
+    estimates for the galaxy, and the sum of the internal weights for the
+    type.  If the Hubble stage is marked uncertain, that estimate was
+    assigned a weight of 0.5; if marked questionable, a weight of 0.25 was
+    assigned. No T is given if no Hubble stage was estimated (e.g., "S pec"
+    or "Pec") or if the galaxy was classified as an I0, i.e.  a
+    non-magellanic irregular (also called "Irr II" by Holmberg [1958, Medd.
+    Lunds Astron. Obs.  II, No.  136] or "amorphous" by Sandage and Brucato
+    1979 [AJ 84, 472]).
+
+    2) L, n(L), and w(L) - Weighted mean numerical luminosity class L, the
+    number of L estimates, and the sum of the internal weights for the
+    luminosity class. Weights are assigned in the same manner as for the
+    types.
+
+    3) log D - Weighted mean logarithm of the outer diameter D along the
+    major axis (in units of 0.1 arcmin as in RC3), after reduction to a
+    constant epoch via the equation
+
+                     log D = log Do + 0.5(gamma - 0.65)^2
+
+    where gamma is the normalized fraction of time elapsed between the
+    beginning of the survey (June 1976) and its end (May 1982).  The
+    diameter and axis ratio are enclosed in parentheses if the measurement
+    refers to more than one galaxy.
+
+    4) log R - Weighted mean logarithm of the axis ratio R = D/d, where d
+    is the diameter along the minor axis.  No correction was made to the
+    axis ratios as there is no statistically significant evidence for a
+    time-dependent term similar to that in the diameters.
+
+    5) w(D), w(R), and n(D,R) - The sum of the internal weights for the
+    diameter and the axis ratio. These weights were assigned as for the
+    types, except that the standard uncertainty symbols were occasionally
+    doubled for very doubtful measurements (near bright stars, near the
+    plate edge, etc.). Thus, the lowest possible diameter (or axis ratio)
+    weight is 0.13 (w = 1/8). If either the major or minor axis was marked
+    uncertain or questionable, the axis ratio was assigned lower weight. 
+    Otherwise, the weights for the axis ratios were the same as for the
+    diameters.  n(D,R) is the number of independent diameter and axis ratio
+    measurements made on different plates.
+
+
+
+    3.2 - Abbreviations Used in the Notes
+
+    A                   "Anonymous" galaxy listed in RC2 (q.v.)
+
+    abs                 absorption
+
+    alt                 alternate
+
+    asym                asymmetric
+
+    B                   bright (The relative brightness scale used in the
+                        Notes and Remarks is as follows:  eB, vB, B, pB,
+                        pF, F, vF, eF.)
+
+    bckgnd              background
+
+    beg or begin        beginning
+
+    bet                 between
+
+    brd                 broad
+
+    brder               broader
+
+    brtr                brighter
+
+    brtst               brightest
+
+    c                   considerably or considerable
+
+    cD                  brightest galaxy in a cluster with a faint,
+                        extended corona; notation after Matthews,
+                        Morgan, and Schmidt (1964)
+
+    calib               calibration
+
+    cent                center or central
+
+    cl                  cluster
+
+    com                 compact
+
+    comp                companion or component (of a multiple system)
+
+    compl               complete
+
+    condens             condensation
+
+    contin              continuous
+
+    coord               coordinates
+
+    corr                corrected or correction
+
+    D                   distant or double (clear in context)
+
+    dbl or dble         double
+
+    DDO                 low surface brightness galaxy listed by van den
+                        Bergh (1959, 1966)
+
+    Dec or dec          declination
+
+    def                 defined
+
+    deg                 degree
+
+    desc                description
+
+    dif or diff         diffuse or diffraction (clear in context)
+
+    difrac              diffraction
+
+    dim                 dimensions (diameter)
+
+    dist                distorted or disturbed
+
+    distrib             distribution
+
+    dk                  dark
+
+    dw                  dwarf
+
+    E                   extended or elliptical (clear in context)
+
+    e                   extremely
+
+    eccen               eccentric
+
+    elong               elongated
+
+    ell                 elliptical
+
+    env                 envelope
+
+    err                 error
+
+    esp                 especially
+
+    EU or ESO/Upps      "ESO/Uppsala Survey of the ESO (B) Atlas" (Lauberts
+                        1982)
+
+    ext                 extension
+
+    F                   faint
+
+    f                   following (as in nf = north-following)
+
+    fid                 fiducial
+
+    filam               filamentary
+
+    fltnd               flattened
+
+    fntr                fainter
+
+    fntst               faintest
+
+    frgnd               foreground
+
+    frshrtnd            foreshortened
+
+    gal                 galaxy or galaxies
+
+    galc                galactic
+
+    glob                globular
+
+    grp                 group
+
+    Haro                galaxy listed by Haro (1956)
+
+    hexag               hexagonal
+
+    hsb                 high surface brightness
+
+    IC or I             galaxy listed in one of the "Index Catalogues" (see
+                        IC1 and IC2)
+
+    IC1                 "Index Catalogue of Nebulae" (Dreyer 1895)
+
+    IC2                 "Second Index Catalogue of Nebulae and Clusters of
+                        Stars" (Dreyer 1910)
+
+    ident               identification or identity
+
+    inc                 included
+
+    inc or incl         inclined or included (clear in context)
+
+    incomp              incomplete
+
+    int                 interacting
+
+    inv                 involved or involving
+
+    interact            interaction
+
+    irr or irreg        irregular
+
+    knty                knotty (refers to HII regions or unresolved stellar
+                        associations)
+
+    L                   large (The relative size scale used in the Notes
+                        and Remarks is as follows: eL, vL, L, pL, pS, S,
+                        vS, eS.)
+
+    LMC                 Large Magellanic Cloud
+
+    ln                  lane
+
+    lrgst               largest
+
+    lsb                 low surface brightness
+
+    lum                 luminosity
+
+    M                   Messier
+
+    m                   much or minutes (clear in context)
+
+    magel               magellanic
+
+    maj                 major
+
+    MCG                 "Morphological Catalogue of Galaxies"
+                        (Vorontsov-Velyaminov and Arkipova 1968, 1974)
+
+    mid                 middle
+
+    min                 minor or minute (clear in context)
+
+    misident            misidentified
+
+    mult                multiple
+
+    N                   galaxy listed in the NGC (q.v.); or nucleus or
+                        nuclear (clear in context)
+
+    n                   north
+
+    nar                 narrow
+
+    neb                 nebula or nebulous
+
+    NGC                 "New General Catalogue of Nebulae and Clusters of
+                        Stars" (Dreyer 1890)
+
+    nr                  near
+
+    nucl                nuclear
+
+    obj                 object
+
+    obsc                obscured
+
+    opt                 optical
+
+    out                 outer
+
+    OX                  overexposed
+
+    OXN                 overexposed in the center
+
+    P                   pair
+
+    P(a)                optical pair
+
+    P(b)                interacting pair
+
+    P(c)                colliding pair
+
+    p                   preceding (as in spp = south-preceding-preceding)
+                        or pretty (as in pB, pF, etc.; clear in context)
+
+    Pal                 "Palomar" - globular cluster listed by Abell (1955)
+
+    parall              parallel
+
+    part                partially
+
+    pat                 patch, patches, or patchy (refers to star clouds,
+                        e.g. NGC 206 in the Andromeda Galaxy; or to dust
+                        patches)
+
+    pec                 peculiar
+
+    perpen or perpend   perpendicular
+
+    pl or plt           plate
+
+    pos                 position
+
+    poss                possible or possibly
+
+    prec                preceding
+
+    prob                probable or probably
+
+    PSS                 Palomar Sky Survey
+
+    quad                quadruple
+
+    quint               quintuple
+
+    (r)                 inner ring
+
+    (r')                pseudo inner ring
+
+    (R)                 outer ring
+
+    (R')                pseudo outer ring
+
+    RA                  right ascension
+
+    RC1                 "Reference Catalogue of Bright Galaxies" (de
+                        Vaucouleurs and de Vaucouleurs 1964)
+
+    RC2                 "Second Reference Catalogue" (de Vaucouleurs,  de
+                        Vaucouleurs, and Corwin 1976)
+
+    rectang             rectangular
+
+    reflec              reflection
+
+    reg                 region or regular (clear in context)
+
+    rej                 rejected
+
+    res                 resolved or resolution
+
+    RNGC                "Revised New General Catalogue of Nonstellar
+                        Astronomical Objects" (Sulentic and Tifft 1973)
+
+    S                   small or spiral (clear in context)
+
+    s                   south (as in ssf = south-south-following)
+
+    SAO                 star listed in the Smithsonian Astrophysical
+                        Observatory catalogue.
+
+    sb                  surface brightness (usually lsb or hsb)
+
+    sev                 several
+
+    sim                 similar
+
+    SMC                 Small Magellanic Cloud
+
+    smo                 smooth
+
+    spir                spiral
+
+    strg                strong
+
+    Stromlo 13          Mem.  Commonwealth Obs.  No.  13 (de Vaucouleurs
+                        1956)
+
+    struc or struct     structure
+
+    sts                 stars
+
+    sup                 superposed
+
+    sys                 system
+
+    tri                 triple or triplet
+
+    underexp            underexposed
+
+    unif                uniform
+
+    v                   very
+
+    w                   with
+
+    *                   star or stars
+
+    **                  double star
+
+
+    3.3 - Remarks
+
+    Field               Notes
+
+    F028                SMC in north-following part of this field
+
+    F029                SMC in this field
+
+    F032                LMC in north-following corner of this field
+
+    F033                LMC in north part of this field
+
+    F051                SMC in south part of this field
+
+    F055                LMC in following part of this field
+
+    F084                edge of LMC in southeast corner of this field
+
+    F085                LMC in south and south-following part of this field
+
+    F086                LMC in south-preceding part of this field
+
+    F100                stars superposed on all galaxies in this field
+
+    F117                Most galaxies in this field are in a cloud.
+
+    F119                Many galaxies in this field are in a cloud behind
+                        the outskirts of the LMC.
+
+    F120                outskirts of LMC in this field
+
+    F124                I2220 (a large diffuse nebula) is in this field.
+
+    F126                Most galaxies in this field are in a cloud.
+
+    F137                stars superposed on all galaxies in this field
+
+    F138                stars superposed on all galaxies in this field
+
+    F139                Most galaxies in this field have stars superposed.
+
+    F156                Many galaxies in this field are in a supercluster.
+
+    F157                Many galaxies in this field are in a supercluster.
+
+    F184                Most galaxies in this field are in a cloud with
+                        N6753.
+
+    F185                Very rich field. Many groups, clouds, and clusters.
+
+    F186                rich field
+
+    F214                stars superposed on all galaxies in this field
+
+    F215                stars superposed on all galaxies in this field
+
+    F216                stars superposed on all galaxies in this field
+
+    F217                stars superposed on all galaxies (most are in a
+                        cloud) in this field
+
+    F222                stars superposed on all galaxies in this field
+
+    F230                stars superposed on all galaxies in this field
+
+    F263                Most galaxies in this field are in a cloud.
+
+    F284                "Blank" region at 20h 11.6m -45 30 noted in
+                        ESO/Uppsala survey (EU284-?34) has many F
+                        galaxies and one or two very distant clusters
+                        Intergalactic obscuration therefore unlikely.
+
+    F322                Most of the galaxies here are in the two Centaurus
+                        Clusters.
+
+    F358                Fornax Cluster field A few NGC identifications here
+                        are new, based on J Schmidt's observations reported
+                        in A.N. 88, 138, 1876 The survey is to a slightly
+                        deeper limit in this field to pick up some of the
+                        Fornax Cluster dwarves A few of the brighter
+                        ellipticals and lenticulars appear to have "knots"
+                        superposed on their lens and coronae; these may be
+                        globular clusters, but as the field is rich in
+                        distant galaxies and clusters, they are more likely
+                        to be background galaxies.
+
+    F371                Stars superposed on all galaxies in this field.
+                        Most galaxies here are in the N2663 group.
+
+    F374                Most galaxies in this field are in a cloud.
+
+    F387                large (3.5 degrees across) faint diffuse nebula in
+                        this field
+
+    F428                Most galaxies in this field are the brightest of a
+                        cloud Stars are superposed on all galaxies here.
+
+    F432                All galaxies in this field are obscured and have
+                        stars superposed.
+
+    F490                Most galaxies in this field are in a cloud.
+
+    F510                Most galaxies in this field are in a cloud.
+
+    F535                rich in distant galaxies and clusters
+
+    F556                Stars are superposed on most of the galaxies in
+                        this field.
+
+    F576                Most galaxies in this field are in a cloud.
+
+    F580                Most galaxies in this field are in a cloud.
+
+    Plate,Field         Notes
+
+    J0041,F288          Slightly trailed,  slightly underexposed.  The
+                        field was resurveyed on J1633.
+
+    J0367,F432          Underexposed plate. Field resurveyed, J4901.
+
+    J0563,F325          Slightly out of focus
+
+    J0620,F386          A poorer than usual plate. Field resurveyed, J2989.
+
+    J0625,F459          Slightly out of focus
+
+    J0718,F527          Plate slightly trailed.
+
+    J0817,F532          Double images. Field resurveyed, J3420
+
+    J0928,F078          A large plate defect obscures N7733 and N7734; it
+                        was impossible to measure their diameters on this
+                        plate. Field resurveyed, J3750.
+
+    J0929,F079          Fuzzy images Field resurveyed, J1864.
+
+    J1004,F080          Plate centered at 0129 5-6525. Nominal center
+                        0128-65. Field resurveyed, J1748.
+
+    J1050,F357          About 1/3 of this plate is obscured by a large,
+                        dark defect In addition, the images are quite poor.
+                        Field resurveyed, J2770.
+
+    J1127,F155          Poor images on this plate. Field resurveyed, J1826.
+
+    J1150,F057          Trailed plate. Field resurveyed, J1953.
+
+    J1163,F058          Slightly trailed plate.
+
+    J1164,F059          Fuzzy images. Field resurveyed, J2009.
+
+    J1313,F270          Background uneven (film only?): processing fault?
+
+    J1436,F434          Exposure only ten minutes.  No diameters measured
+                        on this plate. Field resurveyed, J4740.
+
+    J1477,F322          Very good images, but slightly underexposed?
+
+    J1569,F220          thinner plate (film only?) than normal
+
+    J1585,F141          This plate is underexposed, taken in bad seeing,
+                        and was misguided. Its proper grade is "D," not
+                        "A" as given on the observing card. Field
+                        resurveyed, J1580.
+
+    J1591,F186          thinner plate (film only?) than J2410, F185
+
+    J1681,F351          underexposed (film only?)
+
+    J1761,F244          not as deep as J3492, F243, but better images
+
+    J1809,F195          slightly thinner plate (film only?) than J1861,
+                        F194
+
+    J2009,F059          "B" grade plate with "A" grade images and splotches
+
+    J2053,F089          thin plate, hazy
+
+    J2194,F217          thinner plate (film only?) than J2847, F216
+
+    J2553,F025          slightly trailed plate
+
+    J2668,F302          Images are a bit fuzzy for an "A" grade plate.
+
+    J2847,F216          poorer images than J2270, F215
+
+    J2945,F006          "C" grade plate with "B" grade images and a few
+                        faint light streaks
+
+    J2989,F386          slightly fuzzy images (film only?)
+
+    J3648,F001          Slightly trailed. Field resurveyed, J3665.
+
+    J3797,F489          fuzzy images (film only?)
+
+    J3814,F483          fuzzy images
+
+    J3854,F160          thinner plate (film only?) than J2613, F159
+
+    J3880,F162          slightly fuzzy images
+
+    J4309,F581          slightly trailed (film only?)
+
+    J4433,F072          Slightly underexposed?
+
+    J4469,F533          very slightly trailed and somewhat underexposed
+
+    J4493,F543          slightly underexposed (film only?)
+
+    J4496,F540          slightly trailed
+
+    J5018,F376          plate slightly trailed
+
+    J5079,F573          thinner plate (film only?) than J5733, F572
+
+    J5235,F284          plate slightly trailed
+
+    J5480,F485          poorer images than J5463, F484
+
+    J5552,F490          slightly fuzzy images (film only?)
+
+    J5653,F499          slightly fuzzy images
+
+
+    4 - Acknowledgments 
+
+    We thank Dr.  Corwin for forwarding to us a machine-readable version of
+    the catalog and the notes, abbreviations, and remarks.
+
+
+    5 - References
+
+    Abell, G. O. 1955, PASP, 67, 258
+
+    van den Bergh, S. 1960a, ApJ, 131, 215
+
+    van den Bergh, S. 1960b, ApJ, 131, 558
+
+    van den Bergh, S. 1966, AJ, 71, 922
+
+    Corwin, H. G., de Vaucouleurs, A., and de Vaucouleurs, G. 1985, The
+    University of Texas Monographs in Astronomy No.  4, The Department of
+    Astronomy, University of Texas at Austin
+
+    Dreyer, J. L. E. 1888, MmRAS, 49, 1
+
+    Dreyer, J. L. E. 1895, MmRAS, 51, 185
+
+    Dreyer, J. L. E. 1910, MmRAS, 59, 105
+
+    Haro, G. 1956, Bol. Obs. Tonantzintla y Tacubaya No. 14, 8
+
+    Lauberts, A. 1982, The ESO Uppsala Survey of the ESO (B) Atlas, ESO,
+    Garching
+
+    Matthews, T. A., Morgan, W. W., & Schmidt, M. 1964, ApJ, 140, 35
+
+    Sulentic, J. W. & Tifft, W. G. 1973, The Revised New General Catalogue
+    of Nonstellar Astronomical Objects, U. Arizona Press, Tucson
+
+    de Vaucouleurs, G. 1956, Mem. Commonwealth Obs. No. 13 (Vol. III, No. 3)
+
+    de Vaucouleurs, G. 1959, Handbook der Physik 53, 275, Springer-Verlag,
+    Berlin
+
+    de Vaucouleurs, G. 1963, ApJS, 8, 31 (No. 74)
+
+    de Vaucouleurs, G. & de Vaucouleurs, A. 1964, Reference Catalogue of
+    Bright Galaxies, U. Texas Press, Austin
+
+    de Vaucouleurs, G., de Vaucouleurs, A., & Corwin, H. G. 1976, Second
+    Reference Catalogue of Bright Galaxies, U. Texas Press, Austin
+
+    Vorontsov-Velyaminov, B. A. & Arkipova, V. P. 1968, Morphological
+    Catalogue of Galaxies, Vol. IV, Moscow State U.
+
+    Vorontsov-Velyaminov, B. A. & Arkipova, V. P. 1974, Morphological
+    Catalogue of Galaxies, Vol. V, Moscow State U.
+

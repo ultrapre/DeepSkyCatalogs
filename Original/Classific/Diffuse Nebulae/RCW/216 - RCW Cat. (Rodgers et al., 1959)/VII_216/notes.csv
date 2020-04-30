@@ -1,0 +1,144 @@
+﻿RCW,add,Text
+1,--,"Horseshoe-shaped bright region 2 deg. in diameter, with 8'x 5'"
+1,--,"concentration at 07h 08m, -12 deg 12'. Fainter region 150' diameter,"
+1,--,"centred on 07h 08m, -09 deg 30'."
+1,*,The original publication gave two positions. Here a single position is
+1,*,given and is very crude.
+2,--,"Circular, connected to RCW1 by faint emission."
+5,--,Circular region.
+6,--,Contains diffuse outer region.
+7,--,Circuliar region.
+9,--,Part of the Vela-Puppis Nebula?
+11,--,Part of Vela-Puppis?
+13,--,Circular region.
+14,--,Possibly connected with Vela-Puppis. Possible concentration in RCW15.
+15,--,"Loop, possibly connected with Vela-Puppis."
+16,--,Circular region.
+19,--,Large area with one bright edge.
+20,--,Surrounded by diffuse emission; could be associated with RCW19.
+22,--,Part of Vela-Puppis?
+27,--,Region showing structure.
+30,--,Two small regions 1' X 1'.
+31,--,Connected with Vela-Puppis?
+32,--,Circular region.
+33,--,"Almost circular, with more intense area ""comma""-shaped."
+36,--,"Group of 3 bright regions-""S""-shaped."
+37,--,Filamentary.
+38,--,"Emission region containing four concentrations at: 08h 57m.5,-47deg 16'(6'"
+38,--,"X 4'); 08h 57m.7, -47 deg 22'(3 X 2); 08h 58m.0, -47deg 08' (9' X 7'); and"
+38,--,"08h 58m.4, -47 deg 20'(12 X 9)."
+40,--,Bright region possibly associated with diffuse surrounding background
+40,--,emission.
+42,--,Circular.
+43,--,Stellar-like.
+48,--,Bright crescent shape.
+49,--,Emission region outlying Eta Carina nebula.
+50,--,Possibly associated with RCW49.
+51,--,Bright knot possibly separated from the main Eta Carinae nebula by
+51,--,obscuration.
+52,--,Bright knot in Eta Carinae nebula separated from main region by absorption.
+53,--,"Main irregular Eta Carinae nebula. Boundaries at 10h 28m, -58 deg; 10h 55m,"
+53,--,"-58 deg 18'; 10h 27m, -60 deg 48'."
+53,*,"The original cross identification also included G30,31, and 33, and"
+53,*,NGC3372. Editor's note this is the entire Eta Carinae region.
+54,--,"Outlying Eta Carina, with concentrations at: 10h 57m.5, -61 deg 00' (40' X"
+54,--,"20'); 10h 58m.0, -59 deg 20'(70' X 40')(filamentary); 11h 08m.0, -59 deg"
+54,--,"54'(25 X 25'); 11h 10m.5, -58 deg 30'(25' X 10')."
+54,*,The original gave three positions. The single position given here is
+54,*,extremely crude.
+55,--,"Circular region,appears to have central star;not part of Eta Carina."
+57,--,Appears abscuration-bounded and contains bright crescent-shaped region 50'
+57,--,X 20'.
+59,--,3 deg diameter loop.
+60,--,Outlying part of Lambda Cen nebula. Contains bright regions centred at: 11h
+60,--,"26m.5, -62 deg 21'(21' X 18'); 11h 26.5m.5, -62 deg 42'(15 X 10)."
+61,--,Circular region near Lambda Cen nebula.
+62,--,"Main Lambda Cen nebula, uneven intensity."
+63,--,Large band of emission.
+63,*,Two positions are given in the original. The position given here is once
+63,*,again very crude.
+65,--,Region has diffuse edges.
+74,--,Crescent-shaped.
+75,--,Diffuse edges.
+76,--,Planetary?
+78,--,Bright central region (10' X 6').
+82,--,Circular.
+85,--,Possibly obscuration bound.
+86,--,Crescent-shaped.
+90,*,The original size is given as 0.5 X 0.5 arcminutes. Here the size is given
+90,*,as 1 X 1 arcminutes to avoid formating problems.
+91,--,Possibly obscuration bound.
+93,--,Like a planetary in appearance.
+94,--,Circular and filamentary.
+96,--,Appears to be surrounding a star.
+98,--,Appears to be distributed about a faint central star.
+100,--,Stellar-like.
+101,--,Stellar-like.
+106,--,"Contains two bright areas: 16h 15m.5, -50 deg 51'(20' X 7'); 16h 17 m.0,"
+106,--,-50 deg 42'(12 X 12).
+107,--,Bright region near RCW108.
+108,--,"Irregular intensity variation with bright region at 16h 36m, -48 deg"
+108,--,30'(60' X 60').
+109,--,Stellar-like.
+110,--,Could be connected to RCW 113 by faint emission.
+111,--,"Near RCW110, possibly connected."
+113,--,Large loop of ionization in region of fainter emission. Boundries: (16h
+113,--,"37m, -41 deg 50') to (16h 58m, -41 deg 30'); and (16h 50', -43 deg 30') to"
+113,--,"(16h 45m, -39 deg 40')."
+114,--,Ring of emission 50' wide.
+116,--,Concentration inside RCW113 (Editors note; not present in table2&3).
+116,*,Not present in table 2 or 3 of original publication. The notes to table 2
+116,*,"and 3 from the original said ""116 Concentration inside (RCW)113."" This"
+116,*,was added to the table to provide a complete list of all 182 objects in
+116,*,the RCW.
+119,--,"Filamentary, with bright concentration at 16h 57m.4 -38 deg 13' (15' X15')."
+120,--,Contains dark central rift.
+123,--,Loop.
+127,--,"Faint extensions to 17h 10m, -35 deg 30'. Composed mainly of four bright"
+127,--,concentrations.
+127,*,"Other cross identifications given in the original are G61,62,63, 64a,b,c."
+129,--,Region contains the star Tau Sco.
+130,--,Appears to be a more concentrated region of a large area of diffuse
+130,--,emission.
+131,--,"Concentrations at: 17h 21m.0, -33 deg 58'(30' X30'); 17h 21m.8, -34 deg"
+131,--,"10'(9' X9'); 17h 23m.1, -34 deg 27'(6' X 6'); 17 23m.9, -34 deg 03'(5' X"
+131,--,5').
+131,*,Other cross identifications given in the original are E8.
+132,--,"Crescent-shaped bright region with faint extensions to 17h35m,-34deg"
+132,*,Other cross identifications given in the original are E11.
+133,--,Almost circular.
+134,--,Circular.
+136,--,Stellar in appearance.
+137,--,Near galactic centre.
+138,--,Diffuse edges.
+140,--,Perhaps connected to RCW141.
+144,--,Circular.
+146,--,"Main bright area divided in three, probably by obscuration, with centres:"
+146,--,"18h 01m.8, -24 deg 12'(100' X 45'); 18h 03m.0, -23 deg 30' (45' X 45'); 18h"
+146,--,"06m.5, -23 deg 50'(60' X 50')."
+146,*,"Other cross identifications given in the original: HS126; E23,27, 29,30;"
+146,*,"G72,75."
+147,--,Almost circular.
+150,--,Stellar in appearance.
+151,--,"Band of emission, one side bounded by heavy obscuration."
+152,--,Stellar in appearance.
+153,--,"Faint region with bright area [18h 14m.7, -19 deg 40'(19' X 19')] at one"
+153,--,end.
+153,*,The original also gave cross identifications as E39; G78.
+155,--,"Two concentrations: 18h 08m.9, -17 deg 36'(7' X 7'); 18h 09m.3, -17 deg"
+155,--,40'(8' X 5').
+156,--,Possibly local concentration of general diffuse emmission present. Brighter
+156,--,"region at 18h 14m.0, -17 deg 18'(40' X 20')."
+157,--,"Faint extensions to 18h 01m,-14 deg 00(E25); and 18h 14m,-17 deg 00."
+157,--,[Editors note E25 is designation from Sharpless (1953)].
+157,*,The original also gave cross identifications as E35.
+159,--,Surrounded by diffuse emission.
+160,--,Surrounded by diffuse emission 40' wide.
+160,*,"The original also gives HS144, 145; E43; G81a,b."
+162,--,"Oval-shaped, possible concentration of general diffuse emission present."
+165,--,Appears connected with adjacent regions by diffuse emission.
+166,--,Surrounded by diffuse emission.
+165,*,The original also gives E42.
+169,--,Circular region.
+175,--,Crescent-shaped.
+180,--,Stellar-like.

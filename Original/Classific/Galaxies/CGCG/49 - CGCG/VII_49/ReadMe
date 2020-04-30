@@ -1,0 +1,161 @@
+VII/49              Galaxies and Clusters of Galaxies (CGCG) (Zwicky, 1968)
+================================================================================
+Catalogue of Galaxies and Clusters of Galaxies, I-VI
+     Zwicky F., et al.
+    <Calif. Inst. of Techn., Pasadena, 6 vols. (1961-68)>
+    =1961CGCG..C......0Z
+================================================================================
+ADC_Keywords: Galaxy catalogs
+
+Foreword:
+    All this documentation file is derived from the
+    "Documentation for the Machine-Readable Version of the Catalogue of
+    Galaxies and Clusters of Galaxies: Data on Individual Galaxies"
+    prepared by Robert S. Hill, NASA Doc. SSD-T-1-5069-0022-82
+    (November 1982)
+
+Description:
+    This document describes a machine-readable version of a portion of the
+    "Catalogue of Galaxies and Clusters of Galaxies" (Zwicky, et al.). The
+    published catalogue covers 560 Palomar Sky Survey fields, and for each
+    field it lists both individual galaxies and clusters of galaxies. Its
+    limiting magnitude for galaxies is approximately +15.5 apparent
+    photographic magnitude. The present machine-readable version includes
+    only the individual galaxies. It consists of two files, the first of
+    which lists the galaxies (data file) and the second of which
+    enumerates the fields covered (headers file). Note: the abbreviation
+    ADC used in this document refers to the Astronomical Data Center,
+    NASA/Goddard Space Flight Center.
+
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl    Records    Explanations
+--------------------------------------------------------------------------------
+ReadMe          80          .    This file
+data            25      29363    Data on individual galaxies
+headers         36        560    Headers (fields)
+--------------------------------------------------------------------------------
+
+See also:
+  VII/4 : Zwicky (and Abell) Clusters of Galaxies
+  VII/190 : Updated version (1996) of the Zwicky Galaxy Catalog
+
+Byte-by-byte Description of file: data
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4  A4     ---     Field    [ 0-9AB]+= Field number (1)
+   7-  8  I2     h       RAh      Hours RA, 1950.0 of the field center
+   9- 12  F4.1   min     RAm      Minutes RA, 1950.0 of the field center
+      13  A1     ---     DE-      Sign Dec, 1950.0
+  14- 15  I2     deg     DEd      Degrees Dec, 1950.0 of the field center
+  16- 17  I2     arcmin  DEm      Minutes Dec, 1950.0 of the field center
+  19- 22  F4.1   mag     Pmag     Apparent photographic magnitude (2)
+      25  I1     ---     Rem_Code [1]? '1' if remark in published version (3)
+--------------------------------------------------------------------------------
+Note (1): not all the fields surveyed are represented in this file, as
+    some contain clusters only. The fields coincide with a subset of
+    Palomar Sky Survey fields but are numbered differently. The records in
+    this file are sorted in the same order as the corresponding data in
+    the published catalogue: by field number (ascending), and within each
+    field by right ascension (ascending).
+Note (2): The introduction to vol. 1 of the published catalogue contains
+    detailed descriptions of the methods of estimation, which can be
+    summarized as follows: magnitudes down to about 15.2 or 15.5 were
+    estimated using the Schraffier method on films taken with an 18-inch
+    Schmidt camera; below this magnitude range, estimates were made
+    directly from the 48-inch Schmidt plates. The nominal limiting
+    magnitude of the catalogue is +15.7, but fainter objects may be
+    present.
+Note (3): Remarks include notations such as "diffuse" or "compact."
+    Numerical data, such as velocities or Harvard magnitudes, are not
+    taken to be remarks.
+
+Byte-by-byte Description of file: headers
+--------------------------------------------------------------------------------
+   Bytes Format  Units   Label    Explanations
+--------------------------------------------------------------------------------
+   1-  4  A4     ---     Field    [ 0-9AB]+ Field number (1)
+   6-  7  I2     h       RAh      Hours RA, 1950.0 of the field center
+   9- 10  I2     min     RAm      Minutes RA, 1950.0 of the field center
+      12  A1     ---     DE-      Sign Dec, 1950.0
+  13- 14  I2     deg     DEd      Degrees Dec, 1950.0 of the field center
+  16- 17  I2     arcmin  DEm      Minutes Dec, 1950.0 of the field center
+  19- 21  I3     ---     GalCnt   Galaxy count for field (2)
+  28- 31  A4     ---     POSS     Palomar Obs. Sky Survey plate number (3)
+  33- 36  I4     ---     MLP      [1/1037] Mead-Luyten-Palomar number (4)
+--------------------------------------------------------------------------------
+Note (1): All the published fields are represented in this file, with
+    one record per field, even if the field contains no individual
+    galaxies.
+    The field center may be displaced from the corresponding Palomar Sky
+    Survey plate center by as much as half a degree, but the entire field
+    is always contained within the corresponding Palomar Sky Survey plate
+    area. The fields are six by six degrees.
+Note (2): This information was generated by computer and is not in the
+    published catalogue. The following fields contain no individual
+    galaxies (headers are, however, present in this file):
+    443 444 489 490 509 510 511 527 528 543
+Note (3): This information was derived independently of the published
+    catalogue by comparison with a Fortran program of center coordinates
+    to a PSS headers file (see Catalogue: VI/25)
+Note (4): This system numbers the PSS fields (including Whiteoak
+    extension) from 1 ... 1037. The numbers equal the corresponding
+    Luyten- Palomar (LP) numbers plus 1, except for the north polar
+    fields, which in the LP system are numbered 1A and 1B; and in the
+    MLP system, 1 and 2. The LP system comes from the Luyten- Palomar
+    automated proper motion survey. The MLP numbers are used in
+    PSS-oriented catalogues developed by the ADC.
+
+Historical Notes:
+  * November 1982, by Robert S. Hill (Doc. SSD-T-1-5069-0022-82)
+    This version is based on one supplied to the ADC by M. Hauser
+    (NASA/GSFC), which consists of six files of card images corresponding
+    to the six volumes of the published catalogue. For each survey field,
+    there is a header record and a trailer record, and the data for the
+    galaxies are in the intervening records, with four galaxies per
+    record. According to Hauser (private communication), this version may
+    have been keypunched at the California Institute of Technology in the
+    early 1970's.
+
+    The present version was generated by the following steps:
+     (1)   the information for each galaxy was written to a separate
+           record, to which the field number was added;
+     (2)   the header and trailer records were deleted, and the headers
+           were written to a separate file;
+     (3)   using a Fortran program, the headers were compared to data on
+           the Palomar Sky Survey fields, and the PSS and MLP numbers
+           were added as appropriate;
+     (4)   the galaxy counts for each field were generated and added to
+           the headers.
+
+    In addition, the following errors were corrected:
+     (1)   thirteen galaxies dropped from field 30 were restored;
+     (2)   the errata published in vols. 2-6 were incorporated as far as
+           they were relevant, as follows:
+             Field No.          Correction
+               13        Galaxy 1156.7-0323 became 1158.7-0323.
+               39        Galaxy 1118.6+0328 added.
+               41        Galaxy 1212.7+0602 added.
+               42        Galaxy 1221.1+0720 got remarks flag.
+               42        Galaxy 1221.2+0728 became 1221.3+0728.
+               42        Galaxy 1221.5+0719 became 1221.6+0719.
+               70        Galaxy 1223.7+1314 Lost remarks flag.
+               70        Galaxy 1223.9+0917 got remarks flag.
+               70        Galaxy 1228.0+1246 added.
+              126        Galaxy 1110.8+2226 added.
+              153        Pmag of galaxy 956.4+3059 became 13.6.
+              267        Galaxy 1100.0+5629 became 1100.2+5629.
+              431        Pmag of galaxy 2326.0+1427 became 13.2.
+
+    Not all the data on individual galaxies in the original published
+    catalogue are in this version. In particular, there are no IC or NGC
+    numbers, velocities, or data from other catalogues. Also,
+    supplementary data on particular galaxies within the clusters are not
+    included.
+  * November 1991: on the "Selected Astronomical Catalogs" Vol. 1 CD-ROM,
+    directory /nonstell/galaxies/cgcg
+  * October 1995: documentation standardized at CDS
+================================================================================
+(End)                                     Francois Ochsenbein [CDS]  02-Oct-1995
