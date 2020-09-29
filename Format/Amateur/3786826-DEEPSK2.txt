@@ -1,0 +1,345 @@
+                      SOME FAVORITE DEEP-SKY OBJECTS
+                     (327 objects, a work in progress)
+
+                            by David W. Knisely
+
+LEGEND: 3C: 3rd Cambridge Catalog of Radio Sources
+Col: Collinder catalog  (star clusters).
+IC: Index Catalog   (clusters/nebulae/galaxies)
+M: Messier Catalog  (clusters/nebulae/galaxies)
+Mel: Melotte Catalog  (star clusters)
+NGC: New General Catalog of Nebulae and Clusters of Stars.
+PK: Perek and Kohoutek Catalogue of Galactic Planetary Nebulae.
+SNR: SuperNova Remnant
+
+Object     Const.        R.A. (2000.0)    Dec.        Object Type
+==========================================================================
+3C-273    Virgo           12h 29.1m     +2d 3'      Quasar
+Col. 399  Vulpecula       19h 25.4m     +20d 11'    Open Cluster/Asterism
+IC 418    Lepus           5h 27.5m      -12d 42'    Planetary Nebula
+IC 434    Orion           5h 41.0m      -2d 24'     Diffuse Nebula
+IC 4665   Ophiuchus       17h 46.3m     +5d 43'     Open Cluster
+IC 4756   Serpens         18h 39.0m     +5d 27'     Open Cluster
+IC 5067   Cygnus          20h 47.8m     +44d 21'    Diffuse Nebula
+IC 5146   Cygnus          21h 53.4m     +47d 16'    Diffuse Nebula
+M1        Taurus          5h 34.5m      +22d 1'     SNR/Diffuse Nebula
+M2        Aquarius        21h 33.5m     -0d 49'     Globular Cluster
+M3        Canes Venatici  13h 42.2m     +28d 23'    Globular Cluster
+M4        Scorpius        16h 23.6m     -26d 32'    Globular Cluster
+M5        Serpens         15h 18.6m     +2d 5'      Globular Cluster
+M6        Scorpius        17h 40.1m     -32d 13'    Open Cluster
+M7        Scorpius        17h 53.9m     -34d 49'    Open Cluster
+M8        Sagittarius     18h 3.8m      -24d 23'    Diffuse Nebula
+M9        Ophiuchus       17h 19.2m     -18d 31'    Globular Cluster
+M10       Ophiuchus       16h 17.1m     -4d 6'      Globular Cluster
+M11       Scutum          18h 51.1m     -6d 16'     Open Cluster
+M12       Ophiuchus       16h 47.2m     -1d 57'     Globular Cluster
+M13       Hercules        16h 41.7m     +36d 28'    Globular Cluster
+M14       Ophiuchus       17h 37.6m     -3d 15'     Globular Cluster
+M15       Pegasus         21h 30.0m     +12d 10'    Globular Cluster
+M16       Serpens         18h 18.8m     -13d 47'    Diffuse Nebula/Cluster
+M17       Sagittarius     18h 20.8m     -17d 8'     Diffuse Nebula
+M18       Sagittarius     18h 19.9m     -17d 8'     Open Cluster
+M19       Ophiuchus       17h 2.6m      -26d 16'    Globular Cluster
+M20       Sagittarius     18h 2.6m      -23d 2'     Diffuse Nebula
+M21       Sagittarius     18h 4.6m      -22d 30'    Open Cluster
+M22       Sagittarius     18h 36.4m     -23d 54'    Globular Cluster
+M23       Sagittarius     17h 56.8m     -19d 1'     Open Cluster
+M24       Sagittarius     18h 16.9m     -18d 29'    Open Cluster
+M25       Sagittarius     18h 41.6m     -19d 15'    Open Cluster
+M26       Scutum          18h 45.2m     -9d 24'     Open Cluster
+M27       Vulpecula       19h 59.6m     +22d 43'    Planetary Nebula
+M28       Sagittarius     18h 24.5m     -24d 52'    Globular Cluster
+M29       Cygnus          20h 23.9m     +38d 32'    Open Cluster
+M30       Capricornus     21h 40.4m     -23d 11'    Globular Cluster
+M31       Andromeda       0h 42.7m      +41d 16'    Spiral Galaxy
+M32       Andromeda       0h 42.7m      +40d 52'    Elliptical Galaxy
+M33       Triangulum      1h 33.9m      +30d 39m    Spiral Galaxy
+M34       Perseus         2h 42.0m      +42d 47m    Open Cluster
+M35       Gemini          6h 8.9m       +24d 20m    Open Cluster
+M36       Auriga          5h 36.1m      +34d 8m     Open Cluster
+M37       Auriga          5h 52.4m      +32d 33m    Open Cluster
+M38       Auriga          5h 28.7m      +35d 50m    Open Cluster
+M39       Cygnus          21h 32.2m     +48d 26m    Open Cluster
+M41       Canis Major     6h 47.0m      -20d 44m    Open Cluster
+M42       Orion           5h 35.4m      -5d 27m     Diffuse Nebula
+M43       Orion           5h 35.6m      -5d 16m     Diffuse Nebula
+M44       Cancer          8h 40.1m      +19d 59m    Open Cluster
+M45       Taurus          3h 47.0m      +27d 7m     Open Cluster
+M46       Puppis          7h 41.8m      -14d 49m    Open Cluster
+M47       Puppis          7h 36.6m      -14d 30m    Open Cluster
+M48       Hydra           8h 13.8m      -5d 48m     Open Cluster
+M49       Virgo           12h 29.8m     +8d 0m      Elliptical Galaxy
+M50       Monoceros       7h 3.2m       -8d 20m     Open Cluster
+M51       Canes Venatici  13h 29.9m     +47d 12m    Spiral Galaxy
+M52       Cassiopeia      23h 24.2m     +61d 35m    Open Cluster
+M53       Coma Berenices  13h 12.9m     +18d 10m    Globular Cluster
+M54       Sagittarius     18h 55.1m     -30d 29m    Globular Cluster
+M55       Sagittarius     19h 40.0m     -30d 58m    Globular Cluster
+M56       Lyra            19h 16.6m     +30d 11m    Globular Cluster
+M57       Lyra            18h 53.6m     +33d 2m     Planetary Nebula
+M58       Virgo           12h 37.7m     +11d 49m    Spiral Galaxy
+M59       Virgo           12h 42.0m     +11d 39m    Elliptical Galaxy
+M60       Virgo           12h 43.7m     +11d 33m    Elliptical Galaxy
+M61       Virgo           12h 21.9m     +4d 28m     Spiral Galaxy
+M62       Ophiuchus       17h 1.2m      -30d 7m     Globular Cluster
+M63       Canes Venatici  13h 15.8m     +42d 2m     Spiral Galaxy
+M64       Coma Berenices  12h 56.7m     +21d 41m    Spiral Galaxy
+M65       Leo             11h 18.9m     +13d 5m     Spiral Galaxy
+M66       Leo             11h 20.2m     +12d 59m    Spiral Galaxy
+M67       Cancer          8h 50.4m      +11d 49m    Open Cluster
+M68       Hydra           12h 39.5m     -26d 45m    Globular Cluster
+M69       Sagittarius     18h 31.4m     -32d 21m    Globular Cluster
+M70       Sagittarius     18h 43.2m     -32d 18m    Globular Cluster
+M71       Sagitta         19h 53.8m     +18d 47m    Globular Cluster
+M72       Aquarius        20h 53.5m     -12d 32m    Globular Cluster
+M74       Pisces          1h 36.7m      +15d 47m    Spiral Galaxy
+M75       Sagittarius     20h 6.1m      -21d 55m    Globular Cluster
+M76       Perseus         1h 42.4m      +51d 34m    Planetary Nebula
+M77       Cetus           2h 42.7m      -0d 1m      Spiral Galaxy
+M78       Orion           5h 46.7m      +0d 3m      Diffuse Nebula
+M79       Lepus           5h 24.5m      -24d 33m    Globular Cluster
+M80       Scorpius        16h 17m       -22d 59m    Globular Cluster
+M81       Ursa Major      9h 55.5m      +69d 4m     Spiral Galaxy
+M82       Ursa Major      9h 55.8m      +69d 41m    Peculiar Galaxy
+M83       Hydra           13h 37.0m     -29d 52m    Spiral Galaxy
+M84       Virgo           12h 25.1m     +12d 53m    Elliptical Galaxy
+M85       Coma Berenices  12h 25.4m     +18d 11m    Elliptical Galaxy
+M86       Virgo           12h 26.2m     +12d 57m    Elliptical Galaxy
+M87       Virgo           12h 30.8m     +12d 24m    Elliptical Galaxy
+M88       Coma Berenices  12h 32.0m     +14d 25m    Spiral Galaxy
+M89       Virgo           12h 26.2m     +12d 33m    Elliptical Galaxy
+M90       Virgo           12h 36.8m     +13d 10m    Spiral Galaxy
+M91       Coma Berenices  12h 35.4m     +14d 30m    Spiral Galaxy
+M92       Hercules        17h 17.1m     +43d 8m     Globular Cluster
+M93       Puppis          7h 44.7m      -23d 52m    Open Cluster
+M94       Canes Venatici  12h 50.9m     +41d 7m     Spiral Galaxy
+M95       Leo             10h 44.0m     +11d 42m    Spiral Galaxy
+M96       Leo             10h 46.8m     +11d 49m    Spiral Galaxy
+M97       Ursa Major      11h 14.8m     +55d 1m     Planetary Nebula
+M98       Coma Berenices  12h 13.8m     +14d 54m    Spiral Galaxy
+M99       Coma Berenices  12h 18.8m     +14d 25m    Spiral Galaxy
+M100      Coma Berenices  12h 22.9m     +15d 49m    Spiral Galaxy
+M101      Ursa Major      14h 3.2m      +54d 21m    Spiral Galaxy
+M102      Draco           15h 6.5m      +55d 46m    Spiral Galaxy
+M103      Cassiopia       1h 33.2m      +60d 42m    Open Cluster
+M104      Virgo           12h 40.0m     -11d 37m    Spiral Galaxy
+M105      Leo             10h 47.8m     +12d 35m    Elliptical Galaxy
+M106      Canes Venatici  12h 19.0m     +47d 18m    Spiral Galaxy
+M107      Ophiuchus       16h 32.5m     -13d 3m     Globular Cluster
+M108      Ursa Major      11h 11.5m     +55d 40m    Spiral Galaxy
+M109      Ursa Majoris    11h 57.6m     +53d 23m    Spiral Galaxy
+M110      Andromeda       0h 40.4m      +41d 41m    Elliptical Galaxy
+Mel. 71   Puppis          7h 37.5m      -12d 4m     Open Cluster
+NGC   40  Cepheus         0h 10.2m      +75d 15m    Planetary Nebula
+NGC   55  Sculptor        0h 12.5m      -39d 50m    Spiral Galaxy
+NGC  129  Cassiopeia      0h 27m        +59d 57m    Open Cluster
+NGC  157  Cetus           0h 34.8m      -8d 24m     Spiral Galaxy
+NGC  188  Cepheus         0h 44.4m      +85d 20m    Open Cluster
+NGC  246  Cetus           0h 47m        -11d 53m    Planetary Nebula
+NGC  247  Cetus           0h 47.1m      -20d 46m    Spiral Galaxy
+NGC  253  Sculptor        0h 47.6m      -25d 17m    Spiral Galaxy
+NGC  281  Cassiopeia      0h 52.8m      +56d 37m    Diffuse Nebula
+NGC  288  Sculptor        0h 52.8m      -26d 35m    Globular Cluster
+NGC  300  Sculptor        0h 54.9m      -37d 41m    Spiral Galaxy
+NGC  381  Cassiopeia      1h 8.3m       +61d 35m    Open Cluster
+NGC  457  Cassiopeia      1h 19.1m      +58d 20m    Open Cluster
+NGC  613  Sculptor        1h 34.3m      -29d 25m    Spiral Galaxy
+NGC  654  Cassiopeia      1h 44.1m      +61d 53m    Open Cluster
+NGC  663  Cassiopeia      1h 46.0m      +61d 15m    Open Cluster
+NGC  672  Triangulum      1h 47.9m      +27d 26m    Spiral Galaxy
+NGC  752  Andromeda       1h 57.8m      +37d 41m    Open Cluster
+NGC  772  Aries           1h 59.3m      +19d 1m     Spiral Galaxy
+NGC  869  Perseus         2h 19.0m      +57d 9m     Open Cluster
+NGC  884  Perseus         2h 22.4m      +57d 7m     Open Cluster
+NGC  891  Andromeda       2h 22.6m      +42d 21m    Spiral Galaxy
+NGC  908  Cetus           2h 23.1m      -21d 14m    Spiral Galaxy
+NGC  925  Triangulum      2h 27.3m      +33d 35m    Spiral Galaxy
+NGC 1023  Perseus         2h 40.4m      +39d 4m     Elliptical Galaxy
+NGC 1027  Cassiopeia      2h 42.7m      +61d 33m    Open Cluster
+NGC 1097  Fornax          2h 46.3m      -30d 17m    Spiral Galaxy
+NGC 1342  Perseus         3h 31.6m      +37d 20m    Open Cluster
+NGC 1360  Fornax          3h 33m        -25d 51m    Planetary Nebula
+NGC 1365  Fornax          3h 33.6m      -36d 8m     Spiral Galaxy
+NGC 1499  Perseus         4h 0.7m       +36d 37m    Diffuse Nebula
+NGC 1501  Camelopardalis  4h 7.0m       +60d 55m    Planetary Nebula
+NGC 1514  Taurus          4h 9.2m       +30d 47m    Planetary Nebula
+NGC 1528  Perseus         4h 15.4m      +51d 14m    Open Cluster
+NGC 1535  Eridanus        4h 14.2m      -12d 44m    Planetary Nebula
+NGC 1893  Auriga          5h 22.7m      +33d 24m    Open Cluster
+NGC 1907  Auriga          5h 28.0m      +35d 19m    Open Cluster
+NGC 1980  Orion           5h 35.4m      -5d 54m     Diffuse Nebula
+NGC 2022  Orion           5h 42.1m      +9d 5m      Planetary Nebula
+NGC 2023  Orion           5h 41.6m      -2d 14m     Diffuse Nebula
+NGC 2024  Orion           5h 40.7m      -2d 27m     Diffuse Nebula
+NGC 2126  Auriga          6h 3.0m       +49d 54m    Open Cluster
+NGC 2158  Gemini          6h 7.5m       +24d 6m     Open Cluster
+NGC 2169  Orion           6h 8.4m       +13d 57m    Open Cluster
+NGC 2174  Orion           6h 9.7m       +20d 30m    Diffuse Nebula
+NGC 2186  Orion           6h 12.2m      +5d 27m     Open Cluster
+NGC 2194  Orion           6h 13.8m      +12d 48m    Open Cluster
+NGC 2244  Monoceros       6h 32.4m      +4d 52m     Diffuse Nebula
+NGC 2261  Monoceros       6h 39.2m      +8d 44m     Diffuse Nebula
+NGC 2264  Monoceros       6h 41.1m      +9d 53m     Open Cluster
+NGC 2266  Gemini          6h 43.2m      +26d 58m    Open Cluster
+NGC 2281  Auriga          6h 49.3m      +40d 4m     Open Cluster
+NGC 2301  Monoceros       6h 51.8m      +0d 28m     Open Cluster
+NGC 2304  Gemini          6h 55.0m      +18d 1m     Open Cluster
+NGC 2324  Monoceros       7h 4.2m       +1d 3m      Open Cluster
+NGC 2346  Monoceros       7h 9.4m       -0d 48m     Planetary Nebula
+NGC 2353  Monoceros       7h 14.6m      -10d 18m    Open Cluster
+NGC 2355  Gemini          7h 16.9m      +13d 47m    Open Cluster
+NGC 2359  Canis Major     7h 18.6m      -13d 12m    Diffuse Nebula
+NGC 2360  Canis Major     7h 17.8m      -15d 37m    Open Cluster
+NGC 2362  Canis Major     7h 18.8m      -24d 57m    Open Cluster
+NGC 2371  Gemini          7h 25.6m      +29d 29m    Planetary Nebula
+NGC 2392  Gemini          7h 29.2m      +20d 55m    Planetary Nebula
+NGC 2403  Camelopardalis  7h 36.9m      +65d 36m    Spiral Galaxy
+NGC 2419  Lynx            7h 38.1m      +38d 53m    Globular Cluster
+NGC 2420  Gemini          7h 38.5m      +21d 34m    Open Cluster
+NGC 2438  Puppis          7h 41.8m      -14d 44m    Planetary Nebula
+NGC 2440  Puppis          7h 41.9m      -18d 13m    Planetary Nebula
+NGC 2467  Puppis          7h 52.6m      -26d 23m    Diffuse Nebula/Cluster
+NGC 2479  Puppis          7h 55.1m      -17d 43m    Open Cluster
+NGC 2482  Puppis          7h 54.9m      -24d 18m    Open Cluster
+NGC 2489  Puppis          7h 56.3m      -30d 5m     Open Star Cluster
+NGC 2506  Monoceros       8h 0.2m       -10d 47m    Open Cluster
+NGC 2509  Puppis          8h 0.7m       -19d 4m     Open Cluster
+NGC 2539  Puppis          8h 10.7m      -12d 50m    Open Cluster
+NGC 2613  Pyxis           8h 33.4m      -22d 58m    Spiral Galaxy
+NGC 2683  Lynx            8h 52.7m      +33d 25m    Spiral Galaxy
+NGC 2859  Leo Minor       9h 24.3m      +34d 31m    Spiral Galaxy
+NGC 2903  Leo             9h 33.2m      +21d 30m    Spiral Galaxy
+NGC 2976  Ursa Major      9h 47.3m      +67d 55m    Spiral Galaxy
+NGC 3079  Ursa Major      10h 2.0m      +55d 41m    Spiral Galaxy
+NGC 3115  Sextans         10h 5.2m      -7d 43m     Elliptical Galaxy
+NGC 3184  Ursa Major      10h 18.3m     +41d 25m    Spiral Galaxy
+NGC 3190  Leo             10h 18.1m     +21d 50m    Spiral Galaxy
+NGC 3198  Ursa Major      10h 19.9m     +45d 33m    Spiral Galaxy
+NGC 3226  Leo             10h 23.4m     +19d 54m    Elliptical Galaxy
+NGC 3227  Leo             10h 23.5m     +19d 52m    Spiral Galaxy
+NGC 3242  Hydra           10h 24.8m     -18d 38m    Planetary Nebula
+NGC 3294  Leo Minor       10h 36.3m     +37d 20m    Spiral Galaxy
+NGC 3344  Leo Minor       10h 43.5m     +24d 55m    Spiral Galaxy
+NGC 3395  Leo Minor       10h 49.8m     +32d 59m    Spiral Galaxy
+NGC 3521  Leo             11h 5.8m      -0d 2m      Spiral Galaxy
+NGC 3628  Leo             11h 20.3m     +13d 36m    Spiral Galaxy
+NGC 3675  Ursa Major      11h 26.1m     +43d 35m    Spiral Galaxy
+NGC 3718  Ursa Major      11h 32.6m     +53d 4m     Spiral Galaxy
+NGC 3877  Ursa Major      11h 46.1m     +47d 30m    Spiral Galaxy
+NGC 3941  Ursa Major      11h 52.9m     +36d 59m    Spiral Galaxy
+NGC 4026  Ursa Major      11h 59.4m     +50d 58m    Spiral Galaxy
+NGC 4030  Virgo           12h 0.4m      -1d 6m      Spiral Galaxy
+NGC 4036  Ursa Major      12h 1.4m      +61d 54m    Spiral Galaxy
+NGC 4038  Corvus          12h 1.9m      -18d 52m    Irregular Galaxy
+NGC 4051  Ursa Major      12h 3.2 m     +44d 32m    Spiral Galaxy
+NGC 4088  Ursa Major      12h 5.6m      +50d 33m    Spiral Galaxy
+NGC 4111  Ursa Major      12h 7.1m      +43d 4m     Elliptical Galaxy
+NGC 4179  Virgo           12h 12.9m     +1d 18m     Elliptical Galaxy
+NGC 4214  Canes Venatici  12h 15.6m     +36d 20m    Irregular Galaxy
+NGC 4216  Virgo           12h 15.9m     +13d 9m     Spiral Galaxy
+NGC 4236  Draco           12h 16.7m     +69d 28'    Spiral Galaxy
+NGC 4244  Canes Venatici  12h 17.5m     +37d 49'    Spiral Galaxy
+NGC 4256  Draco           12h 18.7m     +65d 44'    Spiral Galaxy
+NGC 4274  Coma Berenices  12h 19.8m     +29d 37'    Spiral Galaxy
+NGC 4293  Coma Berenices  12h 21.2m     +18d 23'    Spiral Galaxy
+NGC 4314  Coma Berenices  12h 22.6m     +29d 53'    Spiral Galaxy
+NGC 4361  Corvus          12h 24.5m     -18d 47'    Planetary Nebula
+NGC 4388  Virgo           12h 40m       +12d 40'    Spiral Galaxy
+NGC 4402  Virgo           12h 26.1m     +13d 7'     Spiral Galaxy
+NGC 4414  Coma Berenices  12h 26.4m     +31d 13'    Spiral Galaxy
+NGC 4419  Coma Berenices  12h 26.9m     +15d 3'     Spiral Galaxy
+NGC 4429  Virgo           12h 27.4m     +11d 7'     Spiral Galaxy
+NGC 4435  Virgo           12h 27.7m     +3d 5'      Elliptical Galaxy
+NGC 4438  Virgo           12h 27.8m     +13d 1'     Spiral Galaxy
+NGC 4449  Canes Venatici  12h 28.2m     +44d 6'     Irregular Galaxy
+NGC 4459  Coma Berenices  12h 29m       +13d 59'    Elliptical Galaxy
+NGC 4461  Virgo           12h 29m       +13d 11'    Spiral Galaxy
+NGC 4473  Coma Berenices  12h 29.8m     +13d 26'    Elliptical Galaxy
+NGC 4477  Coma Berenices  12h 30m       +13d 38'    Spiral Galaxy
+NGC 4490  Canes Venatici  12h 30.6m     +41d 38'    Spiral Galaxy
+NGC 4526  Virgo           12h 33m       +7d 42'     Spiral Galaxy
+NGC 4535  Virgo           12h 34.3m     +8d 12'     Spiral Galaxy
+NGC 4536  Virgo           12h 34.5m     +2d 11'     Spiral Galaxy
+NGC 4559  Coma Berenices  12h 36m       +27d 58'    Spiral Galaxy
+NGC 4565  Coma Berenices  12h 36.3m     +25d 59'    Spiral Galaxy
+NGC 4570  Virgo           12h 36.8m     +7d 15'     Elliptical Galaxy
+NGC 4596  Virgo           12h 39.9m     +10d 11'    Spiral Galaxy
+NGC 4605  Ursa Major      12h 40m       +61d 37'    Spiral Galaxy
+NGC 4631  Canes Venatici  12h 42.1m     +32d 32'    Spiral Galaxy
+NGC 4654  Virgo           12h 44.0m     +13d 8'     Spiral Galaxy
+NGC 4656  Canes Venatici  12h 44m       +32d 10'    Spiral Galaxy
+NGC 4665  Virgo           12h 45.1m     +3d 3'      Spiral Galaxy
+NGC 4666  Virgo           12h 45.1m     -0d 28'     Spiral Galaxy
+NGC 4697  Virgo           12h 48.6m     -5d 48'     Elliptical Galaxy
+NGC 4699  Virgo           12h 49m       -8d 40'     Spiral Galaxy
+NGC 4725  Coma Berenices  12h 50.4m     +25d 30'    Spiral Galaxy
+NGC 4753  Virgo           12h 52.4m     -1d 12'     Spiral Galaxy
+NGC 4754  Virgo           12h 52.3m     +11d 19'    Spiral Galaxy
+NGC 4762  Virgo           12h 52.9m     +11d 14'    Spiral Galaxy
+NGC 4781  Virgo           12h 54.4m     -10d 32'    Spiral Galaxy
+NGC 4866  Virgo           12h 59.5m     +14d 10'    Spiral Galaxy
+NGC 5005  Canes Venatici  13h 10.9m     +37d 3'     Spiral Galaxy
+NGC 5128  Centaurus       13h 25.5m     -43d 1'     Irregular Galaxy
+NGC 5139  Centaurus       13h 26.8m     -47d 29'    Globular Cluster
+NGC 5248  Bootes          13h 37.5m     +8d 53'     Spiral Galaxy
+NGC 5363  Virgo           13h 56.1m     +5d 15'     Irregular Galaxy
+NGC 5364  Virgo           13h 56.2m     +5d 1'      Spiral Galaxy
+NGC 5474  Ursa Major      14h 5m        +53d 40'    Spiral Galaxy
+NGC 5746  Virgo           14h 44.9m     +1d 57'     Spiral Galaxy
+NGC 5907  Draco           15h 15.9m     +56d 19'    Spiral Galaxy
+NGC 6210  Hercules        16h 44.5m     +23d 49'    Planetary Nebula
+NGC 6231  Scorpius        16h 54m       -41d 48'    Open Cluster
+NGC 6302  Scorpius        17h 13.7m     -37d 6'     Planetary Nebula
+NGC 6369  Ophiuchus       17h 29.3m     -23d 46'    Planetary Nebula
+NGC 6440  Sagittarius     17h 48.9m     -20d 22'    Globular Cluster
+NGC 6445  Sagittarius     17h 49.2m     -20d 1'     Planetary Nebula
+NGC 6451  Scorpius        17h 50.7m     -30d 12'    Open Cluster
+NGC 6503  Draco           17h 49.4m     +70d 9'     Spiral Galaxy
+NGC 6520  Sagittarius     18h 3.4m      -27d 54'    Open Cluster
+NGC 6543  Draco           17h 58.6m     +66d 38'    Planetary Nebula
+NGC 6572  Ophiuchus       18h 12.1m     +6d 51'     Planetary Nebula
+NGC 6633  Ophiuchus       18h 27.7m     +6d 34'     Open Cluster
+NGC 6712  Scutim          18h 53.1m     -8d 42'     Globular Cluster
+NGC 6723  Sagittarius     18h 59.5m     -36d 38'    Globular Cluster
+NGC 6781  Aquila          19h 18.4m     +6d 33'     Planetary Nebula
+NGC 6802  Vulpecula       19h 30.6m     +20d 16'    Open Cluster
+NGC 6811  Cygnus          19h 38.2m     +46d 34'    Open Cluster
+NGC 6818  Sagittarius     19h 44m       -14d 9'     Planetary Nebula
+NGC 6822  Sagittarius     19h 44.9m     -14d 48'    Irregular Galaxy
+NGC 6826  Cygnus          19h 44.8m     +50d 31'    Planetary Nebula
+NGC 6834  Vulpecula       19h 52.2m     +29d 25'    Open Cluster
+NGC 6866  Cygnus          20h 3.7m      +44d 0'     Open Cluster
+NGC 6885  Vulpecula       20h 12m       +26d 29'    Open Cluster
+NGC 6888  Cygnus          20h 12m       +38d 21'    Diffuse Nebula
+NGC 6905  Delphinus       20h 22.4m     +20d 7'     Planetary Nebula
+NGC 6910  Cygnus          20h 23.1m     +40d 47'    Open Cluster
+NGC 6939  Cepheus         20h 31.4m     +60d 38'    Open Cluster
+NGC 6940  Vulpecula       20h 34.6m     +28d 18'    Open Cluster
+NGC 6946  Cepheus         20h 34.8m     +60d 9'     Spiral Galaxy
+NGC 6960  Cygnus          20h 45.7m     +30d 43'    SNR/Diffuse Nebula
+NGC 6992  Cygnus          20h 56.4m     +31d 43'    SNR/Diffuse Nebula
+NGC 7000  Cygnus          20h 58.8m     +44d 20'    Diffuse Nebula
+NGC 7008  Cygnus          21h 0.6m      +54d 33'    Planetary Nebula
+NGC 7009  Aquarius        21h 4.2m      -11d 22'    Planetary Nebula
+NGC 7067  Cygnus          21h 24.2m     +48d 1'     Open Cluster
+NGC 7082  Cygnus          21h 29.4m     +47d 5'     Open Cluster
+NGC 7086  Cygnus          21h 30.5m     +51d 35     Open Cluster
+NGC 7209  Lacerta         22h 5.2m      +46d 30'    Open Cluster
+NGC 7184  Aquarius        22h 2.6m      -29d 49'    Spiral Galaxy
+NGC 7217  Pegasus         22h 7.9m      +31d 22'    Spiral Galaxy
+NGC 7243  Lacerta         22h 15.3m     +49d 53'    September-October
+NGC 7293  Aquarius        22h 29.6m     -20d 48'    Planetary Nebula
+NGC 7296  Lacerta         22h 28.2m     +52d 17'    Open Cluster
+NGC 7331  Pegasus         22h 37.1m     +34d 25'    Spiral Galaxy
+NGC 7332  Pegasus         22h 37.4m     +23d 48'    Spiral Galaxy
+NGC 7380  Cepheus         22h 47m       +58d 6'     Open Cluster/Nebula
+NGC 7479  Pegasus         23h 4.9m      +12d 19'    Spiral Galaxy
+NGC 7510  Cepheus         23h 11.5m     +60d 34'    Open Cluster
+NGC 7538  Cepheus         22h 13.5m     +61d 31'    Diffuse Nebula
+NGC 7635  Cassiopeia      23h 20.7m     +61d 12'    Diffuse Nebula
+NGC 7662  Andromeda       23h 25.9m     +42d 33'    Planetary Nebula
+NGC 7789  Cassiopeia      23h 57m       +56d 44'    Open Cluster
+NGC 7793  Sculptor        23h 57.8m     -32d 35'    Spiral Galaxy
+PK205+14.1 Gemini          7h 29m       +13d 15'    Planetary Nebula
+

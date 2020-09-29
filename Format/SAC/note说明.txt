@@ -1,0 +1,15 @@
+SAC星表有交叉认证错误
+有notes的4287个，数据总体比没有的准确，然而还是有部分错误：
+
+ID	type	vmag	degree_error	ra dec	notes
+NGC5570	NF		2.405000155033356	14h14.3m	7°31"	H III 12
+NGC6847	PN	13.1	1.031796958761742	19h56.7m	30°13"	H II 202; From Historical NGC; maybe Sh2-97
+NGC1909	NF		29.185000053999975	5h4.5m	-7°16"	H V 38; Witchhead nebula; Rigel may be illuminator
+NGC7644	Dup	13.2	4.151141706759892	23h24.5m	13°59"	System w NGC 7651
+NGC6634	Star(s)		1.4847708993209794	18h31.4m	-32°21"	possibly same as M 69
+NGC5620	Dup	13.4	4.614554053521941	14h22.7m	69°36"	H III 319
+
+除了女巫头错误，json应该修正dec错误。
+正确修正：
+1.嵌入NI2019
+2.修正女巫头，仅限notes

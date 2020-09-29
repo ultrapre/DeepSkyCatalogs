@@ -1,0 +1,98 @@
+* a single star
+*10 a star of 10th magnitude
+*7-8 star of magnitude 7 or 8
+** double star (same as D*)
+*** triple star
+! remarkable
+!! very much so
+!!! a magnificent or otherwise interesting object
+ab about
+alm almost
+am among
+annul annular or ring nebula
+att attached
+b brighter
+bet between
+biN binuclear
+bn brightest to north side
+bs brightest to south side
+bp brightest to preceding (westward) side
+bf brightest to following (eastward) side
+B bright
+c considerably
+chev chevelure ("a head of hair")
+co coarse, coarsely
+com cometic (cometary form)
+comp companion
+conn connected
+cont in contact
+C compressed
+Cl cluster
+d diameter
+def defined
+dif diffused
+diffic difficult
+dist distance, or distant
+D double
+e extremely, excessively
+ee most extremely
+er easily resolvable
+exc eccentric
+E extended
+f following (eastward)
+F faint
+g gradually
+glob. globular
+gr group
+i irregular
+iF irregular figure
+inv involved, involving
+l little (adv.); long (adj.)
+L large
+m much
+m magnitude
+M middle, or in the middle
+n north
+neb nebula
+nebs nebulous
+neby nebulosity
+nf north following
+np north preceding
+ns north-south
+nr near
+N nucleus, or to a nucleus
+p preceding (westward)
+pf preceding-following
+p pretty (adv., before F. B. L, S)
+pg pretty gradually
+pm pretty much
+ps pretty suddenly
+plan planetary nebula (same as PN)
+prob probably
+P poor (sparse) in stars
+PN planetary nebula
+r resolvable (mottled, not resolved)
+rr partially resolved, some stars seen
+rrr well resolved, clearly consisting of stars
+R round
+RR exactly round
+Ri rich in stars
+s suddenly (abruptly)
+s south
+sf south following
+sp south preceding
+sc scattered
+sev several
+st stars (pl.)
+st 9... stars of 9th magnitude and fainter
+st 9..13 stars of magnitude 9 to 13
+stell stellar, point-like
+susp suspected
+S small in angular size
+S* small (faint) star
+trap trapezium
+triangle triangle, forms a triangle with
+triN trinuclear
+v very
+vv very  (greater emphasis)
+var variable
