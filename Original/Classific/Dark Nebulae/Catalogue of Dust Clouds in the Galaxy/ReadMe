@@ -1,0 +1,69 @@
+J/A+A/383/631       Catalogue of dust clouds in the Galaxy   (Dutra+, 2002)
+================================================================================
+A catalogue of dust clouds in the Galaxy
+     Dutra C.M., Bica E.
+    <Astron. Astrophys. 383, 631 (2002)>
+    =2002A&A...383..631D
+================================================================================
+ADC_Keywords: Interstellar medium ; Nebulae, dark; Reddening ; Morphology
+Keywords: ISM: clouds - Catalogs
+
+Description:
+    The file cdn.dat is an unified dust cloud catalogue of the Galaxy.
+    Considering an initial list of approximately 6500 entries we condensed
+    them into a cross-identified all-sky catalogue containing 5004 dust
+    clouds.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+cdn.dat       224     5004   A catalogue of dust clouds in the Galaxy
+--------------------------------------------------------------------------------
+
+See also:
+    VII/7 : Lynds' Catalogue of Dark Nebulae (LDN) (Lynds 1962)
+
+Byte-by-byte Description of file: cdn.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units   Label     Explanations
+--------------------------------------------------------------------------------
+   1-  6  F6.2  deg     GLON      Galactic longitude
+   8- 13  F6.2  deg     GLAT      Galactic latitude
+  15- 16  I2    h       RAh       Right ascension (J2000)
+      17  A1    ---     ---       [:]
+  18- 19  I2    min     RAm       Right ascension (J2000)
+      20  A1    ---     ---       [:]
+  21- 22  I2    s       RAs       Right ascension (J2000)
+      24  A1    ---     DE-       Declination sign
+  25- 26  I2    deg     DEd       Declination (J2000)
+      27  A1    ---     ---       [:]
+  28- 29  I2    arcmin  DEm       Declination (J2000)
+      30  A1    ---     ---       [:]
+  31- 32  I2    arcsec  DEs       Declination (J2000)
+  34- 39  F6.1  arcmin  MajAxis   Major axis
+  41- 46  F6.1  arcmin  MinAxis   Minor axis
+      48  I1    ---     OClass    [1/6]? Optical opacity class
+  50-125  A76   ---     Names     Designation(s)
+ 127-132  F6.2  mag     E(B-V)cen FIR central reddening
+ 134-138  F5.2  mag     E(B-V)bck FIR mean background reddening
+ 140-144  F5.2  mag     sigma     Fluctuation of the E(B-V)bck
+ 146-151  F6.2  mag     delta     Difference E(B-V)cen - E(B-V)bck
+ 153-157  F5.2  ---     rho       Ratio E(B-V)cen/E(B-V)bck
+ 159-263  A105  ---     Note      Distances, velocities and names, see note (1)
+--------------------------------------------------------------------------------
+Note (1): Notes:
+     (i) distances in kpc preceded by `d=';
+    (ii) CO or HI LSR velocities preceded by `vCO=' or`vHI=', respectively;
+    (iii) hierarchical relations among dark and/or bright nebulae (e.g. 
+          LBN for Lynds, 1965ApJS...12..163L and Sh2- for Sharpless, 
+          1959ApJS....4..257S), as indicated by {in} (within), 
+          {inc} (includes) or {rel} (related).
+    Note that dust cloud designations are not mixed to those of bright
+    clouds, since such possible relations are given only in this column
+--------------------------------------------------------------------------------
+
+Acknowledgements: Carlos Maximiliano Dutra <dutra@andromeda.iagusp.usp.br>
+================================================================================
+(End)                                          Patricia Bauer [CDS]  13-Dec-2001
